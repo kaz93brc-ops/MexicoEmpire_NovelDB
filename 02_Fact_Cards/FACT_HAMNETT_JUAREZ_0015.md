@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0015"
 type: "fact_card"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;preface"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -34,6 +34,9 @@ themes:
   - "political image-making"
   - "national sovereignty"
   - "republican virtue"
+related_capture: "CAP_HAMNETT_JUAREZ_0002"
+additional_related_captures:
+  - "CAP_HAMNETT_JUAREZ_0121"
 ---
 
 # Juárez自身も自己像の形成に意識的だった
@@ -70,3 +73,8 @@ Hamnettは、Juárez自身がイメージの力を意識し、服装を含めた
 - Organizations: [[Republic_of_Mexico|Republic of Mexico]]
 - Themes: political image-making, national sovereignty, republican virtue
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0002]]
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0121|Conclusion pp.236–237]] reiterates that Juárez was acutely conscious of political image and that the Juárez myth reached back into his lifetime.
+- Planned `FACT_HAMNETT_JUAREZ_2912` was not created because this card already holds the same claim.

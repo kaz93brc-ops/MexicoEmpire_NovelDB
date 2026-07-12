@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0074"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-13"
 tags: "timeline;hamnett;juarez;chapter1;first-centralist-experiment"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -38,6 +38,9 @@ themes:
 related_fact_cards: 
   - "FACT_HAMNETT_JUAREZ_0165"
   - "FACT_HAMNETT_JUAREZ_0166"
+  - "FACT_HAMNETT_JUAREZ_2922"
+additional_related_captures:
+  - "CAP_HAMNETT_JUAREZ_0121"
 ---
 
 # 1836–1846年、Mexicoでは第一中央集権実験が続いた
@@ -64,6 +67,11 @@ Mexicoでは第一中央集権実験が続いた。
 - Kindle location: 
 - Screenshot file: スクリーンショット 2026-06-13 17.22.58.jpeg
 
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0121|Conclusion pp.236–237]] reframes 1836–46 as the first of three Centralist experiments and as a neo-Bourbon state-reconstruction attempt based on an unstable social alliance.
+- Planned `TIME_HAMNETT_JUAREZ_1083` was not created because this timeline already records the first experiment.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -87,7 +95,7 @@ Second Empire以前の中央集権的制度実験として配置できる。
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0165]], [[FACT_HAMNETT_JUAREZ_0166]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0165]], [[FACT_HAMNETT_JUAREZ_0166]], [[FACT_HAMNETT_JUAREZ_2922]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.22.58.jpeg

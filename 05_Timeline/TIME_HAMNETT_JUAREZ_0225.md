@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0225"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-22"
-updated: "2026-06-22"
+updated: "2026-07-13"
 tags: "timeline;hamnett;juarez;chapter2"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -37,6 +37,9 @@ themes:
   - "Political_Learning_From_Provincial_Failure"
 related_fact_cards:
   - "FACT_HAMNETT_JUAREZ_0504"
+  - "FACT_HAMNETT_JUAREZ_2920"
+additional_related_captures:
+  - "CAP_HAMNETT_JUAREZ_0121"
 ---
 
 # JuárezがNew Orleansで亡命生活を送った。
@@ -58,6 +61,11 @@ JuárezがNew Orleansで亡命生活を送った。
 - Printed page: pp.44-45
 - Archive page: /page/44/mode/2up; Page 44 (59/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.24.24.jpeg
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0121|Conclusion pp.236–237]] uses the 1853–55 exile as a negative comparison: Hamnett argues that Juárez's Liberal formation did not suddenly begin in New Orleans but had longer Institute roots.
+- Planned `TIME_HAMNETT_JUAREZ_1082` was not created because this timeline already records the exile period.
 
 ## Evidence Notes
 
@@ -82,7 +90,7 @@ JuárezがNew Orleansで亡命生活を送った。
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0504]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0504]], [[FACT_HAMNETT_JUAREZ_2920]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.24.24.jpeg

@@ -1090,3 +1090,15 @@ Hamnett pp.234-235 completes the death-section continuation: Juárez's unfinishe
 - Related Events: [[Death_Of_Juarez_July_1872|Death of Juárez, July 1872]], [[Lerdo_Succession_1872|Lerdo succession, 1872]], [[Amnesty_Of_Porfirio_Diaz_1872|Amnesty of Porfirio Díaz, 1872]], [[La_Noria_Rebellion|La Noria rebellion]]
 - Related Themes: [[Juarez_Later_Presidency|Juárez later presidency]], [[Juarez_Family|Juárez family]], [[Juarez_Private_Life|Juárez private life]], [[Presidential_Succession|presidential succession]], [[Constitutional_Restructuring|constitutional restructuring]]
 - Cautions: Health-causation and unfinished-reform framing are Hamnett interpretation; death/succession/amnesty details remain note 20 and BJDOCS verification candidates.
+
+## Hamnett 1994 pp.236–237 Conclusion Opening Notes
+
+Hamnett opens the Conclusion by holding Juárez's tenacity and rigidity together with political pragmatism, then treats his constitutional image, nationalism, Oaxaca institutional formation, and resistance to Maximilian as parts of a broader state-formation argument.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0121]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2910]], [[FACT_HAMNETT_JUAREZ_2911]], [[FACT_HAMNETT_JUAREZ_2913]], [[FACT_HAMNETT_JUAREZ_2916]], [[FACT_HAMNETT_JUAREZ_2917]], [[FACT_HAMNETT_JUAREZ_2918]], [[FACT_HAMNETT_JUAREZ_2919]], [[FACT_HAMNETT_JUAREZ_2920]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1080]], [[TIME_HAMNETT_JUAREZ_1081]]
+- Related People: [[Maximilian]], [[Napoleon_III|Napoleon III]], [[Miguel_Hidalgo|Miguel Hidalgo]], [[Jose_Maria_Morelos|José María Morelos]], [[Vicente_Guerrero|Vicente Guerrero]]
+- Related Organization: [[Institute_Of_Sciences_And_Arts_Of_Oaxaca|Institute of Sciences and Arts of Oaxaca]]
+- Related Themes: [[Cult_of_Juarez]], [[Mexican_Nationalism]], [[Juarez_Zapotec_Identity_Limits]], [[Constitutional_Legitimacy]], [[State_Formation]]
+- Cautions: Keep Juárez's Zapotec origin separate from claims that he represented a specific Indigenous revindication movement or Oaxaca peasant culture.

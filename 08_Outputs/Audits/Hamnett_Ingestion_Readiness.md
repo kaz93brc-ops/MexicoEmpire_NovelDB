@@ -2,7 +2,7 @@
 id: HAMNETT-INGESTION-READINESS
 type: report
 status: active
-created: 2026-07-12
+created: 2026-07-13
 tags:
   - hamnett
   - ingestion
@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2763
-- hamnett_timeline_entries: 878
-- next_required_page: printed pages 236-237 / confirm whether Chapter 10 notes end after note 20 or continue, and whether Chapter 11 or another next section begins; local pp.146-147 gap remains unless handled elsewhere
+- hamnett_fact_cards: 2776
+- hamnett_timeline_entries: 882
+- next_required_page: printed pages 238-239 / resolve p.237 unfinished sentence on Centralist experiments, regional opposition, and middle/lower social groups; confirm Conclusion continuation; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -86,6 +86,7 @@ tags:
 - THE DÍAZ BROTHERS AND THE REBELLION OF LA NORIA: 15
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / NOTES AND REFERENCES: 14
 - "THE CONVOCATORIA OF AUGUST 1867 AND THE CONTROVERSY OVER CONSTITUTIONAL REFORM": 14
+- Conclusion: 13
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR continuation: 12
 - Chapter 1 / The Aims of Mexican Liberalism: 10
 - THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72): 10
@@ -192,6 +193,7 @@ tags:
 - THE VICTORY OF THE JUARISTAS conclusion: 4
 - "LIBERAL DIVISIONS IN PUEBLA": 4
 - CONSTITUTIONAL REFORM REVIVED: 4
+- Conclusion: 4
 - Chapter 1 / The Aims of Mexican Liberalism: 3
 - Chapter 3 / JUÁREZ AND LIBERALISM: 3
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ: 3

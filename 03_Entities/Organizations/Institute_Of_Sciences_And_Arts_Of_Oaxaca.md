@@ -35,5 +35,10 @@ aliases:
 - Organizations: [[Seminary_College_Of_Oaxaca|Seminary College of Oaxaca]], [[Oaxaca_Liberal_Party|Oaxaca Liberal Party]], [[Catholic_Church|Catholic Church]]
 - Events: [[Opening_Institute_Sciences_Arts_Oaxaca_1828|Opening of Institute of Sciences and Arts of Oaxaca]]
 - Themes: [[Secular_Education_And_Liberalism|Secular education and Liberalism]], [[Oaxaca_Provincial_Liberalism|Oaxaca provincial Liberalism]]
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0239]], [[FACT_HAMNETT_JUAREZ_0240]], [[FACT_HAMNETT_JUAREZ_0242]], [[FACT_HAMNETT_JUAREZ_0243]], [[FACT_HAMNETT_JUAREZ_0246]], [[FACT_HAMNETT_JUAREZ_0256]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0239]], [[FACT_HAMNETT_JUAREZ_0240]], [[FACT_HAMNETT_JUAREZ_0242]], [[FACT_HAMNETT_JUAREZ_0243]], [[FACT_HAMNETT_JUAREZ_0246]], [[FACT_HAMNETT_JUAREZ_0256]], [[FACT_HAMNETT_JUAREZ_2920]]
+- Conclusion Capture: [[CAP_HAMNETT_JUAREZ_0121]]
+- Conclusion Timeline: [[TIME_HAMNETT_JUAREZ_1080]]
 
+## Hamnett 1994 Conclusion Note
+
+Hamnett pp.236–237 interprets Juárez's 1827–57 association with the Institute as the long root of his Liberal formation, rejecting the idea that it suddenly began during the 1853–55 New Orleans exile.

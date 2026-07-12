@@ -35,9 +35,13 @@ Juárezを実際の政治家ではなく、国家的象徴・聖人・反教会�
 
 - People: [[Benito_Juarez]]
 - Themes: political_mythology, official_hagiography, anti_clerical_memory
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0014]], [[FACT_HAMNETT_JUAREZ_0015]]
-- Capture: [[CAP_HAMNETT_JUAREZ_0002]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0014]], [[FACT_HAMNETT_JUAREZ_0015]], [[FACT_HAMNETT_JUAREZ_2911]], [[FACT_HAMNETT_JUAREZ_2913]]
+- Captures: [[CAP_HAMNETT_JUAREZ_0002]], [[CAP_HAMNETT_JUAREZ_0121]]
 
 ## Open Questions
 
 - 公式顕彰と反Juárez側の悪魔化を同時に扱うこと。
+
+## Hamnett 1994 Conclusion Note
+
+pp.236–237 adds that Juárez was made into a national symbol, that his political image consciousness operated during his lifetime, and that later memory cast him as the embodiment of Constitution and Law.

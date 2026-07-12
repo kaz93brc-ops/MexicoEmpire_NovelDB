@@ -2,8 +2,8 @@
 id: "Index_Timeline"
 type: "index_note"
 status: "active"
-created: "2026-07-12"
-updated: "2026-07-12"
+created: "2026-07-13"
+updated: "2026-07-13"
 tags:
   - "index"
   - "timeline"
@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Timeline Entries: 1203
+- Timeline Entries: 1207
 - Entries with no backlinks: 1
 
 ## Entries
@@ -1208,6 +1208,10 @@ tags:
 - 1872-07-18: [[TIME_HAMNETT_JUAREZ_1075|Juarez dies at 11:30 p.m. on 18 July 1872]]
 - 1872-11-17: [[TIME_HAMNETT_JUAREZ_1076|Porfirio Diaz receives amnesty from President Lerdo]]
 - 1911-1912: [[TIME_HAMNETT_JUAREZ_1077|Benito Juarez Maza serves as governor of Oaxaca]]
+- 1827-1857: [[TIME_HAMNETT_JUAREZ_1080|1827–1857年、Juárezの自由主義形成はOaxaca州Instituteとの関係に根を持つ]]
+- 1846-1867: [[TIME_HAMNETT_JUAREZ_1081|1846–1867年、独立Mexico国家は存続と国民的自己定義を争った]]
+- 1853-1855: [[TIME_HAMNETT_JUAREZ_1084|1853–1855年、第二の中央集権実験]]
+- 1863-1867: [[TIME_HAMNETT_JUAREZ_1085|1863–1867年、第三の中央集権実験]]
 - : [[Timeline_Index|Timeline Index]]
 - after 1520: [[TIME_HAMNETT_JUAREZ_0089|after 1520、Spanish ConquestがOaxacaへ及んだ]]
 - after 1765: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]
