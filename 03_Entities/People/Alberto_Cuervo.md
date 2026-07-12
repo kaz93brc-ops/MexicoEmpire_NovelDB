@@ -1,0 +1,49 @@
+---
+id: "PERSON_ALBERTO_CUERVO"
+type: "person"
+status: "draft"
+created: "2026-06-14"
+updated: "2026-06-14"
+tags:
+  - "person"
+  - "hamnett"
+  - "source-provenance"
+source_id: "SRC_HAMNETT_1994_JUAREZ"
+chapter: ""
+page: "printed page xiv"
+kindle_location: ""
+screenshot_file: "スクリーンショット 2026-06-13 17.22.35.jpeg"
+canonical_name: "Alberto Cuervo"
+aliases: []
+birth_date: ""
+death_date: ""
+roles:
+  - "Research network contact"
+---
+
+# Alberto Cuervo
+
+## Overview
+
+HamnettがMexico Cityでの歓待に謝意を述べた故人。Source provenance / research network用の人物候補。
+
+## Hamnett 1994 Notes
+
+PREFACE末尾で、HamnettはMexico Cityでの研究滞在中に故Alberto Cuervoから受けた歓待に謝意を述べている。人物詳細はこのページでは示されない。
+
+- Source: [[SRC_HAMNETT_1994_JUAREZ]]
+- Capture: [[CAP_HAMNETT_JUAREZ_0003]]
+- Relevance: Source provenance / research network用。
+- Caution: 人物詳細は要確認。
+
+## Linked Items
+
+- People: [[Brian_R_Hamnett]]
+- Events:
+- Places: [[Mexico_City|Mexico City]]
+- Organizations:
+- Themes: source provenance, research network
+
+## Fact Cards
+
+- 

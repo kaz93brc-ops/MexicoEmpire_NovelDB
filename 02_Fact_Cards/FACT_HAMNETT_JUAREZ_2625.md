@@ -1,0 +1,78 @@
+---
+id: "FACT_HAMNETT_JUAREZ_2625"
+type: "fact_card"
+status: "draft"
+created: "2026-07-09"
+updated: "2026-07-09"
+tags: "fact-card;hamnett;juarez;chapter9"
+source_id: "SRC_HAMNETT_1994_JUAREZ"
+source_title: "Juárez"
+author: "Brian R. Hamnett"
+section: "Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / SOCIAL MOVEMENTS AND THE AGRARIAN QUESTION"
+printed_page: "p.216"
+archive_page: "/page/216/mode/2up; Page 216 (231/323)"
+page: "printed page 216"
+kindle_location: ""
+screenshot_file: "スクリーンショット 2026-06-13 17.30.32.jpeg"
+printed_page_status: "confirmed"
+title: "Peasant support complicated by Ortega politics and Zacatecas regionalism"
+statement: "CadenaとNegreteの農民支持はGonzález Ortega系政治およびZacatecas地域主義との関係により複雑化していたとHamnettは整理した。"
+evidence_category: "author_interpretation"
+confidence: "probable"
+verification_needed: "yes"
+claim: "CadenaとNegreteの農民支持はGonzález Ortega系政治およびZacatecas地域主義との関係により複雑化していたとHamnettは整理した。"
+source_note: "Hamnett complicates the two men's peasant support by linking it to Ortega politics and Zacatecas regionalism."
+japanese_note: "農民支持を単純な社会改革主義に固定しない。"
+creative_use: "農民運動の保護者が同時に派閥政治へ縛られる緊張に使える。"
+cautions: "地域主義・派閥政治・社会運動の関係は追加照合が必要。"
+related_capture: "CAP_HAMNETT_JUAREZ_0111"
+people: 
+  - "Trinidad_Garcia_de_la_Cadena"
+  - "Miguel_Negrete"
+  - "Jesus_Gonzalez_Ortega"
+events: []
+places: 
+  - "Zacatecas"
+organizations: []
+themes: 
+  - "Gonzalez_Ortega_Presidential_Claim"
+  - "Regionalism"
+  - "Popular_Politics_And_Elite_Liberalism"
+---
+
+# Peasant support complicated by Ortega politics and Zacatecas regionalism
+## Claim
+
+CadenaとNegreteの農民支持はGonzález Ortega系政治およびZacatecas地域主義との関係により複雑化していたとHamnettは整理した。
+
+## Evidence / Citation
+
+- Category: author_interpretation
+- Confidence: probable
+- Verification needed: yes
+- Source: [[SRC_HAMNETT_1994_JUAREZ]]
+- Source title: Juárez
+- Author: Brian R. Hamnett
+- Section: Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / SOCIAL MOVEMENTS AND THE AGRARIAN QUESTION
+- Printed page: p.216
+- Archive page: /page/216/mode/2up; Page 216 (231/323)
+- Page: printed page 216
+- Kindle location: 
+- Screenshot file: スクリーンショット 2026-06-13 17.30.32.jpeg
+
+## Notes
+
+- Source note: Hamnett complicates the two men's peasant support by linking it to Ortega politics and Zacatecas regionalism.
+- Japanese note: 農民支持を単純な社会改革主義に固定しない。
+- Cautions: 地域主義・派閥政治・社会運動の関係は追加照合が必要。
+- Creative use: 農民運動の保護者が同時に派閥政治へ縛られる緊張に使える。
+
+## Links
+
+- People: [[Trinidad_Garcia_de_la_Cadena]], [[Miguel_Negrete]], [[Jesus_Gonzalez_Ortega]]
+- Events: 
+- Places: [[Zacatecas]]
+- Organizations: 
+- Themes: [[Gonzalez_Ortega_Presidential_Claim]], [[Regionalism]], [[Popular_Politics_And_Elite_Liberalism]]
+- Related Fact Cards: 
+- Related Capture: [[CAP_HAMNETT_JUAREZ_0111]]

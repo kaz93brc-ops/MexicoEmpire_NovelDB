@@ -1,0 +1,65 @@
+# Python generated files
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Python environments and tooling
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Secrets and local configuration
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Codex / OpenAI local state
+.codex/
+.openai/
+.codex-log/
+
+# Obsidian
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/templates.json
+
+# Obsidian local/session files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.trash/
+
+# Attachments are kept outside Git unless explicitly approved
+09_Attachments/*
+!09_Attachments/README.md
+!09_Attachments/Screenshots/
+09_Attachments/Screenshots/*
+!09_Attachments/Screenshots/README.md
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*.bak
+~$*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/

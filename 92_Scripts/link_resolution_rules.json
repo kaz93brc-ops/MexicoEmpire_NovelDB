@@ -1,0 +1,175 @@
+{
+  "min_count": 15,
+  "exclude_terms": [
+    "author interpretation",
+    "primary testimony",
+    "historical fact",
+    "creative inference",
+    "variant disputed",
+    "rumor hearsay",
+    "logistics",
+    "correspondence",
+    "propaganda",
+    "surrender",
+    "action",
+    "access control",
+    "accountability",
+    "accusation"
+  ],
+  "explicit_mappings": {
+    "legitimacy": {
+      "target": "Legitimacy",
+      "kind": "theme"
+    },
+    "Ju\u00e1rez": {
+      "target": "Benito_Juarez",
+      "kind": "person"
+    },
+    "Juarez": {
+      "target": "Benito_Juarez",
+      "kind": "person"
+    },
+    "Maximilian's court": {
+      "target": "Mexican_Imperial_Court",
+      "kind": "organization"
+    },
+    "Maximilian\u2019s court": {
+      "target": "Mexican_Imperial_Court",
+      "kind": "organization"
+    },
+    "church-state conflict": {
+      "target": "Church_State_Relations_Mexico",
+      "kind": "theme"
+    },
+    "Mexican monarchists": {
+      "target": "Imperialistas",
+      "kind": "organization"
+    },
+    "Mexican army": {
+      "target": "Mexican_Army",
+      "kind": "organization"
+    },
+    "United States government": {
+      "target": "United_States_Government",
+      "kind": "organization"
+    },
+    "Mexican treasury": {
+      "target": "Mexican_Treasury",
+      "kind": "organization"
+    },
+    "Spanish_America": {
+      "target": "Spanish_America",
+      "kind": "place"
+    },
+    "The Times": {
+      "target": "The_Times",
+      "kind": "organization"
+    },
+    "Mexican deputation": {
+      "target": "Mexican_Deputation",
+      "kind": "organization"
+    },
+    "Corps l\u00e9gislatif": {
+      "target": "Corps_Legislatif",
+      "kind": "organization"
+    },
+    "Vatican": {
+      "target": "Vatican",
+      "kind": "organization"
+    },
+    "Papacy": {
+      "target": "Papacy",
+      "kind": "organization"
+    },
+    "March 14 attack": {
+      "target": "March_14_Attack",
+      "kind": "event"
+    },
+    "attempted breakout from Quer\u00e9taro": {
+      "target": "Attempted_Breakout_from_Queretaro",
+      "kind": "event"
+    },
+    "Forey's entry into Mexico City": {
+      "target": "Foreys_Entry_into_Mexico_City",
+      "kind": "event"
+    },
+    "republican victory": {
+      "target": "Republican_Victory",
+      "kind": "theme"
+    },
+    "staged legitimacy": {
+      "target": "Staged_Legitimacy",
+      "kind": "theme"
+    }
+  },
+  "place_terms": [
+    "Prussia",
+    "Morelia",
+    "Rio Grande",
+    "Trieste",
+    "San Luis Potosi",
+    "San Luis Potos\u00ed",
+    "Grand Hotel",
+    "Chapultepec",
+    "Italy",
+    "National Palace",
+    "Novara",
+    "Greece",
+    "Brownsville",
+    "Michoac\u00e1n",
+    "Sierra Gorda"
+  ],
+  "person_terms": [
+    "Richard Metternich",
+    "Agnes Salm-Salm",
+    "Francesco Meglia",
+    "Fran\u00e7ois Castelnau",
+    "Leopold I",
+    "Dubois de Saligny",
+    "Alphonse Dano"
+  ],
+  "organization_keywords": [
+    "army",
+    "force",
+    "forces",
+    "government",
+    "ministry",
+    "monarchy",
+    "legion",
+    "court",
+    "treasury",
+    "navy",
+    "corps",
+    "party",
+    "deputation",
+    "volunteers"
+  ],
+  "event_keywords": [
+    "attack",
+    "battle",
+    "breakout",
+    "collapse",
+    "crisis",
+    "declaration",
+    "entry",
+    "fall",
+    "mission",
+    "siege",
+    "treaty",
+    "victory",
+    "march"
+  ],
+  "theme_keywords": [
+    "dependence",
+    "legitimacy",
+    "finance",
+    "conflict",
+    "ceremony",
+    "survival",
+    "resistance",
+    "violence",
+    "identity",
+    "policy",
+    "reform"
+  ]
+}

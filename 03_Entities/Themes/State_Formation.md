@@ -1,0 +1,57 @@
+---
+id: THM-STATE_FORMATION
+type: theme
+status: draft
+created: 2026-06-20
+updated: 2026-06-20
+tags:
+  - theme
+source_id: ""
+chapter: ""
+page: ""
+kindle_location: ""
+screenshot_file: ""
+theme_kind: ""
+---
+
+# State formation
+
+## Definition
+
+Entry note for State formation. Keep historical evidence, interpretation, and creative use separate.
+
+## Linked Items
+
+- People:
+- Organizations:
+- Places:
+- Events:
+- Themes: [[Education_As_State_Formation|Education As State Formation]], [[Financial_Weakness|Financial Weakness]], [[Individual_Rights|Individual Rights]], [[La_Reforma|La Reforma]], [[Political_Ideas|Political Ideas]], [[Tax_Resistance_And_State_Capacity|Tax Resistance And State Capacity]], [[US_Mexico_Relations|US-Mexico Relations]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0003|HamnettはJuárezを国家的・地方的・州的文脈の交点に置く]], [[FACT_HAMNETT_JUAREZ_0005|HamnettはJuárezの経歴をメキシコ・ナショナリズム形成期と接続する]], [[FACT_HAMNETT_JUAREZ_0109|Juárez研究は独立後ラテンアメリカ国家形成の難題を示す]], [[FACT_HAMNETT_JUAREZ_0110|HamnettはJuárezを1858-1872年の非白人統治者として位置づける]], [[FACT_HAMNETT_JUAREZ_0112|Hamnettは19世紀メキシコ政治史を分裂・紛争・個人権力だけで説明しない]], [[FACT_HAMNETT_JUAREZ_0115|独立後国家の課題はcivil powerとlawの優位を再建することだった]], [[FACT_HAMNETT_JUAREZ_0185|政治理念はメキシコの現実問題を解決する手段として見られた]], [[FACT_HAMNETT_JUAREZ_0186|独立メキシコの政治課題は国家・地域・個人・教会・正統性をめぐるものだった]], [[FACT_HAMNETT_JUAREZ_0187|メキシコの政治課題はUnited Statesの重要性抜きに解けなかった]], [[FACT_HAMNETT_JUAREZ_0419|Hamnett interprets Juarez as using moral example and institutional reform]]
+- Timeline Entries: [[TIME_HAMNETT_JUAREZ_0001|1821年、メキシコがスペインから政治的独立を達成した]], [[TIME_HAMNETT_JUAREZ_0050|1858-1872年、Juárezがメキシコを統治したと位置づけられる]], [[TIME_HAMNETT_JUAREZ_0084|1855年8月以後、Liberal Reformへの道が開かれた]]
+- Source Notes:
+- Scenes:
+- Questions:
+
+## Source Notes
+
+-
+
+## Historical Role
+
+Evidence hub for **State formation**. Treat this section as an index into linked evidence, not as a final historical summary.
+
+- Key Fact Cards: [[FACT_HAMNETT_JUAREZ_0003|HamnettはJuárezを国家的・地方的・州的文脈の交点に置く]], [[FACT_HAMNETT_JUAREZ_0005|HamnettはJuárezの経歴をメキシコ・ナショナリズム形成期と接続する]], [[FACT_HAMNETT_JUAREZ_0109|Juárez研究は独立後ラテンアメリカ国家形成の難題を示す]], [[FACT_HAMNETT_JUAREZ_0110|HamnettはJuárezを1858-1872年の非白人統治者として位置づける]], [[FACT_HAMNETT_JUAREZ_0112|Hamnettは19世紀メキシコ政治史を分裂・紛争・個人権力だけで説明しない]], [[FACT_HAMNETT_JUAREZ_0115|独立後国家の課題はcivil powerとlawの優位を再建することだった]], [[FACT_HAMNETT_JUAREZ_0185|政治理念はメキシコの現実問題を解決する手段として見られた]], [[FACT_HAMNETT_JUAREZ_0186|独立メキシコの政治課題は国家・地域・個人・教会・正統性をめぐるものだった]], [[FACT_HAMNETT_JUAREZ_0187|メキシコの政治課題はUnited Statesの重要性抜きに解けなかった]], [[FACT_HAMNETT_JUAREZ_0419|Hamnett interprets Juarez as using moral example and institutional reform]]
+- Timeline Entries: [[TIME_HAMNETT_JUAREZ_0001|1821年、メキシコがスペインから政治的独立を達成した]], [[TIME_HAMNETT_JUAREZ_0050|1858-1872年、Juárezがメキシコを統治したと位置づけられる]], [[TIME_HAMNETT_JUAREZ_0084|1855年8月以後、Liberal Reformへの道が開かれた]]
+
+## Creative Use
+
+Use this note as a scene/research entry point after checking the linked Fact Cards.
+
+- Convert only verified claims into narrative beats.
+- Keep author interpretation and creative inference separate from historical fact.
+
+## Open Questions
+
+- Which linked claims are strong enough for scene design?
+- Which source passages still need page-level verification?

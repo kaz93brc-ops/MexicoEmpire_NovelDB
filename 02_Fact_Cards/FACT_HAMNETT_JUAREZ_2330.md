@@ -1,0 +1,71 @@
+---
+id: "FACT_HAMNETT_JUAREZ_2330"
+type: "fact_card"
+status: "draft"
+created: "2026-07-05"
+updated: "2026-07-05"
+tags: "fact-card;hamnett;juarez;chapter8"
+source_id: "SRC_HAMNETT_1994_JUAREZ"
+source_title: "Juárez"
+author: "Brian R. Hamnett"
+chapter: "Chapter 8, \"JUÁREZ AND THE EUROPEAN POWERS\""
+section: "THE EXECUTION OF MAXIMILIAN"
+printed_page: "p.193"
+archive_page: "/page/192/mode/2up; Page 192 (207/323)"
+page: "printed page 193"
+kindle_location: ""
+screenshot_file: "スクリーンショット 2026-06-13 17.30.08.jpeg"
+printed_page_status: "confirmed"
+printed_page_verification: "verified_from_screenshot"
+title: "Maximilian Miramon and Mejia executed at Cerro de las Campanas"
+statement: "1867年6月19日午前7時5分、Maximilian、Miramón、MejíaはQuerétaro西方のCerro de las Campanasで銃殺された。"
+evidence_category: "historical_fact"
+confidence: "probable"
+verification_needed: "yes"
+claim: "1867年6月19日午前7時5分、Maximilian、Miramón、MejíaはQuerétaro西方のCerro de las Campanasで銃殺された。"
+source_note: "Hamnett p.193 gives the execution time and place."
+japanese_note: "日時・場所を持つ中心年表事実だが、別資料で時刻と位置を照合する。"
+creative_use: "処刑場面の時刻、場所、三人の同時性を確定する軸になる。"
+cautions: "時刻、処刑隊、位置の詳細はShawcrossや一次資料で確認する。"
+related_capture: "CAP_HAMNETT_JUAREZ_0099"
+people: ["Maximilian", "Miguel_Miramon", "Tomas_Mejia"]
+events: ["Execution_Of_Maximilian_Miramon_And_Mejia"]
+places: ["Cerro_de_las_Campanas", "Queretaro"]
+organizations: ["Republican_Army"]
+themes: ["Death_Sentence_Against_Maximilian"]
+related_timeline_entries: ["TIME_HAMNETT_JUAREZ_0805"]
+---
+
+# Maximilian Miramon and Mejia executed at Cerro de las Campanas
+
+## Claim
+
+1867年6月19日午前7時5分、Maximilian、Miramón、MejíaはQuerétaro西方のCerro de las Campanasで銃殺された。
+
+## Evidence / Citation
+
+- Category: historical_fact
+- Confidence: probable
+- Verification needed: yes
+- Source: [[SRC_HAMNETT_1994_JUAREZ|SRC_HAMNETT_1994_JUAREZ]]
+- Printed page: p.193
+- Archive page: /page/192/mode/2up; Page 192 (207/323)
+- Screenshot file: スクリーンショット 2026-06-13 17.30.08.jpeg
+
+## Notes
+
+- Source note: Hamnett p.193 gives the execution time and place.
+- Japanese note: 日時・場所を持つ中心年表事実だが、別資料で時刻と位置を照合する。
+- Cautions: 時刻、処刑隊、位置の詳細はShawcrossや一次資料で確認する。
+- Creative use: 処刑場面の時刻、場所、三人の同時性を確定する軸になる。
+
+## Links
+
+- People: [[Maximilian]], [[Miguel_Miramon|Miguel Miramón]], [[Tomas_Mejia|Tomás Mejía]]
+- Events: [[Execution_Of_Maximilian_Miramon_And_Mejia|Execution of Maximilian, Miramón and Mejía]]
+- Places: [[Cerro_de_las_Campanas|Cerro de las Campanas]], [[Queretaro|Querétaro]]
+- Organizations: [[Republican_Army|Republican Army]]
+- Themes: [[Death_Sentence_Against_Maximilian|death sentence against Maximilian]]
+- Related Capture: [[CAP_HAMNETT_JUAREZ_0099]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0805]]
+

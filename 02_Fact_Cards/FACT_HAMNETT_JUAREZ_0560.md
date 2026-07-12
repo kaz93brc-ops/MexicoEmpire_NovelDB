@@ -1,0 +1,76 @@
+---
+id: "FACT_HAMNETT_JUAREZ_0560"
+type: "fact_card"
+status: "draft"
+created: "2026-06-23"
+updated: "2026-06-23"
+tags: "fact-card;hamnett;juarez;chapter3;historiography"
+source_id: "SRC_HAMNETT_1994_JUAREZ"
+source_title: "Juárez"
+author: "Brian R. Hamnett"
+section: "Chapter 3 / JUÁREZ AND LIBERALISM"
+printed_page: "pp.50-51"
+archive_page: "/page/50/mode/2up; Page 50 (65/323)"
+page: "printed page 50-51"
+kindle_location: ""
+screenshot_file: "スクリーンショット 2026-06-13 17.24.32.jpeg"
+printed_page_status: "confirmed"
+title: "Hamnett values earlier scholarship but warns against over-systematizing Mexican Liberalism"
+statement: "Hamnettは、これらの研究が重要な貢献をしたと評価しつつ、それぞれが過度に体系化することでメキシコ自由主義像を歪める面があると述べる。"
+evidence_category: "author_interpretation"
+confidence: "probable"
+verification_needed: "yes"
+claim: "Hamnettは、これらの研究が重要な貢献をしたと評価しつつ、それぞれが過度に体系化することでメキシコ自由主義像を歪める面があると述べる。"
+source_note: "Hamnett both uses and qualifies the prior scholarship."
+japanese_note: "先行研究を参照しつつ、体系化しすぎる危険を残す。"
+creative_use: "単一モデルで政治動機を説明しないための注意点になる。"
+cautions: "各研究の原文とHamnettの評価を照合する。"
+related_capture: "CAP_HAMNETT_JUAREZ_0028"
+people:
+  - "Laurens_Ballard_Perry"
+  - "Francois_Xavier_Guerra"
+  - "John_Tutino"
+  - "John_Hart"
+events: []
+places: []
+organizations: []
+themes:
+  - "Liberalism_Versus_Mexican_Realities"
+  - "Historiography_Of_Juarez"
+  - "Mexican_Liberalism"
+related_timeline_entries: []
+---
+
+# Hamnett values earlier scholarship but warns against over-systematizing Mexican Liberalism
+
+## Claim
+
+Hamnettは、これらの研究が重要な貢献をしたと評価しつつ、それぞれが過度に体系化することでメキシコ自由主義像を歪める面があると述べる。
+
+## Evidence / Citation
+
+- Category: author_interpretation
+- Confidence: probable
+- Verification needed: yes
+- Source: [[SRC_HAMNETT_1994_JUAREZ]]
+- Printed page: pp.50-51
+- Archive page: /page/50/mode/2up; Page 50 (65/323)
+- Screenshot file: スクリーンショット 2026-06-13 17.24.32.jpeg
+
+## Notes
+
+- Source note: Hamnett uses and qualifies prior scholarship.
+- Japanese note: 体系化しすぎる危険。
+- Cautions: 原文と評価を照合する。
+- Creative use: 単一モデル化を避ける。
+
+## Links
+
+- People: [[Laurens_Ballard_Perry]], [[Francois_Xavier_Guerra]], [[John_Tutino]], [[John_Hart]]
+- Events: none
+- Places: none
+- Organizations: none
+- Themes: [[Liberalism_Versus_Mexican_Realities]], [[Historiography_Of_Juarez]], [[Mexican_Liberalism]]
+- Related Capture: [[CAP_HAMNETT_JUAREZ_0028]]
+- Related Timeline Entries: none
+

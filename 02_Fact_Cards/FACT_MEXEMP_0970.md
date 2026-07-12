@@ -1,0 +1,87 @@
+---
+id: "FACT_MEXEMP_0970"
+type: "fact_card"
+status: "draft"
+created: "2026-06-03"
+updated: "2026-06-03"
+tags:
+  - "fact-card"
+  - "chapter2"
+  - "mexemp"
+  - "shawcross"
+source_id: "SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO"
+source_title: "The Last Emperor of Mexico: A Disaster in the New World"
+chapter: "Chapter 2 THE ARCHDUKE AND THE PRINCESS / 5 EMPEROR AND EMPRESS"
+page: "Kindle PC 141/400ページ"
+kindle_location: "No.1970/7062"
+screenshot_file: "スクリーンショット 2026-05-31 13.08.21.png"
+printed_page_status: "not_verified"
+title: "CarlotaはMaximilianのメキシコへの留保を共有していなかったとされる"
+statement: "Shawcrossは、ヨーロッパ時代には夫妻の結びつきは強かったが、CarlotaはMaximilianのメキシコへの留保を共有していなかったと整理している。"
+evidence_category: "author_interpretation"
+confidence: "probable"
+verification_needed: "yes"
+claim: "Shawcrossは、ヨーロッパ時代には夫妻の結びつきは強かったが、CarlotaはMaximilianのメキシコへの留保を共有していなかったと整理している。"
+source_note: "39枚目スクリーンショットの該当叙述に基づく整理。"
+japanese_note: "小説資料用に大意化したカード。原文長文は保存しない。"
+creative_use: "同じ帝国計画に向かいながら期待値がずれる夫婦として使える。"
+cautions: "夫妻の心理差は著者解釈として扱い、書簡原文で補強する。"
+people:
+  - "Carlota"
+  - "Maximilian"
+events:
+  - "Private life of Maximilian and Carlota in Mexico"
+places:
+  - "Europe"
+  - "Mexico"
+organizations:
+  - "House of Habsburg"
+  - "Mexican imperial court"
+themes:
+  - "imperial ambition"
+  - "marital politics"
+  - "psychological contrast"
+---
+
+# CarlotaはMaximilianのメキシコへの留保を共有していなかったとされる
+
+## Claim
+
+Shawcrossは、ヨーロッパ時代には夫妻の結びつきは強かったが、CarlotaはMaximilianのメキシコへの留保を共有していなかったと整理している。
+
+## Evidence Category
+
+- Category: author_interpretation
+- Confidence: probable
+- Verification needed: yes
+
+## Citation
+
+- Source: [[SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO]]
+- Source title: The Last Emperor of Mexico: A Disaster in the New World
+- Chapter: Chapter 2 THE ARCHDUKE AND THE PRINCESS / 5 EMPEROR AND EMPRESS
+- Page: Kindle PC 141/400ページ
+- Kindle location: No.1970/7062
+- Screenshot file: スクリーンショット 2026-05-31 13.08.21.png
+
+## Evidence Note
+
+39枚目スクリーンショットの該当叙述に基づく整理。 小説資料用に大意化したカード。原文長文は保存しない。
+
+## Cautions
+
+夫妻の心理差は著者解釈として扱い、書簡原文で補強する。
+
+## Creative Use
+
+同じ帝国計画に向かいながら期待値がずれる夫婦として使える。
+
+## Links
+
+- People: [[Carlota]], [[Maximilian]]
+- Events: [[Private_Life_Of_Maximilian_And_Carlota_In_Mexico|Private life of Maximilian and Carlota in Mexico]]
+- Places: [[Europe]], [[Mexico]]
+- Organizations: [[Habsburg|House of Habsburg]], [[Mexican_Imperial_Court|Mexican imperial court]]
+- Themes: imperial ambition, marital politics, psychological contrast
+- Related Fact Cards:
+- Related Questions:

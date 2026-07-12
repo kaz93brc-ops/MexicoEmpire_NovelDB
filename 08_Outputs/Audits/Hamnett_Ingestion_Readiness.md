@@ -1,0 +1,254 @@
+---
+id: HAMNETT-INGESTION-READINESS
+type: report
+status: active
+created: 2026-07-12
+tags:
+  - hamnett
+  - ingestion
+  - readiness
+---
+
+# Hamnett Ingestion Readiness
+
+## Summary
+
+- hamnett_fact_cards: 2763
+- hamnett_timeline_entries: 878
+- next_required_page: printed pages 236-237 / confirm whether Chapter 10 notes end after note 20 or continue, and whether Chapter 11 or another next section begins; local pp.146-147 gap remains unless handled elsewhere
+
+## Fact Cards By Section
+
+- THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72) continuation: 97
+- Chapter 3 / JUÁREZ AND LIBERALISM / THE REVOLUTION OF AYUTLA: 89
+- Chapter 3 / JUÁREZ AND LIBERALISM / DEEPENING DIVISIONS IN THE LIBERAL PARTY: 86
+- MEXICO AND THE AMERICAN CIVIL WAR (1861-65): 84
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE VERACRUZ REFORM LAWS: 79
+- JUÁREZ'S POLICY OF UNCOMPROMISING RESISTANCE: 76
+- THE COLLAPSE OF THE EMPIRE: 71
+- Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CRISIS IN THE ISTHMUS: 66
+- Chapter 6 / JUÁREZ AND CONGRESS continuation: 66
+- Chapter 1 / The Geo-Politics of Mexico: 65
+- Chapter 4 / THE BREAKDOWN OF THE CONSTITUTIONAL EXPERIMENT: 65
+- Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / STATE GOVERNOR OF OAXACA (1847-52): 64
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / EARLY LIBERALISM AND THE REVIVAL OF THE CHURCH: 64
+- THE ISSUE OF RECOGNITION: 58
+- Chapter 6 / THE IMPACT OF THE FRENCH INTERVENTION: 54
+- Chapter 4 / STATE-LEVEL POLITICS: 52
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / GOVERNOR JUÁREZ AND THE CHURCH: 52
+- Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ continuation: 51
+- THE DEBT QUESTION AND THE ALLIED INTERVENTION OF 1861-62: 51
+- Chapter 2, The Provincial Origins: Juárez and Oaxaca / Oaxaca: Culture and Society: 49
+- Chapter 6 / JUÁREZ IN CHIHUAHUA: 47
+- THE VICTORY OF THE JUARISTAS: 46
+- Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CENTRALIST REPUBLIC (1836-46): 44
+- THE ESTABLISHMENT OF THE MEXICAN EMPIRE: 43
+- Chapter 1 / The Politics of Fragmentation: 42
+- Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ: BROADENING HORIZONS: 42
+- Chapter 6 / THE STRUGGLE WITH VIDAURRI: 41
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE JUÁREZ LAW: 39
+- Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT? continuation: 38
+- "THE GROWTH OF OPPOSITION" continuation: 38
+- Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE RESTORATION OF FEDERALISM IN 1846: 37
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / NATIONALISM, SECULARISM AND PLURALISM: 36
+- Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ IN THE LIBERAL CONSTELLATION: 35
+- THE EXECUTION OF MAXIMILIAN: 33
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE ESCALATION OF CONFLICT AND THE CIVIL WAR OF THE REFORM: 32
+- Chapter 4 / THE CONSTITUTION OF 1857: 31
+- THE EXECUTION OF MAXIMILIAN continuation: 31
+- Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT?: 30
+- Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR: 28
+- "THE GROWTH OF OPPOSITION": 27
+- Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE LIBERAL EXPERIMENT OF 1833-34末尾 / THE CENTRALIST REPUBLIC (1836-46)開始: 26
+- Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE LIBERAL EXPERIMENT OF 1833-34: 25
+- MARSHAL BAZAINE AND THE FRENCH RESPONSE: 25
+- THE EXECUTION OF MAXIMILIAN conclusion: 25
+- "THE CIVIL WAR IN GUERRERO" continued: 25
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / DISAMORTIZATION: THE LERDO LAW: 24
+- Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / NAYARIT AND THE AGRARIAN MOVEMENT OF MANUEL LOZADA: 24
+- FÉLIX DÍAZ IN CONTROL OF OAXACA (1867-71): 24
+- PREFACE: 23
+- Chapter 3 / JUÁREZ AND LIBERALISM: 23
+- Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE INSTITUTE OF SCIENCE AND ARTS: 22
+- "LIBERAL DIVISIONS IN PUEBLA" continuation: 22
+- Chapter 1 / Mexican Constitutionalism: 21
+- "SOCIAL MOVEMENTS AND THE AGRARIAN QUESTION": 21
+- THE DEATH OF JUÁREZ - JULY 1872: 20
+- chapter opening / "THE LATER JUÁREZ": 19
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / GOVERNOR JUÁREZ AND THE BISHOP OF OAXACA: 18
+- THE VICTORY OF THE JUARISTAS conclusion: 18
+- CONSTITUTIONAL REFORM REVIVED: 18
+- Chapter 10 JUÁREZ, THE DÍAZ BROTHERS AND THE REBELLION OF LA NORIA / chapter opening: 16
+- Chapter 4 / JUÁREZ, THE CONSTITUTION OF 1857, AND THE COLLAPSE OF THE LIBERAL REGIME: 15
+- "THE LATER JUÁREZ" continuation: 15
+- "LIBERAL DIVISIONS IN PUEBLA": 15
+- Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / SOCIAL MOVEMENTS AND THE AGRARIAN QUESTION: 15
+- THE DÍAZ BROTHERS AND THE REBELLION OF LA NORIA: 15
+- Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / NOTES AND REFERENCES: 14
+- "THE CONVOCATORIA OF AUGUST 1867 AND THE CONTROVERSY OVER CONSTITUTIONAL REFORM": 14
+- Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR continuation: 12
+- Chapter 1 / The Aims of Mexican Liberalism: 10
+- THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72): 10
+- Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ: 8
+- Chapter 6 / JUÁREZ AND CONGRESS closing: 8
+- MARSHAL BAZAINE AND THE FRENCH RESPONSE continuation: 8
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / NOTES AND REFERENCES: 7
+- Chapter 6 / JUÁREZ AND THE STATE GOVERNORS: 6
+- Chapter 1: 5
+- Chapter 6 / JUÁREZ AND CONGRESS: 5
+- Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT? conclusion: 5
+- TERRITORIAL CESSION AND TRANSIT RIGHTS continuation: 5
+- MEXICO AND THE AMERICAN CIVIL WAR (1861-65) continuation: 5
+- Chapter 2 notes / Chapter 3 opening: 4
+- Chapter 7 opening: 4
+- TERRITORIAL CESSION AND TRANSIT RIGHTS: 4
+- Chapter opening: 4
+- "THE GROWTH OF OPPOSITION" begins: 4
+- Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism: 3
+- "LIBERAL DIVISIONS IN PUEBLA" opening: 3
+- Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / NOTES AND REFERENCES: 3
+- Chapter 4 / NOTES AND REFERENCES: 2
+- NOTES AND REFERENCES: 2
+- La Noria repression continuation: 2
+- THE DEATH OF JUÁREZ - JULY 1872 begins: 2
+- Chapter 1 "Nineteenth-Century Mexico: The World of Juárez": 1
+- Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism; The Politics of Fragmentation: 1
+- Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ: IN THE LIBERAL CONSTELLATION: 1
+- Chapter 3 / JUÁREZ AND LIBERALISM / DEEPENING DIVISIONS IN THE LIBERAL PARTY; Chapter 4 / THE BREAKDOWN OF THE CONSTITUTIONAL EXPERIMENT: 1
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / GOVERNOR JUÁREZ AND THE CHURCH transition: 1
+- Chapter 6 / THE STRUGGLE WITH VIDAURRI; THE IMPACT OF THE FRENCH INTERVENTION: 1
+- Chapter 6 / NOTES AND REFERENCES: 1
+- Chapter 6 / NOTES AND REFERENCES conclusion: 1
+- THE COLLAPSE OF THE EMPIRE; THE EXECUTION OF MAXIMILIAN: 1
+- "THE CIVIL WAR IN GUERRERO" opening: 1
+- "THE CIVIL WAR IN GUERRERO" conclusion: 1
+
+## Timeline By Section
+
+- Chapter 1 / The Geo-Politics of Mexico: 38
+- THE COLLAPSE OF THE EMPIRE: 33
+- Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / STATE GOVERNOR OF OAXACA (1847-52): 29
+- Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CRISIS IN THE ISTHMUS: 27
+- Chapter 3 / JUÁREZ AND LIBERALISM / THE REVOLUTION OF AYUTLA: 25
+- Chapter 3 / JUÁREZ AND LIBERALISM / DEEPENING DIVISIONS IN THE LIBERAL PARTY: 25
+- Chapter 1 / The Politics of Fragmentation: 23
+- THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72) continuation: 23
+- Chapter 2, The Provincial Origins: Juárez and Oaxaca / Oaxaca: Culture and Society: 22
+- Chapter 4 / STATE-LEVEL POLITICS: 21
+- Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CENTRALIST REPUBLIC (1836-46): 20
+- Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ: BROADENING HORIZONS: 20
+- Chapter 6 / JUÁREZ AND CONGRESS continuation: 20
+- Chapter 6 / JUÁREZ IN CHIHUAHUA: 20
+- MEXICO AND THE AMERICAN CIVIL WAR (1861-65): 20
+- THE ESTABLISHMENT OF THE MEXICAN EMPIRE: 19
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE VERACRUZ REFORM LAWS: 17
+- Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ continuation: 16
+- THE DEBT QUESTION AND THE ALLIED INTERVENTION OF 1861-62: 16
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / EARLY LIBERALISM AND THE REVIVAL OF THE CHURCH: 15
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / GOVERNOR JUÁREZ AND THE CHURCH: 15
+- JUÁREZ'S POLICY OF UNCOMPROMISING RESISTANCE: 15
+- Chapter 4 / THE BREAKDOWN OF THE CONSTITUTIONAL EXPERIMENT: 14
+- Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT? continuation: 13
+- THE VICTORY OF THE JUARISTAS: 13
+- "THE GROWTH OF OPPOSITION": 13
+- Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE LIBERAL EXPERIMENT OF 1833-34末尾 / THE CENTRALIST REPUBLIC (1836-46)開始: 12
+- Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / NOTES AND REFERENCES: 12
+- THE ISSUE OF RECOGNITION: 12
+- THE EXECUTION OF MAXIMILIAN: 12
+- "THE GROWTH OF OPPOSITION" continuation: 12
+- Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE INSTITUTE OF SCIENCE AND ARTS: 11
+- Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE LIBERAL EXPERIMENT OF 1833-34: 11
+- Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ IN THE LIBERAL CONSTELLATION: 11
+- Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / NAYARIT AND THE AGRARIAN MOVEMENT OF MANUEL LOZADA: 11
+- Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE RESTORATION OF FEDERALISM IN 1846: 10
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE JUÁREZ LAW: 10
+- Chapter 6 / THE STRUGGLE WITH VIDAURRI: 10
+- "SOCIAL MOVEMENTS AND THE AGRARIAN QUESTION": 9
+- Chapter 10 JUÁREZ, THE DÍAZ BROTHERS AND THE REBELLION OF LA NORIA / chapter opening: 9
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / DISAMORTIZATION: THE LERDO LAW: 8
+- Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR: 8
+- Chapter 6 / THE IMPACT OF THE FRENCH INTERVENTION: 8
+- Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT?: 8
+- MARSHAL BAZAINE AND THE FRENCH RESPONSE: 8
+- Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / SOCIAL MOVEMENTS AND THE AGRARIAN QUESTION: 8
+- FÉLIX DÍAZ IN CONTROL OF OAXACA (1867-71): 8
+- THE DEATH OF JUÁREZ - JULY 1872: 8
+- Chapter 1 / Mexican Constitutionalism: 7
+- "LIBERAL DIVISIONS IN PUEBLA" continuation: 7
+- PREFACE: 6
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / GOVERNOR JUÁREZ AND THE BISHOP OF OAXACA: 6
+- Chapter 6 / THE STRUGGLE WITH VIDAURRI; THE IMPACT OF THE FRENCH INTERVENTION: 6
+- THE EXECUTION OF MAXIMILIAN conclusion: 6
+- "THE LATER JUÁREZ" continuation: 6
+- "THE CIVIL WAR IN GUERRERO" continued: 6
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE ESCALATION OF CONFLICT AND THE CIVIL WAR OF THE REFORM: 5
+- Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / NATIONALISM, SECULARISM AND PLURALISM: 5
+- THE EXECUTION OF MAXIMILIAN continuation: 5
+- chapter opening / "THE LATER JUÁREZ": 5
+- THE DÍAZ BROTHERS AND THE REBELLION OF LA NORIA: 5
+- Chapter 2 notes / Chapter 3 opening: 4
+- Chapter 4 / THE CONSTITUTION OF 1857: 4
+- TERRITORIAL CESSION AND TRANSIT RIGHTS continuation: 4
+- THE VICTORY OF THE JUARISTAS conclusion: 4
+- "LIBERAL DIVISIONS IN PUEBLA": 4
+- CONSTITUTIONAL REFORM REVIVED: 4
+- Chapter 1 / The Aims of Mexican Liberalism: 3
+- Chapter 3 / JUÁREZ AND LIBERALISM: 3
+- Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ: 3
+- Chapter 6 / JUÁREZ AND CONGRESS closing: 3
+- THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72): 3
+- Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR continuation: 2
+- MEXICO AND THE AMERICAN CIVIL WAR (1861-65) continuation: 2
+- Chapter opening: 2
+- MARSHAL BAZAINE AND THE FRENCH RESPONSE continuation: 2
+- Chapter 1: 1
+- Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism: 1
+- Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / beginning of THE LIBERAL EXPERIMENT OF 1833-34: 1
+- Chapter 4 / JUÁREZ, THE CONSTITUTION OF 1857, AND THE COLLAPSE OF THE LIBERAL REGIME: 1
+- "THE CONVOCATORIA OF AUGUST 1867 AND THE CONTROVERSY OVER CONSTITUTIONAL REFORM": 1
+- "THE CIVIL WAR IN GUERRERO" conclusion: 1
+- La Noria repression continuation: 1
+- THE DEATH OF JUÁREZ - JULY 1872 begins: 1
+
+## Next Checks From Progress Master
+
+- printed pages 234-235で、p.233末尾の未完文、Juárez死去節の具体内容、Juárez死去日・経過、Chapter 10注17-19本文、President of Congress氏名、Lafraguaの正確な姓名を確認する。
+- Notes 45-48は[[CAP_HAMNETT_JUAREZ_0101]]でlocator候補化済み。Juárez/Lerdo body inspection、body comment、robed/photography、Garibaldi/Hugo appeals、Baz statement、Juárez Manifesto、European diplomatic relationsへの正確な対応を個別確認する。
+- p.195下部に見える注1-2は章冒頭側の注であり、pp.194-195本文注45-48ではないことを維持する。
+- p.193-p.194のMaximilian遺体移送接続は `robed`/arranged body handling として修正済み。body theft/robberyのFactは作成しない。
+- Archivo Juárez MSJの正式展開、Supl-131 / S-191 / S-193 / 15-2279 などの番号体系、note 47とJuárez Manifestoの関係を確認する。
+- Riva Palacio / Martínez de la Torre 1867 Memorandumの正式書誌、所蔵、Hamnettがclose study対象とする理由を確認する。
+- La Victoria各号の日付は新聞号日付として扱い、本文出来事と対応確認できるまでTimeline化しない。
+- Notes 37-44はsource-map化済み。death sentence date、Escobedo confirmation timing、1867-06-18 telegram、Juárez response to counsel、Ortega/Vázquez report、Tegetthoff arrival、Magnus/Prussian minister関係との正確な対応を確認する。
+- Notes 21-36はsource-map化済み。Jesús Carranza、忠誠リスト、Guerrero state of siege、Bazaine/French army、collapse of Empire、Querétaro/Puebla/capture関係への正確な対応を必要に応じて確認する。
+- Notes 3-20はsource-map化済み。debt, Montluc, La Victoria, Sánchez Navarro, APBJPS, Archivo Juárez MSJなどの書誌・本文対応は必要時に戻って確認する。
+- Colonel Dupin、Desiderio Pavón、Huastecaのゲリラ活動、counter-guerrilla部隊の性格・制服・暴力範囲を確認する。
+- Guerrero州内権力闘争はChapter 9で扱われるため、Álvarez派・Jiménez派clientele構造を後続章で追跡する。
+- Chapter 8注18本文を確認し、"tabernacle of the Republic" がHamnett比喩か同時代文書由来か特定する。
+- Chapter 8注19本文を確認し、Altamiranoの1863/1847比較と外国軍・Mexican Conservatives論点の出典を特定する。
+- Chapter 8注20本文を確認し、Escobedo/Riva Palacio捕虜処遇、Bazaine-Díaz私的了解、Mexicanizing the warの出典を特定する。
+- 1865-08-14 Paso del Norte政府移転、Juárezのフランス軍連絡線判断、Maximilianの政治的孤立観察の原典を確認する。
+- Vidaurri、González Ortega、Doblado、López Uraga、Ruiz、Dublánの離反時期・事情を確認し、Ruizのフルネームを断定せず照合する。
+- Chapter 8注15本文を確認し、San Luis Potosí布告、1865年3月ChihuahuaでのJuárez説明、Escobedo宛書簡の出典を特定する。
+- Chapter 8注16本文を確認し、Sánchez Navarro family、Carlos Sánchez Navarro、州知事布告、Luis Terrazas対比の出典を特定する。
+- Chapter 8注17本文を確認し、Juárezの穏健自由主義者批判、Bazaine戦略、MaximilianのJuárez取り込み構想の出典を特定する。
+- Chapter 8注12-14は未確認残件として、papal nuncio、Pius IX私信、Church側要求、bienes nacionales布告、Castelar、La Victoriaの出典を後続注ページで確認する。
+- 1861-12-11 extraordinary faculties、1861-12-17布告、1862-01-25法、1862-10-20布告、1863-08-16 San Luis Potosí布告の原文・法的範囲を確認する。
+- Chapter 8注9本文を確認し、Fontainebleau Secret Instructions、Assembly of Notables、Juárez 1861年選挙任期叙述、Church側期待の出典を特定する。
+- Chapter 8注10本文を確認し、Napoleon IIIの1863年10月2日Maximilian宛助言、Treaty of Miramarの軍数・費用・債務条項、"liberal dictatorship" がHamnett要約である点を照合する。
+- Chapter 8注11本文を確認し、Bazaineの不満、Maximilian第一内閣、Teodosio LaresとCouncil of State、1864-06から1866-12の時期評価の出典を特定する。
+- Chapter 8注7-8本文は未確認残件として、Oaxaca Liberal press、Maximilian 1866年8月Tehuantepec構想、Juárezの皮肉なコメント、Forey主権移譲の法的性格を後続注ページで確認する。
+- Chapter 8注3-6本文は未確認残件として、p.168-169の債務支払停止、英国/Spain/France動機差、Jecker bonds、Prim、O'Donnell、Juárez Manifesto、Napoleon III構想、Montluc警告の原典を後続注ページで確認する。
+- Chapter 8注1本文を確認し、Juárezの対欧州観、1859年5月発言、1866年8月発言の原典を特定する。
+- Chapter 8注2本文を確認し、外債額、Veracruz税関収入77%、Ocampo警告、Lerdo案の出典を特定する。
+- "Lerdo" が Miguel Lerdo de Tejada でよいか確認する。
+- 1852、1856、1862の債務額がHamnettのどの出典に基づくか確認する。
+- 注31-33はpp.164-165で注本文を確認済みだが、p.162-163本文論点との正確な対応を確認する。
+- p.162本文の "Iglesias" はJosé María Iglesiasと断定しない。注32がFernando Iglesias Calderón著作を指すため、人物同定を保留する。
+- 注18のJuárez-Lincoln往復書簡未発見について、HAHR論文著者名の完全表記と論文情報、特にGordon L.のフルネームを確認する。
+- 注26-30はpp.164-165で注本文を確認済みだが、帝政派公式新聞、New York Herald 1866-12-16、Juárez 1868年3月書簡、Zarco 1866年9月書簡、Seward方針、武器購入許可との本文対応は引き続き確認する。
+- Fernando Iglesias Calderón 1905年著述、Hilarión Frías y Soto 1907年著述、Romero/Doblado 1864年10月領土割譲疑惑、Baja California/Sonora支配状況を確認する。
+- "Ten days later" の基準日、Wyke-Zamacona Treatyの正式名称・条項・議会否認日を確認する。
+- Thomas Corwinの正式役職、Corwin loan proposal文書、上院手続、抵当対象の具体的法的性格を確認する。
+- Confederate diplomacyの具体的相手先、特に北部州知事との関係を確認する。
+- Hamnett解釈とRomero報告由来情報の分類を注15確認後に再検討する。
