@@ -225,8 +225,11 @@ python .\MexicoEmpire_NovelDB\92_Scripts\vault_maintenance.py --phase all
 - Hamnett取込では`hamnett/capture-NNNN-description`形式を基本とする。
 - 無関係なファイルを変更しない。
 - 作業後に差分、変更ファイル、ID、リンク、YAML、監査結果を確認する。
-- 変更をcommitし、作業ブランチをpushする。
-- GitHub上にDraft Pull Requestを作成する。
+- 通常の史料取込で、変更50件以下、削除・改名なし、ID・YAML・リンク・引用・秘密情報・競合・検証に問題がなく、保護対象文書を変更していない場合は、変更をcommitして作業ブランチをpushし、DraftではないPull Requestを作成する。
+- 通常取込のPull Requestには`gh pr merge --auto --squash --delete-branch`でauto-mergeを設定し、必須check `safety`成功後にGitHubへsquash mergeさせる。
+- 地図、Index、判読・出典・IDに要確認がある作業、既存ファイルの移動・改名・削除、テンプレート・スクリプト・`.github/`・`AGENTS.md`・`.gitignore`の変更、50件超の変更、検証失敗、競合、安全判断に確信がない作業、またはユーザーがレビューを求めた作業はDraft Pull Requestで停止し、auto-mergeを設定しない。
 - Pull Request本文に変更ファイル、使用ID、検証結果、要確認事項を記載する。
-- ユーザーの明示指示なしにPull Requestをmergeしない。
+- auto-merge後はPull Requestが`MERGED`であること、remote branch削除、`main`のff-only最新化、working tree cleanを確認する。
+- auto-mergeが失敗または保留になった場合は、Pull RequestをopenまたはDraftのまま残し、mainへmergeせず理由を報告する。
 - force push、履歴改変、既存IDの再利用を行わない。
+- 詳細な判定条件とコマンドは`93_Docs/GitHub_Workflow.md`に従う。
