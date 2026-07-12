@@ -2,8 +2,8 @@
 id: "Index_Entities"
 type: "index_note"
 status: "active"
-created: "2026-07-12"
-updated: "2026-07-12"
+created: "2026-07-13"
+updated: "2026-07-13"
 tags:
   - "index"
   - "entities"
@@ -21,18 +21,18 @@ tags:
 
 ## High-Link Entity Notes
 
-- [[Benito_Juarez|Benito Juarez]] - backlinks: 3199
-- [[Mexico]] - backlinks: 2024
-- [[Maximilian]] - backlinks: 1973
+- [[Benito_Juarez|Benito Juarez]] - backlinks: 3215
+- [[Mexico]] - backlinks: 2028
+- [[Maximilian]] - backlinks: 1978
 - [[Juarez_Government|Juárez Government]] - backlinks: 1205
-- [[Oaxaca]] - backlinks: 954
+- [[Oaxaca]] - backlinks: 958
 - [[Liberal_Factionalism|Liberal Factionalism]] - backlinks: 768
 - [[Mexico_City|Mexico City]] - backlinks: 746
 - [[Mexican_Empire|Mexican Empire]] - backlinks: 704
-- [[French_Intervention_in_Mexico|French Intervention in Mexico]] - backlinks: 680
-- [[Catholic_Church|Catholic Church]] - backlinks: 634
+- [[French_Intervention_in_Mexico|French Intervention in Mexico]] - backlinks: 688
+- [[Catholic_Church|Catholic Church]] - backlinks: 637
+- [[Napoleon_III|Napoleon III]] - backlinks: 574
 - [[Carlota]] - backlinks: 572
-- [[Napoleon_III|Napoleon III]] - backlinks: 569
 - [[Queretaro]] - backlinks: 506
 - [[French_Army|French Army]] - backlinks: 502
 - [[United_States|United States]] - backlinks: 459
@@ -41,7 +41,7 @@ tags:
 - [[Federal_State_Tension|Federal State Tension]] - backlinks: 411
 - [[Liberal_Party_Mexico|Liberal Party Mexico]] - backlinks: 408
 - [[France]] - backlinks: 405
-- [[Reform_War|Reform War]] - backlinks: 381
+- [[Reform_War|Reform War]] - backlinks: 383
 - [[Ignacio_Comonfort|Ignacio Comonfort]] - backlinks: 375
 - [[Porfirio_Diaz|Porfirio Díaz]] - backlinks: 374
 - [[Veracruz]] - backlinks: 362
@@ -49,10 +49,10 @@ tags:
 - [[Federal_Government|federal government]] - backlinks: 323
 - [[French_Empire|French Empire]] - backlinks: 319
 - [[Bazaine|Achille Bazaine]] - backlinks: 302
+- [[Constitutional_Legitimacy|constitutional legitimacy]] - backlinks: 298
 - [[US_Mexico_Relations|US-Mexico Relations]] - backlinks: 298
 - [[Puebla]] - backlinks: 297
-- [[Constitutional_Legitimacy|constitutional legitimacy]] - backlinks: 295
-- [[Second_Mexican_Empire|Second Mexican Empire]] - backlinks: 275
+- [[Second_Mexican_Empire|Second Mexican Empire]] - backlinks: 283
 - [[Miguel_Miramon|Miguel Miramón]] - backlinks: 266
 - [[La_Noria_Rebellion|La Noria rebellion]] - backlinks: 255
 - [[State_Governments|state governments]] - backlinks: 254
@@ -63,21 +63,21 @@ tags:
 - [[Santiago_Vidaurri|Santiago Vidaurri]] - backlinks: 239
 - [[Caciquismo_And_Regional_Power|Caciquismo and regional power]] - backlinks: 234
 - [[Imperial_Army|Imperial Army]] - backlinks: 229
-- [[United_States_Government|United States government]] - backlinks: 228
+- [[United_States_Government|United States government]] - backlinks: 227
 - [[Mariano_Escobedo|Mariano Escobedo]] - backlinks: 224
 - [[Republic_of_Mexico|Republic of Mexico]] - backlinks: 221
 - [[Oaxaca_Politics|Oaxaca politics]] - backlinks: 217
 - [[Conservative_Party|Conservative Party]] - backlinks: 216
-- [[Antonio_Lopez_de_Santa_Anna|Antonio López de Santa Anna]] - backlinks: 210
-- [[Sebastian_Lerdo_De_Tejada|Sebastián Lerdo de Tejada]] - backlinks: 199
+- [[Antonio_Lopez_de_Santa_Anna|Antonio López de Santa Anna]] - backlinks: 211
+- [[Sebastian_Lerdo_De_Tejada|Sebastián Lerdo de Tejada]] - backlinks: 198
 - [[Mexican_Conservatives|Mexican Conservatives]] - backlinks: 196
 - [[Chihuahua]] - backlinks: 194
 - [[Jesus_Gonzalez_Ortega|Jesús González Ortega]] - backlinks: 188
 - [[Mexican_Liberalism|Mexican Liberalism]] - backlinks: 187
 - [[Siege_of_Queretaro|Siege of Querétaro]] - backlinks: 186
 - [[Juaristas]] - backlinks: 184
+- [[Isthmus_Of_Tehuantepec|Isthmus of Tehuantepec]] - backlinks: 174
 - [[French_Withdrawal|French Withdrawal]] - backlinks: 172
-- [[Isthmus_Of_Tehuantepec|Isthmus of Tehuantepec]] - backlinks: 172
 - [[Tomas_Mejia|Tomás Mejía]] - backlinks: 168
 - [[American_Civil_War|American Civil War]] - backlinks: 162
 - [[Paris]] - backlinks: 160

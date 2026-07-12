@@ -271,3 +271,14 @@ Hamnett p.214 treats Maximilian's 1866-06-26 decree and the Junta for the Protec
 - Related Event: [[Lerdo_Law_1856_06_25|Lerdo Law 1856-06-25]]
 - Related Themes: [[Agrarian_Question|agrarian question]], [[Maximilians_Indigenous_Policy|Maximilian's Indigenous policy]], [[Indigenous_Communal_Land|Indigenous communal land]]
 - Cautions: Keep Hamnett's Lerdo Law departure assessment separate from the decree text until note 17 is checked.
+
+## Hamnett 1994 pp.236–237 Conclusion Framing
+
+Hamnett places Juárez's resistance to Maximilian within national-sovereignty defence and the independence-era nationalist tradition, while treating 1863–67 as the third of three Centralist, neo-Bourbon state-reconstruction experiments.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0121]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2917]], [[FACT_HAMNETT_JUAREZ_2922]], [[FACT_HAMNETT_JUAREZ_2923]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_1085]]
+- Related People: [[Benito_Juarez|Benito Juárez]], [[Napoleon_III|Napoleon III]]
+- Related Events: [[French_Intervention_in_Mexico|French Intervention]], [[Second_Mexican_Empire]]
+- Cautions: Do not reduce Maximilian to a fool, invader, or tragic figure; compare his project with Juárez's sovereignty claim and the domestic alliance supporting state reconstruction.

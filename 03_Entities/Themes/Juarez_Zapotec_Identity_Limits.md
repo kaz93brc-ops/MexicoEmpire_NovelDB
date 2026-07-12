@@ -47,3 +47,11 @@ p.44-45では、JuárezがHispanic city of Oaxacaの世界観を身につけ、�
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0507]], [[FACT_HAMNETT_JUAREZ_0517]], [[FACT_HAMNETT_JUAREZ_0518]], [[FACT_HAMNETT_JUAREZ_0519]]
 - Related Themes: [[Liberalism_Through_Hispanic_Urban_Worldview]], [[Indigenous_Community_Autonomy]]
 - Cautions: Juárezを単純な先住民代表として描かない。
+
+## Hamnett 1994 pp.236–237 Conclusion Note
+
+Hamnett explicitly distinguishes Juárez's Zapotec origin from representation of a specific Indigenous revindication movement or Oaxaca peasant culture and places his political self-identification in mid-century republican Liberalism.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0121]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_2916]]
+- Cautions: `Indian revindication` remains a translation and concept-verification question.

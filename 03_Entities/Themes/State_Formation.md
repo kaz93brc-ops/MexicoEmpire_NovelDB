@@ -22,14 +22,14 @@ Entry note for State formation. Keep historical evidence, interpretation, and cr
 
 ## Linked Items
 
-- People:
+- People: [[Benito_Juarez|Benito Juarez]]
 - Organizations:
 - Places:
 - Events:
 - Themes: [[Education_As_State_Formation|Education As State Formation]], [[Financial_Weakness|Financial Weakness]], [[Individual_Rights|Individual Rights]], [[La_Reforma|La Reforma]], [[Political_Ideas|Political Ideas]], [[Tax_Resistance_And_State_Capacity|Tax Resistance And State Capacity]], [[US_Mexico_Relations|US-Mexico Relations]]
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0003|HamnettはJuárezを国家的・地方的・州的文脈の交点に置く]], [[FACT_HAMNETT_JUAREZ_0005|HamnettはJuárezの経歴をメキシコ・ナショナリズム形成期と接続する]], [[FACT_HAMNETT_JUAREZ_0109|Juárez研究は独立後ラテンアメリカ国家形成の難題を示す]], [[FACT_HAMNETT_JUAREZ_0110|HamnettはJuárezを1858-1872年の非白人統治者として位置づける]], [[FACT_HAMNETT_JUAREZ_0112|Hamnettは19世紀メキシコ政治史を分裂・紛争・個人権力だけで説明しない]], [[FACT_HAMNETT_JUAREZ_0115|独立後国家の課題はcivil powerとlawの優位を再建することだった]], [[FACT_HAMNETT_JUAREZ_0185|政治理念はメキシコの現実問題を解決する手段として見られた]], [[FACT_HAMNETT_JUAREZ_0186|独立メキシコの政治課題は国家・地域・個人・教会・正統性をめぐるものだった]], [[FACT_HAMNETT_JUAREZ_0187|メキシコの政治課題はUnited Statesの重要性抜きに解けなかった]], [[FACT_HAMNETT_JUAREZ_0419|Hamnett interprets Juarez as using moral example and institutional reform]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0003|HamnettはJuárezを国家的・地方的・州的文脈の交点に置く]], [[FACT_HAMNETT_JUAREZ_0005|HamnettはJuárezの経歴をメキシコ・ナショナリズム形成期と接続する]], [[FACT_HAMNETT_JUAREZ_0109|Juárez研究は独立後ラテンアメリカ国家形成の難題を示す]], [[FACT_HAMNETT_JUAREZ_0110|HamnettはJuárezを1858-1872年の非白人統治者として位置づける]], [[FACT_HAMNETT_JUAREZ_0112|Hamnettは19世紀メキシコ政治史を分裂・紛争・個人権力だけで説明しない]], [[FACT_HAMNETT_JUAREZ_0115|独立後国家の課題はcivil powerとlawの優位を再建することだった]], [[FACT_HAMNETT_JUAREZ_0185|政治理念はメキシコの現実問題を解決する手段として見られた]], [[FACT_HAMNETT_JUAREZ_0186|独立メキシコの政治課題は国家・地域・個人・教会・正統性をめぐるものだった]], [[FACT_HAMNETT_JUAREZ_0187|メキシコの政治課題はUnited Statesの重要性抜きに解けなかった]], [[FACT_HAMNETT_JUAREZ_0419|Hamnett interprets Juarez as using moral example and institutional reform]], [[FACT_HAMNETT_JUAREZ_2914|HamnettはJuárez研究を独立後Latin Americaの国家形成理解へ結ぶ]], [[FACT_HAMNETT_JUAREZ_2922|Hamnettは三つの中央集権実験をneo-Bourbon的国家再建とする]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0001|1821年、メキシコがスペインから政治的独立を達成した]], [[TIME_HAMNETT_JUAREZ_0050|1858-1872年、Juárezがメキシコを統治したと位置づけられる]], [[TIME_HAMNETT_JUAREZ_0084|1855年8月以後、Liberal Reformへの道が開かれた]]
-- Source Notes:
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0121]]
 - Scenes:
 - Questions:
 
@@ -55,3 +55,10 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - Which linked claims are strong enough for scene design?
 - Which source passages still need page-level verification?
+
+## Hamnett 1994 pp.236–237 Conclusion Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0121]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_2914]], [[FACT_HAMNETT_JUAREZ_2918]], [[FACT_HAMNETT_JUAREZ_2921]], [[FACT_HAMNETT_JUAREZ_2922]], [[FACT_HAMNETT_JUAREZ_2923]]
+- Timeline Entries: [[TIME_HAMNETT_JUAREZ_1081]], [[TIME_HAMNETT_JUAREZ_1084]], [[TIME_HAMNETT_JUAREZ_1085]]
+- Hamnett uses Juárez to connect post-imperial legitimacy, national survival, political openness, and the failure of three Centralist state-reconstruction experiments.
