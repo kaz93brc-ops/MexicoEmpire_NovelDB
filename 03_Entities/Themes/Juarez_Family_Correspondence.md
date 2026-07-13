@@ -27,8 +27,8 @@ Entry note for Juárez family correspondence. Keep historical evidence, interpre
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0016|Juárezは寡黙だが感情を欠く人物ではなかった]]
-- Timeline Entries:
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0016|Juárezは寡黙だが感情を欠く人物ではなかった]], [[FACT_HAMNETT_JUAREZ_3126|APBJPS is presented as a source collection linking Juarez Santacilia and Cuba]]
+- Timeline Entries: [[TIME_HAMNETT_JUAREZ_1196|APBJPS publication year is given as 1928]]
 - Source Notes:
 - Scenes:
 - Questions:

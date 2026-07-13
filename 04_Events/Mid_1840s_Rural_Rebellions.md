@@ -54,7 +54,7 @@ Entry note for mid-1840s rural rebellions. Verify chronology and actors in linke
 - Organizations:
 - Places: [[Cuautla_Yautepec|Cuautla-Yautepec]], [[Papantla]], [[Putla]]
 - Events:
-- Themes: [[Commercial_Agriculture|Commercial Agriculture]], [[Rural_Communities_And_Land_Claims|Rural Communities And Land Claims]], [[Rural_Rebellions|Rural Rebellions]]
+- Themes: [[Alvarez_Double_Game|Álvarez Double Game]], [[Commercial_Agriculture|Commercial Agriculture]], [[Rural_Communities_And_Land_Claims|Rural Communities And Land Claims]], [[Rural_Rebellions|Rural Rebellions]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0345|Commercial agriculture intensified land and labor pressure]], [[FACT_HAMNETT_JUAREZ_0346|Sugar producers expanded production at peasant community expense]], [[FACT_HAMNETT_JUAREZ_0348|Mid-1840s rural rebellions followed land labor taxation and authority pressure]], [[FACT_HAMNETT_JUAREZ_0349|Álvarez mediated rural discontent while undermining Santa Anna]], [[FACT_HAMNETT_JUAREZ_0350|Rural rebellions and Álvarez helped bring down the Santa Anna regime]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0162|Mid-1840s rural rebellions spread in commercial agriculture and southern zones]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0018]]

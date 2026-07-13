@@ -47,9 +47,9 @@ Entry note for Second French Empire. Verify details in linked Fact Cards and Tim
 - Organizations:
 - Places:
 - Events:
-- Themes: [[Isthmus_Geopolitics|Isthmus Geopolitics]]
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0197|United StatesとImperial FranceもIsthmus of Tehuantepecに関心を持った]], [[FACT_HAMNETT_JUAREZ_0212|Chapter 2はJuárezをOaxacaの地理・文化・経済構造から説明し始める]], [[FACT_HAMNETT_JUAREZ_2022|Mexico as a target of French imperial policy]], [[FACT_HAMNETT_JUAREZ_2079|Hamnett says European historians underrecognized the intervention]], [[FACT_HAMNETT_JUAREZ_2080|Hamnett treats the Mexico plan as a French diplomatic priority]], [[FACT_HAMNETT_JUAREZ_2081|Experienced French commanders implemented Mexico policy]], [[FACT_HAMNETT_JUAREZ_2085|Hamnett identifies three disasters for the intervention side]], [[FACT_HAMNETT_JUAREZ_2086|Hamnett links Juarez's resistance to French military humiliation]], [[FACT_MEXEMP_0925|Le Programme de l'EmpireはNapoleon III型の中道帝国をモデルにした]]
-- Timeline Entries:
+- Themes: [[Isthmus_Geopolitics|Isthmus Geopolitics]], [[Isthmus_Of_Tehuantepec|Isthmus of Tehuantepec]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0197|United StatesとImperial FranceもIsthmus of Tehuantepecに関心を持った]], [[FACT_HAMNETT_JUAREZ_0212|Chapter 2はJuárezをOaxacaの地理・文化・経済構造から説明し始める]], [[FACT_HAMNETT_JUAREZ_2022|Mexico as a target of French imperial policy]], [[FACT_HAMNETT_JUAREZ_2079|Hamnett says European historians underrecognized the intervention]], [[FACT_HAMNETT_JUAREZ_2080|Hamnett treats the Mexico plan as a French diplomatic priority]], [[FACT_HAMNETT_JUAREZ_2081|Experienced French commanders implemented Mexico policy]], [[FACT_HAMNETT_JUAREZ_2085|Hamnett identifies three disasters for the intervention side]], [[FACT_HAMNETT_JUAREZ_2086|Hamnett links Juarez's resistance to French military humiliation]], [[FACT_HAMNETT_JUAREZ_3128|Covo studied images of Juarez in the French press]], [[FACT_HAMNETT_JUAREZ_3129|Salomon studied French support for Juarez]], [[FACT_HAMNETT_JUAREZ_3130|Favre linked Juarez's victory to the fall of the Second Empire]], [[FACT_MEXEMP_0925|Le Programme de l'EmpireはNapoleon III型の中道帝国をモデルにした]]
+- Timeline Entries: [[TIME_HAMNETT_JUAREZ_1194|Favre links Juarez's victory to the fall of the Second Empire]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0090]]
 - Scenes:
 - Questions:

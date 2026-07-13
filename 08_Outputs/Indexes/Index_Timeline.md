@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Timeline Entries: 1247
+- Timeline Entries: 1251
 - Entries with no backlinks: 1
 
 ## Entries
@@ -1252,6 +1252,10 @@ tags:
 - 1988–1994: [[TIME_HAMNETT_JUAREZ_1184|Salinas presidency frames late twentieth-century Juarez symbolism]]
 - 1990–1992: [[TIME_HAMNETT_JUAREZ_1185|NAFTA negotiations reopen Juarez nationalist symbolism]]
 - 1992-09: [[TIME_HAMNETT_JUAREZ_1186|Mexico-Holy See relations are said to be restored in September 1992]]
+- 1867-12-02: [[TIME_HAMNETT_JUAREZ_1194|Favre links Juarez's victory to the fall of the Second Empire]]
+- late 1880s: [[TIME_HAMNETT_JUAREZ_1195|Diaz regime begins using the Juarez myth in the late 1880s]]
+- 1928: [[TIME_HAMNETT_JUAREZ_1196|APBJPS publication year is given as 1928]]
+- 1968–1983: [[TIME_HAMNETT_JUAREZ_1197|English-language Reform scholarship appears from 1968 to 1983]]
 - : [[Timeline_Index|Timeline Index]]
 - after 1520: [[TIME_HAMNETT_JUAREZ_0089|after 1520、Spanish ConquestがOaxacaへ及んだ]]
 - after 1765: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]

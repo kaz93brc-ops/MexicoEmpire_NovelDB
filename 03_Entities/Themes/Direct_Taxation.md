@@ -32,7 +32,7 @@ Use taxation as a concrete pressure that links Mexico City fiscal weakness to vi
 ## Linked Items
 
 - People:
-- Organizations: [[Mexican_State|Mexican state]]
+- Organizations:
 - Places:
 - Events: [[Capitation_Uniform_Direct_Tax_After_1842|Capitation Uniform Direct Tax After 1842]], [[First_Federal_Republic_Collapse_1836|First Federal Republic Collapse 1836]], [[Popular_Resistance_To_Taxation_Oaxaca|Popular Resistance To Taxation Oaxaca]]
 - Themes: [[Tax_Resistance_And_State_Capacity|Tax Resistance And State Capacity]]
