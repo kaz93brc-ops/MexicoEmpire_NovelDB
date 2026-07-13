@@ -3,7 +3,7 @@ id: SRC_HAMNETT_1994_JUAREZ
 type: source_note
 status: draft
 created: 2026-06-14
-updated: "2026-07-13"
+updated: "2026-07-14"
 tags:
   - source
   - book
@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-現在はユーザー指定の126枚目として `CAP_HAMNETT_JUAREZ_0126` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は Bibliographical Essay continuation / printed pages 246-247 / archive `/page/246/mode/2up`。p.245末尾のGalindo y Galindo未完文を近代メキシコ国家形成論として解消し、Iglesias Calderón / Frías y SotoのBulnes批判、1857年憲法をめぐるRabasa / Cosío Villegas論争、Reyes Heroles、Fuentes MaresのMiramón再評価、Almada / TamayoのTerrazas・Chihuahua研究を史学史として整理した。p.247末尾に未完文は見えないが、次回pp.248-249でBibliographical Essayの継続と主題転換を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
+現在はユーザー指定の127枚目として `CAP_HAMNETT_JUAREZ_0127` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は Bibliographical Essay / printed pages 248-249 / archive `/page/248/mode/2up`。20世紀末政治におけるJuárez像、Salinas・NAFTA・Holy See、McLane–Ocampo Treaty論争、Tamayo文書集、Cosío Villegas、英語圏研究を史学史・政治的記憶として整理した。p.249末尾のRoeder評価文は未完で、次回pp.250-251で続きと英語圏Juárez研究の評価を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-14に127枚目Captureとして [[CAP_HAMNETT_JUAREZ_0127|CAP_HAMNETT_JUAREZ_0127]] を作成。Readinessとユーザー指定はいずれもpp.248-249を指し、126枚目p.247末尾は完結、p.248は20世紀末のJuárez政治記憶へ新展開することを確認した。新規Factは [[FACT_HAMNETT_JUAREZ_3090|3090]]-[[FACT_HAMNETT_JUAREZ_3107|3107]]、新規Timelineは [[TIME_HAMNETT_JUAREZ_1171|1171]]、[[TIME_HAMNETT_JUAREZ_1175|1175]]-[[TIME_HAMNETT_JUAREZ_1186|1186]]。予定1170は既存0618、1173は既存1137と重複、1172と1174は独立した新規出来事でないため保留した。ID衝突とRelationshipカード作成はなし。Salinas、Cue Cánovas、López Mateos、Luis Echeverría、Roeder、Tamayo、Cosío Villegas、PRIは既存basename・title・aliases不在を確認して最小stubを作成した。Holy See、McLane–Ocampo Treaty、Mexican nationalism、Juárez史学史／cult、La Noria、Guelataoは既存Entityを再利用した。BJDOCSの1964-71／1964-72齟齬、Salinas演説日、Holy See関係、Roeder評価続きはOpen Questionsに保持した。この見開きに注番号はなく、書誌全文・長文引用・全文転記は保存していない。次回はpp.250-251でp.249末尾Roeder評価文を接続確認する。
 
 2026-07-13に126枚目Captureとして [[CAP_HAMNETT_JUAREZ_0126|CAP_HAMNETT_JUAREZ_0126]] を作成。Readinessとユーザー指定はいずれもpp.246-247を指し、125枚目p.245末尾のGalindo y Galindo未完文がp.246で近代メキシコ国家形成とCatholic Church影響排除の論点として解消することを確認した。新規Factは [[FACT_HAMNETT_JUAREZ_3060|3060]]-[[FACT_HAMNETT_JUAREZ_3078|3078]]、新規Timelineは [[TIME_HAMNETT_JUAREZ_1152|1152]]、[[TIME_HAMNETT_JUAREZ_1153|1153]]、[[TIME_HAMNETT_JUAREZ_1155|1155]]、[[TIME_HAMNETT_JUAREZ_1157|1157]]-[[TIME_HAMNETT_JUAREZ_1159|1159]]。予定1150は離散的事件でないため、1151は1857年憲法年表と重複、1154は既存[[TIME_HAMNETT_JUAREZ_1137|1137]]と重複、1156は既存Terrazas家史料と重複する因果評価のため保留した。ID衝突、新規stub、Relationshipカードはなし。Fernando Iglesias Calderón、Emilio Rabasa、Fuentes Mares、Miguel Miramón、Lucas Alamán、Terrazas family、1857 Constitution、Chihuahua、Historiography of Juárezの既存Entityを再利用し、Terrazasのフルネームはこのページだけで断定しなかった。全研究者の主張はHamnettの `author_interpretation / probable / verification_needed` を中心に整理し、書誌全文は保存していない。この見開きに注番号はなく、p.247末尾に未完文は見えない。次回はpp.248-249でBibliographical Essayの継続主題を確認する。
 
