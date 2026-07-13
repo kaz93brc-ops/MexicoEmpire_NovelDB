@@ -295,3 +295,11 @@ Hamnett p.234 interprets Juárez's death as removing the pretext for Díaz's reb
 - Related Events: [[Death_Of_Juarez_July_1872|Death of Juárez, July 1872]], [[La_Noria_Rebellion|La Noria rebellion]], [[Amnesty_Of_Porfirio_Diaz_1872|Amnesty of Porfirio Díaz, 1872]]
 - Related Themes: [[Liberal_Factionalism|Liberal factionalism]], [[Presidential_Succession|presidential succession]]
 - Cautions: Keep Díaz in the 1872 context as a defeated La Noria actor receiving amnesty; do not retroject later Porfirian power into this moment.
+
+## Hamnett 1994 p.243 Conclusion Closing Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0124]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3019]], [[FACT_HAMNETT_JUAREZ_3020]]
+- Existing Timeline: [[TIME_HAMNETT_JUAREZ_0843]]
+- Hamnett presents Díaz as Juárez's most dangerous late rival, whose constitutional-defence language accompanied armed rebellion and whose judgment underestimated Juárez's political mastery.
+- Cautions: Treat the violent-pretext and underestimation language as author interpretation, not neutral chronology.

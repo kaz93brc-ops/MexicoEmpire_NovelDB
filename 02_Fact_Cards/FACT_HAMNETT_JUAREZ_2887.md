@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2887"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -33,6 +33,7 @@ places: []
 organizations: ["Juarez_Government"]
 themes: ["Juarez_Later_Presidency", "Presidentialism", "Liberal_Factionalism"]
 related_timeline_entries: []
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0124"]
 ---
 
 # Hamnett links late struggles to Juarez health decline
@@ -65,4 +66,9 @@ Hamnettは、15年に及ぶ政治闘争、1871年再選運動、La Noria反乱�
 - Organizations: [[Juarez_Government|Juárez government]]
 - Themes: [[Juarez_Later_Presidency|Juárez later presidency]], [[Presidentialism]], [[Liberal_Factionalism|Liberal factionalism]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0120]]
-- Related Timeline Entries:
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1125]]
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0124|Conclusion p.243]] restates that Juárez's effort to introduce legality and governmental stability had damaged his health by summer 1872.
+- Planned `FACT_HAMNETT_JUAREZ_3018` was not created because this card already preserves Hamnett's political-strain causation claim; [[TIME_HAMNETT_JUAREZ_1125]] adds the conclusion's approximate period.

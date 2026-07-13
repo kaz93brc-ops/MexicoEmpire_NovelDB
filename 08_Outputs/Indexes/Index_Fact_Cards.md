@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- Fact Cards: 4850
+- Fact Cards: 4869
 - source_id_review review count: 0
-- printed_page_confirmed review count: 2810
+- printed_page_confirmed review count: 2829
 - kindle_page_locator_available review count: 2034
 - page_locator_available review count: 6
 - kindle_locator_available review count: 0
@@ -24,7 +24,7 @@ tags:
 
 ## By Source
 
-- [[SRC_HAMNETT_1994_JUAREZ|Juárez]]: 2810
+- [[SRC_HAMNETT_1994_JUAREZ|Juárez]]: 2829
 - [[SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO|The Last Emperor of Mexico: A Disaster in the New World]]: 2040
 
 ## Metadata Review

@@ -75,4 +75,3 @@ Hamnettは1861年以後、JuárezがConfederacyの志向をMexico領土保全へ
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.30.53.jpeg
-

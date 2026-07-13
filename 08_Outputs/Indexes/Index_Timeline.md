@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Timeline Entries: 1218
+- Timeline Entries: 1222
 - Entries with no backlinks: 1
 
 ## Entries
@@ -1223,6 +1223,10 @@ tags:
 - late spring 1863: [[TIME_HAMNETT_JUAREZ_1109|1863年春末、JuárezとLiberal radicalsの同盟が崩壊する]]
 - 1863-06: [[TIME_HAMNETT_JUAREZ_1111|1863年6月までにJuárezが急進派と決裂しSebastián Lerdoと再提携する]]
 - late 1870: [[TIME_HAMNETT_JUAREZ_1114|1870年後半、Juárez再選構想をめぐりSebastián Lerdoが反対派へ回る]]
+- 1867-05: [[TIME_HAMNETT_JUAREZ_1120|Hamnett places the empire beyond recovery by May 1867]]
+- 1867: [[TIME_HAMNETT_JUAREZ_1121|Post-1867 ideological settlement]]
+- 1867-06_to_1872-07: [[TIME_HAMNETT_JUAREZ_1122|Obstruction during the restored republic]]
+- 1872_summer: [[TIME_HAMNETT_JUAREZ_1125|Political strain damages Juarez's health by summer 1872]]
 - : [[Timeline_Index|Timeline Index]]
 - after 1520: [[TIME_HAMNETT_JUAREZ_0089|after 1520、Spanish ConquestがOaxacaへ及んだ]]
 - after 1765: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0014"
 type: "fact_card"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;preface"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -37,6 +37,8 @@ themes:
   - "political mythology"
   - "official hagiography"
   - "anti-clerical memory"
+additional_related_captures:
+  - "CAP_HAMNETT_JUAREZ_0124"
 ---
 
 # Juárez神話はメキシコ政治神話の中心をなす
@@ -73,3 +75,8 @@ Hamnettは、Juárezをめぐる崇拝や反発がメキシコ政治神話の中
 - Organizations: [[Catholic_Church|Catholic Church]], [[Mexican_Liberalism|Mexican liberals]], [[Juarez_Opponents|Juárez opponents]]
 - Themes: [[Cult_of_Juarez|cult of Juárez]], political mythology, official hagiography, anti-clerical memory
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0002]]
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0124|Conclusion p.243]] says the posthumous cult transformed the living political tactician into symbol, statue, and national saint.
+- Planned `FACT_HAMNETT_JUAREZ_3021` was not created because this card already holds the same masking-by-cult claim; [[FACT_HAMNETT_JUAREZ_3022]] separately records the official pantheon and Liberal civic-religion interpretation.

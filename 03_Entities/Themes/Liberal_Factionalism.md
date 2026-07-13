@@ -160,3 +160,12 @@ Hamnett pp.206-207 makes Liberal factionalism central by opposing Juárez's gove
 - Related People: [[Benito_Juarez|Benito Juárez]], [[Porfirio_Diaz|Porfirio Díaz]], [[Ignacio_Ramirez|Ignacio Ramírez]], [[Ignacio_Altamirano|Ignacio Altamirano]], [[Jesus_Gonzalez_Ortega|Jesús González Ortega]]
 - Related Themes: [[Plebiscitary_Legitimacy]], [[Popular_Politics_And_Elite_Liberalism]], [[Constitutionalism_Of_1857]]
 - Cautions: This is not a Liberal/Conservative binary; keep Díaz in his Liberal-opposition context.
+
+## Hamnett 1994 pp.242–243 Conclusion Closing Notes
+
+Hamnett concludes that Conservative defeat and official Liberal ideology did not create coherent one-party government: factionalism, personalism, extra-constitutional action, congressional obstruction, and armed regional competition continued.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0124]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3007]], [[FACT_HAMNETT_JUAREZ_3008]], [[FACT_HAMNETT_JUAREZ_3009]], [[FACT_HAMNETT_JUAREZ_3010]], [[FACT_HAMNETT_JUAREZ_3011]], [[FACT_HAMNETT_JUAREZ_3012]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1121]], [[TIME_HAMNETT_JUAREZ_1122]]
+- Cautions: Do not replace a Liberal/Conservative binary with a Juárez/Díaz binary; both operated inside a divided Liberal field.

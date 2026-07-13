@@ -75,4 +75,3 @@ HamnettはUS Civil War中にMexican LiberalsがLincoln政権とUnion側へ共感
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.30.53.jpeg
-

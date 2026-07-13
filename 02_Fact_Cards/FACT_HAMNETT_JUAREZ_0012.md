@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0012"
 type: "fact_card"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;preface"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -39,6 +39,8 @@ themes:
   - "anti-colonialism"
   - "national sovereignty"
   - "republican victory"
+additional_related_captures:
+  - "CAP_HAMNETT_JUAREZ_0124"
 ---
 
 # Hamnettは1867年のJuárez勝利を反植民地主義的勝利として位置付ける
@@ -76,4 +78,9 @@ Hamnettは、1867年のJuárez側の勝利を、支配的帝国の時代にお�
 - Themes: anti-colonialism, national sovereignty, [[Republican_Victory|republican victory]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0002]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0004]]
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0124|Conclusion pp.242–243]] reiterates the anti-colonial character of the anti-Habsburg struggle and connects it to sovereignty recovery.
+- Planned `FACT_HAMNETT_JUAREZ_3002` was not created because this card already preserves the same claim.
 

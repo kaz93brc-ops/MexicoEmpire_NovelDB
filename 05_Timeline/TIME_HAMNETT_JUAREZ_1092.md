@@ -74,4 +74,3 @@ HamnettはUS–Mexican Warの敗北を破局的打撃であり、北米の力関
 - Evidence category: author_interpretation
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.30.53.jpeg
-

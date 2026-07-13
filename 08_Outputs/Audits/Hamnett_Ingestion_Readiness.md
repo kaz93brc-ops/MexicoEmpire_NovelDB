@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2810
-- hamnett_timeline_entries: 893
-- next_required_page: printed pages 242-243 / resolve p.241 unfinished sentence on imperial finances and failure to form an effective Mexican army; confirm Conclusion continuation or end; local pp.146-147 gap remains unless handled elsewhere
+- hamnett_fact_cards: 2829
+- hamnett_timeline_entries: 897
+- next_required_page: printed pages 244-245 / confirm that Conclusion ended on p.243 and identify transition to Conclusion Notes, Bibliography, Chronology, Maps, or other back matter; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -28,6 +28,7 @@ tags:
 - THE COLLAPSE OF THE EMPIRE: 71
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CRISIS IN THE ISTHMUS: 66
 - Chapter 6 / JUÁREZ AND CONGRESS continuation: 66
+- Conclusion: 66
 - Chapter 1 / The Geo-Politics of Mexico: 65
 - Chapter 4 / THE BREAKDOWN OF THE CONSTITUTIONAL EXPERIMENT: 65
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / STATE GOVERNOR OF OAXACA (1847-52): 64
@@ -40,7 +41,6 @@ tags:
 - THE DEBT QUESTION AND THE ALLIED INTERVENTION OF 1861-62: 51
 - Chapter 2, The Provincial Origins: Juárez and Oaxaca / Oaxaca: Culture and Society: 49
 - Chapter 6 / JUÁREZ IN CHIHUAHUA: 47
-- Conclusion: 47
 - THE VICTORY OF THE JUARISTAS: 46
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CENTRALIST REPUBLIC (1836-46): 44
 - THE ESTABLISHMENT OF THE MEXICAN EMPIRE: 43
@@ -142,13 +142,13 @@ tags:
 - Chapter 6 / JUÁREZ IN CHIHUAHUA: 20
 - MEXICO AND THE AMERICAN CIVIL WAR (1861-65): 20
 - THE ESTABLISHMENT OF THE MEXICAN EMPIRE: 19
+- Conclusion: 19
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE VERACRUZ REFORM LAWS: 17
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ continuation: 16
 - THE DEBT QUESTION AND THE ALLIED INTERVENTION OF 1861-62: 16
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / EARLY LIBERALISM AND THE REVIVAL OF THE CHURCH: 15
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / GOVERNOR JUÁREZ AND THE CHURCH: 15
 - JUÁREZ'S POLICY OF UNCOMPROMISING RESISTANCE: 15
-- Conclusion: 15
 - Chapter 4 / THE BREAKDOWN OF THE CONSTITUTIONAL EXPERIMENT: 14
 - Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT? continuation: 13
 - THE VICTORY OF THE JUARISTAS: 13

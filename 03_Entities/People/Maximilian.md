@@ -296,3 +296,11 @@ Hamnett places Juárez's resistance to Maximilian within national-sovereignty de
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2986]], [[FACT_HAMNETT_JUAREZ_2988]], [[FACT_HAMNETT_JUAREZ_2989]], [[FACT_HAMNETT_JUAREZ_2990]], [[FACT_HAMNETT_JUAREZ_2991]]
 - Hamnett separates Maximilian's moderate-center and social-coalition project from the counter-insurgency measures that damaged imperial legitimacy.
 - Cautions: Do not reduce Maximilian to reformer or reactionary; the p.241 finance-and-army sentence remains incomplete until screenshot 124.
+
+## Hamnett 1994 p.242 Conclusion Closing Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0124]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3000]], [[FACT_HAMNETT_JUAREZ_3001]], [[FACT_HAMNETT_JUAREZ_3004]], [[FACT_HAMNETT_JUAREZ_3005]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_1120]]
+- The p.241 sentence resolves: Hamnett places the Empire beyond recovery by May 1867 because imperial finances collapsed and an effective Mexican army was not formed.
+- Cautions: Keep structural failure and Juárez's anti-colonial framing alongside, but distinct from, Maximilian's personal tragedy.

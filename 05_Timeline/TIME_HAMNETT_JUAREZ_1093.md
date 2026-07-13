@@ -74,4 +74,3 @@ HamnettはReform War期に米国南部諸州がMexico内部の分裂を利用し
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.30.53.jpeg
-

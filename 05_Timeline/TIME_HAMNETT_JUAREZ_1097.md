@@ -75,4 +75,3 @@ HamnettはMaximilian帝政崩壊後のMexico主要対外関係をUSA、North Ger
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.30.53.jpeg
-
