@@ -180,3 +180,10 @@ Hamnett p.198 places Romero in the Restored Republic fiscal problem through a re
 - Related Organizations: [[Federal_Government|federal government]], [[State_Governments|state governments]], [[Mexican_Republic|Mexican Republic]]
 - Related Themes: [[War_Finance|war finance]], [[State_Fiscal_Weakness|state fiscal weakness]], [[Tax_Resistance_And_State_Capacity|tax resistance and state capacity]]
 - Cautions: Confirm Chapter 9 notes 1-2 before treating the budget and warning as primary testimony.
+
+## Hamnett 1994 pp.238–239 Conclusion Diplomacy Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0122]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_2950]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0624]]
+- Hamnett presents Romero's Washington work during the French Intervention as helping repair Mexico–U.S. relations; exact actions and title remain to be verified.

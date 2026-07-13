@@ -38,7 +38,7 @@ Use this as a check against over-symbolic character design.
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0314|Later biography made the Juárez-Maza marriage a symbol of mestizo nationality]], [[FACT_HAMNETT_JUAREZ_0315|Hamnett re-grounds the Juárez-Maza marriage in Oaxaca social reality]], [[FACT_HAMNETT_JUAREZ_1720|Juárez's significance requires attention to ordinary people]], [[FACT_HAMNETT_JUAREZ_1721|Juárez's origins may have resonated with the mestizo-Indian majority]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0314|Later biography made the Juárez-Maza marriage a symbol of mestizo nationality]], [[FACT_HAMNETT_JUAREZ_0315|Hamnett re-grounds the Juárez-Maza marriage in Oaxaca social reality]], [[FACT_HAMNETT_JUAREZ_1720|Juárez's significance requires attention to ordinary people]], [[FACT_HAMNETT_JUAREZ_1721|Juárez's origins may have resonated with the mestizo-Indian majority]], [[FACT_HAMNETT_JUAREZ_2911|HamnettはJuárezが国民的象徴として構築されたと整理する]]
 - Timeline Entries:
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0017]]
 - Scenes:

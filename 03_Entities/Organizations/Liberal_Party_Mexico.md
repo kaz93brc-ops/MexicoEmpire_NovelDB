@@ -147,6 +147,13 @@ Hamnett p.86-87 frames early Liberal policy toward the Church as gradual, intern
 - Related Themes: [[Mexican_Liberalism]], [[Liberal_Factionalism]], [[Religious_Toleration]], [[Immigration_Policy]], [[National_Identity]], [[Liberal_Modernization_And_Cultural_Diversity]]
 - Cautions: Liberalismを一枚岩にせず、穏健派・急進派・国民的独自性への不安を併置する。
 
+## Hamnett 1994 pp.238–239 Conclusion Structure Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0122]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2941]], [[FACT_HAMNETT_JUAREZ_2942]], [[FACT_HAMNETT_JUAREZ_2949]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_1095]]
+- Hamnett describes the party as factions and armed clienteles rather than a disciplined modern party; Union sympathy does not erase internal diversity.
+
 ## Hamnett 1994 p.88-89 Chapter 5 Church Policy Notes
 
 Hamnett p.88-89 places Reform-generation Liberalism between inherited Mora/Zavala/Gomez Farias ideas and concrete conflicts over Church-state relations, debt, disamortization, corporate privilege, religious pluralism, and lay public education.

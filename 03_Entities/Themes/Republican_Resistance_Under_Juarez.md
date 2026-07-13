@@ -27,7 +27,7 @@ Entry note for Republican resistance under Juárez. Keep historical evidence, in
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_1673|Gonzalez Ortega received permission to travel to the United States]], [[FACT_HAMNETT_JUAREZ_1685|Hamnett names the Liberal army commanders backing Juarez]], [[FACT_MEXEMP_0917|Juárezは北部・西海岸・南部の諸州を保持していたとされる]], [[FACT_MEXEMP_0920|Juárez側と帝政側の兵力差は帝政側に有利だったが地理的条件が不利だった]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_1673|Gonzalez Ortega received permission to travel to the United States]], [[FACT_HAMNETT_JUAREZ_1685|Hamnett names the Liberal army commanders backing Juarez]], [[FACT_HAMNETT_JUAREZ_2917|HamnettはJuárezの帝政抵抗を独立期ナショナリズムの継承とする]], [[FACT_MEXEMP_0917|Juárezは北部・西海岸・南部の諸州を保持していたとされる]], [[FACT_MEXEMP_0920|Juárez側と帝政側の兵力差は帝政側に有利だったが地理的条件が不利だった]]
 - Timeline Entries:
 - Source Notes:
 - Scenes:

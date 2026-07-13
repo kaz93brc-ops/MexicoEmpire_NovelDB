@@ -98,3 +98,10 @@ Hamnett p.166 opens Chapter 8 by saying Juárez viewed the United States as Mexi
 - Related Places: [[United_States]], [[Mexico]]
 - Related Themes: [[US_Mexico_Asymmetry]], [[North_American_Geopolitics]]
 - Cautions: Keep U.S. expectation, U.S. inconsistency, and Mexican sovereignty anxieties together.
+
+## Hamnett 1994 pp.238–239 Conclusion Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0122]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2945]], [[FACT_HAMNETT_JUAREZ_2946]], [[FACT_HAMNETT_JUAREZ_2947]], [[FACT_HAMNETT_JUAREZ_2948]], [[FACT_HAMNETT_JUAREZ_2949]], [[FACT_HAMNETT_JUAREZ_2950]], [[FACT_HAMNETT_JUAREZ_2951]], [[FACT_HAMNETT_JUAREZ_2952]], [[FACT_HAMNETT_JUAREZ_2953]], [[FACT_HAMNETT_JUAREZ_2954]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1092]], [[TIME_HAMNETT_JUAREZ_1093]], [[TIME_HAMNETT_JUAREZ_1094]], [[TIME_HAMNETT_JUAREZ_1095]], [[TIME_HAMNETT_JUAREZ_1097]]
+- Cautions: Juárez's Washington strategy is presented as post-1848 realism, paired with territorial, diplomatic, economic, and cultural dependency risks.

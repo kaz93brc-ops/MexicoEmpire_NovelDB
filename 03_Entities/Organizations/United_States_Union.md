@@ -39,5 +39,6 @@ Use as an evidence hub only after checking linked Fact Cards and the relevant Ha
 - Places: [[Chihuahua]], [[Texas]]
 - Themes: [[American_Civil_War_Border_Context|American Civil War border context]], [[Mexican_Neutrality|Mexican neutrality]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1552]], [[FACT_HAMNETT_JUAREZ_1555]], [[FACT_HAMNETT_JUAREZ_1559]], [[FACT_HAMNETT_JUAREZ_1560]]
-- Timeline Entries:
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0069]], [[SRC_HAMNETT_1994_JUAREZ]]
+- Timeline Entries: [[TIME_HAMNETT_JUAREZ_1095]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0069]], [[CAP_HAMNETT_JUAREZ_0122]], [[SRC_HAMNETT_1994_JUAREZ]]
+- Conclusion Fact Card: [[FACT_HAMNETT_JUAREZ_2949]]

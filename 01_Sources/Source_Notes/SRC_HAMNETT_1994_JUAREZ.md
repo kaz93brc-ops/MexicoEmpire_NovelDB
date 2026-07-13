@@ -3,7 +3,7 @@ id: SRC_HAMNETT_1994_JUAREZ
 type: source_note
 status: draft
 created: 2026-06-14
-updated: "2026-07-12"
+updated: "2026-07-13"
 tags:
   - source
   - book
@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-現在はユーザー指定の121枚目として `CAP_HAMNETT_JUAREZ_0121` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は Conclusion / printed pages 236-237 / archive `/page/236/mode/2up`。p.236からConclusionが開始し、Juárezの粘り強さと政治的実務主義、国民的象徴・憲法と法の表象、独立後国家形成、Mexico自由主義の比較史的位置を整理した。p.237ではZapotec出自と共和主義的自由主義の区別、国家主権と独立期ナショナリズム、1846-67年、Instituteとの1827-57年の関係、三つの中央集権実験を扱った。p.237末尾は未完で、次回はpp.238-239で地域的反対と中下層集団の抵抗に関する続き、Conclusionの継続範囲を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
+現在はユーザー指定の122枚目として `CAP_HAMNETT_JUAREZ_0122` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は Conclusion / printed pages 238-239 / archive `/page/238/mode/2up`。p.237末尾の抵抗論はp.238で、反中央集権勢力が持続的全国政府を支える統一枠組みを作れなかったという総括へ接続した。Liberal Partyの派閥・武装clientele構造、Juárezと派閥政治、国家形成制約、Texas・1848年敗北、Mexico-US関係、Confederacy、Lincoln / Union、Matías Romero、Sebastián Lerdo、1867年後の外交再配置、対米従属リスクを整理した。p.239末尾は未完で、次回はpp.240-241でJuárezの持続原理と戦術的同盟関係の続きを確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-13に122枚目Captureとして [[CAP_HAMNETT_JUAREZ_0122|CAP_HAMNETT_JUAREZ_0122]] を作成。Readinessとユーザー指定はいずれもpp.238-239を指し、p.237末尾の中央集権反対勢力に関する文をp.238で解消した。新規Factは [[FACT_HAMNETT_JUAREZ_2940|2940]]-[[FACT_HAMNETT_JUAREZ_2955|2955]]、新規Timelineは [[TIME_HAMNETT_JUAREZ_1092|1092]]-[[TIME_HAMNETT_JUAREZ_1095|1095]]、[[TIME_HAMNETT_JUAREZ_1097|1097]]。予定1090は1821年領域表現未確認、1091は既存[[TIME_HAMNETT_JUAREZ_0045|0045]]、1096は既存[[TIME_HAMNETT_JUAREZ_0624|0624]]との重複により保留・接続した。ID衝突、新規stub、Relationshipカードはなし。Abraham Lincoln、Confederate States、United States Union、Matías Romeroは既存Entityを使用し、North German Confederation / Kingdom of Italyは個別stubを作らずGermany / Italyへの暫定接続とした。次回はpp.240-241でp.239末尾のJuárez原理・戦術的同盟論を接続確認する。
 
 2026-07-13に121枚目Captureとして [[CAP_HAMNETT_JUAREZ_0121|CAP_HAMNETT_JUAREZ_0121]] を作成。Readinessとユーザー指定はいずれもpp.236-237を指しており、Chapter 10 Notesの続きではなくp.236からConclusionが開始することを確認した。新規Factは [[FACT_HAMNETT_JUAREZ_2910|2910]]-[[FACT_HAMNETT_JUAREZ_2911|2911]]、[[FACT_HAMNETT_JUAREZ_2913|2913]]-[[FACT_HAMNETT_JUAREZ_2923|2923]]、新規Timelineは [[TIME_HAMNETT_JUAREZ_1080|1080]]、[[TIME_HAMNETT_JUAREZ_1081|1081]]、[[TIME_HAMNETT_JUAREZ_1084|1084]]、[[TIME_HAMNETT_JUAREZ_1085|1085]]。予定2912は既存 [[FACT_HAMNETT_JUAREZ_0015|0015]]、予定1082は既存 [[TIME_HAMNETT_JUAREZ_0225|0225]]、予定1083は既存 [[TIME_HAMNETT_JUAREZ_0074|0074]]へConclusionロケータを追記した。ID衝突による変更と新規stubはなく、Relationshipカードも作成していない。全新規FactはHamnett総括として `author_interpretation / probable`、p.237末尾に関わる[[FACT_HAMNETT_JUAREZ_2923|2923]]のみ継続確認を付した。次回はpp.238-239でp.237末尾の未完文とConclusionの継続を確認する。
 

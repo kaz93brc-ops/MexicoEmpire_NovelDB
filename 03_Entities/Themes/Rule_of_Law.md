@@ -45,3 +45,9 @@ Hamnett pp.93-94 connects Juárez's 24 January 1849 instruction to strict legal 
 - Related People: [[Benito_Juarez]]
 - Related Themes: [[Church_State_Relations_Mexico]], [[Supremacy_of_Civil_Power]], [[Mexican_Liberalism]], [[Village_Grievances_And_Parish_Conflict]], [[Parish_Dues]]
 - Cautions: Do not turn legal obedience into simple benevolent rule; Hamnett also shows top-down authority over villages.
+
+## Hamnett 1994 pp.238–239 Conclusion Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0122]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_2955]]
+- Hamnett treats respect for law as a continuing principle beneath Juárez's changing positions; the page-end sentence continues on the next spread.
