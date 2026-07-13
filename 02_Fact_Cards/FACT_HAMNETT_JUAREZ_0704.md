@@ -73,3 +73,7 @@ related_timeline_entries:
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0033]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0299]]
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] places the 1855-11-23 Ley Juárez within Juárez's justice and ecclesiastical-affairs ministry.
+- Planned `FACT_HAMNETT_JUAREZ_3156` was not created because this card and [[TIME_HAMNETT_JUAREZ_0299|0299]] already preserve the claim and date.

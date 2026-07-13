@@ -75,3 +75,7 @@ Juárezは1852年8月12日に憲法上の任期満了で知事職を退いたが
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0024]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0217]]
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] repeats 1852-08-12 as the end of the governorship range.
+- Planned `FACT_HAMNETT_JUAREZ_3152` was not created; this card and [[FACT_HAMNETT_JUAREZ_0392|0392]] retain the endpoint evidence.

@@ -72,3 +72,7 @@ Miguel Lerdoは、1856年6月25日のLerdo Lawを、議会の支持を得て発�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0035]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0318]]
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] places the 1856-06-25 Ley Lerdo beside the Constituent Congress in the early Reform sequence.
+- Planned `FACT_HAMNETT_JUAREZ_3157` was not created because this card, [[TIME_HAMNETT_JUAREZ_0318|0318]], and [[TIME_HAMNETT_JUAREZ_0416|0416]] preserve the two claims separately.

@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2892
-- hamnett_timeline_entries: 926
-- next_required_page: printed pages 252-253 / confirm whether the Bibliographical Essay continues or ends after the grammatically complete p.251; local pp.146-147 gap remains unless handled elsewhere
+- hamnett_fact_cards: 2894
+- hamnett_timeline_entries: 927
+- next_required_page: printed pages 254-255 / continue Chronology and confirm whether the p.253 Ley Lerdo entry is complete; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -113,6 +113,7 @@ tags:
 - NOTES AND REFERENCES: 2
 - La Noria repression continuation: 2
 - THE DEATH OF JUÁREZ - JULY 1872 begins: 2
+- Chronology: 2
 - Chapter 1 "Nineteenth-Century Mexico: The World of Juárez": 1
 - Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism; The Politics of Fragmentation: 1
 - Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ: IN THE LIBERAL CONSTELLATION: 1
@@ -213,6 +214,7 @@ tags:
 - "THE CIVIL WAR IN GUERRERO" conclusion: 1
 - La Noria repression continuation: 1
 - THE DEATH OF JUÁREZ - JULY 1872 begins: 1
+- Chronology: 1
 
 ## Next Checks From Progress Master
 

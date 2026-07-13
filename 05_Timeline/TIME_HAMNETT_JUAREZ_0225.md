@@ -67,6 +67,12 @@ JuárezがNew Orleansで亡命生活を送った。
 - [[CAP_HAMNETT_JUAREZ_0121|Conclusion pp.236–237]] uses the 1853–55 exile as a negative comparison: Hamnett argues that Juárez's Liberal formation did not suddenly begin in New Orleans but had longer Institute roots.
 - Planned `TIME_HAMNETT_JUAREZ_1082` was not created because this timeline already records the exile period.
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] independently summarizes the 1853–1855 New Orleans exile period.
+- Locator: p.253 / `/page/252/mode/2up` / `スクリーンショット 2026-06-13 17.31.07.jpeg`.
+- Planned `TIME_HAMNETT_JUAREZ_1213` was not created because this entry already records the more precise range.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

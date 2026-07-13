@@ -55,3 +55,9 @@ Hamnett p.76-77 covers Juárez's second Oaxaca governorship: reopening education
 - Related People: [[Benito_Juarez]], [[Ignacio_Comonfort]], [[Jose_Maria_Diaz_Ordaz]]
 - Related Organizations: [[Oaxaca_State_Government]], [[Oaxaca_National_Guard]], [[Oaxaca_State_Legislature]]
 - Cautions: Distinguish first governorship evidence from 1856-57 second governorship evidence.
+
+## Hamnett 1994 pp.252–253 Chronology
+
+- Chronology locator: [[CAP_HAMNETT_JUAREZ_0129]] / p.253 / `/page/252/mode/2up`.
+- The Chronology gives 1847-10-29 to 1852-08-12; existing [[TIME_HAMNETT_JUAREZ_0175|0175]] and [[TIME_HAMNETT_JUAREZ_0217|0217]] were linked rather than creating planned Timeline1212.
+- Retain the distinction between legislative designation, constitutional election, and end of term.

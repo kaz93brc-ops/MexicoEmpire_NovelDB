@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Timeline Entries: 1251
+- Timeline Entries: 1252
 - Entries with no backlinks: 1
 
 ## Entries
@@ -36,7 +36,7 @@ tags:
 - 1760s: [[TIME_HAMNETT_JUAREZ_0090|1760s-1790s、Oaxacaのdye-trade boom]]
 - 1786: [[TIME_HAMNETT_JUAREZ_0091|1786年、OaxacaがNew Spain副王領のIntendancyの一つとなった]]
 - 1786: [[TIME_HAMNETT_JUAREZ_0092|1786-1806年、Oaxacaは植民地期繁栄のピークを過ぎていた]]
-- 1806: [[TIME_HAMNETT_JUAREZ_0093|1806年、Benito JuárezがOaxacaのZapotec農民家族に生まれた]]
+- 1806-03-21: [[TIME_HAMNETT_JUAREZ_0093|1806年3月21日、Benito JuárezがGuelataoに生まれた]]
 - 1808: [[TIME_HAMNETT_JUAREZ_0051|1808年、Bourbon王権危機が政治制度再編の機会となった]]
 - 1810: [[TIME_HAMNETT_JUAREZ_0031|1810-1867年、政治生活の地域化はpersonalismを強めたとされる]]
 - 1810: [[TIME_HAMNETT_JUAREZ_0053|1810-1814年、Spanish Cortesが成文憲法中心の制度再編を試みた]]
@@ -1256,6 +1256,7 @@ tags:
 - late 1880s: [[TIME_HAMNETT_JUAREZ_1195|Diaz regime begins using the Juarez myth in the late 1880s]]
 - 1928: [[TIME_HAMNETT_JUAREZ_1196|APBJPS publication year is given as 1928]]
 - 1968–1983: [[TIME_HAMNETT_JUAREZ_1197|English-language Reform scholarship appears from 1968 to 1983]]
+- 1818: [[TIME_HAMNETT_JUAREZ_1211|Juarez arrives in Oaxaca City in 1818]]
 - : [[Timeline_Index|Timeline Index]]
 - after 1520: [[TIME_HAMNETT_JUAREZ_0089|after 1520、Spanish ConquestがOaxacaへ及んだ]]
 - after 1765: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]

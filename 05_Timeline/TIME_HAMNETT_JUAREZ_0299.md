@@ -69,6 +69,12 @@ additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 - Archive page: /page/60/mode/2up; Page 60 (75/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.27.45.jpeg
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] places the 1855-11-23 Ley Juárez within Juárez's justice and ecclesiastical-affairs ministry.
+- Locator: p.253 / `/page/252/mode/2up` / `スクリーンショット 2026-06-13 17.31.07.jpeg`.
+- Planned `TIME_HAMNETT_JUAREZ_1216` was not created because this entry already records the law and date.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
