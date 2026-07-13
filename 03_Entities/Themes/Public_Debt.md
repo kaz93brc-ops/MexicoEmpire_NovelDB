@@ -39,7 +39,7 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 ## Linked Items
 
 - People: [[Benito_Juarez|Benito Juarez]], [[Dubois_De_Saligny|Dubois de Saligny]], [[Melchor_Ocampo|Melchor Ocampo]], [[Miguel_Lerdo_De_Tejada|Miguel Lerdo de Tejada]], [[Thomas_Corwin|Thomas Corwin]]
-- Organizations: [[Jecker_Bank|Jecker Bank]], [[Juarez_Government|Juárez Government]], [[Mexican_Congress|Mexican Congress]], [[Mexican_State|Mexican state]], [[US_Senate_Committee_On_Foreign_Relations|U.S. Senate Committee On Foreign Relations]]
+- Organizations: [[Jecker_Bank|Jecker Bank]], [[Juarez_Government|Juárez Government]], [[Mexican_Congress|Mexican Congress]], [[US_Senate_Committee_On_Foreign_Relations|U.S. Senate Committee On Foreign Relations]]
 - Places: [[London]]
 - Events: [[Corwin_Loan_Proposal|Corwin Loan Proposal]], [[Ecclesiastical_Property_Nationalization_Law_1859_07_12|Ecclesiastical Property Nationalization Law 1859-07-12]], [[Lerdo_Law_1856_06_25|Lerdo Law 1856-06-25]], [[Lerdo_Resignation_1860_05_30|Lerdo Resignation 1860-05-30]], [[Manifesto_To_The_Nation|Manifesto to the Nation]], [[Reform_War|Reform War]], [[Veracruz_Reform_Laws_1859_07_12|Veracruz Reform Laws 1859-07-12]], [[Wyke_Zamacona_Treaty|Wyke-Zamacona Treaty]]
 - Themes: [[British_Interests|British interests]], [[Convention_Of_London|Convention of London]], [[Disentailment_Disamortization|Disentailment Disamortization]], [[French_Financial_Intervention|French financial intervention]], [[Jecker_Bonds|Jecker Bonds]], [[Juarez_Cabinet|Juárez cabinet]], [[Nationalization_Of_Ecclesiastical_Property|Nationalization Of Ecclesiastical Property]], [[War_Finance|war finance]]

@@ -3,15 +3,17 @@ id: "PERSON_FUENTES_MARES"
 type: "person"
 status: "stub"
 created: "2026-06-30"
-updated: "2026-07-02"
+updated: "2026-07-13"
 tags:
   - "person"
   - "historian"
   - "hamnett"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
-canonical_name: "Fuentes Mares"
+canonical_name: "José Fuentes Mares"
 aliases:
   - "Fuentes Mares"
+  - "José Fuentes Mares"
+  - "Jose Fuentes Mares"
 verification_needed: "yes"
 ---
 
@@ -47,3 +49,14 @@ Hamnett p.119 cites Fuentes Mares as a historiographical voice questioning wheth
 - Related Events: [[Constitution_Of_1857]]
 - Related Themes: [[Historiography_Of_Juarez]], [[Constitutional_Workability]], [[Executive_Supremacy]]
 - Cautions: Treat this as historiographical opinion; confirm full bibliography and passage.
+
+## Hamnett 1994 p.247 Bibliographical Essay
+
+Hamnett identifies José Fuentes Mares by full name, traces a movement toward a more juarista position, and presents his Miramón study as a reassessment of the Conservative general's distance from French and imperial designs.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0126]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3073]], [[FACT_HAMNETT_JUAREZ_3074]], [[FACT_HAMNETT_JUAREZ_3075]]
+- Related People: [[Benito_Juarez]], [[Miguel_Miramon]], [[Napoleon_III]], [[Maximilian]]
+- Related Places: [[Queretaro]], [[Mexico]]
+- Related Themes: [[Historiography_Of_Juarez]], [[Mexican_Conservatism]], [[US_Mexico_Relations]]
+- Cautions: Confirm the edition sequence, the basis for the claimed shift toward juarismo, and the Miramón interpretation in the original works.

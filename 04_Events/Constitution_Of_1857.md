@@ -3,7 +3,7 @@ id: "EVENT_CONSTITUTION_OF_1857"
 type: "event"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-07-06"
+updated: "2026-07-13"
 tags:
   - "event"
   - "hamnett"
@@ -164,3 +164,13 @@ Hamnett pp.206-207 treats the post-1867 problem as embedding constitutionalism a
 - Related People: [[Benito_Juarez|Benito Juárez]], [[Porfirio_Diaz|Porfirio Díaz]], [[Ignacio_Ramirez|Ignacio Ramírez]], [[Ignacio_Altamirano|Ignacio Altamirano]]
 - Related Themes: [[Constitutional_Legitimacy]], [[Executive_Power_Vs_Congress]], [[Plebiscitary_Legitimacy]], [[Liberal_Factionalism]]
 - Cautions: Separate Hamnett's constitutional evaluation from actor claims about defending the 1857 principles.
+
+## Hamnett 1994 pp.246-247 Bibliographical Debate
+
+Hamnett places García Granados and Rabasa's constitutional criticism against Cosío Villegas's argument that 1867-1876 political life complicates constitutional determinism.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0126]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3066]], [[FACT_HAMNETT_JUAREZ_3067]], [[FACT_HAMNETT_JUAREZ_3068]], [[FACT_HAMNETT_JUAREZ_3069]], [[FACT_HAMNETT_JUAREZ_3070]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1153]], [[TIME_HAMNETT_JUAREZ_1155]]
+- Related People: [[Emilio_Rabasa]], [[Benito_Juarez]], [[Sebastian_Lerdo_De_Tejada]], [[Porfirio_Diaz]]
+- Cautions: Keep these as competing historiographical interpretations; confirm García Granados, Rabasa, and Cosío Villegas in their own works.

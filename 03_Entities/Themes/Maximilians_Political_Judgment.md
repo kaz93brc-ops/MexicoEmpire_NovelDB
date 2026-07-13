@@ -27,7 +27,7 @@ Entry note for Maximilian's political judgment. Keep historical evidence, interp
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_2027|Maximilian understood Tehuantepec's priority]], [[FACT_HAMNETT_JUAREZ_2397|Hamnett says Maximilian tried to supply the national consensus Juarez lacked]], [[FACT_HAMNETT_JUAREZ_3001|Juarez exploited Maximilian's political weakness]], [[FACT_MEXEMP_0484|Maximilianはギリシャを君主制に不向きな国と見なしていた]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_2027|Maximilian understood Tehuantepec's priority]], [[FACT_HAMNETT_JUAREZ_2397|Hamnett says Maximilian tried to supply the national consensus Juarez lacked]], [[FACT_HAMNETT_JUAREZ_3001|Juarez exploited Maximilian's political weakness]], [[FACT_HAMNETT_JUAREZ_3075|Fuentes Mares recreated Miramon as distinct from French and imperial designs]], [[FACT_MEXEMP_0484|Maximilianはギリシャを君主制に不向きな国と見なしていた]]
 - Timeline Entries:
 - Source Notes:
 - Scenes:

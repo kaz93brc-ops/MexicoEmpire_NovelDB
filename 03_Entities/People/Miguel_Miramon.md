@@ -3,7 +3,7 @@ id: PER-MIGUEL-MIRAMON
 type: person
 status: draft
 created: 2026-06-14
-updated: 2026-07-04
+updated: 2026-07-13
 tags:
   - person
   - miramon
@@ -148,3 +148,13 @@ Hamnett pp.192-193 places Miramón among the three condemned prisoners, reports 
 - Related People: [[Maximilian]], [[Tomas_Mejia|Tomás Mejía]], [[Benito_Juarez|Benito Juárez]]
 - Related Events: [[Execution_Of_Maximilian_Miramon_And_Mejia|Execution of Maximilian, Miramón and Mejía]]
 - Cautions: Miramón's wife's name is not visible on this page; do not create or merge a Person note until verified.
+
+## Hamnett 1994 p.247 Historiographical Reassessment
+
+Hamnett presents Fuentes Mares's Miramón study as a historical recreation that stresses Miramón's distance from Napoleon III's designs and Maximilian's coolness toward him until Querétaro.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0126]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3075]]
+- Related People: [[Fuentes_Mares|José Fuentes Mares]], [[Napoleon_III]], [[Maximilian]]
+- Related Place: [[Queretaro]]
+- Cautions: This is Hamnett's account of a later historian's reassessment; check Fuentes Mares and compare with Shawcross before using it as character evidence.

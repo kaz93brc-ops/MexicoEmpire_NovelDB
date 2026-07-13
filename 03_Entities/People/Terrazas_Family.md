@@ -3,7 +3,7 @@ id: "FAMILY_TERRAZAS"
 type: "family"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-07-03"
+updated: "2026-07-13"
 tags:
   - "family"
   - "chihuahua"
@@ -48,3 +48,14 @@ Hamnett pp.136-137 expands the Terrazas family background: municipal office, com
 - Related Places: [[Chihuahua]], [[Chihuahua_City]]
 - Related Themes: [[Landownership]], [[Caciquismo_And_Regional_Power]], [[Liberal_Factionalism]]
 - Cautions: Zuloaga family relation remains a candidate-only connection until the source trail is checked.
+
+## Hamnett 1994 p.247 Bibliographical Essay
+
+Hamnett summarizes Almada's argument that Juárez-Terrazas cooperation strengthened a vast Chihuahua family domain and that this domain contributed to the 1910-1911 revolutionary explosion; he also identifies Tamayo as clarifying the federal-revenue conflict.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0126]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3076]], [[FACT_HAMNETT_JUAREZ_3077]], [[FACT_HAMNETT_JUAREZ_3078]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1158]], [[TIME_HAMNETT_JUAREZ_1159]]
+- Related People: [[Benito_Juarez]]
+- Related Place: [[Chihuahua]]
+- Cautions: p.247 uses the surname only; confirm that each individual reference is Luis Terrazas and treat Almada's revolutionary causation as interpretation, not direct proof.

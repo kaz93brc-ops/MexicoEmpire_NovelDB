@@ -34,7 +34,7 @@ Use Álvarez as a morally complex liberal-side actor: mediator, protector, caudi
 - People:
 - Organizations:
 - Places:
-- Events: [[Centralist_Republic_1836_1846|Centralist Republic (1836-46)]], [[Collapse_Of_Santa_Anna_Regime_1844|Collapse Of Santa Anna Regime 1844]], [[Mid_1840s_Rural_Rebellions|Mid-1840s Rural Rebellions]]
+- Events: [[Collapse_Of_Santa_Anna_Regime_1844|Collapse Of Santa Anna Regime 1844]]
 - Themes:
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0349|Álvarez mediated rural discontent while undermining Santa Anna]], [[FACT_HAMNETT_JUAREZ_0350|Rural rebellions and Álvarez helped bring down the Santa Anna regime]]
 - Timeline Entries:
