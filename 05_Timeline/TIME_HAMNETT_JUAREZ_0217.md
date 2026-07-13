@@ -56,6 +56,12 @@ Juárezは憲法上の任期満了によりOaxaca知事職を退いた。
 - Archive page: /page/42/mode/2up; Page 42 (57/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.24.21.jpeg
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] repeats 1852-08-12 as the end of Juárez's Oaxaca governorship range.
+- Locator: p.253 / `/page/252/mode/2up` / `スクリーンショット 2026-06-13 17.31.07.jpeg`.
+- Planned `TIME_HAMNETT_JUAREZ_1212` was not created because this entry and [[TIME_HAMNETT_JUAREZ_0175|0175]] already cover the range endpoints.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

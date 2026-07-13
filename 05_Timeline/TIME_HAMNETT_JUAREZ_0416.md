@@ -64,6 +64,12 @@ related_fact_cards:
 - Kindle location: 
 - Screenshot file: スクリーンショット 2026-06-13 17.28.28.jpeg
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] records 1856-02-18 as the Constituent Congress convening date in Mexico City.
+- Locator: p.253 / `/page/252/mode/2up` / `スクリーンショット 2026-06-13 17.31.07.jpeg`.
+- Planned `TIME_HAMNETT_JUAREZ_1217` was not created because this entry already records the date.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

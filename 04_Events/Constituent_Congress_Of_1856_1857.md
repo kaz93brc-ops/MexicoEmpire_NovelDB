@@ -9,7 +9,7 @@ tags:
   - "hamnett"
   - "constitutionalism"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
-start_date: "1856"
+start_date: "1856-02-18"
 end_date: "1857"
 date_precision: "approximate_period"
 verification_needed: "yes"
@@ -54,3 +54,9 @@ Hamnett p.107 states that the 1859 Manifesto referred back to radical social ref
 - Related Event: [[Manifesto_To_The_Nation]]
 - Themes: [[Landownership]], [[Liberal_Reform]], [[Rural_Rebellions]]
 - Cautions: The individual reformers, speeches, and statutory proposals remain to be confirmed.
+
+## Hamnett 1994 pp.252–253 Chronology
+
+- Chronology locator: [[CAP_HAMNETT_JUAREZ_0129]] / p.253 / `/page/252/mode/2up`.
+- The Chronology supplies 1856-02-18 as the convening date in Mexico City; existing [[TIME_HAMNETT_JUAREZ_0416|Timeline0416]] was reused.
+- Planned Timeline1217 was held as a duplicate; the end of the Congress remains year-level in this Event note.

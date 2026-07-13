@@ -73,3 +73,7 @@ Hamnettは、Benito Juárezが1806年、OaxacaのZapotec農民家族に生まれ
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0012]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0093]]
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] adds 1806-03-21 and Guelatao to the earlier year-level birth locator.
+- The exact day and place remain `historical_fact / probable / verification_needed: yes`; planned `TIME_HAMNETT_JUAREZ_1210` was folded into [[TIME_HAMNETT_JUAREZ_0093|0093]].

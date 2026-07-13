@@ -75,3 +75,7 @@ JuárezはJalapaへ護送され、1853年10月5日に国外追放され、1855�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0025]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0224]], [[TIME_HAMNETT_JUAREZ_0225]]
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] summarizes the New Orleans exile as 1853–1855.
+- Planned `FACT_HAMNETT_JUAREZ_3153` was not created because this card preserves the more precise range and verification caution.

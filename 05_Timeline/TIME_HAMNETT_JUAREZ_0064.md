@@ -66,6 +66,12 @@ Hamnettの整理では、Reforma期にChurch subordination、property appropriat
 - Kindle location: 
 - Screenshot file: スクリーンショット 2026-06-13 17.22.56.jpeg
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] independently labels the Reform Period as 1855–1876.
+- Locator: p.253 / `/page/252/mode/2up` / `スクリーンショット 2026-06-13 17.31.07.jpeg`.
+- The period remains `author_interpretation / probable / verification_needed: yes`; planned Fact3155 was held in favor of [[FACT_HAMNETT_JUAREZ_0135|0135]].
+
 ## Evidence Notes
 
 - Evidence category: author_interpretation

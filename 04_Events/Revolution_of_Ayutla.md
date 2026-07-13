@@ -10,7 +10,7 @@ tags:
   - "liberal-reform"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 event_name: "Revolution of Ayutla"
-date_start: "1854-03"
+date_start: "1854-03-01"
 date_end: ""
 ---
 
@@ -60,3 +60,9 @@ Hamnett p.56-57では、Ayutla Revolutionは1854年3月に始まり、南部起�
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0658]] - [[FACT_HAMNETT_JUAREZ_0693]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0286]] - [[TIME_HAMNETT_JUAREZ_0297]]
 - Note: Hamnett presents Ayutla as a heterogeneous tactical coalition with popular elements, regional caciques, exile Liberals, army defections, and later conservative-linked actors.
+
+## Hamnett 1994 pp.252–253 Chronology
+
+- Chronology locator: [[CAP_HAMNETT_JUAREZ_0129]] / p.253 / `/page/252/mode/2up`.
+- The Chronology connects 1854-03-01 to Santa Anna's 1855-08-08 fall; existing [[TIME_HAMNETT_JUAREZ_0280|0280]] and [[TIME_HAMNETT_JUAREZ_0294|0294]] were reused.
+- Planned Timeline1214–1215 and Fact3154 were held to keep the two endpoint claims in existing cards.

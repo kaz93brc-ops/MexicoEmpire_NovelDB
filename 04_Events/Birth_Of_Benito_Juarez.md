@@ -3,13 +3,13 @@ id: "EVENT_BIRTH_OF_BENITO_JUAREZ"
 type: "event"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-14"
 tags:
   - "event"
   - "juarez"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
-date_start: "1806"
-date_precision: "year"
+date_start: "1806-03-21"
+date_precision: "day"
 ---
 
 # Birth Of Benito Juárez
@@ -28,7 +28,7 @@ Juárezの出自をZapotec文化、Spanish crown、Bourbon改革後のOaxaca社�
 
 ## Open Questions
 
-- 出生地Guelataoなどの詳細はこのページ外で確認。
+- Chronologyが示す1806-03-21とGuelataoを一次史料・別文献で確認する。
 
 ## Linked Items
 
@@ -37,3 +37,9 @@ Juárezの出自をZapotec文化、Spanish crown、Bourbon改革後のOaxaca社�
 - Themes: [[Zapotec_Identity]], [[Juarez_Formation|Juárez formation]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0188]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0093]]
+
+## Hamnett 1994 pp.252–253 Chronology
+
+- Chronology locator: [[CAP_HAMNETT_JUAREZ_0129]] / p.252 / `/page/252/mode/2up`.
+- The Chronology specifies 1806-03-21 and Guelatao; [[TIME_HAMNETT_JUAREZ_0093|Timeline0093]] was strengthened instead of creating planned Timeline1210.
+- The day and place remain `historical_fact / probable / verification_needed: yes` pending independent confirmation.
