@@ -77,7 +77,7 @@ p.245ではGenaro GarcíaとHilarión Frías y Sotoの反論、Justo Sierraの�
 - [[FACT_HAMNETT_JUAREZ_3033|3033]]–[[FACT_HAMNETT_JUAREZ_3035|3035]]: Bulnesの初期経歴・米国介入・1867年後の民主主義批判。
 - [[FACT_HAMNETT_JUAREZ_3036|3036]]–[[FACT_HAMNETT_JUAREZ_3037|3037]]: GarcíaとFrías y Sotoの反論。
 - [[FACT_HAMNETT_JUAREZ_3038|3038]]–[[FACT_HAMNETT_JUAREZ_3040|3040]]: SierraのReforma中心解釈、大西洋世界的位置づけ、叙述上の重点。
-- Held: planned `3041`; Galindo y Galindoの未完文は次ページ確認後に判断する。
+- Resolution: planned `3041` remained unused; [[CAP_HAMNETT_JUAREZ_0126|次の見開き]]で文意を確認し、ユーザー指定の新範囲に従って[[FACT_HAMNETT_JUAREZ_3060|3060]]として作成した。
 
 ## Timeline Entries Created
 
@@ -134,7 +134,7 @@ p.245ではGenaro GarcíaとHilarión Frías y Sotoの反論、Justo Sierraの�
 - New Orleans亡命中のJuárez–Ocampo接触を既存亡命期カードへ接続するか確認する。
 - Bulnes、García、Frías y Soto、Sierraの原典と政治的位置、SierraがNapoleon III没落・1871年後の欧州秩序へ接続した論理を確認する。
 - この見開きに注番号は見えない。Bibliographical Essayで追加書誌が続く可能性がある。
-- p.245末尾のGalindo y Galindo評価は `modern ...` の途中で切れる。次ページで語句と文意を確認し、planned Fact3041とstubの要否を再判断する。
+- p.245末尾のGalindo y Galindo評価は[[CAP_HAMNETT_JUAREZ_0126|次の見開き]]p.246で解消し、近代メキシコ国家形成とCatholic Church影響排除の論点として[[FACT_HAMNETT_JUAREZ_3060|Fact3060]]へ整理した。Miguel Galindo y Galindoの正式書誌とstub要否は引き続き確認する。
 
 ## Short Original Phrases
 

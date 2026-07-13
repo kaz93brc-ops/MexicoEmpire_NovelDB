@@ -3,7 +3,7 @@ id: "PERSON_LUCAS_ALAMAN"
 type: "person"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-06-25"
+updated: "2026-07-13"
 tags:
   - "person"
   - "mexican-conservatism"
@@ -70,3 +70,12 @@ Hamnett p.71 uses Alamán, likely Lucas Alamán, as part of the memory of attemp
 - Related Events: [[Constitution_Of_1857]], [[Bustamante_Alaman_Regime_1830_1832]]
 - Related Themes: [[Centralism]], [[Provincial_Autonomy]], [[Neo_Bourbon_State]]
 - Cautions: Confirm that this p.71 reference is specifically Lucas Alamán and identify the precise central-government project Hamnett has in mind.
+
+## Hamnett 1994 p.246 Historiographical Reference
+
+Hamnett presents Frías y Soto as associating Bulnes's Juárez critique with an older conservative, monarchic historical style linked to Lucas Alamán.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0126]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3064]]
+- Related People: [[Hilarion_Frias_Y_Soto]], [[Francisco_Bulnes]], [[Benito_Juarez]]
+- Cautions: This is Frías y Soto's polemical genealogy as summarized by Hamnett; do not attribute Bulnes's position directly to Alamán without checking both texts.

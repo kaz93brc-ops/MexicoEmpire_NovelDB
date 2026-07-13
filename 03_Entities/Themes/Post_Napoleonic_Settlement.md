@@ -22,12 +22,12 @@ Entry note for post Napoleonic settlement. Keep historical evidence, interpretat
 
 ## Linked Items
 
-- People:
+- People: [[Justo_Sierra|Justo Sierra]]
 - Organizations:
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_MEXEMP_0056|1815年以降、オーストリアは旧ヴェネツィア領を支配した]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_3039|Sierra placed Mexico's 1857-1867 struggle in Atlantic and North American balances]], [[FACT_MEXEMP_0056|1815年以降、オーストリアは旧ヴェネツィア領を支配した]]
 - Timeline Entries: [[TIME_MEXEMP_0014|1815年、オーストリアは旧ヴェネツィア共和国領の支配を確認された]]
 - Source Notes:
 - Scenes:

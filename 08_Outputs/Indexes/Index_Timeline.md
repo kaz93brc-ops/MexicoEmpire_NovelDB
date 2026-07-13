@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Timeline Entries: 1228
+- Timeline Entries: 1234
 - Entries with no backlinks: 1
 
 ## Entries
@@ -1233,6 +1233,12 @@ tags:
 - 1905–1906: [[TIME_HAMNETT_JUAREZ_1136|Justo Sierra publishes a Reforma-centered interpretation of Juarez]]
 - circa 1906: [[TIME_HAMNETT_JUAREZ_1137|Juarez centenary politics intensify historiographical controversy]]
 - 1972: [[TIME_HAMNETT_JUAREZ_1138|Juan Sanchez's Juarez study is reissued under Miguel Leon-Portilla's initiative]]
+- 1857–1867: [[TIME_HAMNETT_JUAREZ_1152|Galindo y Galindo interprets 1857-1867 as modern state formation]]
+- 1867–1876: [[TIME_HAMNETT_JUAREZ_1153|Cosio Villegas uses 1867-1876 against constitutional determinism]]
+- 1912: [[TIME_HAMNETT_JUAREZ_1155|Rabasa's constitutional critique appears in 1912]]
+- 1957–1961: [[TIME_HAMNETT_JUAREZ_1157|Reyes Heroles publishes his Mexican Liberalism study, 1957-1961]]
+- 1958: [[TIME_HAMNETT_JUAREZ_1158|Almada's Juarez-Terrazas study appears in 1958]]
+- 1970: [[TIME_HAMNETT_JUAREZ_1159|Tamayo's Chihuahua study appears in 1970]]
 - : [[Timeline_Index|Timeline Index]]
 - after 1520: [[TIME_HAMNETT_JUAREZ_0089|after 1520、Spanish ConquestがOaxacaへ及んだ]]
 - after 1765: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]

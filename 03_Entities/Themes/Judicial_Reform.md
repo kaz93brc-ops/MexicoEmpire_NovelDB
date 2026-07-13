@@ -32,7 +32,7 @@ Use judicial reform as a practical institutional scene rather than a speech-cent
 ## Linked Items
 
 - People:
-- Organizations: [[Oaxaca_Governorship|Oaxaca governorship]], [[Superior_Tribunal_Of_Justice_Oaxaca|Superior Tribunal of Justice]]
+- Organizations:
 - Places:
 - Events: [[Oaxaca_Judicial_Reorganization_1844|Oaxaca Judicial Reorganization 1844]]
 - Themes:

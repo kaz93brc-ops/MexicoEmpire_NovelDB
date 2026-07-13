@@ -3,7 +3,7 @@ id: "PLACE_CHIHUAHUA"
 type: "place"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-13"
 tags:
   - "place"
   - "chihuahua"
@@ -61,3 +61,14 @@ Hamnett p.135 opens the `JUÁREZ IN CHIHUAHUA` section by confining the Juárez 
 - Related Organizations: [[Juarez_Government]]
 - Related Themes: [[Republican_Retreat_To_Chihuahua]], [[Republican_Government_In_Movement]], [[US_Mexico_Border]]
 - Cautions: p.135末尾のRuben Creel評価はp.136へ続く。
+
+## Hamnett 1994 p.247 Bibliographical Essay
+
+Hamnett identifies Almada and Tamayo as later guides to Terrazas family power, Juárez's political difficulties over federal revenues, and northern Mexican politics in the mid-1860s.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0126]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3076]], [[FACT_HAMNETT_JUAREZ_3077]], [[FACT_HAMNETT_JUAREZ_3078]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1158]], [[TIME_HAMNETT_JUAREZ_1159]]
+- Related Family: [[Terrazas_Family]]
+- Related People: [[Benito_Juarez]]
+- Cautions: Confirm the Terrazas individual, federal-revenue episodes, and Almada's causal link to 1910-1911 in the cited regional histories.

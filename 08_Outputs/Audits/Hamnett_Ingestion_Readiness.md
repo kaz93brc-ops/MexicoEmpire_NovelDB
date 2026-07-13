@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2840
-- hamnett_timeline_entries: 903
-- next_required_page: printed pages 246-247 / resolve p.245 `modern ...` continuation in Miguel Galindo y Galindo discussion and continue the Bibliographical Essay; local pp.146-147 gap remains unless handled elsewhere
+- hamnett_fact_cards: 2859
+- hamnett_timeline_entries: 909
+- next_required_page: printed pages 248-249 / confirm Bibliographical Essay continuation and whether the subject shifts after the completed p.247 Tamayo sentence; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -58,6 +58,7 @@ tags:
 - Chapter 4 / THE CONSTITUTION OF 1857: 31
 - THE EXECUTION OF MAXIMILIAN continuation: 31
 - Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT?: 30
+- Bibliographical Essay: 30
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR: 28
 - "THE GROWTH OF OPPOSITION": 27
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE LIBERAL EXPERIMENT OF 1833-34末尾 / THE CENTRALIST REPUBLIC (1836-46)開始: 26
@@ -88,7 +89,6 @@ tags:
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / NOTES AND REFERENCES: 14
 - "THE CONVOCATORIA OF AUGUST 1867 AND THE CONTROVERSY OVER CONSTITUTIONAL REFORM": 14
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR continuation: 12
-- Bibliographical Essay: 11
 - Chapter 1 / The Aims of Mexican Liberalism: 10
 - THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72): 10
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ: 8
@@ -159,6 +159,7 @@ tags:
 - THE ISSUE OF RECOGNITION: 12
 - THE EXECUTION OF MAXIMILIAN: 12
 - "THE GROWTH OF OPPOSITION" continuation: 12
+- Bibliographical Essay: 12
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE INSTITUTE OF SCIENCE AND ARTS: 11
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE LIBERAL EXPERIMENT OF 1833-34: 11
 - Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ IN THE LIBERAL CONSTELLATION: 11
@@ -184,7 +185,6 @@ tags:
 - THE EXECUTION OF MAXIMILIAN conclusion: 6
 - "THE LATER JUÁREZ" continuation: 6
 - "THE CIVIL WAR IN GUERRERO" continued: 6
-- Bibliographical Essay: 6
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE ESCALATION OF CONFLICT AND THE CIVIL WAR OF THE REFORM: 5
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / NATIONALISM, SECULARISM AND PLURALISM: 5
 - THE EXECUTION OF MAXIMILIAN continuation: 5

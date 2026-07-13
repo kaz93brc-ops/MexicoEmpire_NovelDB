@@ -3,7 +3,7 @@ id: "PERSON_FERNANDO_IGLESIAS_CALDERON"
 type: "person"
 status: "stub"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-13"
 tags:
   - "person"
   - "hamnett"
@@ -46,3 +46,13 @@ p.165 note 32 cites Fernando Iglesias Calderón's work for the Chapter 7 conclus
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_1968]]
 - Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0669]]
 - Cautions: Do not identify p.162 "Iglesias" as José María Iglesias solely from the body text; note 32 is a Fernando Iglesias Calderón source trail.
+
+## Hamnett 1994 p.246 Bibliographical Essay
+
+Hamnett presents Iglesias Calderón as rejecting Bulnes's revived claim that Juárez depended on the United States for Liberal victory and as reasserting the Liberal accusation against Conservatives.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0126]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3062]], [[FACT_HAMNETT_JUAREZ_3063]]
+- Related People: [[Francisco_Bulnes]], [[Benito_Juarez]], [[Hilarion_Frias_Y_Soto]]
+- Related Events: [[French_Intervention_in_Mexico]]
+- Cautions: Treat both accusations as Hamnett-mediated historiographical positions and confirm the publication sequence and original text.

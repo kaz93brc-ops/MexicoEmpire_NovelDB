@@ -26,7 +26,7 @@ Entry note for colonization policy. Keep historical evidence, interpretation, an
 - Organizations:
 - Places:
 - Events: [[Colonization_Law_Of_5_September_1865|Colonization Law of 5 September 1865]]
-- Themes: [[Confederate_Exile|Confederate exile]], [[Romero_Anti_Slavery_Critique_Of_Maximilian_Colonization_Policy|Romero Anti-Slavery Critique of Maximilian Colonization Policy]]
+- Themes: [[Romero_Anti_Slavery_Critique_Of_Maximilian_Colonization_Policy|Romero Anti-Slavery Critique of Maximilian Colonization Policy]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1926|Maximilian's regime considered refuge for defeated Confederates]], [[FACT_HAMNETT_JUAREZ_1927|The 1865 Colonization Law affirmed freedom for people of color entering Mexico]], [[FACT_HAMNETT_JUAREZ_1928|The 1865 Colonization Law allowed immigrants to bring contracted workers]], [[FACT_HAMNETT_JUAREZ_1929|The 1865 Colonization Law included restrictive labor provisions]], [[FACT_HAMNETT_JUAREZ_1930|Romero attacked the Colonization Law as disguised southern slavery]], [[FACT_MEXEMP_1337|Matthew Fontaine MauryはMaximilian帝国で複数の役職を得た]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0652|1865-09-05 Colonization Law becomes anti-slavery critique target]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0082]]
