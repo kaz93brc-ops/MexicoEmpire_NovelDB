@@ -2,8 +2,8 @@
 id: "Index_Entities"
 type: "index_note"
 status: "active"
-created: "2026-07-13"
-updated: "2026-07-13"
+created: "2026-07-14"
+updated: "2026-07-14"
 tags:
   - "index"
   - "entities"
@@ -13,56 +13,56 @@ tags:
 
 ## Summary
 
-- People: 658
-- Organizations: 390
+- People: 665
+- Organizations: 391
 - Places: 320
 - Themes: 1507
 - Events: 442
 
 ## High-Link Entity Notes
 
-- [[Benito_Juarez|Benito Juarez]] - backlinks: 3317
-- [[Mexico]] - backlinks: 2109
-- [[Maximilian]] - backlinks: 1999
-- [[Juarez_Government|Juárez Government]] - backlinks: 1217
-- [[Oaxaca]] - backlinks: 973
-- [[Liberal_Factionalism|Liberal Factionalism]] - backlinks: 794
+- [[Benito_Juarez|Benito Juarez]] - backlinks: 3348
+- [[Mexico]] - backlinks: 2140
+- [[Maximilian]] - backlinks: 2001
+- [[Juarez_Government|Juárez Government]] - backlinks: 1219
+- [[Oaxaca]] - backlinks: 975
+- [[Liberal_Factionalism|Liberal Factionalism]] - backlinks: 795
 - [[Mexico_City|Mexico City]] - backlinks: 753
 - [[French_Intervention_in_Mexico|French Intervention in Mexico]] - backlinks: 721
 - [[Mexican_Empire|Mexican Empire]] - backlinks: 704
-- [[Catholic_Church|Catholic Church]] - backlinks: 646
+- [[Catholic_Church|Catholic Church]] - backlinks: 651
 - [[Napoleon_III|Napoleon III]] - backlinks: 581
 - [[Carlota]] - backlinks: 572
-- [[Queretaro]] - backlinks: 510
+- [[Queretaro]] - backlinks: 511
 - [[French_Army|French Army]] - backlinks: 502
-- [[United_States|United States]] - backlinks: 484
+- [[United_States|United States]] - backlinks: 492
 - [[Liberal_Party_Mexico|Liberal Party Mexico]] - backlinks: 444
+- [[Church_State_Relations_Mexico|Church-state relations in Mexico]] - backlinks: 422
 - [[Oaxaca_State_Government|Oaxaca state government]] - backlinks: 422
-- [[Church_State_Relations_Mexico|Church-state relations in Mexico]] - backlinks: 418
 - [[Federal_State_Tension|Federal State Tension]] - backlinks: 413
 - [[France]] - backlinks: 406
+- [[Porfirio_Diaz|Porfirio Díaz]] - backlinks: 404
 - [[Reform_War|Reform War]] - backlinks: 402
-- [[Porfirio_Diaz|Porfirio Díaz]] - backlinks: 399
 - [[Ignacio_Comonfort|Ignacio Comonfort]] - backlinks: 380
 - [[Veracruz]] - backlinks: 367
 - [[Constitution_Of_1857|Constitution Of 1857]] - backlinks: 362
-- [[Federal_Government|federal government]] - backlinks: 325
-- [[US_Mexico_Relations|US-Mexico Relations]] - backlinks: 324
+- [[US_Mexico_Relations|US-Mexico Relations]] - backlinks: 333
+- [[Federal_Government|federal government]] - backlinks: 332
 - [[French_Empire|French Empire]] - backlinks: 319
 - [[Constitutional_Legitimacy|constitutional legitimacy]] - backlinks: 306
 - [[Bazaine|Achille Bazaine]] - backlinks: 302
 - [[Puebla]] - backlinks: 298
 - [[Second_Mexican_Empire|Second Mexican Empire]] - backlinks: 296
 - [[Miguel_Miramon|Miguel Miramón]] - backlinks: 270
-- [[La_Noria_Rebellion|La Noria rebellion]] - backlinks: 266
-- [[Melchor_Ocampo|Melchor Ocampo]] - backlinks: 256
+- [[La_Noria_Rebellion|La Noria rebellion]] - backlinks: 269
+- [[Melchor_Ocampo|Melchor Ocampo]] - backlinks: 258
 - [[State_Governments|state governments]] - backlinks: 256
 - [[Miguel_Lerdo_De_Tejada|Miguel Lerdo de Tejada]] - backlinks: 255
 - [[Republican_Resistance|Republican Resistance]] - backlinks: 247
 - [[Habsburg]] - backlinks: 243
 - [[Santiago_Vidaurri|Santiago Vidaurri]] - backlinks: 239
 - [[Caciquismo_And_Regional_Power|Caciquismo and regional power]] - backlinks: 237
-- [[United_States_Government|United States government]] - backlinks: 232
+- [[United_States_Government|United States government]] - backlinks: 234
 - [[Imperial_Army|Imperial Army]] - backlinks: 229
 - [[Mariano_Escobedo|Mariano Escobedo]] - backlinks: 224
 - [[Republic_of_Mexico|Republic of Mexico]] - backlinks: 221
@@ -72,12 +72,12 @@ tags:
 - [[Sebastian_Lerdo_De_Tejada|Sebastián Lerdo de Tejada]] - backlinks: 208
 - [[Mexican_Conservatives|Mexican Conservatives]] - backlinks: 203
 - [[Chihuahua]] - backlinks: 201
-- [[Mexican_Liberalism|Mexican Liberalism]] - backlinks: 197
+- [[Mexican_Liberalism|Mexican Liberalism]] - backlinks: 199
 - [[Jesus_Gonzalez_Ortega|Jesús González Ortega]] - backlinks: 190
 - [[Siege_of_Queretaro|Siege of Querétaro]] - backlinks: 187
 - [[Juaristas]] - backlinks: 184
-- [[Isthmus_Of_Tehuantepec|Isthmus of Tehuantepec]] - backlinks: 174
 - [[French_Withdrawal|French Withdrawal]] - backlinks: 172
+- [[Isthmus_Of_Tehuantepec|Isthmus of Tehuantepec]] - backlinks: 172
 - [[American_Civil_War|American Civil War]] - backlinks: 168
 - [[Tomas_Mejia|Tomás Mejía]] - backlinks: 168
 - [[Veracruz_Liberal_Regime|Veracruz Liberal Regime]] - backlinks: 161
@@ -86,9 +86,10 @@ tags:
 - [[Trial_of_Maximilian|Trial of Maximilian]] - backlinks: 160
 - [[Constitutionalism_Of_1857|Constitutionalism Of 1857]] - backlinks: 159
 - [[Diplomacy]] - backlinks: 159
+- [[Liberal_Reform|Liberal Reform]] - backlinks: 158
 - [[War_Finance|war finance]] - backlinks: 158
 - [[Leonardo_Marquez|Leonardo Márquez]] - backlinks: 157
-- [[Liberal_Reform|Liberal Reform]] - backlinks: 157
+- [[Historiography_Of_Juarez|Historiography of Juárez]] - backlinks: 155
 - [[Matias_Romero|Matías Romero]] - backlinks: 153
 - [[Executive_Power_Vs_Congress|Executive Power Vs Congress]] - backlinks: 152
 - [[French_Government|French Government]] - backlinks: 149
@@ -100,7 +101,6 @@ tags:
 - [[Federal_Congress_Mexico|Federal Congress Mexico]] - backlinks: 137
 - [[Miramar]] - backlinks: 137
 - [[Presidentialism]] - backlinks: 136
-- [[Felix_Diaz|Félix Díaz]] - backlinks: 134
 
 ## People
 
@@ -108,8 +108,10 @@ tags:
 - [[Abraham_Lincoln|Abraham Lincoln]]
 - [[Abstract_Principles|Abstract Principles]]
 - [[Administrative_Structure|Administrative Structure]]
+- [[Adolfo_Lopez_Mateos|Adolfo López Mateos]]
 - [[Adriatic_Sea|Adriatic Sea]]
 - [[Agnes_Salm_Salm|Agnes Salm-Salm]]
+- [[Agustin_Cue_Canovas|Agustín Cue Cánovas]]
 - [[Alberto_Cuervo|Alberto Cuervo]]
 - [[Albino_Jimenez|Albino Jiménez]]
 - [[Alice_Green|Alice Green]]
@@ -168,6 +170,7 @@ tags:
 - [[CAP_MEXEMP_0052|CAP MEXEMP 0052]]
 - [[Carlos_Manuel_de_Cespedes|Carlos Manuel de Céspedes]]
 - [[Carlos_Maria_de_Bustamante|Carlos María de Bustamante]]
+- [[Carlos_Salinas_De_Gortari|Carlos Salinas de Gortari]]
 - [[Carlos_Sanchez_Navarro|Carlos Sanchez Navarro]]
 - [[Carlota]]
 - [[Carmen_Vazquez_Mantecon|Carmen Vázquez Mantecón]]
@@ -193,6 +196,7 @@ tags:
 - [[Condumex_Foundation|Condumex Foundation]]
 - [[Contre_Guerillas_Francaises|Contre-Guérillas Françaises]]
 - [[Corporate_Status|Corporate Status]]
+- [[Daniel_Cosio_Villegas|Daniel Cosío Villegas]]
 - [[Desiderio_Pavon|Desiderio Pavón]]
 - [[Diego_Alvarez|Diego Álvarez]]
 - [[Dom_Pedro_II|Dom Pedro II]]
@@ -505,6 +509,7 @@ tags:
 - [[John_Howard_Payne|John Howard Payne]]
 - [[John_Schofield|John Schofield]]
 - [[John_Tutino|John Tutino]]
+- [[Jorge_L_Tamayo|Jorge L. Tamayo]]
 - [[Jose_Agustin_Dominguez|José Agustín Domínguez]]
 - [[Jose_Agustin_Quintero|José Agustín Quintero]]
 - [[Jose_Antonio_Serrano|José Antonio Serrano]]
@@ -568,6 +573,7 @@ tags:
 - [[Louis_XIV|Louis XIV]]
 - [[Lucas_Alaman|Lucas Alamán]]
 - [[Ludwig_Viktor|Ludwig Viktor]]
+- [[Luis_Echeverria_Alvarez|Luis Echeverría Álvarez]]
 - [[Luis_Fernandez_del_Campo|Luis Fernández del Campo]]
 - [[Luis_G_Cuevas|Luis G. Cuevas]]
 - [[Luis_Mier_y_Teran|Luis Mier y Terán]]
@@ -670,6 +676,7 @@ tags:
 - [[Rafael_Cravioto|Rafael Cravioto]]
 - [[Rafael_J_Garcia|Rafael J. García]]
 - [[Rafael_Quesada|Rafael Quesada]]
+- [[Ralph_Roeder|Ralph Roeder]]
 - [[Ramon_Cajiga|Ramón Cajiga]]
 - [[Ramon_Corona|Ramón Corona]]
 - [[Ramon_Mendez|Ramón Méndez]]
@@ -1086,6 +1093,7 @@ tags:
 - [[ODonnell_Government|O'Donnell Government]]
 - [[Ottoman_Empire|Ottoman Empire]]
 - [[Papacy]]
+- [[Partido_Revolucionario_Institucional|Partido Revolucionario Institucional]]
 - [[Permanent_Deputation|Permanent Deputation]]
 - [[Piedmontese_Government|Piedmontese government]]
 - [[Progressive_Wing|Progressive Wing]]

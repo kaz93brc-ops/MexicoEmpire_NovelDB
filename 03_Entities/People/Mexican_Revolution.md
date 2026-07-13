@@ -48,8 +48,8 @@ Entry note for Mexican Revolution. Verify details in linked Fact Cards and Timel
 - Places:
 - Events:
 - Themes:
-- Fact Cards:
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_3104|Cosio Villegas located modern Mexico before and beyond the 1910 Revolution]]
 - Timeline Entries:
-- Source Notes: [[CAP_MEXEMP_0106]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0127]], [[CAP_MEXEMP_0106]]
 - Scenes:
 - Questions:

@@ -54,7 +54,7 @@ Entry note for Oaxaca judicial reorganization, 1844. Verify chronology and actor
 - Organizations: [[Oaxaca_Governorship|Oaxaca governorship]], [[Superior_Tribunal_Of_Justice_Oaxaca|Superior Tribunal of Justice]]
 - Places:
 - Events:
-- Themes: [[Juarez_As_Provincial_Administrator|Juárez As Provincial Administrator]], [[Judicial_Reform|Judicial Reform]]
+- Themes: [[Judicial_Reform|Judicial Reform]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0336|Juárez led a reorganization of the Oaxaca judiciary in 1844]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0158|Juárez led the Oaxaca judicial reorganization, 1844]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0018]]

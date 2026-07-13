@@ -34,7 +34,7 @@ Use this theme to show that Mexico City political changes could quickly reshape 
 - People:
 - Organizations:
 - Places:
-- Events: [[Leon_Fernandez_del_Campo_Transfer_1845|León Fernández del Campo Transfer 1845]]
+- Events: [[Centralist_Republic_1836_1846|Centralist Republic (1836-46)]], [[Leon_Fernandez_del_Campo_Transfer_1845|León Fernández del Campo Transfer 1845]]
 - Themes:
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0337|Provincial and national politics mutually weakened government authority]], [[FACT_HAMNETT_JUAREZ_0352|León transferred power to Fernández del Campo on 1845-09-02]], [[FACT_HAMNETT_JUAREZ_0369|Federalist restoration first carried Juarez into national politics]], [[FACT_HAMNETT_JUAREZ_0380|Oaxaca rebellion also aimed to shake the position of Oaxaca federal deputies who backed the decree]], [[FACT_HAMNETT_JUAREZ_2405|Hamnett says state politics often determined national outcomes]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0160|León transferred power to Fernández del Campo, 1845-09-02]], [[TIME_HAMNETT_JUAREZ_0169|Juarez was elected federal deputy from Oaxaca]]

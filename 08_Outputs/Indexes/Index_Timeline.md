@@ -2,8 +2,8 @@
 id: "Index_Timeline"
 type: "index_note"
 status: "active"
-created: "2026-07-13"
-updated: "2026-07-13"
+created: "2026-07-14"
+updated: "2026-07-14"
 tags:
   - "index"
   - "timeline"
@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Timeline Entries: 1234
+- Timeline Entries: 1247
 - Entries with no backlinks: 1
 
 ## Entries
@@ -1239,6 +1239,19 @@ tags:
 - 1957–1961: [[TIME_HAMNETT_JUAREZ_1157|Reyes Heroles publishes his Mexican Liberalism study, 1957-1961]]
 - 1958: [[TIME_HAMNETT_JUAREZ_1158|Almada's Juarez-Terrazas study appears in 1958]]
 - 1970: [[TIME_HAMNETT_JUAREZ_1159|Tamayo's Chihuahua study appears in 1970]]
+- 1867: [[TIME_HAMNETT_JUAREZ_1171|Mexico-Holy See relations are said to break in 1867]]
+- 1947: [[TIME_HAMNETT_JUAREZ_1175|Roeder Juarez study appears in 1947]]
+- 1953: [[TIME_HAMNETT_JUAREZ_1176|Cosio Villegas Restoration and La Noria studies appear in 1953]]
+- 1956: [[TIME_HAMNETT_JUAREZ_1177|Cue Canovas treaty study appears in 1956]]
+- 1957: [[TIME_HAMNETT_JUAREZ_1178|Tamayo Juarez epistolary work appears in 1957]]
+- 1958–1964: [[TIME_HAMNETT_JUAREZ_1179|Tamayo collection begins under Lopez Mateos]]
+- 1964–1972: [[TIME_HAMNETT_JUAREZ_1180|Tamayo collection publication range remains 1964-1971 or 1964-1972]]
+- 1970–1976: [[TIME_HAMNETT_JUAREZ_1181|Tamayo collection completion is linked to the Echeverria presidency]]
+- 1972: [[TIME_HAMNETT_JUAREZ_1182|Juarez death centenary is linked to Tamayo collection completion]]
+- 1974–1975: [[TIME_HAMNETT_JUAREZ_1183|Tamayo treaty articles appear in 1974-1975]]
+- 1988–1994: [[TIME_HAMNETT_JUAREZ_1184|Salinas presidency frames late twentieth-century Juarez symbolism]]
+- 1990–1992: [[TIME_HAMNETT_JUAREZ_1185|NAFTA negotiations reopen Juarez nationalist symbolism]]
+- 1992-09: [[TIME_HAMNETT_JUAREZ_1186|Mexico-Holy See relations are said to be restored in September 1992]]
 - : [[Timeline_Index|Timeline Index]]
 - after 1520: [[TIME_HAMNETT_JUAREZ_0089|after 1520、Spanish ConquestがOaxacaへ及んだ]]
 - after 1765: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]

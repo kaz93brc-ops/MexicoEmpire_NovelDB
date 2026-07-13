@@ -2,7 +2,7 @@
 id: EXAMPLE-RECORDS
 type: doc
 status: active
-created: 2026-07-13
+created: 2026-07-14
 tags:
   - examples
   - maintenance

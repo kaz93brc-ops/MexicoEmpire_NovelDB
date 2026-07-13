@@ -40,7 +40,7 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - People:
 - Organizations:
-- Places: [[Cuernavaca_Izucar_Sugar_Belt|Cuernavaca-Izúcar Sugar Belt]], [[Izucar|Izúcar]], [[Papantla]], [[Putla]]
+- Places: [[Cuautla_Yautepec|Cuautla-Yautepec]], [[Cuernavaca_Izucar_Sugar_Belt|Cuernavaca-Izúcar Sugar Belt]], [[Izucar|Izúcar]], [[Papantla]], [[Putla]]
 - Events: [[Mid_1840s_Rural_Rebellions|Mid-1840s Rural Rebellions]]
 - Themes: [[Fiscal_Extraction_And_Legitimacy|Fiscal Extraction And Legitimacy]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0344|Centralism supported pressure against village land claims and peasant labor]], [[FACT_HAMNETT_JUAREZ_0345|Commercial agriculture intensified land and labor pressure]], [[FACT_HAMNETT_JUAREZ_0346|Sugar producers expanded production at peasant community expense]], [[FACT_HAMNETT_JUAREZ_0348|Mid-1840s rural rebellions followed land labor taxation and authority pressure]], [[FACT_HAMNETT_JUAREZ_0463|Commercial agriculture conflicted with indigenous rights in Tehuantepec]], [[FACT_HAMNETT_JUAREZ_0529|Hamnett note 18 cites Margarita Urías on military and commercial relations]], [[FACT_HAMNETT_JUAREZ_0534|Hamnett note 34 points to Tehuantepec and Cortés hacienda labor studies]]

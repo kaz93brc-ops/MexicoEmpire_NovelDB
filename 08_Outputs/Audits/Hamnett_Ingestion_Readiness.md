@@ -2,7 +2,7 @@
 id: HAMNETT-INGESTION-READINESS
 type: report
 status: active
-created: 2026-07-13
+created: 2026-07-14
 tags:
   - hamnett
   - ingestion
@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2859
-- hamnett_timeline_entries: 909
-- next_required_page: printed pages 248-249 / confirm Bibliographical Essay continuation and whether the subject shifts after the completed p.247 Tamayo sentence; local pp.146-147 gap remains unless handled elsewhere
+- hamnett_fact_cards: 2877
+- hamnett_timeline_entries: 922
+- next_required_page: printed pages 250-251 / continue p.249 unfinished Roeder evaluation beginning after `had little to say ...` and assess the English-language Juárez scholarship discussion; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -40,6 +40,7 @@ tags:
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ continuation: 51
 - THE DEBT QUESTION AND THE ALLIED INTERVENTION OF 1861-62: 51
 - Chapter 2, The Provincial Origins: Juárez and Oaxaca / Oaxaca: Culture and Society: 49
+- Bibliographical Essay: 48
 - Chapter 6 / JUÁREZ IN CHIHUAHUA: 47
 - THE VICTORY OF THE JUARISTAS: 46
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CENTRALIST REPUBLIC (1836-46): 44
@@ -58,7 +59,6 @@ tags:
 - Chapter 4 / THE CONSTITUTION OF 1857: 31
 - THE EXECUTION OF MAXIMILIAN continuation: 31
 - Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT?: 30
-- Bibliographical Essay: 30
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR: 28
 - "THE GROWTH OF OPPOSITION": 27
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE LIBERAL EXPERIMENT OF 1833-34末尾 / THE CENTRALIST REPUBLIC (1836-46)開始: 26
@@ -133,6 +133,7 @@ tags:
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CRISIS IN THE ISTHMUS: 27
 - Chapter 3 / JUÁREZ AND LIBERALISM / THE REVOLUTION OF AYUTLA: 25
 - Chapter 3 / JUÁREZ AND LIBERALISM / DEEPENING DIVISIONS IN THE LIBERAL PARTY: 25
+- Bibliographical Essay: 25
 - Chapter 1 / The Politics of Fragmentation: 23
 - THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72) continuation: 23
 - Chapter 2, The Provincial Origins: Juárez and Oaxaca / Oaxaca: Culture and Society: 22
@@ -159,7 +160,6 @@ tags:
 - THE ISSUE OF RECOGNITION: 12
 - THE EXECUTION OF MAXIMILIAN: 12
 - "THE GROWTH OF OPPOSITION" continuation: 12
-- Bibliographical Essay: 12
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE INSTITUTE OF SCIENCE AND ARTS: 11
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE LIBERAL EXPERIMENT OF 1833-34: 11
 - Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ IN THE LIBERAL CONSTELLATION: 11
@@ -216,7 +216,8 @@ tags:
 
 ## Next Checks From Progress Master
 
-- printed pages 246-247で、p.245末尾 `modern ...` の続き、Miguel Galindo y Galindoの1857-1867年解釈、著作の1904年・1987年版情報、stubとplanned Fact3041の要否を確認する。
+- printed pages 250-251で、p.249末尾Roeder評価文の `had little to say ...` 以降、英語圏Juárez研究の評価、次の史学史対象への移行を確認する。
+- SalinasのNAFTA関連テレビ演説日・媒体、1867年と1992年9月のHoly See関係の制度的正確性、Tamayo文書集の1964-71／1964-72年次齟齬を確認する。
 - Genaro García反論書1904年とBulnes本1905年の刊行順、Juan Sánchezの1902年刊行・1972年復刻、Gustavo Bazの著作名、Hilarión Frías y Sotoの1905年候補と既存1907年情報の不一致を確認する。
 - Notes 45-48は[[CAP_HAMNETT_JUAREZ_0101]]でlocator候補化済み。Juárez/Lerdo body inspection、body comment、robed/photography、Garibaldi/Hugo appeals、Baz statement、Juárez Manifesto、European diplomatic relationsへの正確な対応を個別確認する。
 - p.195下部に見える注1-2は章冒頭側の注であり、pp.194-195本文注45-48ではないことを維持する。
@@ -255,4 +256,3 @@ tags:
 - Fernando Iglesias Calderón 1905年著述、Hilarión Frías y Soto 1907年著述、Romero/Doblado 1864年10月領土割譲疑惑、Baja California/Sonora支配状況を確認する。
 - "Ten days later" の基準日、Wyke-Zamacona Treatyの正式名称・条項・議会否認日を確認する。
 - Thomas Corwinの正式役職、Corwin loan proposal文書、上院手続、抵当対象の具体的法的性格を確認する。
-- Confederate diplomacyの具体的相手先、特に北部州知事との関係を確認する。
