@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Timeline Entries: 1222
+- Timeline Entries: 1228
 - Entries with no backlinks: 1
 
 ## Entries
@@ -1227,6 +1227,12 @@ tags:
 - 1867: [[TIME_HAMNETT_JUAREZ_1121|Post-1867 ideological settlement]]
 - 1867-06_to_1872-07: [[TIME_HAMNETT_JUAREZ_1122|Obstruction during the restored republic]]
 - 1872_summer: [[TIME_HAMNETT_JUAREZ_1125|Political strain damages Juarez's health by summer 1872]]
+- 1876: [[TIME_HAMNETT_JUAREZ_1131|Porfirio Diaz takes power and Juarez memory becomes tied to regime politics]]
+- 1902: [[TIME_HAMNETT_JUAREZ_1132|Juan Sanchez publishes a legality-centered Juarez study]]
+- 1905: [[TIME_HAMNETT_JUAREZ_1133|Francisco Bulnes publishes a major criticism of Juarez]]
+- 1905–1906: [[TIME_HAMNETT_JUAREZ_1136|Justo Sierra publishes a Reforma-centered interpretation of Juarez]]
+- circa 1906: [[TIME_HAMNETT_JUAREZ_1137|Juarez centenary politics intensify historiographical controversy]]
+- 1972: [[TIME_HAMNETT_JUAREZ_1138|Juan Sanchez's Juarez study is reissued under Miguel Leon-Portilla's initiative]]
 - : [[Timeline_Index|Timeline Index]]
 - after 1520: [[TIME_HAMNETT_JUAREZ_0089|after 1520、Spanish ConquestがOaxacaへ及んだ]]
 - after 1765: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]

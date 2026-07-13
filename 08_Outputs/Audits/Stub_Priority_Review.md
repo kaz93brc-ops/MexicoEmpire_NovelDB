@@ -23,7 +23,7 @@ tags:
 
 - [[Oaxaca_State_Government|Oaxaca state government]] - backlinks: 422; quality_sections: yes
 - [[Federal_Government|federal government]] - backlinks: 323; quality_sections: yes
-- [[Constitutional_Legitimacy|constitutional legitimacy]] - backlinks: 303; quality_sections: yes
+- [[Constitutional_Legitimacy|constitutional legitimacy]] - backlinks: 306; quality_sections: yes
 - [[State_Governments|state governments]] - backlinks: 256; quality_sections: yes
 - [[United_States_Government|United States government]] - backlinks: 233; quality_sections: yes
 - [[Oaxaca_Politics|Oaxaca politics]] - backlinks: 218; quality_sections: yes
@@ -38,14 +38,14 @@ tags:
 - [[Imperial_Government|imperial government]] - backlinks: 113; quality_sections: yes
 - [[Mexican_Army|Mexican army]] - backlinks: 110; quality_sections: yes
 - [[Provincial_Politics|Provincial politics]] - backlinks: 109; quality_sections: yes
-- [[Juarez_Later_Presidency|Juárez later presidency]] - backlinks: 106; quality_sections: yes
+- [[Juarez_Later_Presidency|Juárez later presidency]] - backlinks: 108; quality_sections: yes
 - [[European_Intervention|European intervention]] - backlinks: 104; quality_sections: yes
+- [[Historiography_Of_Juarez|Historiography of Juárez]] - backlinks: 104; quality_sections: yes
 - [[Guerrero]] - backlinks: 100; quality_sections: yes
 - [[Treason_And_Political_Legitimacy|treason and political legitimacy]] - backlinks: 100; quality_sections: yes
 - [[Michoacan|Michoacán]] - backlinks: 89; quality_sections: yes
 - [[Washington]] - backlinks: 87; quality_sections: yes
 - [[Execution_Of_Maximilian_Miramon_And_Mejia|Execution of Maximilian, Miramón and Mejía]] - backlinks: 84; quality_sections: yes
-- [[Historiography_Of_Juarez|Historiography of Juárez]] - backlinks: 83; quality_sections: yes
 - [[Confederate_States|Confederate States]] - backlinks: 81; quality_sections: yes
 - [[Nuevo_Leon|Nuevo León]] - backlinks: 81; quality_sections: yes
 - [[Margarita_Eustacia_Maza|Margarita Eustacia Maza]] - backlinks: 77; quality_sections: yes
@@ -71,7 +71,7 @@ tags:
 - [[Political_Legitimacy|political legitimacy]] - backlinks: 60; quality_sections: yes
 - [[American_Civil_War_Border_Context|American Civil War border context]] - backlinks: 59; quality_sections: yes
 - [[Cuba]] - backlinks: 59; quality_sections: yes
-- [[New_Orleans|New Orleans]] - backlinks: 58; quality_sections: yes
+- [[New_Orleans|New Orleans]] - backlinks: 59; quality_sections: yes
 - [[Rafael_Martinez_De_La_Torre|Rafael Martínez de la Torre]] - backlinks: 58; quality_sections: yes
 - [[Rural_Rebellions|Rural Rebellions]] - backlinks: 56; quality_sections: yes
 - [[Death_Sentence_Against_Maximilian|death sentence against Maximilian]] - backlinks: 55; quality_sections: yes
@@ -265,6 +265,7 @@ tags:
 - [[Habsburg_Succession_Renunciation_Dispute|Habsburg succession renunciation dispute]] - backlinks: 14; quality_sections: yes
 - [[Juarez_Political_Thought|Juárez political thought]] - backlinks: 14; quality_sections: yes
 - [[Morelos]] - backlinks: 14; quality_sections: yes
+- [[Oaxacan_Networks|Oaxacan networks]] - backlinks: 14; quality_sections: yes
 - [[Planned_Imperial_Breakout|planned imperial breakout]] - backlinks: 14; quality_sections: yes
 - [[Provincial_National_Political_Interdependence|Provincial-National Political Interdependence]] - backlinks: 14; quality_sections: yes
 - [[Puebla_Campaign|Puebla campaign]] - backlinks: 14; quality_sections: yes
@@ -289,7 +290,6 @@ tags:
 - [[Masonic_Networks_And_Liberalism|Masonic networks and liberalism]] - backlinks: 13; quality_sections: yes
 - [[Maza_Household|Maza household]] - backlinks: 13; quality_sections: yes
 - [[Mexican_Cabinet|Mexican cabinet]] - backlinks: 13; quality_sections: yes
-- [[Oaxacan_Networks|Oaxacan networks]] - backlinks: 13; quality_sections: yes
 - [[Plan_Of_Cuernavaca_1834|Plan of Cuernavaca]] - backlinks: 13; quality_sections: yes
 - [[Prussian_Army|Prussian army]] - backlinks: 13; quality_sections: yes
 - [[Sophie_Carlota_Correspondence|Sophie-Carlota correspondence]] - backlinks: 13; quality_sections: yes

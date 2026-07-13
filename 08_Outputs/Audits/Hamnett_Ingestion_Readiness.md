@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2829
-- hamnett_timeline_entries: 897
-- next_required_page: printed pages 244-245 / confirm that Conclusion ended on p.243 and identify transition to Conclusion Notes, Bibliography, Chronology, Maps, or other back matter; local pp.146-147 gap remains unless handled elsewhere
+- hamnett_fact_cards: 2840
+- hamnett_timeline_entries: 903
+- next_required_page: printed pages 246-247 / resolve p.245 `modern ...` continuation in Miguel Galindo y Galindo discussion and continue the Bibliographical Essay; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -88,6 +88,7 @@ tags:
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / NOTES AND REFERENCES: 14
 - "THE CONVOCATORIA OF AUGUST 1867 AND THE CONTROVERSY OVER CONSTITUTIONAL REFORM": 14
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR continuation: 12
+- Bibliographical Essay: 11
 - Chapter 1 / The Aims of Mexican Liberalism: 10
 - THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72): 10
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ: 8
@@ -183,6 +184,7 @@ tags:
 - THE EXECUTION OF MAXIMILIAN conclusion: 6
 - "THE LATER JUÁREZ" continuation: 6
 - "THE CIVIL WAR IN GUERRERO" continued: 6
+- Bibliographical Essay: 6
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE ESCALATION OF CONFLICT AND THE CIVIL WAR OF THE REFORM: 5
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / NATIONALISM, SECULARISM AND PLURALISM: 5
 - THE EXECUTION OF MAXIMILIAN continuation: 5
@@ -214,7 +216,8 @@ tags:
 
 ## Next Checks From Progress Master
 
-- printed pages 234-235で、p.233末尾の未完文、Juárez死去節の具体内容、Juárez死去日・経過、Chapter 10注17-19本文、President of Congress氏名、Lafraguaの正確な姓名を確認する。
+- printed pages 246-247で、p.245末尾 `modern ...` の続き、Miguel Galindo y Galindoの1857-1867年解釈、著作の1904年・1987年版情報、stubとplanned Fact3041の要否を確認する。
+- Genaro García反論書1904年とBulnes本1905年の刊行順、Juan Sánchezの1902年刊行・1972年復刻、Gustavo Bazの著作名、Hilarión Frías y Sotoの1905年候補と既存1907年情報の不一致を確認する。
 - Notes 45-48は[[CAP_HAMNETT_JUAREZ_0101]]でlocator候補化済み。Juárez/Lerdo body inspection、body comment、robed/photography、Garibaldi/Hugo appeals、Baz statement、Juárez Manifesto、European diplomatic relationsへの正確な対応を個別確認する。
 - p.195下部に見える注1-2は章冒頭側の注であり、pp.194-195本文注45-48ではないことを維持する。
 - p.193-p.194のMaximilian遺体移送接続は `robed`/arranged body handling として修正済み。body theft/robberyのFactは作成しない。
@@ -253,4 +256,3 @@ tags:
 - "Ten days later" の基準日、Wyke-Zamacona Treatyの正式名称・条項・議会否認日を確認する。
 - Thomas Corwinの正式役職、Corwin loan proposal文書、上院手続、抵当対象の具体的法的性格を確認する。
 - Confederate diplomacyの具体的相手先、特に北部州知事との関係を確認する。
-- Hamnett解釈とRomero報告由来情報の分類を注15確認後に再検討する。

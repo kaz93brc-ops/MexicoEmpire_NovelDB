@@ -50,3 +50,14 @@ p.165 note 31 links the Chapter 7 conclusion's French-withdrawal causation discu
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_1967]]
 - Related Themes: [[French_Withdrawal_Causation_Debate]], [[US_Mexico_Relations]]
 - Cautions: Keep Frías y Soto's later polemical setting separate from Hamnett's multi-cause withdrawal interpretation.
+
+## Hamnett 1994 p.245 Bibliographical Essay
+
+Hamnett presents Frías y Soto as rebutting Bulnes: Juárez was not dependent on the United States, and Liberal victory in the Reform and Intervention wars reflected effective wartime leadership.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0125]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3037]]
+- Existing Timeline Entry: [[TIME_HAMNETT_JUAREZ_0667]]
+- Related People: [[Benito_Juarez]], [[Francisco_Bulnes]]
+- Related Themes: [[Historiography_Of_Juarez]], [[US_Mexico_Relations]], [[French_Withdrawal_Causation_Debate]]
+- Cautions: 今回候補の1905年と既存DBの1907年が不一致。別著作か誤読かを確認するまで新規Timelineを作成しない。
