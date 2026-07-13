@@ -2,7 +2,7 @@
 id: PRINTED-PAGE-VERIFICATION-CANDIDATES
 type: report
 status: active
-created: 2026-07-13
+created: 2026-07-14
 tags:
   - audit
   - printed-page
@@ -150,73 +150,73 @@ tags:
 | 128 | [[FACT_MEXEMP_0557]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 94/400; kindle_location: No.1304/7062; screenshot_file: スクリーンショット 2026-05-31 13.06.29.png |
 | 129 | [[FACT_MEXEMP_0558]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 94/400; kindle_location: No.1304/7062; screenshot_file: スクリーンショット 2026-05-31 13.06.29.png |
 | 130 | [[FACT_MEXEMP_0562]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 94/400; kindle_location: No.1304/7062; screenshot_file: スクリーンショット 2026-05-31 13.06.29.png |
-| 131 | [[FACT_MEXEMP_0615]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 102/400; kindle_location: No.1415/7062; screenshot_file: スクリーンショット 2026-05-31 13.06.39.png |
-| 132 | [[FACT_MEXEMP_0628]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 102/400; kindle_location: No.1415/7062; screenshot_file: スクリーンショット 2026-05-31 13.06.39.png |
-| 133 | [[FACT_MEXEMP_0701]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
-| 134 | [[FACT_MEXEMP_0702]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
-| 135 | [[FACT_MEXEMP_0705]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
-| 136 | [[FACT_MEXEMP_0706]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
-| 137 | [[FACT_MEXEMP_0707]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
-| 138 | [[FACT_MEXEMP_0708]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
-| 139 | [[FACT_MEXEMP_0813]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 124/400ページ; kindle_location: No.1742/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.01.png |
-| 140 | [[FACT_MEXEMP_0824]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 124/400ページ; kindle_location: No.1742/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.01.png |
-| 141 | [[FACT_MEXEMP_0832]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 124/400ページ; kindle_location: No.1742/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.01.png |
-| 142 | [[FACT_MEXEMP_0883]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 133/400ページ; kindle_location: No.1853/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.11.png |
-| 143 | [[FACT_MEXEMP_0897]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 133/400ページ; kindle_location: No.1853/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.11.png |
-| 144 | [[FACT_MEXEMP_0901]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 133/400ページ; kindle_location: No.1853/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.11.png |
-| 145 | [[FACT_MEXEMP_0913]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 136/400ページ; kindle_location: No.1892/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.15.png |
-| 146 | [[FACT_MEXEMP_0925]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 136/400ページ; kindle_location: No.1892/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.15.png |
-| 147 | [[FACT_MEXEMP_0933]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 139/400ページ; kindle_location: No.1932/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.18.png |
-| 148 | [[FACT_MEXEMP_1016]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 144/400ページ; kindle_location: No.2012/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.27.png |
-| 149 | [[FACT_MEXEMP_1020]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 144/400ページ; kindle_location: No.2012/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.27.png |
-| 150 | [[FACT_MEXEMP_1053]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 147/400ページ; kindle_location: No.2053/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.31.png |
-| 151 | [[FACT_MEXEMP_1129]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 155/400ページ; kindle_location: No.2175/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.42.png |
-| 152 | [[FACT_MEXEMP_1138]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 157/400ページ; kindle_location: No.2191/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.46.png |
-| 153 | [[FACT_MEXEMP_1141]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 157/400ページ; kindle_location: No.2191/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.46.png |
-| 154 | [[FACT_MEXEMP_1144]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 157/400ページ; kindle_location: No.2191/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.46.png |
-| 155 | [[FACT_MEXEMP_1265]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 168/400ページ; kindle_location: No.2354/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.58.png |
-| 156 | [[FACT_MEXEMP_1271]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 168/400ページ; kindle_location: No.2354/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.58.png |
-| 157 | [[FACT_MEXEMP_1273]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 168/400ページ; kindle_location: No.2354/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.58.png |
-| 158 | [[FACT_MEXEMP_1347]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 179/400; kindle_location: No.2521/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.11.png |
-| 159 | [[FACT_MEXEMP_1369]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 181/400; kindle_location: No.2560/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.14.png |
-| 160 | [[FACT_MEXEMP_1482]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 202/400; kindle_location: No.2855/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.43.png |
-| 161 | [[FACT_MEXEMP_1484]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 202/400; kindle_location: No.2855/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.43.png |
-| 162 | [[FACT_MEXEMP_1494]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 202/400; kindle_location: No.2855/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.43.png |
-| 163 | [[FACT_MEXEMP_1497]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 202/400; kindle_location: No.2855/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.43.png |
-| 164 | [[FACT_MEXEMP_1498]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 202/400; kindle_location: No.2855/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.43.png |
-| 165 | [[FACT_MEXEMP_1500]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 205/400; kindle_location: No.2896/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.46.png |
-| 166 | [[FACT_MEXEMP_1515]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 205/400; kindle_location: No.2896/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.46.png |
-| 167 | [[FACT_MEXEMP_1531]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 208/400; kindle_location: No.2937/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.49.png |
-| 168 | [[FACT_MEXEMP_1545]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 208/400; kindle_location: No.2937/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.49.png |
-| 169 | [[FACT_MEXEMP_1550]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 208/400; kindle_location: No.2937/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.49.png |
-| 170 | [[FACT_MEXEMP_1554]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 208/400; kindle_location: No.2937/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.49.png |
-| 171 | [[FACT_MEXEMP_1767]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 229/400ページ; kindle_location: No.3240/7062; screenshot_file: スクリーンショット 2026-05-31 13.10.20.png |
-| 172 | [[FACT_MEXEMP_1869]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 240/400; kindle_location: No.3402/7062; screenshot_file: スクリーンショット 2026-05-31 13.10.36.png |
-| 173 | [[FACT_MEXEMP_2043]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 260/400; kindle_location: No.3674/7062; screenshot_file: スクリーンショット 2026-05-31 13.10.58.png |
-| 174 | [[FACT_MEXEMP_2080]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 265/400; kindle_location: No.3753/7062; screenshot_file: スクリーンショット 2026-05-31 13.11.03.png |
-| 175 | [[FACT_MEXEMP_2348]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 290/400ページ; kindle_location: No.4109/7062; screenshot_file: スクリーンショット 2026-05-31 13.11.29.png |
-| 176 | [[FACT_MEXEMP_2365]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 290/400ページ; kindle_location: No.4109/7062; screenshot_file: スクリーンショット 2026-05-31 13.11.29.png |
-| 177 | [[FACT_MEXEMP_2409]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 296/400; kindle_location: No.4185/7062; screenshot_file: スクリーンショット 2026-05-31 13.11.35.png |
-| 178 | [[FACT_MEXEMP_2416]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 296/400; kindle_location: No.4185/7062; screenshot_file: スクリーンショット 2026-05-31 13.11.35.png |
-| 179 | [[FACT_MEXEMP_0005]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Prologue p. 3? 版差あり; screenshot_file: プロローグ.txt |
-| 180 | [[FACT_MEXEMP_0038]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 42/400; kindle_location: No. 535/7062; screenshot_file: スクリーンショット 2026-05-31 13.04.37.png |
-| 181 | [[FACT_MEXEMP_0060]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 45/400; kindle_location: No.573/7062; screenshot_file: スクリーンショット 2026-05-31 13.04.55.png |
-| 182 | [[FACT_MEXEMP_0078]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
-| 183 | [[FACT_MEXEMP_0081]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
-| 184 | [[FACT_MEXEMP_0082]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
-| 185 | [[FACT_MEXEMP_0087]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
-| 186 | [[FACT_MEXEMP_0088]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
-| 187 | [[FACT_MEXEMP_0091]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
-| 188 | [[FACT_MEXEMP_0104]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 50/400; kindle_location: No.654/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.25.png |
-| 189 | [[FACT_MEXEMP_0153]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 56/400; kindle_location: No.735/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.33.png |
-| 190 | [[FACT_MEXEMP_0154]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 56/400; kindle_location: No.735/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.33.png |
-| 191 | [[FACT_MEXEMP_0155]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 56/400; kindle_location: No.735/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.33.png |
-| 192 | [[FACT_MEXEMP_0192]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: 59/400; kindle_location: No.773/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.38.png |
-| 193 | [[FACT_MEXEMP_0207]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: 61/400; kindle_location: No.815/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.42.png |
-| 194 | [[FACT_MEXEMP_0215]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: 61/400; kindle_location: No.815/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.42.png |
-| 195 | [[FACT_MEXEMP_0216]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: 61/400; kindle_location: No.815/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.42.png |
-| 196 | [[FACT_MEXEMP_0259]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 64/400; kindle_location: No.856/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.47.png |
-| 197 | [[FACT_MEXEMP_0261]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 67/400; kindle_location: No.891/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.52.png |
-| 198 | [[FACT_MEXEMP_0287]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 69/400; kindle_location: No.931/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.55.png |
-| 199 | [[FACT_MEXEMP_0416]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 80/400ページ; kindle_location: No.1095/7062; screenshot_file: スクリーンショット 2026-05-31 13.06.09.png |
-| 200 | [[FACT_MEXEMP_0446]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 86/400ページ; kindle_location: No.1178/7062; screenshot_file: スクリーンショット 2026-05-31 13.06.17.png |
+| 131 | [[FACT_MEXEMP_0572]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 97/400; kindle_location: No.1336/7062; screenshot_file: スクリーンショット 2026-05-31 13.06.33.png |
+| 132 | [[FACT_MEXEMP_0615]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 102/400; kindle_location: No.1415/7062; screenshot_file: スクリーンショット 2026-05-31 13.06.39.png |
+| 133 | [[FACT_MEXEMP_0628]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 102/400; kindle_location: No.1415/7062; screenshot_file: スクリーンショット 2026-05-31 13.06.39.png |
+| 134 | [[FACT_MEXEMP_0701]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
+| 135 | [[FACT_MEXEMP_0702]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
+| 136 | [[FACT_MEXEMP_0705]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
+| 137 | [[FACT_MEXEMP_0706]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
+| 138 | [[FACT_MEXEMP_0707]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
+| 139 | [[FACT_MEXEMP_0708]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 111/400; kindle_location: No.1537/7062; screenshot_file: スクリーンショット 2026-05-31 13.07.43.png |
+| 140 | [[FACT_MEXEMP_0813]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 124/400ページ; kindle_location: No.1742/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.01.png |
+| 141 | [[FACT_MEXEMP_0824]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 124/400ページ; kindle_location: No.1742/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.01.png |
+| 142 | [[FACT_MEXEMP_0832]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 124/400ページ; kindle_location: No.1742/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.01.png |
+| 143 | [[FACT_MEXEMP_0883]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 133/400ページ; kindle_location: No.1853/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.11.png |
+| 144 | [[FACT_MEXEMP_0897]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 133/400ページ; kindle_location: No.1853/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.11.png |
+| 145 | [[FACT_MEXEMP_0901]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 133/400ページ; kindle_location: No.1853/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.11.png |
+| 146 | [[FACT_MEXEMP_0913]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 136/400ページ; kindle_location: No.1892/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.15.png |
+| 147 | [[FACT_MEXEMP_0925]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 136/400ページ; kindle_location: No.1892/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.15.png |
+| 148 | [[FACT_MEXEMP_0933]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 139/400ページ; kindle_location: No.1932/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.18.png |
+| 149 | [[FACT_MEXEMP_1016]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 144/400ページ; kindle_location: No.2012/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.27.png |
+| 150 | [[FACT_MEXEMP_1020]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 144/400ページ; kindle_location: No.2012/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.27.png |
+| 151 | [[FACT_MEXEMP_1053]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 147/400ページ; kindle_location: No.2053/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.31.png |
+| 152 | [[FACT_MEXEMP_1129]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 155/400ページ; kindle_location: No.2175/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.42.png |
+| 153 | [[FACT_MEXEMP_1138]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 157/400ページ; kindle_location: No.2191/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.46.png |
+| 154 | [[FACT_MEXEMP_1141]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 157/400ページ; kindle_location: No.2191/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.46.png |
+| 155 | [[FACT_MEXEMP_1144]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 157/400ページ; kindle_location: No.2191/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.46.png |
+| 156 | [[FACT_MEXEMP_1265]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 168/400ページ; kindle_location: No.2354/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.58.png |
+| 157 | [[FACT_MEXEMP_1271]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 168/400ページ; kindle_location: No.2354/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.58.png |
+| 158 | [[FACT_MEXEMP_1273]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 168/400ページ; kindle_location: No.2354/7062; screenshot_file: スクリーンショット 2026-05-31 13.08.58.png |
+| 159 | [[FACT_MEXEMP_1347]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 179/400; kindle_location: No.2521/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.11.png |
+| 160 | [[FACT_MEXEMP_1369]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 181/400; kindle_location: No.2560/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.14.png |
+| 161 | [[FACT_MEXEMP_1482]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 202/400; kindle_location: No.2855/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.43.png |
+| 162 | [[FACT_MEXEMP_1484]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 202/400; kindle_location: No.2855/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.43.png |
+| 163 | [[FACT_MEXEMP_1494]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 202/400; kindle_location: No.2855/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.43.png |
+| 164 | [[FACT_MEXEMP_1497]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 202/400; kindle_location: No.2855/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.43.png |
+| 165 | [[FACT_MEXEMP_1498]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 202/400; kindle_location: No.2855/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.43.png |
+| 166 | [[FACT_MEXEMP_1500]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 205/400; kindle_location: No.2896/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.46.png |
+| 167 | [[FACT_MEXEMP_1515]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 205/400; kindle_location: No.2896/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.46.png |
+| 168 | [[FACT_MEXEMP_1531]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 208/400; kindle_location: No.2937/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.49.png |
+| 169 | [[FACT_MEXEMP_1545]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 208/400; kindle_location: No.2937/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.49.png |
+| 170 | [[FACT_MEXEMP_1550]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 208/400; kindle_location: No.2937/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.49.png |
+| 171 | [[FACT_MEXEMP_1554]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 208/400; kindle_location: No.2937/7062; screenshot_file: スクリーンショット 2026-05-31 13.09.49.png |
+| 172 | [[FACT_MEXEMP_1767]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 229/400ページ; kindle_location: No.3240/7062; screenshot_file: スクリーンショット 2026-05-31 13.10.20.png |
+| 173 | [[FACT_MEXEMP_1869]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 240/400; kindle_location: No.3402/7062; screenshot_file: スクリーンショット 2026-05-31 13.10.36.png |
+| 174 | [[FACT_MEXEMP_2043]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 260/400; kindle_location: No.3674/7062; screenshot_file: スクリーンショット 2026-05-31 13.10.58.png |
+| 175 | [[FACT_MEXEMP_2080]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 265/400; kindle_location: No.3753/7062; screenshot_file: スクリーンショット 2026-05-31 13.11.03.png |
+| 176 | [[FACT_MEXEMP_2348]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 290/400ページ; kindle_location: No.4109/7062; screenshot_file: スクリーンショット 2026-05-31 13.11.29.png |
+| 177 | [[FACT_MEXEMP_2365]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 290/400ページ; kindle_location: No.4109/7062; screenshot_file: スクリーンショット 2026-05-31 13.11.29.png |
+| 178 | [[FACT_MEXEMP_2409]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 296/400; kindle_location: No.4185/7062; screenshot_file: スクリーンショット 2026-05-31 13.11.35.png |
+| 179 | [[FACT_MEXEMP_2416]] | 10 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 296/400; kindle_location: No.4185/7062; screenshot_file: スクリーンショット 2026-05-31 13.11.35.png |
+| 180 | [[FACT_MEXEMP_0005]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Prologue p. 3? 版差あり; screenshot_file: プロローグ.txt |
+| 181 | [[FACT_MEXEMP_0038]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 42/400; kindle_location: No. 535/7062; screenshot_file: スクリーンショット 2026-05-31 13.04.37.png |
+| 182 | [[FACT_MEXEMP_0060]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 45/400; kindle_location: No.573/7062; screenshot_file: スクリーンショット 2026-05-31 13.04.55.png |
+| 183 | [[FACT_MEXEMP_0078]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
+| 184 | [[FACT_MEXEMP_0081]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
+| 185 | [[FACT_MEXEMP_0082]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
+| 186 | [[FACT_MEXEMP_0087]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
+| 187 | [[FACT_MEXEMP_0088]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
+| 188 | [[FACT_MEXEMP_0091]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 48/400; kindle_location: No.612/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.20.png |
+| 189 | [[FACT_MEXEMP_0104]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 50/400; kindle_location: No.654/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.25.png |
+| 190 | [[FACT_MEXEMP_0153]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 56/400; kindle_location: No.735/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.33.png |
+| 191 | [[FACT_MEXEMP_0154]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 56/400; kindle_location: No.735/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.33.png |
+| 192 | [[FACT_MEXEMP_0155]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 56/400; kindle_location: No.735/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.33.png |
+| 193 | [[FACT_MEXEMP_0192]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: 59/400; kindle_location: No.773/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.38.png |
+| 194 | [[FACT_MEXEMP_0207]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: 61/400; kindle_location: No.815/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.42.png |
+| 195 | [[FACT_MEXEMP_0215]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: 61/400; kindle_location: No.815/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.42.png |
+| 196 | [[FACT_MEXEMP_0216]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: 61/400; kindle_location: No.815/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.42.png |
+| 197 | [[FACT_MEXEMP_0259]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 64/400; kindle_location: No.856/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.47.png |
+| 198 | [[FACT_MEXEMP_0261]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 67/400; kindle_location: No.891/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.52.png |
+| 199 | [[FACT_MEXEMP_0287]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 69/400; kindle_location: No.931/7062; screenshot_file: スクリーンショット 2026-05-31 13.05.55.png |
+| 200 | [[FACT_MEXEMP_0416]] | 9 | SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO | page: Kindle PC 80/400ページ; kindle_location: No.1095/7062; screenshot_file: スクリーンショット 2026-05-31 13.06.09.png |

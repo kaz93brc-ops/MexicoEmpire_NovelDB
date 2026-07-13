@@ -39,7 +39,7 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 ## Linked Items
 
 - People: [[Matias_Romero|Matías Romero]]
-- Organizations: [[Oaxaca_State_Treasury|Oaxaca State Treasury]], [[Restored_Republic|Restored Republic]]
+- Organizations: [[First_Federal_Republic|First Federal Republic]], [[Mexican_State|Mexican state]], [[Oaxaca_State_Treasury|Oaxaca State Treasury]], [[Restored_Republic|Restored Republic]]
 - Places: [[Acapulco]]
 - Events: [[First_Federal_Republic_Collapse_1836|First Federal Republic Collapse 1836]], [[Popular_Resistance_To_Taxation_Oaxaca|Popular Resistance To Taxation Oaxaca]]
 - Themes: [[Federal_Weakness_And_Local_Rebellion|Federal Weakness And Local Rebellion]], [[Fiscal_Extraction_And_Legitimacy|Fiscal Extraction And Legitimacy]], [[Tax_Resistance_And_State_Capacity|Tax Resistance And State Capacity]]

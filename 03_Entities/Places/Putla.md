@@ -37,9 +37,9 @@ Use as a point where commercial agriculture, Oaxaca geography, and rural pressur
 
 - People: [[Felix_Diaz|Félix Díaz]], [[Vicente_Jimenez|Vicente Jiménez]]
 - Organizations:
-- Places: [[Chilapa]], [[Tlapa]], [[Tlapa_Chilapa_Putla_Zone|Tlapa-Chilapa-Putla Zone]]
+- Places: [[Chilapa]], [[Cuautla_Yautepec|Cuautla-Yautepec]], [[Tlapa]], [[Tlapa_Chilapa_Putla_Zone|Tlapa-Chilapa-Putla Zone]]
 - Events: [[La_Noria_Rebellion|La Noria rebellion]], [[Mid_1840s_Rural_Rebellions|Mid-1840s Rural Rebellions]], [[Puebla_Oaxaca_Border_Rebellions_1842_1844|Puebla-Oaxaca Border Rebellions, 1842-1844]]
-- Themes: [[Commercial_Agriculture|Commercial Agriculture]], [[Rural_Communities_And_Land_Claims|Rural Communities And Land Claims]], [[Rural_Rebellions|Rural Rebellions]]
+- Themes: [[Commercial_Agriculture|Commercial Agriculture]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0345|Commercial agriculture intensified land and labor pressure]], [[FACT_HAMNETT_JUAREZ_0346|Sugar producers expanded production at peasant community expense]], [[FACT_HAMNETT_JUAREZ_0462|Puebla-Oaxaca border rebellions occurred in 1842-1844]], [[FACT_HAMNETT_JUAREZ_2590|Jiménez organizes porfirista forces during La Noria]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0162|Mid-1840s rural rebellions spread in commercial agriculture and southern zones]], [[TIME_HAMNETT_JUAREZ_0920|Jiménez organizes porfirista forces during La Noria]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0018]], [[CAP_HAMNETT_JUAREZ_0023]], [[CAP_HAMNETT_JUAREZ_0110]]
