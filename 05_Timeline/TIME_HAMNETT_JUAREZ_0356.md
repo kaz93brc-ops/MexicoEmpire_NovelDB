@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0356"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: "2026-07-13"
 tags: "timeline;hamnett;juarez;chapter4;comonfort"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -33,6 +33,8 @@ themes: ["Liberal_Factionalism", "Comonfort_As_Coalition_Manager"]
 related_fact_cards:
   - "FACT_HAMNETT_JUAREZ_0906"
   - "FACT_HAMNETT_JUAREZ_0907"
+  - "FACT_HAMNETT_JUAREZ_2973"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 # Comonfort calls Juárez to Mexico City
 
@@ -75,7 +77,7 @@ related_fact_cards:
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0906]], [[FACT_HAMNETT_JUAREZ_0907]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0906]], [[FACT_HAMNETT_JUAREZ_0907]], [[FACT_HAMNETT_JUAREZ_2973]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.28.07.jpeg

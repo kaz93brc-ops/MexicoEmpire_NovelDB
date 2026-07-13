@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0513"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-13"
 tags: "timeline;hamnett;juarez;chapter6;interpretation"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -41,6 +41,8 @@ themes:
 related_fact_cards:
   - "FACT_HAMNETT_JUAREZ_1499"
   - "FACT_HAMNETT_JUAREZ_1502"
+  - "FACT_HAMNETT_JUAREZ_2984"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 
 # Hamnett frames 1861-63 as an institutional and federal crisis
@@ -84,7 +86,7 @@ Hamnett identifies 1861-63 as a crisis over legislative-executive relations and 
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1499]], [[FACT_HAMNETT_JUAREZ_1502]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1499]], [[FACT_HAMNETT_JUAREZ_1502]], [[FACT_HAMNETT_JUAREZ_2984]]
 - Evidence category: author_interpretation
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.28.59.jpeg

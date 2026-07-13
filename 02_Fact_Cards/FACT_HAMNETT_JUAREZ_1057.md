@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1057"
 type: "fact_card"
 status: "draft"
 created: "2026-06-30"
-updated: "2026-06-30"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;chapter5;mantecon"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -32,6 +32,7 @@ places: ["Oaxaca"]
 organizations: ["Diocese_Of_Oaxaca", "Catholic_Church", "Oaxaca_State_Government"]
 themes: ["Church_State_Relations_Mexico", "Civil_Law"]
 related_timeline_entries: []
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 # Hamnett says Juárez sought a modus vivendi with Mantecón
 
@@ -65,4 +66,9 @@ Hamnettは、Juárezが司教との直接対決ではなく、実務的共存関
 - Themes: [[Church_State_Relations_Mexico]], [[Civil_Law]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0049]]
 - Related Timeline Entries:
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0123|Conclusion p.240]] places the same avoidance of direct episcopal confrontation within Juárez's unstable 1847–52 political position and extends the context to social elites.
+- The broader causal claim is separated into [[FACT_HAMNETT_JUAREZ_2971]].
 

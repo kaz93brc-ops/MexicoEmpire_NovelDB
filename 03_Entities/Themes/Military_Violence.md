@@ -27,7 +27,7 @@ Entry note for military violence. Keep historical evidence, interpretation, and 
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_MEXEMP_0373|Robles PezuelaはJuarista側に捕えられTaboadaはフランス軍へ逃れた]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_2990|Counter-insurgency措置は帝政の正統性主張を損なったとHamnettは見る]], [[FACT_HAMNETT_JUAREZ_2991|Maximilianはnational electionsとcounter-insurgencyを正統化・統制手段として併用しようとしたとHamnettは整理する]], [[FACT_MEXEMP_0373|Robles PezuelaはJuarista側に捕えられTaboadaはフランス軍へ逃れた]]
 - Timeline Entries:
 - Source Notes:
 - Scenes:

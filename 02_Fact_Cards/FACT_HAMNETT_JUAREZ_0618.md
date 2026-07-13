@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0618"
 type: "fact_card"
 status: "draft"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;chapter3"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -38,6 +38,7 @@ themes:
   - "Juarez_As_Coalition_Manager"
   - "Moderate_Vs_Progressive_Liberalism"
 related_timeline_entries: []
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 
 # Juárez as a pragmatic politician beyond moderate or Jacobin labels
@@ -72,4 +73,9 @@ Hamnettは、Juárezを単純なmoderateでもJacobinでもなく、必要に応
 - Themes: [[Juarez_As_Pragmatic_Politician]], [[Juarez_As_Coalition_Manager]], [[Moderate_Vs_Progressive_Liberalism]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0030]]
 - Related Timeline Entries: none
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0123|Conclusion pp.240–241]] reiterates that Juárez cannot be reduced to either the radical or moderate Liberal camp.
+- Planned `FACT_HAMNETT_JUAREZ_2970` was not created because this card already holds the same classification claim.
 

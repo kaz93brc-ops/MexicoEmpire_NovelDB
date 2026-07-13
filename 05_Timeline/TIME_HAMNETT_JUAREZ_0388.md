@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0388"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-30"
-updated: "2026-06-30"
+updated: "2026-07-13"
 tags: "timeline;hamnett;juarez;chapter5;oaxaca"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -32,6 +32,8 @@ organizations: ["Oaxaca_State_Government", "Diocese_Of_Oaxaca", "Catholic_Church
 themes: ["Church_State_Relations_Mexico", "Oaxaca_Politics"]
 related_fact_cards:
   - "FACT_HAMNETT_JUAREZ_1041"
+  - "FACT_HAMNETT_JUAREZ_2971"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 # 1847-1852 Juárez and Oaxacan Church working arrangement
 
@@ -73,7 +75,7 @@ related_fact_cards:
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1041]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1041]], [[FACT_HAMNETT_JUAREZ_2971]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.28.20.jpeg

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1106"
 type: "fact_card"
 status: "draft"
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;chapter5"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -32,6 +32,7 @@ places: []
 organizations: ["Catholic_Church", "Catholic_Hierarchy", "Catholic_Clergy"]
 themes: ["Church_State_Relations_Mexico", "Juarez_Law_And_Jurisdictional_Reform"]
 related_timeline_entries: []
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 
 # Bishops read the Juarez Law as an attack
@@ -65,4 +66,9 @@ related_timeline_entries: []
 - Organizations: [[Catholic_Church]], [[Catholic_Hierarchy]], [[Catholic_Clergy]]
 - Themes: [[Church_State_Relations_Mexico]], [[Juarez_Law_And_Jurisdictional_Reform]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0051]]
-- Related Timeline Entries:
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0299]]
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0123|Conclusion p.240]] reiterates the contrast between the law's moderate conception and its radical reception inside and outside the Liberal camp.
+- Planned `FACT_HAMNETT_JUAREZ_2972` was not created; the reception claim remains here and the intent claim remains in [[FACT_HAMNETT_JUAREZ_1105]].

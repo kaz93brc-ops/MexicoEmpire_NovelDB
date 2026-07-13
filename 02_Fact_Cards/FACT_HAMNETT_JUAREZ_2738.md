@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2738"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -33,6 +33,7 @@ places: ["Mexico"]
 organizations: ["Federal_Congress_Mexico"]
 themes: ["Presidentialism", "Liberal_Factionalism", "Liberal_Opposition", "Juarez_Later_Presidency"]
 related_timeline_entries: []
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 
 # Lerdo moved into opposition over Juarez re-election
@@ -65,5 +66,8 @@ Sebastián Lerdo de TejadaはJuárezの後継を望んだが、Juárezが再選�
 - Organizations: [[Federal_Congress_Mexico|Federal Congress]]
 - Themes: [[Presidentialism]], [[Liberal_Factionalism|Liberal factionalism]], [[Liberal_Opposition|Liberal opposition]], [[Juarez_Later_Presidency|Juárez later presidency]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0115]]
-- Related Timeline Entries:
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1114]]
 
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0123|Conclusion p.241]] restates the late-1870 succession rupture; the p.225 card remains the fuller basis and the exact chronology still requires verification.

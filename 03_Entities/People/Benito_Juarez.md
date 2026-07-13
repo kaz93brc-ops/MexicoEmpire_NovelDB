@@ -1111,3 +1111,12 @@ Hamnett places Juárez inside factional Liberal politics while treating his Wash
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2942]], [[FACT_HAMNETT_JUAREZ_2945]], [[FACT_HAMNETT_JUAREZ_2948]], [[FACT_HAMNETT_JUAREZ_2951]], [[FACT_HAMNETT_JUAREZ_2953]], [[FACT_HAMNETT_JUAREZ_2955]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1092]], [[TIME_HAMNETT_JUAREZ_1094]], [[TIME_HAMNETT_JUAREZ_1095]], [[TIME_HAMNETT_JUAREZ_1097]]
 - Cautions: Do not reduce Juárez to either a pure legal hero or a simple pro-U.S. politician; p.239 continues on the next spread.
+
+## Hamnett 1994 pp.240–241 Conclusion Notes
+
+Hamnett presents Juárez as a coalition-switching politician whose durable civil-power and rule-of-law commitments did not place him permanently in either the radical or moderate camp.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0123]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2971]], [[FACT_HAMNETT_JUAREZ_2973]], [[FACT_HAMNETT_JUAREZ_2975]], [[FACT_HAMNETT_JUAREZ_2977]], [[FACT_HAMNETT_JUAREZ_2979]], [[FACT_HAMNETT_JUAREZ_2981]], [[FACT_HAMNETT_JUAREZ_2983]], [[FACT_HAMNETT_JUAREZ_2985]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1102]], [[TIME_HAMNETT_JUAREZ_1106]], [[TIME_HAMNETT_JUAREZ_1107]], [[TIME_HAMNETT_JUAREZ_1109]], [[TIME_HAMNETT_JUAREZ_1111]], [[TIME_HAMNETT_JUAREZ_1114]]
+- Cautions: Liberal radicals were heterogeneous; military distrust and state-militia reliance are Hamnett interpretations, not timeless personality traits.
