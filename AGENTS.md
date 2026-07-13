@@ -223,13 +223,22 @@ python .\MexicoEmpire_NovelDB\92_Scripts\vault_maintenance.py --phase all
 - 作業前に`main`を`git pull --ff-only`で最新化する。
 - 1作業単位で専用ブランチを作成する。
 - Hamnett取込では`hamnett/capture-NNNN-description`形式を基本とする。
+- Hamnett *Juarez* などの通常のCapture単位・ページ単位の史料取込では、未マージの取込ブランチをbaseに次の取込ブランチやPull Requestを作るstacked PRを原則禁止する。各作業ブランチは最新の`main`から作成し、Pull Requestは`base: main`、`head: 作業用取込ブランチ`とする。
+- 新しい通常取込を開始する前に直前の取込Pull Requestが`main`へマージ済みであることを確認する。未マージなら、権限と既存規則の範囲で検証・auto-mergeにより`main`へ反映するか、人間レビューが必要な場合は新しい取込を開始せず停止して理由を報告する。マージ権限がない場合も勝手にstacked PRへ切り替えない。
+- Pull Request作成前に、実際に指定するbase branch、head branch、`origin/main`とのmerge-baseを確認する。通常取込のbaseに別の取込ブランチを指定しない。
+- Draftまたは人間レビュー待ちの取込Pull Requestをbaseに、次の通常取込を積み上げない。
+- stacked PRは、ユーザーの明示指示、独立した複数変更をレビュー単位に分割する技術的必要、通常取込ではない長期開発、または前段Pull Requestとの意図的依存関係がある場合だけ例外とする。「前のPull Requestが未マージ」という事情だけでは例外にならない。
+- 例外としてstacked PRを使う場合は、理由、各Pull Requestの依存順序、`main`へ反映済みの範囲、最新branchだけに存在する範囲、推奨マージ順序、後続Pull Requestのbase更新またはrebase要否を明記する。
 - 無関係なファイルを変更しない。
 - 作業後に差分、変更ファイル、ID、リンク、YAML、監査結果を確認する。
-- 通常の史料取込で、変更50件以下、削除・改名なし、ID・YAML・リンク・引用・秘密情報・競合・検証に問題がなく、保護対象文書を変更していない場合は、変更をcommitして作業ブランチをpushし、DraftではないPull Requestを作成する。
+- 通常の史料取込で、変更50件以下、削除・改名なし、ID衝突なし、YAML検証成功、必須メタデータ欠落なし、新規未解決wiki linkなし、長文引用・全文転記・全文翻訳・全文OCRなし、秘密情報・競合・指示外変更・検証失敗なし、保護対象文書を変更していない場合は、変更をcommitして作業ブランチをpushし、DraftではないPull Requestを作成する。
 - 通常取込のPull Requestには`gh pr merge --auto --squash --delete-branch`でauto-mergeを設定し、必須check `safety`成功後にGitHubへsquash mergeさせる。
-- 地図、Index、判読・出典・IDに要確認がある作業、既存ファイルの移動・改名・削除、テンプレート・スクリプト・`.github/`・`AGENTS.md`・`.gitignore`の変更、50件超の変更、検証失敗、競合、安全判断に確信がない作業、またはユーザーがレビューを求めた作業はDraft Pull Requestで停止し、auto-mergeを設定しない。
+- 地図、Index、判読・出典・IDに要確認がある作業、既存ファイルの移動・改名・削除、テンプレート・スクリプト・`.github/`・`AGENTS.md`・`93_Docs/GitHub_Workflow.md`・`.gitignore`の変更、50件超の変更、検証失敗、競合、安全判断に確信がない作業、またはユーザーがレビューを求めた作業はDraft Pull Requestで停止し、auto-mergeを設定しない。
 - Pull Request本文に変更ファイル、使用ID、検証結果、要確認事項を記載する。
 - auto-merge後はPull Requestが`MERGED`であること、remote branch削除、`main`のff-only最新化、working tree cleanを確認する。
 - auto-mergeが失敗または保留になった場合は、Pull RequestをopenまたはDraftのまま残し、mainへmergeせず理由を報告する。
+- 最新Capture、Fact / Timeline範囲、Progress Master、Ingestion Readiness、次対象ページ、README等の進捗表示は、原則として`main`上の実状態と一致させる。未マージbranch上だけの進捗を示す場合は`branch only`または`PR未マージ`と明記する。
+- 完了報告では、ローカルのみ、branchへpush済み、Pull Request作成済み、`main`へマージ済みを区別する。branchへpushしただけの状態を「GitHub反映済み」または「取込完了」と表現しない。
+- GitHubを伴う取込の最終報告には、repository root、対象Captureとprinted page、作業開始時のbase branch、作業branch、commit SHA、Pull Request番号とURL、base / head、Draftか通常Pull Requestか、CI結果、auto-merge設定の有無、`main`へのmerge済み／未実施、`main`上の最新Capture、未マージ依存Pull Requestの有無、次対象ページを必ず記載する。
 - force push、履歴改変、既存IDの再利用を行わない。
 - 詳細な判定条件とコマンドは`93_Docs/GitHub_Workflow.md`に従う。
