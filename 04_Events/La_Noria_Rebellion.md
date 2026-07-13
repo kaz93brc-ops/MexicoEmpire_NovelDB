@@ -157,3 +157,11 @@ Hamnett p.234 treats Juárez's death as removing the pretext for the Díaz rebel
 - Related Events: [[Death_Of_Juarez_July_1872|Death of Juárez, July 1872]], [[Amnesty_Of_Porfirio_Diaz_1872|Amnesty of Porfirio Díaz, 1872]]
 - Related Themes: [[Liberal_Factionalism|Liberal factionalism]], [[Presidential_Succession|presidential succession]]
 - Cautions: Treat the removed-pretext claim as Hamnett interpretation and the amnesty date as verification-needed through note 20.
+
+## Hamnett 1994 p.243 Conclusion Closing Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0124]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3015]], [[FACT_HAMNETT_JUAREZ_3019]], [[FACT_HAMNETT_JUAREZ_3020]]
+- Existing Timeline: [[TIME_HAMNETT_JUAREZ_0843]]
+- Hamnett frames the revolt through a double claim: Díaz invoked constitutional defence while undertaking an armed extra-constitutional challenge, then underestimated Juárez's political mastery.
+- Cautions: Keep constitutional rhetoric, armed action, and Hamnett's evaluative language distinct.

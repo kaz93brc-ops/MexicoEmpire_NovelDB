@@ -1120,3 +1120,12 @@ Hamnett presents Juárez as a coalition-switching politician whose durable civil
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2971]], [[FACT_HAMNETT_JUAREZ_2973]], [[FACT_HAMNETT_JUAREZ_2975]], [[FACT_HAMNETT_JUAREZ_2977]], [[FACT_HAMNETT_JUAREZ_2979]], [[FACT_HAMNETT_JUAREZ_2981]], [[FACT_HAMNETT_JUAREZ_2983]], [[FACT_HAMNETT_JUAREZ_2985]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1102]], [[TIME_HAMNETT_JUAREZ_1106]], [[TIME_HAMNETT_JUAREZ_1107]], [[TIME_HAMNETT_JUAREZ_1109]], [[TIME_HAMNETT_JUAREZ_1111]], [[TIME_HAMNETT_JUAREZ_1114]]
 - Cautions: Liberal radicals were heterogeneous; military distrust and state-militia reliance are Hamnett interpretations, not timeless personality traits.
+
+## Hamnett 1994 pp.242–243 Conclusion Closing Notes
+
+Hamnett separates Juárez the anti-imperial strategist, the late ruler seeking legality and stability under sustained obstruction, and the posthumous national symbol created by the cult of Juárez.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0124]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3001]], [[FACT_HAMNETT_JUAREZ_3004]], [[FACT_HAMNETT_JUAREZ_3011]], [[FACT_HAMNETT_JUAREZ_3012]], [[FACT_HAMNETT_JUAREZ_3017]], [[FACT_HAMNETT_JUAREZ_3019]], [[FACT_HAMNETT_JUAREZ_3020]], [[FACT_HAMNETT_JUAREZ_3022]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1122]], [[TIME_HAMNETT_JUAREZ_1125]]
+- Cautions: Political mastery is not moral canonization; civic sainthood is a posthumous memory construction in Hamnett's interpretation.

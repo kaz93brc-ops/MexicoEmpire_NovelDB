@@ -27,8 +27,8 @@ Entry note for Mexican conservatism. Keep historical evidence, interpretation, a
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0142|Lucas Alamánはcolonial eraをmodern Mexicoの実質的起源と見た]], [[FACT_HAMNETT_JUAREZ_2034|Disappointed Conservatives looked toward Juárez in Chihuahua]], [[FACT_HAMNETT_JUAREZ_2035|Juárez made a sardonic comment about political newcomers]], [[FACT_MEXEMP_0193|Gutiérrez de Estradaは君主制だけがMexicoを救えると主張した]], [[FACT_MEXEMP_0331|メキシコ反動的保守派は自由主義を不敬な思想と見なした]], [[FACT_MEXEMP_0572|Gutiérrez de Estradaは長年の君主制構想の実現として演説に臨んだ]]
-- Timeline Entries:
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0142|Lucas Alamánはcolonial eraをmodern Mexicoの実質的起源と見た]], [[FACT_HAMNETT_JUAREZ_2034|Disappointed Conservatives looked toward Juárez in Chihuahua]], [[FACT_HAMNETT_JUAREZ_2035|Juárez made a sardonic comment about political newcomers]], [[FACT_HAMNETT_JUAREZ_3007|The Conservative Party ceased to be a major contender after 1867]], [[FACT_MEXEMP_0193|Gutiérrez de Estradaは君主制だけがMexicoを救えると主張した]], [[FACT_MEXEMP_0331|メキシコ反動的保守派は自由主義を不敬な思想と見なした]], [[FACT_MEXEMP_0572|Gutiérrez de Estradaは長年の君主制構想の実現として演説に臨んだ]]
+- Timeline Entries: [[TIME_HAMNETT_JUAREZ_1121|Post-1867 ideological settlement]]
 - Source Notes:
 - Scenes:
 - Questions:

@@ -60,3 +60,10 @@ Hamnettは、Mexicoでは1830年代半ばから1870年代半ばにかけて政�
 ## Cautions
 
 Personalismを単なる非制度性として扱わず、正式制度の不足や地域政治の実働形態として整理する。
+
+## Hamnett 1994 pp.242–243 Conclusion Closing Notes
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0124]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3009]], [[FACT_HAMNETT_JUAREZ_3010]], [[FACT_HAMNETT_JUAREZ_3014]], [[FACT_HAMNETT_JUAREZ_3020]]
+- Hamnett links post-1867 personalism to armed private networks, regional-national rivalry, and the renewed use of extra-constitutional action.
+- Cautions: This is a structural interpretation, not a claim that every post-1867 dispute was personal.
