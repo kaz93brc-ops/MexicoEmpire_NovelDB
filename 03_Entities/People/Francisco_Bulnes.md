@@ -82,3 +82,14 @@ Hamnett p.78-79 rejects Bulnes's view of Juárez as peripheral in Oaxaca by poin
 - Related Events: [[Tehuantepec_Reincorporation]]
 - Related Themes: [[Historiography_Of_Juarez]], [[State_Level_Politics]]
 - Cautions: Bulnes remains a later commentator, not a same-time 1857 political actor.
+
+## Hamnett 1994 pp.244-245 Bibliographical Essay
+
+Hamnett presents Bulnes as the major critical voice in the Porfirian-era Juárez controversy: Juárez is portrayed as pushed into Reform leadership, blamed for opening the way to Intervention, credited with victory only through indirect United States action, and criticized after 1867 as a precursor to Díaz-era authoritarianism.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0125]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3033]], [[FACT_HAMNETT_JUAREZ_3034]], [[FACT_HAMNETT_JUAREZ_3035]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_1133]]
+- Related People: [[Benito_Juarez]], [[Porfirio_Diaz]], [[Melchor_Ocampo]], [[Hilarion_Frias_Y_Soto]]
+- Related Themes: [[Historiography_Of_Juarez]], [[US_Mexico_Relations]], [[Cult_of_Juarez]]
+- Cautions: Hamnett経由の要約であり、1905年著作の書誌・原文・政治的位置を確認する。
