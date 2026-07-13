@@ -27,8 +27,8 @@ Entry note for French domestic politics. Keep historical evidence, interpretatio
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_1967|French withdrawal had multiple causes]], [[FACT_MEXEMP_1404|57枚目から新節「THE END OF THE AFFAIR」に入り、叙述はフランス国内政治へ移る]]
-- Timeline Entries:
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_1967|French withdrawal had multiple causes]], [[FACT_HAMNETT_JUAREZ_3129|Salomon studied French support for Juarez]], [[FACT_HAMNETT_JUAREZ_3130|Favre linked Juarez's victory to the fall of the Second Empire]], [[FACT_MEXEMP_1404|57枚目から新節「THE END OF THE AFFAIR」に入り、叙述はフランス国内政治へ移る]]
+- Timeline Entries: [[TIME_HAMNETT_JUAREZ_1194|Favre links Juarez's victory to the fall of the Second Empire]]
 - Source Notes:
 - Scenes:
 - Questions:
