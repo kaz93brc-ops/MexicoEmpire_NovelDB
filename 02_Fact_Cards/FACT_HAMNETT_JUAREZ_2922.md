@@ -60,3 +60,4 @@ Hamnettは、1836–46年、1853–55年、1863–67年の三つの中央集権�
 - Themes: [[Centralism]], [[Neo_Bourbon_State]], [[State_Formation]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0074]], [[TIME_HAMNETT_JUAREZ_1084]], [[TIME_HAMNETT_JUAREZ_1085]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0121]]
+

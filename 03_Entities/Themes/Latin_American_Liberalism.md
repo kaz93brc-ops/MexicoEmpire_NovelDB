@@ -48,7 +48,7 @@ Entry note for Latin American Liberalism. Verify details in linked Fact Cards an
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0136|Latin American Liberalismはcolonial pastとancien régimeからの脱却を目指した]], [[FACT_HAMNETT_JUAREZ_1031|Hale on the Church question in Mexican liberalism]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0136|Latin American Liberalismはcolonial pastとancien régimeからの脱却を目指した]], [[FACT_HAMNETT_JUAREZ_1031|Hale on the Church question in Mexican liberalism]], [[FACT_HAMNETT_JUAREZ_2915|HamnettはMexico自由主義を固有かつ大西洋世界的な経験とする]]
 - Timeline Entries:
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0048]]
 - Scenes:

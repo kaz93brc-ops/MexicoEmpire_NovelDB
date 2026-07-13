@@ -282,3 +282,10 @@ Hamnett places Juárez's resistance to Maximilian within national-sovereignty de
 - Related People: [[Benito_Juarez|Benito Juárez]], [[Napoleon_III|Napoleon III]]
 - Related Events: [[French_Intervention_in_Mexico|French Intervention]], [[Second_Mexican_Empire]]
 - Cautions: Do not reduce Maximilian to a fool, invader, or tragic figure; compare his project with Juárez's sovereignty claim and the domestic alliance supporting state reconstruction.
+
+## Hamnett 1994 pp.238–239 Post-Imperial Diplomacy Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0122]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_2952]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_1097]]
+- The Empire's collapse is also a diplomatic-realignment marker, not only a personal tragedy or regime ending.

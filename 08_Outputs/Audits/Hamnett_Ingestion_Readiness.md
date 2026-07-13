@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2776
-- hamnett_timeline_entries: 882
-- next_required_page: printed pages 238-239 / resolve p.237 unfinished sentence on Centralist experiments, regional opposition, and middle/lower social groups; confirm Conclusion continuation; local pp.146-147 gap remains unless handled elsewhere
+- hamnett_fact_cards: 2792
+- hamnett_timeline_entries: 887
+- next_required_page: printed pages 240-241 / resolve p.239 unfinished sentence on Juárez's durable principles and tactical alliances; confirm Conclusion continuation; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -57,6 +57,7 @@ tags:
 - Chapter 4 / THE CONSTITUTION OF 1857: 31
 - THE EXECUTION OF MAXIMILIAN continuation: 31
 - Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT?: 30
+- Conclusion: 29
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR: 28
 - "THE GROWTH OF OPPOSITION": 27
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE LIBERAL EXPERIMENT OF 1833-34末尾 / THE CENTRALIST REPUBLIC (1836-46)開始: 26
@@ -86,7 +87,6 @@ tags:
 - THE DÍAZ BROTHERS AND THE REBELLION OF LA NORIA: 15
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / NOTES AND REFERENCES: 14
 - "THE CONVOCATORIA OF AUGUST 1867 AND THE CONTROVERSY OVER CONSTITUTIONAL REFORM": 14
-- Conclusion: 13
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR continuation: 12
 - Chapter 1 / The Aims of Mexican Liberalism: 10
 - THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72): 10
@@ -166,6 +166,7 @@ tags:
 - Chapter 6 / THE STRUGGLE WITH VIDAURRI: 10
 - "SOCIAL MOVEMENTS AND THE AGRARIAN QUESTION": 9
 - Chapter 10 JUÁREZ, THE DÍAZ BROTHERS AND THE REBELLION OF LA NORIA / chapter opening: 9
+- Conclusion: 9
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / DISAMORTIZATION: THE LERDO LAW: 8
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR: 8
 - Chapter 6 / THE IMPACT OF THE FRENCH INTERVENTION: 8
@@ -193,7 +194,6 @@ tags:
 - THE VICTORY OF THE JUARISTAS conclusion: 4
 - "LIBERAL DIVISIONS IN PUEBLA": 4
 - CONSTITUTIONAL REFORM REVIVED: 4
-- Conclusion: 4
 - Chapter 1 / The Aims of Mexican Liberalism: 3
 - Chapter 3 / JUÁREZ AND LIBERALISM: 3
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ: 3

@@ -78,3 +78,9 @@ Hamnett p.92-93 applies civil power to Church relations: Juárez sought civil-la
 - Related People: [[Benito_Juarez]], [[Antonio_Mantecon|Antonio Mantecón]]
 - Related Themes: [[Civil_Law]], [[Rule_of_Law]], [[Church_State_Relations_Mexico]]
 - Cautions: Civil power here does not mean a simple anti-religious program; it includes legal control, administrative support, and political caution.
+
+## Hamnett 1994 pp.238–239 Conclusion Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0122]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_2955]]
+- Hamnett lists civil supremacy among Juárez's durable principles while leaving the tactical-alliance sentence unfinished at p.239.

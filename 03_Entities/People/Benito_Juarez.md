@@ -1102,3 +1102,12 @@ Hamnett opens the Conclusion by holding Juárez's tenacity and rigidity together
 - Related Organization: [[Institute_Of_Sciences_And_Arts_Of_Oaxaca|Institute of Sciences and Arts of Oaxaca]]
 - Related Themes: [[Cult_of_Juarez]], [[Mexican_Nationalism]], [[Juarez_Zapotec_Identity_Limits]], [[Constitutional_Legitimacy]], [[State_Formation]]
 - Cautions: Keep Juárez's Zapotec origin separate from claims that he represented a specific Indigenous revindication movement or Oaxaca peasant culture.
+
+## Hamnett 1994 pp.238–239 Conclusion Notes
+
+Hamnett places Juárez inside factional Liberal politics while treating his Washington strategy as post-1848 realism constrained by sovereignty risks; changing positions are set against civil supremacy, law, and political depersonalization.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0122]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2942]], [[FACT_HAMNETT_JUAREZ_2945]], [[FACT_HAMNETT_JUAREZ_2948]], [[FACT_HAMNETT_JUAREZ_2951]], [[FACT_HAMNETT_JUAREZ_2953]], [[FACT_HAMNETT_JUAREZ_2955]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1092]], [[TIME_HAMNETT_JUAREZ_1094]], [[TIME_HAMNETT_JUAREZ_1095]], [[TIME_HAMNETT_JUAREZ_1097]]
+- Cautions: Do not reduce Juárez to either a pure legal hero or a simple pro-U.S. politician; p.239 continues on the next spread.

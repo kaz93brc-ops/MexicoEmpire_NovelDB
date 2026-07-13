@@ -60,3 +60,4 @@ Hamnettは、Juárezの自由主義的形成がNew Orleans亡命期に突然生�
 - Themes: [[Juarez_Formation]], [[Oaxaca_Provincial_Liberalism]], [[New_Orleans_Exile]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0225]], [[TIME_HAMNETT_JUAREZ_1080]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0121]]
+

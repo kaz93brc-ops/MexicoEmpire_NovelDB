@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Timeline Entries: 1207
+- Timeline Entries: 1212
 - Entries with no backlinks: 1
 
 ## Entries
@@ -1212,6 +1212,11 @@ tags:
 - 1846-1867: [[TIME_HAMNETT_JUAREZ_1081|1846–1867年、独立Mexico国家は存続と国民的自己定義を争った]]
 - 1853-1855: [[TIME_HAMNETT_JUAREZ_1084|1853–1855年、第二の中央集権実験]]
 - 1863-1867: [[TIME_HAMNETT_JUAREZ_1085|1863–1867年、第三の中央集権実験]]
+- 1846–1848: [[TIME_HAMNETT_JUAREZ_1092|1846–1848年の敗北と北米勢力均衡の転換]]
+- 1858–1861: [[TIME_HAMNETT_JUAREZ_1093|1858–1861年、米国南部諸州がMexico内部分裂の利用を図る]]
+- after 1861: [[TIME_HAMNETT_JUAREZ_1094|1861年以後、JuárezはConfederacyを領土保全上の脅威とみる]]
+- 1861–1865: [[TIME_HAMNETT_JUAREZ_1095|1861–1865年、Mexican LiberalsはLincoln政権とUnionへ共感する]]
+- 1867: [[TIME_HAMNETT_JUAREZ_1097|1867年、帝政崩壊後のMexico対外関係が再配置される]]
 - : [[Timeline_Index|Timeline Index]]
 - after 1520: [[TIME_HAMNETT_JUAREZ_0089|after 1520、Spanish ConquestがOaxacaへ及んだ]]
 - after 1765: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]

@@ -59,3 +59,4 @@ Hamnettは、1846–67年を独立Mexico国家にとって決定的な時期と�
 - Themes: [[National_Survival]], [[National_Identity]], [[Mexican_Nationalism]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1081]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0121]]
+
