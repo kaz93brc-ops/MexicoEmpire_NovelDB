@@ -33,6 +33,7 @@ ChatGPTに作らせるプロンプトの目的は、Codexや別エージェン�
 ## Vault前提
 
 - vault root: `MexicoEmpire_NovelDB/`
+- Codex workspace root: `MexicoEmpire_NovelDB/`を直接開き、`git rev-parse --show-toplevel`の結果と一致させる。
 - Obsidian標準Markdown、YAML frontmatter、wiki linkで運用する。
 - Dataviewなどのコミュニティプラグイン前提の記法にしない。
 - 既存Markdownは理由なく上書き・削除しない。
@@ -104,6 +105,7 @@ ChatGPTが作るDB更新プロンプトは、渡す相手に応じて通常モ�
 - Fact候補は `ID: statement / evidence_category / confidence / printed_page / source_note任意 / caution任意` の1行形式にします。
 - Entity候補は `existing_connect`、`new_stub_consider`、`candidate_only` に分けます。
 - 最終報告は標準チェックリストを適用させ、ページ固有で必ず報告してほしい点だけ `extra_final_report` に書きます。
+- `github_publish`が依頼文に省略されていても、DB変更ではrepository rootの`AGENTS.md`と`GitHub_Workflow.md`に従うため、GitHub反映工程を省略しません。
 
 ## 証拠分類
 
@@ -340,6 +342,7 @@ MexicoEmpire_NovelDB の Hamnett, Juárez 取込を続けてください。
 恒久ルールは AGENTS.md と 93_Docs/ChatGPT_DB_Update_Prompt_README.md に従い、本文全文・長文引用・全文翻訳・全文OCRは保存しないでください。
 
 target:
+- repo_root: MexicoEmpire_NovelDB
 - screenshot_no:
 - screenshot_file:
 - chapter:

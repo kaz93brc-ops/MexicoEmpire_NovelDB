@@ -12,6 +12,15 @@
 
 ## 作業開始時の確認
 
+最初にrepository rootを確定する。親フォルダで開始した場合も、以後のGit・検証・編集コマンドは取得したrootをworking directoryとして実行する。
+
+```powershell
+git rev-parse --show-toplevel
+```
+
+- このコマンドが失敗した場合、編集を開始せず、子階層の `.git` を探してrepository rootへ移動する。
+- repository rootの `AGENTS.md` を正本として読み、親フォルダの同名ファイルを運用ルールの正本にしない。
+
 作業前に次を確認する。
 
 ```powershell
@@ -29,6 +38,14 @@ git rev-list --left-right --count main...origin/main
 - `main`と`origin/main`が分岐している場合、または安全に最新化できない場合は競合扱いとし、通常PR・auto-mergeへ進めない。
 - 1作業単位で1branchとする。例: `hamnett/capture-0147-description`、`chore/update-audit`、`fix/entity-link-resolution`。
 - `main`上で編集を始めていた場合も、commit前に専用branchへ移す。
+
+## 誤branch・dirty worktreeからの分離
+
+- 既存PRのbranch上で別作業の未コミット変更を発見した場合、そのbranchへ混在commitしない。
+- 対象pathだけを一時的な隔離branchへcommitし、`main`起点の別worktreeへそのcommitだけをcherry-pickして新しい専用branchを作る。
+- 隔離元branchの既存commitを新PRへ含めないことを `git log main..HEAD` と `git diff main...HEAD --name-status` で確認する。
+- 対象外の未追跡ファイルはstageせず、そのまま残して最終報告する。
+- ユーザー変更を守るため、`git reset --hard`、`git clean`、無断stash、履歴改変で分離しない。
 
 ## 共通の安全条件
 
@@ -148,3 +165,11 @@ git rev-list --left-right --count main...origin/main
 - 対象外の未コミット変更、失敗、競合、要確認事項など残存事項。
 
 branch名、commit SHA、PR URLのいずれかが欠ける場合、結論は必ず「ローカルDB更新完了・GitHub反映未完了」とする。
+
+最終回答直前に次を実行し、記憶や推測ではなく実測値を報告する。
+
+```powershell
+git branch --show-current
+git rev-parse HEAD
+gh pr view --json number,url,state,isDraft,headRefName,baseRefName,autoMergeRequest,statusCheckRollup,mergedAt
+```

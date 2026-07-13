@@ -1,6 +1,14 @@
 # Agent Operating Rules
 
-このファイルは、今後 Brian R. Hamnett, *Juarez* の情報を `MexicoEmpire_NovelDB` に追加するエージェント向けの作業ルールです。対象 vault は `MexicoEmpire_NovelDB/` です。
+このファイルは、今後 Brian R. Hamnett, *Juarez* の情報をこのvaultへ追加するエージェント向けの作業ルールです。このファイルがある `MexicoEmpire_NovelDB/` がGit repository root兼Obsidian vault rootです。
+
+## Repository preflight
+
+- DBファイルを読む・変更する前に `git rev-parse --show-toplevel` を実行し、結果がこのvault rootであることを確認する。
+- 親フォルダで開始した場合は、子階層の `.git` を探してこのvaultをworking directoryに設定し、この `AGENTS.md` を読み直すまで作業を開始しない。
+- 同名の `AGENTS.md` が親フォルダにもある場合、このリポジトリ内のファイルを正本として優先する。
+- 作業開始時に `git status --short --branch`、`git branch --show-current`、`git remote -v`、`gh auth status`、`git fetch origin`、`git rev-list --left-right --count main...origin/main` を確認する。
+- `main`、無関係な作業branch、または所有者不明のdirty worktree上で編集を始めない。安全に分離できない場合は変更前に停止して報告する。
 
 ## 基本方針
 
@@ -16,12 +24,12 @@
 
 Hamnett情報を追加する前に、最低限次を確認する。
 
-- `MexicoEmpire_NovelDB/README.md`
-- `MexicoEmpire_NovelDB/01_Sources/Source_Notes/SRC_HAMNETT_1994_JUAREZ.md`
-- `MexicoEmpire_NovelDB/93_Docs/Hamnett_Juarez_Progress_Master.md`
-- `MexicoEmpire_NovelDB/08_Outputs/Audits/Hamnett_Ingestion_Readiness.md`
-- `MexicoEmpire_NovelDB/08_Outputs/Audits/Fact_Card_Metadata_Review.md`
-- `MexicoEmpire_NovelDB/08_Outputs/Audits/Printed_Page_Verification_Candidates.md`
+- `README.md`
+- `01_Sources/Source_Notes/SRC_HAMNETT_1994_JUAREZ.md`
+- `93_Docs/Hamnett_Juarez_Progress_Master.md`
+- `08_Outputs/Audits/Hamnett_Ingestion_Readiness.md`
+- `08_Outputs/Audits/Fact_Card_Metadata_Review.md`
+- `08_Outputs/Audits/Printed_Page_Verification_Candidates.md`
 
 `Hamnett_Ingestion_Readiness.md` の `next_required_page` を次回処理の入口にする。固定日付の過去メモより、このレポートの最新値を優先する。進捗更新後は `SRC_HAMNETT_1994_JUAREZ.md` と `Hamnett_Juarez_Progress_Master.md` の次回確認事項も同じ入口に揃える。
 
@@ -182,7 +190,7 @@ Hamnett情報を追加したら、次を更新または再生成する。
 索引と監査は保守スクリプトで再生成する。
 
 ```powershell
-python .\MexicoEmpire_NovelDB\92_Scripts\vault_maintenance.py --phase all --apply
+python .\92_Scripts\vault_maintenance.py --phase all --apply
 ```
 
 ## 検証コマンド
@@ -190,8 +198,8 @@ python .\MexicoEmpire_NovelDB\92_Scripts\vault_maintenance.py --phase all --appl
 作業後は必ず次を実行する。
 
 ```powershell
-python .\MexicoEmpire_NovelDB\92_Scripts\auto_resolve_links.py --mode analyze --limit 20
-python .\MexicoEmpire_NovelDB\92_Scripts\vault_maintenance.py --phase all
+python .\92_Scripts\auto_resolve_links.py --mode analyze --limit 20
+python .\92_Scripts\vault_maintenance.py --phase all
 ```
 
 期待する状態:
@@ -219,7 +227,9 @@ python .\MexicoEmpire_NovelDB\92_Scripts\vault_maintenance.py --phase all
 ## GitHub workflow
 
 - DB更新はローカル編集だけでは完了しない。専用branchを作り、依頼対象ファイルだけをstageしてcommit・pushし、Pull Requestを作成するまでを必須とする。
+- `git add .`や`git add -A`を使わず、確認済みの対象pathだけをstageし、`git diff --cached --name-status`と`git diff --cached`を確認する。
 - 通常取込は、`93_Docs/GitHub_Workflow.md`の安全条件をすべて満たす場合だけ通常Pull Requestとし、必須check `safety`成功後のsquash auto-mergeを設定する。
 - Draft条件に該当する作業はDraft Pull Requestで停止し、auto-mergeを設定しない。
 - branch名、commit SHA、PR URLを確認できない場合は「GitHub反映完了」と報告せず、「ローカルDB更新完了・GitHub反映未完了」と報告する。
+- 最終回答を出す前に `git branch --show-current`、`git rev-parse HEAD`、`gh pr view` でbranch名・commit SHA・PR URL・Draft状態・auto-merge状態を実測する。3点が揃わない場合は作業完了と表現しない。
 - 詳細な開始確認、安全条件、Draft条件、禁止事項、merge後確認、最終報告は`93_Docs/GitHub_Workflow.md`に従う。
