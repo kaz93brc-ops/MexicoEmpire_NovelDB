@@ -34,6 +34,8 @@ Hamnett本の取り込み状況は、2026-06-20時点で `FACT_HAMNETT_JUAREZ_*.
 
 Hamnett本の取込作業ルールと短縮依頼フォーマットは、リポジトリ直下の `AGENTS.md` と `93_Docs/ChatGPT_DB_Update_Prompt_README.md` を参照してください。
 
+DB更新時の必須GitHub反映ルールは `AGENTS.md`、詳細な判定条件と手順は `93_Docs/GitHub_Workflow.md` を参照してください。
+
 ## 基本方針
 
 - 1つのFact Cardには、1つの主張だけを書く。

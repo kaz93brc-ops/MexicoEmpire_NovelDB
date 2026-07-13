@@ -3,7 +3,7 @@ id: DOC_CHATGPT_DB_UPDATE_PROMPT_README
 type: documentation
 status: active
 created: 2026-06-23
-updated: 2026-06-30
+updated: 2026-07-13
 tags:
   - docs
   - chatgpt
@@ -300,6 +300,20 @@ python .\MexicoEmpire_NovelDB\92_Scripts\vault_maintenance.py --phase all --appl
 - 他文献照合観点と創作利用メモを残したか
 - 検証結果: unresolved wiki links, empty wiki links, basename重複, statement欠落, locator missing, source_id_review
 - 長文引用、全文保存、全文翻訳、スクリーンショット全文転記が発生していないこと
+- branch名、commit SHA、PR URL、PR種別、auto-merge設定、merge状態
+
+## ページ用プロンプト末尾のGitHub反映指示
+
+各ページ・見開きのDB更新プロンプト末尾には、次の短縮版を付けてください。詳細条件は`AGENTS.md`と`93_Docs/GitHub_Workflow.md`から読ませ、プロンプト側へ重複掲載しません。
+
+```text
+github_publish:
+- ローカルDB更新だけで完了とせず、専用branchで対象ファイルだけをstageし、commit、push、Pull Request作成まで行う。
+- 通常取込はGitHub_Workflow.mdの安全条件をすべて満たす場合だけ通常PRとし、safety成功後のsquash auto-mergeを設定する。
+- 地図、Index、不確実性、検証失敗、競合、保護対象変更、50件超、削除・移動・改名、またはレビュー指定がある場合はDraft PRで停止し、auto-mergeを設定しない。
+- 最終報告に変更箇所、branch名、commit SHA、PR URL、PR種別、auto-merge設定、検証結果、merge状態を記載する。
+- branch名、commit SHA、PR URLのいずれかがない場合は「GitHub反映完了」とせず、「ローカルDB更新完了・GitHub反映未完了」と報告する。
+```
 
 ## ChatGPTへ渡す短縮指示
 
@@ -374,4 +388,10 @@ open_questions:
 
 extra_final_report:
 - ページ固有で必ず報告してほしい点だけ記載。
+
+github_publish:
+- 専用branch、対象ファイルだけのstage、commit、push、PR作成まで行う。
+- 安全条件をすべて満たす通常取込だけ通常PR＋safety成功後のsquash auto-mergeとする。
+- Draft条件に該当する場合はDraft PRで停止し、auto-mergeを設定しない。
+- branch名、commit SHA、PR URL、PR種別、検証結果、merge状態を最終報告する。3点のいずれかがなければ「ローカルDB更新完了・GitHub反映未完了」とする。
 ```

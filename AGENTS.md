@@ -155,7 +155,7 @@ Hamnett本文だけを根拠にした事実整理は、安易に `confirmed` に
 - 新しい人物・場所・組織・事件・テーマを作る前に、既存ノートの basename、タイトル、alias を確認する。
 - 同じ basename の Markdown ファイルを増やさない。Obsidianでリンク解決が曖昧になる。
 - 抽象テーマと実体組織を混同しない。例: `French_Opposition` テーマと `French_Opposition_to_Napoleon_III` 組織は別物として扱う。
-- リンクは原則 `[[File_Stem|表示名]]` 形式で、既存ノートの stem に向ける。
+- リンクは原則、`File_Stem|表示名` を二重角括弧で囲む形式にし、既存ノートの stem に向ける。
 - 生成stubを作る場合も、最低限 `type`、`status`、`source_id`、概要、関連リンクを入れる。
 - 重要度の高いstubには `## Historical Role`、`## Creative Use`、`## Open Questions` を追加する。
 - 未解決リンクを0にするため、重要な新規 Person / Event / Organization / Theme は最小stubを作成してよい。
@@ -218,18 +218,8 @@ python .\MexicoEmpire_NovelDB\92_Scripts\vault_maintenance.py --phase all
 
 ## GitHub workflow
 
-- `main`を通常作業で直接変更しない。
-- 作業開始前に`git status`、現在ブランチ、`origin`を確認する。
-- 作業前に`main`を`git pull --ff-only`で最新化する。
-- 1作業単位で専用ブランチを作成する。
-- Hamnett取込では`hamnett/capture-NNNN-description`形式を基本とする。
-- 無関係なファイルを変更しない。
-- 作業後に差分、変更ファイル、ID、リンク、YAML、監査結果を確認する。
-- 通常の史料取込で、変更50件以下、削除・改名なし、ID・YAML・リンク・引用・秘密情報・競合・検証に問題がなく、保護対象文書を変更していない場合は、変更をcommitして作業ブランチをpushし、DraftではないPull Requestを作成する。
-- 通常取込のPull Requestには`gh pr merge --auto --squash --delete-branch`でauto-mergeを設定し、必須check `safety`成功後にGitHubへsquash mergeさせる。
-- 地図、Index、判読・出典・IDに要確認がある作業、既存ファイルの移動・改名・削除、テンプレート・スクリプト・`.github/`・`AGENTS.md`・`.gitignore`の変更、50件超の変更、検証失敗、競合、安全判断に確信がない作業、またはユーザーがレビューを求めた作業はDraft Pull Requestで停止し、auto-mergeを設定しない。
-- Pull Request本文に変更ファイル、使用ID、検証結果、要確認事項を記載する。
-- auto-merge後はPull Requestが`MERGED`であること、remote branch削除、`main`のff-only最新化、working tree cleanを確認する。
-- auto-mergeが失敗または保留になった場合は、Pull RequestをopenまたはDraftのまま残し、mainへmergeせず理由を報告する。
-- force push、履歴改変、既存IDの再利用を行わない。
-- 詳細な判定条件とコマンドは`93_Docs/GitHub_Workflow.md`に従う。
+- DB更新はローカル編集だけでは完了しない。専用branchを作り、依頼対象ファイルだけをstageしてcommit・pushし、Pull Requestを作成するまでを必須とする。
+- 通常取込は、`93_Docs/GitHub_Workflow.md`の安全条件をすべて満たす場合だけ通常Pull Requestとし、必須check `safety`成功後のsquash auto-mergeを設定する。
+- Draft条件に該当する作業はDraft Pull Requestで停止し、auto-mergeを設定しない。
+- branch名、commit SHA、PR URLを確認できない場合は「GitHub反映完了」と報告せず、「ローカルDB更新完了・GitHub反映未完了」と報告する。
+- 詳細な開始確認、安全条件、Draft条件、禁止事項、merge後確認、最終報告は`93_Docs/GitHub_Workflow.md`に従う。
