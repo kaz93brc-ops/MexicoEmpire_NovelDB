@@ -63,3 +63,9 @@ Hamnett p.105 reports Sierra's evaluation of the 1859-07-07 Manifesto to the Nat
 - Related People: [[Benito_Juarez]], [[Melchor_Ocampo]], [[Manuel_Ruiz]], [[Miguel_Lerdo_De_Tejada]]
 - Related Themes: [[Historiography_Of_Juarez]], [[Reform_Laws]], [[Liberal_Reform]]
 - Cautions: Existing DB uses Justo Sierra, but confirm the exact Sierra work and whether Hamnett corrects this evaluation on the next page.
+
+## Hamnett 1994 p.240 Conclusion Jacobin Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0123]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_1037]]
+- Hamnett's Conclusion again rejects reducing Juárez to Sierra's Jacobin-type Liberal dictatorship; Sierra's exact work and wording remain verification-needed.

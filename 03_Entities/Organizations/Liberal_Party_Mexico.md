@@ -164,3 +164,10 @@ Hamnett p.88-89 places Reform-generation Liberalism between inherited Mora/Zaval
 - Related People: [[Jose_Maria_Luis_Mora]], [[Lorenzo_de_Zavala]], [[Valentin_Gomez_Farias]], [[Miguel_Lerdo_De_Tejada]], [[Benito_Juarez]]
 - Related Themes: [[Disentailment_Disamortization]], [[Church_State_Relations_Mexico]], [[Free_Church_In_A_Free_State]], [[Corporate_Privilege]], [[Republican_Values]], [[National_Identity]], [[Civic_Virtue]], [[Lay_Public_Education]]
 - Cautions: Liberal public education and republican value-building should not be treated as automatic progress; resistance and regional religious culture remain part of the scene.
+
+## Hamnett 1994 pp.240–241 Conclusion Faction Notes
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0123]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2979]], [[FACT_HAMNETT_JUAREZ_2980]], [[FACT_HAMNETT_JUAREZ_2982]], [[FACT_HAMNETT_JUAREZ_2983]], [[FACT_HAMNETT_JUAREZ_2985]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1106]], [[TIME_HAMNETT_JUAREZ_1109]], [[TIME_HAMNETT_JUAREZ_1111]], [[TIME_HAMNETT_JUAREZ_1114]]
+- Hamnett treats Liberal radicals as a heterogeneous set of González Ortega supporters, Zacatecas-linked actors, and rival Lerdo/Ocampo currents rather than a unified party wing.

@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2792
-- hamnett_timeline_entries: 887
-- next_required_page: printed pages 240-241 / resolve p.239 unfinished sentence on Juárez's durable principles and tactical alliances; confirm Conclusion continuation; local pp.146-147 gap remains unless handled elsewhere
+- hamnett_fact_cards: 2810
+- hamnett_timeline_entries: 893
+- next_required_page: printed pages 242-243 / resolve p.241 unfinished sentence on imperial finances and failure to form an effective Mexican army; confirm Conclusion continuation or end; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -40,6 +40,7 @@ tags:
 - THE DEBT QUESTION AND THE ALLIED INTERVENTION OF 1861-62: 51
 - Chapter 2, The Provincial Origins: Juárez and Oaxaca / Oaxaca: Culture and Society: 49
 - Chapter 6 / JUÁREZ IN CHIHUAHUA: 47
+- Conclusion: 47
 - THE VICTORY OF THE JUARISTAS: 46
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CENTRALIST REPUBLIC (1836-46): 44
 - THE ESTABLISHMENT OF THE MEXICAN EMPIRE: 43
@@ -57,7 +58,6 @@ tags:
 - Chapter 4 / THE CONSTITUTION OF 1857: 31
 - THE EXECUTION OF MAXIMILIAN continuation: 31
 - Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT?: 30
-- Conclusion: 29
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR: 28
 - "THE GROWTH OF OPPOSITION": 27
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE LIBERAL EXPERIMENT OF 1833-34末尾 / THE CENTRALIST REPUBLIC (1836-46)開始: 26
@@ -148,6 +148,7 @@ tags:
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / EARLY LIBERALISM AND THE REVIVAL OF THE CHURCH: 15
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / GOVERNOR JUÁREZ AND THE CHURCH: 15
 - JUÁREZ'S POLICY OF UNCOMPROMISING RESISTANCE: 15
+- Conclusion: 15
 - Chapter 4 / THE BREAKDOWN OF THE CONSTITUTIONAL EXPERIMENT: 14
 - Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT? continuation: 13
 - THE VICTORY OF THE JUARISTAS: 13
@@ -166,7 +167,6 @@ tags:
 - Chapter 6 / THE STRUGGLE WITH VIDAURRI: 10
 - "SOCIAL MOVEMENTS AND THE AGRARIAN QUESTION": 9
 - Chapter 10 JUÁREZ, THE DÍAZ BROTHERS AND THE REBELLION OF LA NORIA / chapter opening: 9
-- Conclusion: 9
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / DISAMORTIZATION: THE LERDO LAW: 8
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR: 8
 - Chapter 6 / THE IMPACT OF THE FRENCH INTERVENTION: 8

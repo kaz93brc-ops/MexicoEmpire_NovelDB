@@ -27,7 +27,7 @@ Entry note for plebiscitary legitimacy. Keep historical evidence, interpretation
 - Places:
 - Events: [[Constitution_Of_1857|Constitution Of 1857]]
 - Themes: [[Liberal_Factionalism|Liberal Factionalism]]
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_2485|Hamnett reads the convocatoria as preempting the porfirista challenge]], [[FACT_HAMNETT_JUAREZ_2487|Juarez accepted defeat on direct appeal issue]], [[FACT_HAMNETT_JUAREZ_2488|Hamnett says plebiscite failure exposed weak executive authority]], [[FACT_MEXEMP_0915|Barailは軍事圧力下の選出を辛辣に評した]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_2485|Hamnett reads the convocatoria as preempting the porfirista challenge]], [[FACT_HAMNETT_JUAREZ_2487|Juarez accepted defeat on direct appeal issue]], [[FACT_HAMNETT_JUAREZ_2488|Hamnett says plebiscite failure exposed weak executive authority]], [[FACT_HAMNETT_JUAREZ_2991|Maximilianはnational electionsとcounter-insurgencyを正統化・統制手段として併用しようとしたとHamnettは整理する]], [[FACT_MEXEMP_0915|Barailは軍事圧力下の選出を辛辣に評した]]
 - Timeline Entries:
 - Source Notes:
 - Scenes:

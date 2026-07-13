@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1037"
 type: "fact_card"
 status: "draft"
 created: "2026-06-30"
-updated: "2026-06-30"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;chapter5;hamnett-evaluation"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -32,6 +32,7 @@ places: ["Mexico"]
 organizations: []
 themes: ["Historiography_Of_Juarez", "Radical_Liberalism", "Liberal_Factionalism"]
 related_timeline_entries: []
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 # Hamnett rejects an early Jacobin label for Juárez
 
@@ -65,4 +66,9 @@ Hamnettは、証拠に照らすと、少なくともこの時点のJuárezを「
 - Themes: [[Historiography_Of_Juarez]], [[Radical_Liberalism]], [[Liberal_Factionalism]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0048]]
 - Related Timeline Entries:
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0123|Conclusion p.240]] restates that Juárez did not support a Jacobin form of Liberal dictatorship.
+- Planned `FACT_HAMNETT_JUAREZ_2974` was not created because this card already preserves Hamnett's caution against the Jacobin label; Justo Sierra's terminology remains verification-needed.
 

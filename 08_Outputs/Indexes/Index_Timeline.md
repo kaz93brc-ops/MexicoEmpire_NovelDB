@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Timeline Entries: 1212
+- Timeline Entries: 1218
 - Entries with no backlinks: 1
 
 ## Entries
@@ -1217,6 +1217,12 @@ tags:
 - after 1861: [[TIME_HAMNETT_JUAREZ_1094|1861年以後、JuárezはConfederacyを領土保全上の脅威とみる]]
 - 1861–1865: [[TIME_HAMNETT_JUAREZ_1095|1861–1865年、Mexican LiberalsはLincoln政権とUnionへ共感する]]
 - 1867: [[TIME_HAMNETT_JUAREZ_1097|1867年、帝政崩壊後のMexico対外関係が再配置される]]
+- 1856–1857: [[TIME_HAMNETT_JUAREZ_1102|1856–57年、Oaxaca政策がJuárezの急進派的評判を強める]]
+- 1858-01 to 1863-06: [[TIME_HAMNETT_JUAREZ_1106|1858年1月–1863年6月、JuárezがLiberal radicalsと連携する]]
+- 1859–1860: [[TIME_HAMNETT_JUAREZ_1107|1859–60年、JuárezがVeracruz内閣の調停者として行動する]]
+- late spring 1863: [[TIME_HAMNETT_JUAREZ_1109|1863年春末、JuárezとLiberal radicalsの同盟が崩壊する]]
+- 1863-06: [[TIME_HAMNETT_JUAREZ_1111|1863年6月までにJuárezが急進派と決裂しSebastián Lerdoと再提携する]]
+- late 1870: [[TIME_HAMNETT_JUAREZ_1114|1870年後半、Juárez再選構想をめぐりSebastián Lerdoが反対派へ回る]]
 - : [[Timeline_Index|Timeline Index]]
 - after 1520: [[TIME_HAMNETT_JUAREZ_0089|after 1520、Spanish ConquestがOaxacaへ及んだ]]
 - after 1765: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]

@@ -15,29 +15,29 @@ tags:
 - generated_stubs: 2234
 - backlink_10_plus: 366
 - backlink_5_9: 315
-- backlink_2_4: 631
-- backlink_1_low_priority: 922
+- backlink_2_4: 634
+- backlink_1_low_priority: 919
 - backlink_0: 0
 
 ## Backlink 10+
 
-- [[Oaxaca_State_Government|Oaxaca state government]] - backlinks: 419; quality_sections: yes
+- [[Oaxaca_State_Government|Oaxaca state government]] - backlinks: 422; quality_sections: yes
 - [[Federal_Government|federal government]] - backlinks: 323; quality_sections: yes
-- [[Constitutional_Legitimacy|constitutional legitimacy]] - backlinks: 298; quality_sections: yes
-- [[State_Governments|state governments]] - backlinks: 254; quality_sections: yes
+- [[Constitutional_Legitimacy|constitutional legitimacy]] - backlinks: 299; quality_sections: yes
+- [[State_Governments|state governments]] - backlinks: 256; quality_sections: yes
 - [[United_States_Government|United States government]] - backlinks: 233; quality_sections: yes
 - [[Oaxaca_Politics|Oaxaca politics]] - backlinks: 217; quality_sections: yes
-- [[Sebastian_Lerdo_De_Tejada|Sebastián Lerdo de Tejada]] - backlinks: 200; quality_sections: yes
-- [[Jesus_Gonzalez_Ortega|Jesús González Ortega]] - backlinks: 188; quality_sections: yes
+- [[Sebastian_Lerdo_De_Tejada|Sebastián Lerdo de Tejada]] - backlinks: 204; quality_sections: yes
+- [[Jesus_Gonzalez_Ortega|Jesús González Ortega]] - backlinks: 190; quality_sections: yes
 - [[Isthmus_Of_Tehuantepec|Isthmus of Tehuantepec]] - backlinks: 172; quality_sections: yes
 - [[American_Civil_War|American Civil War]] - backlinks: 168; quality_sections: yes
 - [[San_Luis_Potosi|San Luis Potosí]] - backlinks: 160; quality_sections: yes
 - [[War_Finance|war finance]] - backlinks: 158; quality_sections: yes
 - [[Public_Debt|Public Debt]] - backlinks: 117; quality_sections: yes
 - [[Liberal_Party|Liberal Party]] - backlinks: 116; quality_sections: yes
+- [[Imperial_Government|imperial government]] - backlinks: 113; quality_sections: yes
 - [[Provincial_Politics|Provincial politics]] - backlinks: 109; quality_sections: yes
-- [[Imperial_Government|imperial government]] - backlinks: 108; quality_sections: yes
-- [[Mexican_Army|Mexican army]] - backlinks: 104; quality_sections: yes
+- [[Mexican_Army|Mexican army]] - backlinks: 107; quality_sections: yes
 - [[European_Intervention|European intervention]] - backlinks: 102; quality_sections: yes
 - [[Juarez_Later_Presidency|Juárez later presidency]] - backlinks: 101; quality_sections: yes
 - [[Guerrero]] - backlinks: 100; quality_sections: yes
@@ -51,10 +51,10 @@ tags:
 - [[Margarita_Eustacia_Maza|Margarita Eustacia Maza]] - backlinks: 77; quality_sections: yes
 - [[Mariano_Riva_Palacio|Mariano Riva Palacio]] - backlinks: 77; quality_sections: yes
 - [[Mexican_Republic|Mexican Republic]] - backlinks: 77; quality_sections: yes
+- [[Moderate_Liberalism|moderate Liberalism]] - backlinks: 77; quality_sections: yes
 - [[French_Imperial_Policy|French imperial policy]] - backlinks: 76; quality_sections: yes
 - [[Abraham_Lincoln|Abraham Lincoln]] - backlinks: 75; quality_sections: yes
 - [[Juarez_Cabinet|Juárez cabinet]] - backlinks: 74; quality_sections: yes
-- [[Moderate_Liberalism|moderate Liberalism]] - backlinks: 74; quality_sections: yes
 - [[European_Powers|European powers]] - backlinks: 69; quality_sections: yes
 - [[Restored_Republic|Restored Republic]] - backlinks: 69; quality_sections: yes
 - [[Monterrey]] - backlinks: 67; quality_sections: yes
@@ -116,8 +116,8 @@ tags:
 - [[Jose_Fernando_Ramirez|José Fernando Ramírez]] - backlinks: 32; quality_sections: yes
 - [[Juarez_Family|Juárez family]] - backlinks: 32; quality_sections: yes
 - [[Village_Grievances_And_Parish_Conflict|Village grievances and parish conflict]] - backlinks: 32; quality_sections: yes
+- [[Imperial_Finance|imperial finance]] - backlinks: 31; quality_sections: yes
 - [[Sonora]] - backlinks: 31; quality_sections: yes
-- [[Imperial_Finance|imperial finance]] - backlinks: 30; quality_sections: yes
 - [[Italy]] - backlinks: 30; quality_sections: yes
 - [[Juarez_Constitutional_Government|Juárez constitutional government]] - backlinks: 30; quality_sections: yes
 - [[Mexican_State|Mexican state]] - backlinks: 30; quality_sections: yes
@@ -125,12 +125,12 @@ tags:
 - [[Trieste]] - backlinks: 30; quality_sections: yes
 - [[Baron_Anton_Von_Magnus|Baron Anton von Magnus]] - backlinks: 29; quality_sections: yes
 - [[Dubois_De_Saligny|Dubois de Saligny]] - backlinks: 29; quality_sections: yes
+- [[Radical_Liberalism|radical Liberalism]] - backlinks: 28; quality_sections: yes
 - [[Santa_Anna_Regime|Santa Anna regime]] - backlinks: 28; quality_sections: yes
 - [[Vicente_Riva_Palacio|Vicente Riva Palacio]] - backlinks: 28; quality_sections: yes
 - [[Maximilian_Empire|Maximilian empire]] - backlinks: 27; quality_sections: yes
 - [[Mining_Economy|Mining Economy]] - backlinks: 27; quality_sections: yes
 - [[Morelia]] - backlinks: 27; quality_sections: yes
-- [[Radical_Liberalism|radical Liberalism]] - backlinks: 27; quality_sections: yes
 - [[State_Formation|State formation]] - backlinks: 27; quality_sections: yes
 - [[Transfer_Of_Maximilians_Remains|Transfer of Maximilian’s remains]] - backlinks: 27; quality_sections: yes
 - [[United_States_Diplomacy|United States diplomacy]] - backlinks: 27; quality_sections: yes
@@ -179,6 +179,7 @@ tags:
 - [[US_Diplomacy|US diplomacy]] - backlinks: 21; quality_sections: yes
 - [[Agnes_Salm_Salm|Agnes Salm-Salm]] - backlinks: 20; quality_sections: yes
 - [[Austrian_Volunteers|Austrian volunteers]] - backlinks: 20; quality_sections: yes
+- [[Contested_Legitimacy|contested legitimacy]] - backlinks: 20; quality_sections: yes
 - [[Corps_Legislatif|Corps législatif]] - backlinks: 20; quality_sections: yes
 - [[Foreys_Entry_into_Mexico_City|Forey's entry into Mexico City]] - backlinks: 20; quality_sections: yes
 - [[Francois_Castelnau|François Castelnau]] - backlinks: 20; quality_sections: yes
@@ -189,7 +190,6 @@ tags:
 - [[Capture_Of_Maximilian|Capture of Maximilian]] - backlinks: 19; quality_sections: yes
 - [[Commercial_Agriculture|Commercial Agriculture]] - backlinks: 19; quality_sections: yes
 - [[Confederacy]] - backlinks: 19; quality_sections: yes
-- [[Contested_Legitimacy|contested legitimacy]] - backlinks: 19; quality_sections: yes
 - [[Greece]] - backlinks: 19; quality_sections: yes
 - [[Gulf_Of_Mexico|Gulf of Mexico]] - backlinks: 19; quality_sections: yes
 - [[Ignacio_Zaragoza|Ignacio Zaragoza]] - backlinks: 19; quality_sections: yes
@@ -414,7 +414,6 @@ tags:
 - [[Anti_Imperialism|Anti-imperialism]] - backlinks: 1
 - [[Anti_Liberal_Rhetoric|Anti-Liberal Rhetoric]] - backlinks: 1
 - [[Armed_Insurrection|Armed Insurrection]] - backlinks: 1
-- [[Armed_Resistance|armed resistance]] - backlinks: 1
 - [[Army_Of_Observation|Army of Observation]] - backlinks: 1
 - [[Arrival_Of_Maximilian_And_Carlota_In_Mexico_City|Arrival of Maximilian and Carlota in Mexico City]] - backlinks: 1
 - [[Atlantic_Trade|Atlantic trade]] - backlinks: 1
@@ -953,7 +952,6 @@ tags:
 - [[Imperial_Financial_Reform|imperial financial reform]] - backlinks: 1
 - [[Imperial_Fiscal_Crisis|imperial fiscal crisis]] - backlinks: 1
 - [[Imperial_Journey_To_Mexico_City|Imperial journey to Mexico City]] - backlinks: 1
-- [[Imperial_Legitimacy_Campaign|imperial legitimacy campaign]] - backlinks: 1
 - [[Imperial_Legitimacy_Caution|imperial legitimacy caution]] - backlinks: 1
 - [[Imperial_Legitimacy_Debate|Imperial legitimacy debate]] - backlinks: 1
 - [[Imperial_Receptions_In_Mexico|Imperial receptions in Mexico]] - backlinks: 1
@@ -1107,7 +1105,6 @@ tags:
 - [[Milan_Entry_Of_Maximilian_And_Carlota|Milan entry of Maximilian and Carlota]] - backlinks: 1
 - [[Military_Reinforcement|military reinforcement]] - backlinks: 1
 - [[Military_Resistance|military resistance]] - backlinks: 1
-- [[Military_Violence|military violence]] - backlinks: 1
 - [[Miramar_Dinner|Miramar dinner]] - backlinks: 1
 - [[Misgovernment|misgovernment]] - backlinks: 1
 - [[Misreading_Mexico|misreading Mexico]] - backlinks: 1

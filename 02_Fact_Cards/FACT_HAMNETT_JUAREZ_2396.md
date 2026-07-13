@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2396"
 type: "fact_card"
 status: "draft"
 created: "2026-07-06"
-updated: "2026-07-06"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -32,6 +32,7 @@ places: ["Mexico"]
 organizations: ["Moderate_Liberals", "Imperial_Government"]
 themes: ["Moderate_Liberalism", "Juarismo", "Liberal_Conservative_Fluidity"]
 related_timeline_entries: []
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 
 # Hamnett says moderate opinion was divided during the imperial crisis
@@ -65,3 +66,8 @@ Hamnettは、moderate opinionがjuarismoへの忠誠低下、地域的孤立、�
 - Themes: [[Moderate_Liberalism|moderate Liberalism]], [[Juarismo]], [[Liberal_Conservative_Fluidity|Liberal-Conservative fluidity]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0102]]
 - Related Timeline Entries:
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0123|Conclusion p.241]] specifies that moderate opinion clustered around Sebastián Lerdo within the itinerant republic and around Maximilian's moderate-consensus project on the imperial side.
+- Planned `FACT_HAMNETT_JUAREZ_2987` was not created because this card already preserves Hamnett's divided-moderate-opinion claim.

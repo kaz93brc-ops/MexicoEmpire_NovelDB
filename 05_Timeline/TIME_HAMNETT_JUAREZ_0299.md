@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0299"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-23"
-updated: "2026-06-24"
+updated: "2026-07-13"
 tags: "timeline;hamnett;juarez;chapter3;ayutla"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -44,6 +44,9 @@ related_fact_cards:
   - "FACT_HAMNETT_JUAREZ_0706"
   - "FACT_HAMNETT_JUAREZ_0707"
   - "FACT_HAMNETT_JUAREZ_0750"
+  - "FACT_HAMNETT_JUAREZ_1105"
+  - "FACT_HAMNETT_JUAREZ_1106"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 # Juárez Law issued on 23 November 1855
 
@@ -86,7 +89,7 @@ related_fact_cards:
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0704]], [[FACT_HAMNETT_JUAREZ_0705]], [[FACT_HAMNETT_JUAREZ_0706]], [[FACT_HAMNETT_JUAREZ_0707]], [[FACT_HAMNETT_JUAREZ_0750]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0704]], [[FACT_HAMNETT_JUAREZ_0705]], [[FACT_HAMNETT_JUAREZ_0706]], [[FACT_HAMNETT_JUAREZ_0707]], [[FACT_HAMNETT_JUAREZ_0750]], [[FACT_HAMNETT_JUAREZ_1105]], [[FACT_HAMNETT_JUAREZ_1106]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.27.45.jpeg

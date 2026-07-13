@@ -41,7 +41,7 @@ Use this as an entry point for scene design after checking the linked evidence.
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0296|Juárez handled property and money cases for Oaxaca elite families]], [[FACT_HAMNETT_JUAREZ_1051|Mantecón was presented by Santa Anna and came from an Oaxaca elite family]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0296|Juárez handled property and money cases for Oaxaca elite families]], [[FACT_HAMNETT_JUAREZ_1051|Mantecón was presented by Santa Anna and came from an Oaxaca elite family]], [[FACT_HAMNETT_JUAREZ_2971|Juárezは1847–52年に司教・社会的エリートとの直接対決を避けたとHamnettは整理する]]
 - Timeline Entries:
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0016]]
 - Scenes:

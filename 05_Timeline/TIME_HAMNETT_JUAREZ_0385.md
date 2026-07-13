@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0385"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-30"
-updated: "2026-06-30"
+updated: "2026-07-13"
 tags: "timeline;hamnett;juarez;chapter5;juarez-law"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -33,6 +33,7 @@ themes: ["Equality_Before_The_Law", "Juarez_Law_And_Jurisdictional_Reform"]
 related_fact_cards:
   - "FACT_HAMNETT_JUAREZ_1035"
   - "FACT_HAMNETT_JUAREZ_1036"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 # November 1855 Sierra interpretation of Juárez Law
 

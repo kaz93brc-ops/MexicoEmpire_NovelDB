@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1105"
 type: "fact_card"
 status: "draft"
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;chapter5"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -32,6 +32,7 @@ places: []
 organizations: ["Liberal_Regime", "Catholic_Clergy"]
 themes: ["Liberal_Reform", "Juarez_Law_And_Jurisdictional_Reform", "Church_State_Relations_Mexico"]
 related_timeline_entries: []
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 
 # Hamnett sees the 1855 Juarez Law as moderate
@@ -65,4 +66,9 @@ Hamnettは、1855-59年の急進化を踏まえても、制定時点のJuárez L
 - Organizations: [[Liberal_Regime]], [[Catholic_Clergy]]
 - Themes: [[Liberal_Reform]], [[Juarez_Law_And_Jurisdictional_Reform]], [[Church_State_Relations_Mexico]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0051]]
-- Related Timeline Entries:
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0299]]
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0123|Conclusion p.240]] reiterates that the Ley Juárez was moderate in Juárez's conception even though its political reception was radicalizing.
+- Planned `FACT_HAMNETT_JUAREZ_2972` was not created; the intent side remains here and the reception side remains in [[FACT_HAMNETT_JUAREZ_1106]].
