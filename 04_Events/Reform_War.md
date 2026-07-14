@@ -60,3 +60,12 @@ Hamnett pp.122-123 adds internal Liberal crises to the Reform War: Ocampo-Degoll
 - Related Events: [[Estancia_De_Las_Vacas_Defeat_1859]], [[Nuevo_Leon_Coahuila_Independence_Declaration_1859_09_05]], [[Lerdo_Resignation_1860_05_30]]
 - Related Themes: [[Liberal_Factionalism]], [[Federal_State_Tension]], [[War_Finance]], [[Public_Debt]], [[Constitutional_Legitimacy]], [[Diplomacy]]
 - Cautions: Do not reduce the Reform War to Liberal-Conservative binaries; these pages emphasize Liberal internal conflict.
+
+## Hamnett 1994 pp.254–255 Chronology Notes
+
+The Chronology compresses the Reform War into a sequence from Tacubaya and rival governments through Veracruz, Reform legislation, treaty diplomacy, Calpulalpan, and the Liberal recovery of Mexico City.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0130]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3180]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0369]], [[TIME_HAMNETT_JUAREZ_0373]], [[TIME_HAMNETT_JUAREZ_0478]], [[TIME_HAMNETT_JUAREZ_0445]], [[TIME_HAMNETT_JUAREZ_0493]], [[TIME_HAMNETT_JUAREZ_0504]], [[TIME_HAMNETT_JUAREZ_0494]]
+- Cautions: Treat this as a secondary chronology and retain distinct Liberal, Conservative, regional, Church, and diplomatic actors.

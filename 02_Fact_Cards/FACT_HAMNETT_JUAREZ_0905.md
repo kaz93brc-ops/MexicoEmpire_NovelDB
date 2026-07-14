@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0905"
 type: "fact_card"
 status: "draft"
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter4;supreme-court"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "Juárezの後年の正統性主張の制度的前提として扱
 creative_use: "州知事から全国制度上の継承権者へ位置が変わる場面に使える。"
 cautions: "選挙日、正式職名、憲法条文は要確認。"
 related_capture: "CAP_HAMNETT_JUAREZ_0042"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.254, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people: ["Benito_Juarez"]
 events: ["Constitution_Of_1857"]
 places: ["Mexico_City", "Oaxaca"]

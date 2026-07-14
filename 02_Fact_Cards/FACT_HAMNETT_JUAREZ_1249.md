@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1249"
 type: "fact_card"
 status: "draft"
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter5"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "Manifestoから法令実施への移行点として記録する�
 creative_use: "1859年7月12日を理念が法令化される転換日として使える。"
 cautions: "制定された各法令の内訳と正式題名を確認する。"
 related_capture: "CAP_HAMNETT_JUAREZ_0056"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.255, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people:
   - "Benito_Juarez"
   - "Miguel_Lerdo_De_Tejada"

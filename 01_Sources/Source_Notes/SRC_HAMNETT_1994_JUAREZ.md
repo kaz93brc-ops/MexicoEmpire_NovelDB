@@ -3,7 +3,7 @@ id: SRC_HAMNETT_1994_JUAREZ
 type: source_note
 status: draft
 created: 2026-06-14
-updated: "2026-07-14"
+updated: "2026-07-15"
 tags:
   - source
   - book
@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-現在はユーザー指定の129枚目として `CAP_HAMNETT_JUAREZ_0129` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は Chronology opening / printed pages 252-253 / archive `/page/252/mode/2up`。p.251でBibliographical Essayが完結し、この見開きからChronologyが始まることを確認した。Juárezの出生・地方政治形成・亡命・Reform初期法制を、政体変動・連邦制／中央集権制・Santa Anna体制・Ayutla革命と並置する基礎年表として要約し、個別日付は既存Timelineへのlocator追加を優先した。次回pp.254-255でp.253下端のLey Lerdo項目が完全に終わっているか確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
+現在はユーザー指定の130枚目として `CAP_HAMNETT_JUAREZ_0130` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は Chronology / printed pages 254-255 / archive `/page/254/mode/2up`。p.253下端のLey Lerdo項目本文は直接続かないように見える一方、p.254冒頭のPius IX非難がReform法制の内容上の連続項目であることを記録した。1857年憲法、Tacubaya、Reform War、Veracruz政府、Reform Laws、McLane-Ocampo Treaty、Calpulalpan、1861年Mexico City帰還は既存Timelineへのlocator追加を優先した。次回pp.256-257で1861年後半以降の対外債務、欧州干渉、French Interventionへの接続とFederal Congress会期表現の継続を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-15に130枚目Captureとして [[CAP_HAMNETT_JUAREZ_0130|CAP_HAMNETT_JUAREZ_0130]] を作成。Readinessとユーザー指定はいずれもpp.254-255を指した。p.253下端のLey Lerdo項目本文はこの見開きへ直接続かないように見えるが、p.254冒頭のPius IX非難がReform初期法制の連続項目であることを記録した。新規Factは [[FACT_HAMNETT_JUAREZ_3180|3180]] と [[FACT_HAMNETT_JUAREZ_3189|3189]]。予定Fact3181-3188は既存Fact0905、0961、1381、1789、1249、1812、1428、1456、1429へ、予定Timeline1230-1243は既存Timeline0423、0035、0369、0373、0478、0616、0445、0618、0493、0504、0494、0498、0630、0475へChronology locatorを追加したため未作成。1857年憲法公布日、自由派のMexico City回復日、Juárez政府帰還日をChronologyで精密化した。ID衝突、新規stub、Relationshipカードはなし。Chronology全項目・日付全列挙・本文全文・長文引用・全文翻訳・全文OCR・スクリーンショット全文転記は保存していない。次回はpp.256-257で1861年後半以降の対外債務・欧州干渉・French Interventionへの接続とFederal Congress会期表現を確認する。
 
 2026-07-14に129枚目Captureとして [[CAP_HAMNETT_JUAREZ_0129|CAP_HAMNETT_JUAREZ_0129]] を作成。Readinessとユーザー指定はいずれもpp.252-253を指したが、ReadinessはBibliographical Essayの継続有無を未確定としており、今回p.251で完結してChronologyが始まることを確定した。新規Factは [[FACT_HAMNETT_JUAREZ_3150|3150]]-[[FACT_HAMNETT_JUAREZ_3151|3151]]、新規Timelineは [[TIME_HAMNETT_JUAREZ_1211|1211]]。予定Fact3152-3157は既存Fact0135、0392、0490、0504、0647、0688、0704、0771へ、予定Timeline1210と1212-1218は既存Timeline0064、0093、0175、0217、0225、0280、0294、0299、0318、0416へChronology locatorを追加したため保留した。ID衝突なし。候補人物・場所・事件はすべて既存Entityを再利用し、新規stubとRelationshipカードは作成していない。Chronology全項目・日付全列挙・本文全文・長文引用・全文翻訳・全文OCR・スクリーンショット全文転記は保存していない。画面表示 `Page 252 (267/323)` とp.253下端Ley Lerdo項目の継続有無をOpen Questionsに残し、次回はpp.254-255で確認する。
 

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0961"
 type: "fact_card"
 status: "draft"
 created: "2026-06-30"
-updated: "2026-06-30"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter4;arrest"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "逮捕の範囲・命令・場所は要照合。"
 creative_use: "Juárez逮捕場面を史実ベースで設計できる。"
 cautions: "逮捕時の室内描写や警備兵の台詞は創作推測として分ける。"
 related_capture: "CAP_HAMNETT_JUAREZ_0044"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.254, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people: ["Benito_Juarez", "Ignacio_Comonfort"]
 events: ["Plan_Of_Tacubaya", "Juarez_Arrest_1857_12_17"]
 places: ["Mexico_City"]

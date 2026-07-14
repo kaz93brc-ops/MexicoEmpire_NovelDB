@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1381"
 type: "fact_card"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter6;veracruz"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "Veracruz政権を地理的避難先ではなく戦時政府の�
 creative_use: "Panama経由の到着と港湾都市への政権移動場面に使える。"
 cautions: "旅程、到着日、同行閣僚の構成は注または別史料で確認する。"
 related_capture: "CAP_HAMNETT_JUAREZ_0063"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.254, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people:
   - "Benito_Juarez"
   - "Melchor_Ocampo"

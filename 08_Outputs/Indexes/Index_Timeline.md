@@ -2,8 +2,8 @@
 id: "Index_Timeline"
 type: "index_note"
 status: "active"
-created: "2026-07-14"
-updated: "2026-07-14"
+created: "2026-07-15"
+updated: "2026-07-15"
 tags:
   - "index"
   - "timeline"
@@ -210,9 +210,9 @@ tags:
 - 1856-07-26: [[TIME_HAMNETT_JUAREZ_0420|Munguia criticized Lerdo Law]]
 - 1856-12-03: [[TIME_HAMNETT_JUAREZ_0422|Puebla fell after forty day siege]]
 - 1856-12-15: [[TIME_HAMNETT_JUAREZ_0423|Pius IX Allocution condemned Reform measures]]
-- 1857: [[TIME_HAMNETT_JUAREZ_0035|1857年、メキシコで19世紀第二の連邦憲法が成立した]]
 - 1857: [[TIME_MEXEMP_0028|1857年、CarlotaとMaximilianがViennaへ移動した]]
 - 1857: [[TIME_MEXEMP_0029|1857年、MaximilianがLombardy-Venetia governorに任命された]]
+- 1857-02-05: [[TIME_HAMNETT_JUAREZ_0035|1857年2月5日、メキシコの連邦憲法が公布された]]
 - 1857-03-15: [[TIME_HAMNETT_JUAREZ_0424|Archbishop declaration on constitutional oath and confession]]
 - 1857-03-23: [[TIME_HAMNETT_JUAREZ_0426|Constitution of 1857 put into effect in Oaxaca]]
 - 1857-04-01: [[TIME_HAMNETT_JUAREZ_0429|Pablo de la Llave order on clergy and public order]]
@@ -818,7 +818,7 @@ tags:
 - 1860: [[TIME_HAMNETT_JUAREZ_0491|Juárez rejects the Mathews-Degollado mediation plan]]
 - 1860-10: [[TIME_HAMNETT_JUAREZ_0492|Juárez enters a tactical alliance with González Ortega]]
 - 1860-12-22: [[TIME_HAMNETT_JUAREZ_0493|Calpulalpan victory]]
-- 1860: [[TIME_HAMNETT_JUAREZ_0494|Veracruz administration returns toward Mexico City]]
+- 1861-01-11: [[TIME_HAMNETT_JUAREZ_0494|Juárez administration returns to Mexico City]]
 - 1859: [[TIME_HAMNETT_JUAREZ_0495|United States recognizes the Juárez administration in 1859]]
 - 1860: [[TIME_HAMNETT_JUAREZ_0496|United States gives positive assistance to the Juárez administration in 1860]]
 - 1861-03: [[TIME_HAMNETT_JUAREZ_0498|Juárez defeats Lerdo and González Ortega in the March 1861 presidential election]]
@@ -827,7 +827,7 @@ tags:
 - 1861-06-03: [[TIME_HAMNETT_JUAREZ_0501|Ocampo is assassinated]]
 - 1861-06-15: [[TIME_HAMNETT_JUAREZ_0502|Degollado is killed in an ambush]]
 - 1861-06-15: [[TIME_HAMNETT_JUAREZ_0503|Juárez begins his first constitutional presidential term]]
-- 1861: [[TIME_HAMNETT_JUAREZ_0504|González Ortega enters Mexico City and the Zacatecas Division occupies the capital]]
+- 1860-12-25: [[TIME_HAMNETT_JUAREZ_0504|González Ortega enters Mexico City and the Zacatecas Division occupies the capital]]
 - 1861-05: [[TIME_HAMNETT_JUAREZ_0505|Juárez warns Vidaurri about a dictatorial Convention plan]]
 - 1861-08/1861-09: [[TIME_HAMNETT_JUAREZ_0506|González Ortega personal following forms]]
 - 1861: [[TIME_HAMNETT_JUAREZ_0507|González Ortega holds Supreme Court and War Ministry positions]]

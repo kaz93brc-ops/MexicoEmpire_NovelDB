@@ -2,8 +2,8 @@
 id: "Index_Sources"
 type: "index_note"
 status: "active"
-created: "2026-07-14"
-updated: "2026-07-14"
+created: "2026-07-15"
+updated: "2026-07-15"
 tags:
   - "index"
   - "sources"
@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Source/Capture notes: 247
+- Source/Capture notes: 248
 
 ## Sources
 
@@ -144,6 +144,7 @@ tags:
 - [[CAP_HAMNETT_JUAREZ_0127]]
 - [[CAP_HAMNETT_JUAREZ_0128]]
 - [[CAP_HAMNETT_JUAREZ_0129]]
+- [[CAP_HAMNETT_JUAREZ_0130]]
 - [[CAP_MEXEMP_0001_Prologue_Queretaro_Prisoners|CAP_MEXEMP_0001 - Prologue: Querétaro prisoners]]
 - [[CAP_MEXEMP_0002_Chapter2_Archduke_and_Princess_01|CAP_MEXEMP_0002 - Chapter 2: The Archduke and the Princess, screenshot 01]]
 - [[CAP_MEXEMP_0003_Chapter2_Archduke_and_Princess_02|CAP_MEXEMP_0003 - Chapter 2: The Archduke and the Princess, screenshot 02]]

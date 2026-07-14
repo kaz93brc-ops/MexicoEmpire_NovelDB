@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0494"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter6;veracruz"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -15,18 +15,19 @@ archive_page: "/page/124/mode/2up; Page 124 (139/323)"
 page: "printed page 124"
 kindle_location: ""
 screenshot_file: "スクリーンショット 2026-06-13 17.28.55.jpeg"
-date: "1860"
-start_date: "1860"
-end_date: ""
-date_precision: "approximate_period"
-approximate_period: "end of 1860"
+date: "1861-01-11"
+start_date: "1861-01-11"
+end_date: "1861-01-11"
+date_precision: "day"
 calendar: "Gregorian"
 evidence_category: "historical_fact"
 confidence: "probable"
 verification_needed: "yes"
-event_summary: "1860年末の自由派勝利により、VeracruzのJuárez政権はMexico Cityへ戻ることになった。"
+event_summary: "1861年1月11日、VeracruzのJuárez政権がMexico Cityへ帰還したとChronologyは整理している。"
 creative_use: "勝利による首都帰還と同時に自由派内部対立が表面化する場面に使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0065"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.255, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people:
   - "Benito_Juarez"
 events:
@@ -46,18 +47,17 @@ related_fact_cards:
   - "FACT_HAMNETT_JUAREZ_1430"
 ---
 
-# Veracruz administration returns toward Mexico City
+# Juárez administration returns to Mexico City
 
 ## Date
 
-- Date: 1860
-- Precision: approximate_period
-- Approximate period: end of 1860
+- Date: 1861-01-11
+- Precision: day
 - Calendar: Gregorian
 
 ## Summary
 
-1860年末の自由派勝利により、VeracruzのJuárez政権はMexico Cityへ戻ることになった。
+1861年1月11日、VeracruzのJuárez政権がMexico Cityへ帰還したとChronologyは整理している。
 
 ## Citation
 
@@ -71,7 +71,7 @@ related_fact_cards:
 - Evidence category: historical_fact
 - Confidence: probable
 - Verification needed: yes
-- Caution: 正確な帰還日はこのページだけでは未確認。
+- Caution: p.124単独では未確認だったが、Chronology p.255は1861-01-11とするため一次史料で照合する。
 
 ## Links
 

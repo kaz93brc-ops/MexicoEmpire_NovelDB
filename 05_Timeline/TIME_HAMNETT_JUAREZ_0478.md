@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0478"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;veracruz"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "Juárezと閣僚たちがPanama経由でVeracruzへ到着した。"
 creative_use: "Juárez政権が港湾都市Veracruzへ移る転換点として使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0063"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.254, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people:
   - "Benito_Juarez"
   - "Melchor_Ocampo"

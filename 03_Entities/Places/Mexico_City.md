@@ -43,3 +43,10 @@ Hamnett p.87 identifies Mexico City as one of the central seats of the colonial 
 ## Cautions
 
 Mexico City中心性を強調しすぎると地方政治の自律性を見落とす。Hamnettは中央と地域の相互関係を重視している。
+
+## Hamnett 1994 p.255 Chronology Notes
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0130]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1428]], [[FACT_HAMNETT_JUAREZ_1456]], [[FACT_HAMNETT_JUAREZ_1429]], [[FACT_HAMNETT_JUAREZ_3180]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0493]], [[TIME_HAMNETT_JUAREZ_0504]], [[TIME_HAMNETT_JUAREZ_0494]]
+- Note: The Chronology distinguishes Liberal recovery of the capital on 1860-12-25 from the Juárez administration's return on 1861-01-11.

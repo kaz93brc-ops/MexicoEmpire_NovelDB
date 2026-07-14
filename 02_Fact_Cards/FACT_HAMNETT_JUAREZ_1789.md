@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1789"
 type: "fact_card"
 status: "draft"
 created: "2026-07-03"
-updated: "2026-07-03"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter7"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "Juárez政権の米国承認を日付付きで記録する。"
 creative_use: "Use as a formal diplomatic turn inside the Veracruz crisis."
 cautions: "Confirm the recognition document and McLane's title."
 related_capture: "CAP_HAMNETT_JUAREZ_0078"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.254, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people: ["Robert_McLane", "Benito_Juarez"]
 events: ["Reform_War"]
 places: ["Veracruz", "United_States"]

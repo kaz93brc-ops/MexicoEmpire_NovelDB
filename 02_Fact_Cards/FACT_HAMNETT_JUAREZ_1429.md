@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1429"
 type: "fact_card"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter6;veracruz"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "Veracruz政権が勝利後に首都へ戻る政治的転換と�
 creative_use: "勝利と首都帰還がJuárez批判を消さない場面の前提に使える。"
 cautions: "正確な帰還日と行政移動の手続はこのページだけでは未確認。"
 related_capture: "CAP_HAMNETT_JUAREZ_0065"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.255, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people:
   - "Benito_Juarez"
 events:

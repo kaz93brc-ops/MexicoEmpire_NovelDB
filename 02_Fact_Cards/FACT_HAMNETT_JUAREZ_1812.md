@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1812"
 type: "fact_card"
 status: "draft"
 created: "2026-07-03"
-updated: "2026-07-03"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter7"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "条約署名日を日付付きで記録する。"
 creative_use: "Use as the formal climax of the Veracruz treaty negotiations."
 cautions: "Confirm the treaty text and signatories."
 related_capture: "CAP_HAMNETT_JUAREZ_0078"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.255, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people: ["Robert_McLane", "Melchor_Ocampo", "Benito_Juarez"]
 events: ["McLane_Ocampo_Treaty"]
 places: ["Veracruz", "United_States", "Mexico"]

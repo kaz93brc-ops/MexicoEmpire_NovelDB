@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0616"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-03"
-updated: "2026-07-03"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter7"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "Robert McLane officially recognized the Juárez regime."
 creative_use: "Use as the formal recognition date that changes Veracruz diplomacy."
 related_capture: "CAP_HAMNETT_JUAREZ_0078"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.254, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people: ["Robert_McLane", "Benito_Juarez"]
 events: ["Reform_War"]
 places: ["Veracruz", "United_States"]

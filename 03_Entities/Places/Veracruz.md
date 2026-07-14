@@ -58,3 +58,10 @@ Hamnett p.121 makes Veracruz the wartime seat of the Liberal government after Ju
 - Related Organizations: [[Juarez_Government]], [[Veracruz_Liberal_Regime]], [[Liberal_Reds]]
 - Related Themes: [[State_Of_Veracruz]], [[Liberal_Factionalism]], [[Juarez_Cabinet]]
 - Cautions: Do not treat Veracruz as politically neutral ground or a unified Liberal bloc.
+
+## Hamnett 1994 pp.254–255 Chronology Notes
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0130]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1381]], [[FACT_HAMNETT_JUAREZ_1789]], [[FACT_HAMNETT_JUAREZ_1249]], [[FACT_HAMNETT_JUAREZ_1812]], [[FACT_HAMNETT_JUAREZ_3180]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0478]], [[TIME_HAMNETT_JUAREZ_0616]], [[TIME_HAMNETT_JUAREZ_0445]], [[TIME_HAMNETT_JUAREZ_0618]], [[TIME_HAMNETT_JUAREZ_0494]]
+- Note: The Chronology presents Veracruz as the linked site of government reconstruction, U.S. recognition, Reform Laws, and treaty diplomacy before the capital return.

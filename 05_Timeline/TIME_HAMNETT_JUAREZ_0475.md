@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0475"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter6;extraordinary-powers"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -25,6 +25,8 @@ verification_needed: "yes"
 event_summary: "JuárezがComonfortから継承した非常権限を、内戦後の選挙で成立した議会へ返上した。"
 creative_use: "戦時非常権限から議会政治へ戻る緊張ある場面に使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0062"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0065", "CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.255, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people:
   - "Benito_Juarez"
 events:
