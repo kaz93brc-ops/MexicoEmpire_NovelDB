@@ -27,7 +27,7 @@ Entry note for French public opinion. Keep historical evidence, interpretation, 
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_MEXEMP_1592|FranceではNapoleon IIIの対Prussia政策批判が高まっていた]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_3128|Covo studied images of Juarez in the French press]], [[FACT_MEXEMP_1592|FranceではNapoleon IIIの対Prussia政策批判が高まっていた]]
 - Timeline Entries: [[TIME_MEXEMP_0240|1866年8月、Napoleon IIIの対Prussia外交危機が深まったとされる]]
 - Source Notes:
 - Scenes:

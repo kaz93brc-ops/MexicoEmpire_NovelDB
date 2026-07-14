@@ -40,3 +40,10 @@ Use him as an insider Liberal critic who can voice disappointment with Juárez f
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0619]], [[FACT_HAMNETT_JUAREZ_0620]], [[FACT_HAMNETT_JUAREZ_0621]], [[FACT_HAMNETT_JUAREZ_0626]]
 - Capture: [[CAP_HAMNETT_JUAREZ_0030]]
 
+## Hamnett 1994 p.240 Committee of Public Safety Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0123]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_2975]]
+- The Conclusion separates Juárez from the 1861 Committee of Public Safety proposal associated with some radicals.
+- Caution: Confirm Guzmán's precise role, the proposal's source, and whether the characterization derives from contemporary or retrospective evidence.
+

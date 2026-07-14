@@ -60,6 +60,12 @@ related_fact_cards:
 - Archive page: /page/58/mode/2up; Page 58 (73/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.27.43.jpeg
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] repeats 1855-08-08 as Santa Anna's fall marker.
+- Locator: p.253 / `/page/252/mode/2up` / `スクリーンショット 2026-06-13 17.31.07.jpeg`.
+- Planned `TIME_HAMNETT_JUAREZ_1215` was not created because this entry already records the date.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

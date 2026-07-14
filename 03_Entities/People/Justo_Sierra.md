@@ -63,3 +63,19 @@ Hamnett p.105 reports Sierra's evaluation of the 1859-07-07 Manifesto to the Nat
 - Related People: [[Benito_Juarez]], [[Melchor_Ocampo]], [[Manuel_Ruiz]], [[Miguel_Lerdo_De_Tejada]]
 - Related Themes: [[Historiography_Of_Juarez]], [[Reform_Laws]], [[Liberal_Reform]]
 - Cautions: Existing DB uses Justo Sierra, but confirm the exact Sierra work and whether Hamnett corrects this evaluation on the next page.
+
+## Hamnett 1994 p.240 Conclusion Jacobin Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0123]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_1037]]
+- Hamnett's Conclusion again rejects reducing Juárez to Sierra's Jacobin-type Liberal dictatorship; Sierra's exact work and wording remain verification-needed.
+
+## Hamnett 1994 p.245 Bibliographical Essay
+
+Hamnett presents Sierra's 1905-1906 interpretation as placing Juárez at the center of the Reforma constellation, the defeat of Intervention, and the preservation of national independence, while locating 1857-1867 within Atlantic and North American power balances. Hamnett also notes Sierra's lighter treatment of Juárez's early career and 1867-1872 years.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0125]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3038]], [[FACT_HAMNETT_JUAREZ_3039]], [[FACT_HAMNETT_JUAREZ_3040]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_1136]]
+- Related Themes: [[Historiography_Of_Juarez]], [[Juarez_In_The_Liberal_Constellation]], [[Post_Napoleonic_Settlement]]
+- Cautions: Sierraの正確な著作・版・刊行年・Hamnettによる要約範囲を確認する。

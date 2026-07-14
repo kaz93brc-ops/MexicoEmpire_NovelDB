@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0437"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-07-13"
 tags: "timeline;hamnett;juarez;chapter5"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -38,6 +38,8 @@ themes:
   - "Liberal_Reform"
 related_fact_cards:
   - "FACT_HAMNETT_JUAREZ_1213"
+  - "FACT_HAMNETT_JUAREZ_2982"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 
 # Reform Laws promulgated from July to December 1859
@@ -78,7 +80,7 @@ Reform Lawsが1859年7月から12月にかけて公布された。
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1213]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1213]], [[FACT_HAMNETT_JUAREZ_2982]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.28.35.jpeg

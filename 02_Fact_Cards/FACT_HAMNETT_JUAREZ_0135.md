@@ -80,3 +80,7 @@ Hamnettは、Churchの国家への従属化、残存財産への介入、lay edu
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0009]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0064]]
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] independently labels the Reform Period as 1855–1876.
+- Planned `FACT_HAMNETT_JUAREZ_3155` was not created because this card already records Hamnett's broad periodization as `author_interpretation / probable`.

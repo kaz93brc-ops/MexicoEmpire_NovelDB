@@ -51,3 +51,9 @@ Hamnett pp.96-97 treats the law as an administrative justice law issued under Al
 - Related People: [[Benito_Juarez]], [[Juan_Alvarez]], [[Manuel_Dublan]], [[Ignacio_Mariscal]], [[Clemente_de_Jesus_Munguia]], [[Pelagio_Antonio_de_Labastida_y_Davalos]]
 - Related Events: [[Puebla_Rebellion_1855_1856]], [[Zacapoaxtla_Rebellion_1855_1856]]
 - Cautions: The event date is recorded from earlier DB context; CAP0051 itself should not be used alone to assert the promulgation date.
+
+## Hamnett 1994 pp.252–253 Chronology
+
+- Chronology locator: [[CAP_HAMNETT_JUAREZ_0129]] / p.253 / `/page/252/mode/2up`.
+- The 1855-11-23 law is placed within Juárez's justice and ecclesiastical-affairs ministry; existing [[FACT_HAMNETT_JUAREZ_0704|Fact0704]] and [[TIME_HAMNETT_JUAREZ_0299|Timeline0299]] were reused.
+- Planned Fact3156 and Timeline1216 were held as duplicates.

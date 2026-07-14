@@ -282,3 +282,25 @@ Hamnett places Juárez's resistance to Maximilian within national-sovereignty de
 - Related People: [[Benito_Juarez|Benito Juárez]], [[Napoleon_III|Napoleon III]]
 - Related Events: [[French_Intervention_in_Mexico|French Intervention]], [[Second_Mexican_Empire]]
 - Cautions: Do not reduce Maximilian to a fool, invader, or tragic figure; compare his project with Juárez's sovereignty claim and the domestic alliance supporting state reconstruction.
+
+## Hamnett 1994 pp.238–239 Post-Imperial Diplomacy Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0122]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_2952]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_1097]]
+- The Empire's collapse is also a diplomatic-realignment marker, not only a personal tragedy or regime ending.
+
+## Hamnett 1994 p.241 Moderate-Consensus and Counter-Insurgency Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0123]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2986]], [[FACT_HAMNETT_JUAREZ_2988]], [[FACT_HAMNETT_JUAREZ_2989]], [[FACT_HAMNETT_JUAREZ_2990]], [[FACT_HAMNETT_JUAREZ_2991]]
+- Hamnett separates Maximilian's moderate-center and social-coalition project from the counter-insurgency measures that damaged imperial legitimacy.
+- Cautions: Do not reduce Maximilian to reformer or reactionary; the p.241 finance-and-army sentence remains incomplete until screenshot 124.
+
+## Hamnett 1994 p.242 Conclusion Closing Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0124]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3000]], [[FACT_HAMNETT_JUAREZ_3001]], [[FACT_HAMNETT_JUAREZ_3004]], [[FACT_HAMNETT_JUAREZ_3005]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_1120]]
+- The p.241 sentence resolves: Hamnett places the Empire beyond recovery by May 1867 because imperial finances collapsed and an effective Mexican army was not formed.
+- Cautions: Keep structural failure and Juárez's anti-colonial framing alongside, but distinct from, Maximilian's personal tragedy.

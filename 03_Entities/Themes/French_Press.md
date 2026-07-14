@@ -27,7 +27,7 @@ Entry note for French press. Keep historical evidence, interpretation, and creat
 - Places:
 - Events:
 - Themes:
-- Fact Cards:
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_3128|Covo studied images of Juarez in the French press]]
 - Timeline Entries:
 - Source Notes: [[CAP_MEXEMP_0105]]
 - Scenes:

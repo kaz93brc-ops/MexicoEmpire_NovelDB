@@ -44,6 +44,12 @@ Hamnettの今回箇所では、Reformaは1855-76として扱われ、Church subo
 - Organizations: [[Catholic_Church]], [[Liberal_Party_Mexico]], [[Mexican_Conservatives]]
 - Themes: [[Liberal_Reform]], [[Church_State_Relations_Mexico]], [[Mexican_Liberalism]], [[Colonial_Legacy]]
 
+## Hamnett 1994 pp.252–253 Chronology
+
+- Chronology locator: [[CAP_HAMNETT_JUAREZ_0129]] / p.253 / `/page/252/mode/2up`.
+- The Chronology independently labels the Reform Period as 1855–1876; existing [[FACT_HAMNETT_JUAREZ_0135|Fact0135]] and [[TIME_HAMNETT_JUAREZ_0064|Timeline0064]] were reused.
+- Planned Fact3155 was held; the broad periodization remains Hamnett's `author_interpretation / probable` and is not treated as the only scholarly division.
+
 ## Cautions
 
 Reforma (1855-76) はHamnettの広い時期区分として記録する。一般的なLa Reforma、Reform War、Restored Republicの区分とはVault内で表記統一が必要。

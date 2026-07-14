@@ -61,6 +61,12 @@ Pérezが再招集した州議会がJuárezをOaxaca州知事に指名した。
 - Archive page: /page/34/mode/2up; Page 34 (49/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.23.22.jpeg
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] repeats 1847-10-29 as the opening of Juárez's Oaxaca governorship range.
+- Locator: p.253 / `/page/252/mode/2up` / `スクリーンショット 2026-06-13 17.31.07.jpeg`.
+- Planned `TIME_HAMNETT_JUAREZ_1212` was not created because this entry and [[TIME_HAMNETT_JUAREZ_0217|0217]] already cover the range endpoints.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

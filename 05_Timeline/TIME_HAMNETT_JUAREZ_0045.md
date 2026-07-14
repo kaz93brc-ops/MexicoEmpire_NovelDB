@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0045"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-13"
 tags: "timeline;hamnett;juarez;chapter1;texas"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -40,6 +40,7 @@ themes:
   - "external pressure"
 related_fact_cards: 
   - "FACT_HAMNETT_JUAREZ_0102"
+  - "FACT_HAMNETT_JUAREZ_2944"
 ---
 
 # 1836年、Texas喪失後にUS-Mexico関係が内政・外交の主要要因となった
@@ -83,13 +84,17 @@ Texas喪失の記憶を、第二帝政期の政治感情へ接続できる。
 - Places: [[Texas]], [[United_States|United States]], [[Mexico]]
 - Organizations: [[Mexican_Republicans|Mexican Republic]]
 - Themes: [[US_Mexico_Relations|US-Mexico relations]], [[Domestic_Politics|domestic politics]], [[External_Pressure|external pressure]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0102]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0102]], [[FACT_HAMNETT_JUAREZ_2944]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0007]]
+
+## Conclusion Cross-Link
+
+- [[CAP_HAMNETT_JUAREZ_0122|Conclusion pp.238–239]]はTexas喪失を1846–48年の敗北とともに国民的屈辱感を深めたというHamnett解釈へ接続する。
 
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0102]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0102]], [[FACT_HAMNETT_JUAREZ_2944]]
 - Evidence category: author_interpretation
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.22.50.jpeg

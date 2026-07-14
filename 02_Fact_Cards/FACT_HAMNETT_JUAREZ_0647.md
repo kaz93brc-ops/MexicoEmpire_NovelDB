@@ -68,3 +68,7 @@ Florencio Villarrealは1854年3月1日、Ometepec地区でPlan of Ayutlaを宣�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0031]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0280]]
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] uses 1854-03-01 as the Ayutla Revolution opening marker.
+- Planned `FACT_HAMNETT_JUAREZ_3154` was not created; this card and [[FACT_HAMNETT_JUAREZ_0688|0688]] preserve the two endpoint claims separately.

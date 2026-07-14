@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0011"
 type: "fact_card"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-13"
 tags: "fact-card;hamnett;juarez;preface"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -37,6 +37,8 @@ themes:
   - "anti-colonialism"
   - "independence"
   - "conquest memory"
+additional_related_captures:
+  - "CAP_HAMNETT_JUAREZ_0124"
 ---
 
 # Latin AmericansはJuárezの抵抗を第二の独立闘争として見た
@@ -73,3 +75,8 @@ Hamnettは、Latin AmericansがJuárezの抵抗を、欧州列強に対する第
 - Organizations: [[European_Powers|European powers]]
 - Themes: anti-colonialism, [[Independence|independence]], conquest memory
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0002]]
+
+## Conclusion Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0124|Conclusion pp.242–243]] restates the War of the Intervention as a second War of Independence with an anti-colonial and Conquest-reversal meaning.
+- Planned `FACT_HAMNETT_JUAREZ_3003` was not created because this card already preserves the same claim.

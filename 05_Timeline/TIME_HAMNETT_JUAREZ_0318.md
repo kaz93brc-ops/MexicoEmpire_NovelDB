@@ -63,6 +63,12 @@ Miguel LerdoがLerdo Lawを発布し、法人財産の個人所有化を進め�
 - Archive page: /page/64/mode/2up; Page 64 (79/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.27.50.jpeg
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] repeats 1856-06-25 as the Ley Lerdo date.
+- Locator: p.253 / `/page/252/mode/2up` / `スクリーンショット 2026-06-13 17.31.07.jpeg`.
+- Planned `TIME_HAMNETT_JUAREZ_1218` was not created because this entry already records the law and date; the p.253 bottom continuation remains to be checked.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

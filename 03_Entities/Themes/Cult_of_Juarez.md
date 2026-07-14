@@ -3,7 +3,7 @@ id: THEME_CULT_OF_JUAREZ
 type: theme
 status: draft
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-07-13
 tags:
   - theme
   - juarez
@@ -35,8 +35,8 @@ Juárezを実際の政治家ではなく、国家的象徴・聖人・反教会�
 
 - People: [[Benito_Juarez]]
 - Themes: political_mythology, official_hagiography, anti_clerical_memory
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0014]], [[FACT_HAMNETT_JUAREZ_0015]], [[FACT_HAMNETT_JUAREZ_2911]], [[FACT_HAMNETT_JUAREZ_2913]]
-- Captures: [[CAP_HAMNETT_JUAREZ_0002]], [[CAP_HAMNETT_JUAREZ_0121]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0014]], [[FACT_HAMNETT_JUAREZ_0015]], [[FACT_HAMNETT_JUAREZ_2911]], [[FACT_HAMNETT_JUAREZ_2913]], [[FACT_HAMNETT_JUAREZ_3022]]
+- Captures: [[CAP_HAMNETT_JUAREZ_0002]], [[CAP_HAMNETT_JUAREZ_0121]], [[CAP_HAMNETT_JUAREZ_0124]]
 
 ## Open Questions
 
@@ -45,3 +45,7 @@ Juárezを実際の政治家ではなく、国家的象徴・聖人・反教会�
 ## Hamnett 1994 Conclusion Note
 
 pp.236–237 adds that Juárez was made into a national symbol, that his political image consciousness operated during his lifetime, and that later memory cast him as the embodiment of Constitution and Law.
+
+## Hamnett 1994 Conclusion Closing Note
+
+pp.242–243 closes by separating Juárez the living tactician from the posthumous statue and national saint, then places him with Hidalgo, Morelos, and Guerrero in a Liberal civic pantheon. Treat this as Hamnett's author interpretation, not as a self-evident institutional fact.

@@ -59,6 +59,12 @@ Florencio VillarrealがOmetepec地区でPlan of Ayutlaを宣言する。
 - Archive page: /page/56/mode/2up; Page 56 (71/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.27.41.jpeg
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] confirms 1854-03-01 as the Ayutla Revolution opening marker.
+- Locator: p.253 / `/page/252/mode/2up` / `スクリーンショット 2026-06-13 17.31.07.jpeg`.
+- Planned `TIME_HAMNETT_JUAREZ_1214` was not created because this entry already records the date.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

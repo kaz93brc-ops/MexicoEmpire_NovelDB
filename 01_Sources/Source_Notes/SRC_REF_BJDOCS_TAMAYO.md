@@ -3,7 +3,7 @@ id: SRC_REF_BJDOCS_TAMAYO
 type: source_note
 status: candidate
 created: 2026-06-14
-updated: 2026-06-14
+updated: 2026-07-14
 tags:
   - source
   - source-candidate
@@ -54,6 +54,15 @@ Hamnett本の略語一覧に出るJuárez関係文書・演説・書簡集。Ju�
 - Source: [[SRC_HAMNETT_1994_JUAREZ]]
 - Capture: [[CAP_HAMNETT_JUAREZ_0001]]
 - Related source trail: [[Hamnett_Juarez_Source_Trail_Index]]
+
+## Hamnett 1994 pp.248-249 Bibliographical Essay
+
+HamnettはTamayo文書集を政府支援のJuarista memory projectであり、1867-1872年を追う重要なprinted primary-source routeとして評価する。ただし今回画像は刊行範囲が1964-1972と読める可能性があり、このSource Noteの1964-1971と齟齬する。
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0127]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3098]], [[FACT_HAMNETT_JUAREZ_3099]], [[FACT_HAMNETT_JUAREZ_3100]], [[FACT_HAMNETT_JUAREZ_3102]], [[FACT_HAMNETT_JUAREZ_3103]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1179]], [[TIME_HAMNETT_JUAREZ_1180]], [[TIME_HAMNETT_JUAREZ_1181]], [[TIME_HAMNETT_JUAREZ_1182]]
+- Cautions: 1964-1971と1964-1972のどちらが正しいか、版・巻別刊行年・完結年を確認する。個別文書は巻・頁・番号・日付・宛先確認まで直接の一次史料確認済みとしない。
 
 ## Hamnett 1994 p.46-47 Source Trail
 

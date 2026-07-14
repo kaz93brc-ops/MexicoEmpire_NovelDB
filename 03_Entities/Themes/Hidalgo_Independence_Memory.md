@@ -39,7 +39,7 @@ Use as an entry point for Juárez's early national-memory language.
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0310|Juárez's 1840 discourse linked Hidalgo memory with republican liberty]], [[FACT_HAMNETT_JUAREZ_1312|Hamnett says Liberal leaders tied Reform to the Hidalgo tradition]], [[FACT_HAMNETT_JUAREZ_1313|Ignacio Mariscal placed Reform in Hidalgo tradition in September 1860]], [[FACT_HAMNETT_JUAREZ_1314|Mariscal placed Mexican Reform in liberal world history]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0310|Juárez's 1840 discourse linked Hidalgo memory with republican liberty]], [[FACT_HAMNETT_JUAREZ_1312|Hamnett says Liberal leaders tied Reform to the Hidalgo tradition]], [[FACT_HAMNETT_JUAREZ_1313|Ignacio Mariscal placed Reform in Hidalgo tradition in September 1860]], [[FACT_HAMNETT_JUAREZ_1314|Mariscal placed Mexican Reform in liberal world history]], [[FACT_HAMNETT_JUAREZ_3022|Juarez entered the official pantheon of Liberal civic religion]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0455|Mariscal commemorates Hidalgo and frames Reform lineage]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0017]], [[CAP_HAMNETT_JUAREZ_0059]]
 - Scenes:

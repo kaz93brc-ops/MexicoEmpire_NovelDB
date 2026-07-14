@@ -73,3 +73,7 @@ Ayutla coalitionは、1855年8月8日のSanta Anna逃亡後、正規軍の黙認
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0032]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0294]]
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] uses 1855-08-08 as the Santa Anna fall marker.
+- Planned `FACT_HAMNETT_JUAREZ_3154` was not created; this card and [[FACT_HAMNETT_JUAREZ_0647|0647]] preserve the two endpoint claims separately.

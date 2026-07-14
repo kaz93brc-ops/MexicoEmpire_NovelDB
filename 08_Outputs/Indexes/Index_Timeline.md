@@ -2,8 +2,8 @@
 id: "Index_Timeline"
 type: "index_note"
 status: "active"
-created: "2026-07-13"
-updated: "2026-07-13"
+created: "2026-07-14"
+updated: "2026-07-14"
 tags:
   - "index"
   - "timeline"
@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Timeline Entries: 1207
+- Timeline Entries: 1252
 - Entries with no backlinks: 1
 
 ## Entries
@@ -36,7 +36,7 @@ tags:
 - 1760s: [[TIME_HAMNETT_JUAREZ_0090|1760s-1790s、Oaxacaのdye-trade boom]]
 - 1786: [[TIME_HAMNETT_JUAREZ_0091|1786年、OaxacaがNew Spain副王領のIntendancyの一つとなった]]
 - 1786: [[TIME_HAMNETT_JUAREZ_0092|1786-1806年、Oaxacaは植民地期繁栄のピークを過ぎていた]]
-- 1806: [[TIME_HAMNETT_JUAREZ_0093|1806年、Benito JuárezがOaxacaのZapotec農民家族に生まれた]]
+- 1806-03-21: [[TIME_HAMNETT_JUAREZ_0093|1806年3月21日、Benito JuárezがGuelataoに生まれた]]
 - 1808: [[TIME_HAMNETT_JUAREZ_0051|1808年、Bourbon王権危機が政治制度再編の機会となった]]
 - 1810: [[TIME_HAMNETT_JUAREZ_0031|1810-1867年、政治生活の地域化はpersonalismを強めたとされる]]
 - 1810: [[TIME_HAMNETT_JUAREZ_0053|1810-1814年、Spanish Cortesが成文憲法中心の制度再編を試みた]]
@@ -1212,6 +1212,51 @@ tags:
 - 1846-1867: [[TIME_HAMNETT_JUAREZ_1081|1846–1867年、独立Mexico国家は存続と国民的自己定義を争った]]
 - 1853-1855: [[TIME_HAMNETT_JUAREZ_1084|1853–1855年、第二の中央集権実験]]
 - 1863-1867: [[TIME_HAMNETT_JUAREZ_1085|1863–1867年、第三の中央集権実験]]
+- 1846–1848: [[TIME_HAMNETT_JUAREZ_1092|1846–1848年の敗北と北米勢力均衡の転換]]
+- 1858–1861: [[TIME_HAMNETT_JUAREZ_1093|1858–1861年、米国南部諸州がMexico内部分裂の利用を図る]]
+- after 1861: [[TIME_HAMNETT_JUAREZ_1094|1861年以後、JuárezはConfederacyを領土保全上の脅威とみる]]
+- 1861–1865: [[TIME_HAMNETT_JUAREZ_1095|1861–1865年、Mexican LiberalsはLincoln政権とUnionへ共感する]]
+- 1867: [[TIME_HAMNETT_JUAREZ_1097|1867年、帝政崩壊後のMexico対外関係が再配置される]]
+- 1856–1857: [[TIME_HAMNETT_JUAREZ_1102|1856–57年、Oaxaca政策がJuárezの急進派的評判を強める]]
+- 1858-01 to 1863-06: [[TIME_HAMNETT_JUAREZ_1106|1858年1月–1863年6月、JuárezがLiberal radicalsと連携する]]
+- 1859–1860: [[TIME_HAMNETT_JUAREZ_1107|1859–60年、JuárezがVeracruz内閣の調停者として行動する]]
+- late spring 1863: [[TIME_HAMNETT_JUAREZ_1109|1863年春末、JuárezとLiberal radicalsの同盟が崩壊する]]
+- 1863-06: [[TIME_HAMNETT_JUAREZ_1111|1863年6月までにJuárezが急進派と決裂しSebastián Lerdoと再提携する]]
+- late 1870: [[TIME_HAMNETT_JUAREZ_1114|1870年後半、Juárez再選構想をめぐりSebastián Lerdoが反対派へ回る]]
+- 1867-05: [[TIME_HAMNETT_JUAREZ_1120|Hamnett places the empire beyond recovery by May 1867]]
+- 1867: [[TIME_HAMNETT_JUAREZ_1121|Post-1867 ideological settlement]]
+- 1867-06_to_1872-07: [[TIME_HAMNETT_JUAREZ_1122|Obstruction during the restored republic]]
+- 1872_summer: [[TIME_HAMNETT_JUAREZ_1125|Political strain damages Juarez's health by summer 1872]]
+- 1876: [[TIME_HAMNETT_JUAREZ_1131|Porfirio Diaz takes power and Juarez memory becomes tied to regime politics]]
+- 1902: [[TIME_HAMNETT_JUAREZ_1132|Juan Sanchez publishes a legality-centered Juarez study]]
+- 1905: [[TIME_HAMNETT_JUAREZ_1133|Francisco Bulnes publishes a major criticism of Juarez]]
+- 1905–1906: [[TIME_HAMNETT_JUAREZ_1136|Justo Sierra publishes a Reforma-centered interpretation of Juarez]]
+- circa 1906: [[TIME_HAMNETT_JUAREZ_1137|Juarez centenary politics intensify historiographical controversy]]
+- 1972: [[TIME_HAMNETT_JUAREZ_1138|Juan Sanchez's Juarez study is reissued under Miguel Leon-Portilla's initiative]]
+- 1857–1867: [[TIME_HAMNETT_JUAREZ_1152|Galindo y Galindo interprets 1857-1867 as modern state formation]]
+- 1867–1876: [[TIME_HAMNETT_JUAREZ_1153|Cosio Villegas uses 1867-1876 against constitutional determinism]]
+- 1912: [[TIME_HAMNETT_JUAREZ_1155|Rabasa's constitutional critique appears in 1912]]
+- 1957–1961: [[TIME_HAMNETT_JUAREZ_1157|Reyes Heroles publishes his Mexican Liberalism study, 1957-1961]]
+- 1958: [[TIME_HAMNETT_JUAREZ_1158|Almada's Juarez-Terrazas study appears in 1958]]
+- 1970: [[TIME_HAMNETT_JUAREZ_1159|Tamayo's Chihuahua study appears in 1970]]
+- 1867: [[TIME_HAMNETT_JUAREZ_1171|Mexico-Holy See relations are said to break in 1867]]
+- 1947: [[TIME_HAMNETT_JUAREZ_1175|Roeder Juarez study appears in 1947]]
+- 1953: [[TIME_HAMNETT_JUAREZ_1176|Cosio Villegas Restoration and La Noria studies appear in 1953]]
+- 1956: [[TIME_HAMNETT_JUAREZ_1177|Cue Canovas treaty study appears in 1956]]
+- 1957: [[TIME_HAMNETT_JUAREZ_1178|Tamayo Juarez epistolary work appears in 1957]]
+- 1958–1964: [[TIME_HAMNETT_JUAREZ_1179|Tamayo collection begins under Lopez Mateos]]
+- 1964–1972: [[TIME_HAMNETT_JUAREZ_1180|Tamayo collection publication range remains 1964-1971 or 1964-1972]]
+- 1970–1976: [[TIME_HAMNETT_JUAREZ_1181|Tamayo collection completion is linked to the Echeverria presidency]]
+- 1972: [[TIME_HAMNETT_JUAREZ_1182|Juarez death centenary is linked to Tamayo collection completion]]
+- 1974–1975: [[TIME_HAMNETT_JUAREZ_1183|Tamayo treaty articles appear in 1974-1975]]
+- 1988–1994: [[TIME_HAMNETT_JUAREZ_1184|Salinas presidency frames late twentieth-century Juarez symbolism]]
+- 1990–1992: [[TIME_HAMNETT_JUAREZ_1185|NAFTA negotiations reopen Juarez nationalist symbolism]]
+- 1992-09: [[TIME_HAMNETT_JUAREZ_1186|Mexico-Holy See relations are said to be restored in September 1992]]
+- 1867-12-02: [[TIME_HAMNETT_JUAREZ_1194|Favre links Juarez's victory to the fall of the Second Empire]]
+- late 1880s: [[TIME_HAMNETT_JUAREZ_1195|Diaz regime begins using the Juarez myth in the late 1880s]]
+- 1928: [[TIME_HAMNETT_JUAREZ_1196|APBJPS publication year is given as 1928]]
+- 1968–1983: [[TIME_HAMNETT_JUAREZ_1197|English-language Reform scholarship appears from 1968 to 1983]]
+- 1818: [[TIME_HAMNETT_JUAREZ_1211|Juarez arrives in Oaxaca City in 1818]]
 - : [[Timeline_Index|Timeline Index]]
 - after 1520: [[TIME_HAMNETT_JUAREZ_0089|after 1520、Spanish ConquestがOaxacaへ及んだ]]
 - after 1765: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]

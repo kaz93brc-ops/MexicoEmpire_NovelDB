@@ -39,3 +39,9 @@ Hamnett p.44-45では、Juárezが1853年10月5日に国外追放され、1855�
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0504]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0224]], [[TIME_HAMNETT_JUAREZ_0225]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0025]]
+
+## Hamnett 1994 pp.252–253 Chronology
+
+- Chronology locator: [[CAP_HAMNETT_JUAREZ_0129]] / p.253 / `/page/252/mode/2up`.
+- The Chronology summarizes the exile as 1853–1855; existing [[TIME_HAMNETT_JUAREZ_0225|0225]] retains the more precise working range.
+- Planned Timeline1213 and Fact3153 were held as duplicates.

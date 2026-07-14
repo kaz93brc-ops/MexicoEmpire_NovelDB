@@ -48,7 +48,7 @@ Entry note for Post-Imperial Readjustment. Verify details in linked Fact Cards a
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0114|Mexicoのconstitutional government問題はIbero-American post-imperial readjustmentの一部だった]], [[FACT_HAMNETT_JUAREZ_0115|独立後国家の課題はcivil powerとlawの優位を再建することだった]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0114|Mexicoのconstitutional government問題はIbero-American post-imperial readjustmentの一部だった]], [[FACT_HAMNETT_JUAREZ_0115|独立後国家の課題はcivil powerとlawの優位を再建することだった]], [[FACT_HAMNETT_JUAREZ_2914|HamnettはJuárez研究を独立後Latin Americaの国家形成理解へ結ぶ]]
 - Timeline Entries:
 - Source Notes:
 - Scenes:

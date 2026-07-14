@@ -28,7 +28,7 @@ Entry note for Mexican republican resistance. Keep historical evidence, interpre
 - Events:
 - Themes:
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0593|Hamnett says Manuel and Rafael Quesada joined the 1862 Puebla defense]], [[FACT_HAMNETT_JUAREZ_1732|Hamnett summarizes Juárez's wartime aim against Empire and Intervention]], [[FACT_HAMNETT_JUAREZ_2018|Montluc was a Juárez supporter linked to French republican opposition]], [[FACT_HAMNETT_JUAREZ_2020|Montluc assessed Juárez as an able lawyer after the Reform War]], [[FACT_HAMNETT_JUAREZ_2033|Juárez understood French shifts and Mexican political danger]], [[FACT_HAMNETT_JUAREZ_2034|Disappointed Conservatives looked toward Juárez in Chihuahua]], [[FACT_HAMNETT_JUAREZ_2035|Juárez made a sardonic comment about political newcomers]], [[FACT_HAMNETT_JUAREZ_2039|Puebla gave Juárez another year in the central valleys]], [[FACT_MEXEMP_1280|Porfirio DíazはPuebla後に脱走しOaxacaで共和派を結集した]]
-- Timeline Entries:
+- Timeline Entries: [[TIME_HAMNETT_JUAREZ_1085|1863–1867年、第三の中央集権実験]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0029]], [[CAP_HAMNETT_JUAREZ_0074]]
 - Scenes:
 - Questions:

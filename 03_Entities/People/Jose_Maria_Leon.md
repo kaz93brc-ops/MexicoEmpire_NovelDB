@@ -33,13 +33,21 @@ Use as an entry point for the role of family and judicial networks in opening po
 
 - Confirm full name, offices, relation to León, and primary evidence for the appointment link.
 
+## Relationships
+
+- People:
+- Organizations:
+- Places:
+- Events:
+- Themes: [[Juarez_As_Provincial_Administrator|Juárez As Provincial Administrator]]
+
 ## Linked Items
 
 - People:
 - Organizations: [[Oaxaca_Governorship|Oaxaca governorship]], [[Superior_Tribunal_Of_Justice_Oaxaca|Superior Tribunal of Justice]]
 - Places:
 - Events:
-- Themes:
+- Themes: [[Juarez_As_Provincial_Administrator|Juárez As Provincial Administrator]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0335|José María León helped Juárez become governor's secretary in 1844]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0157|José María León helped Juárez become governor's secretary, 1844]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0018]]

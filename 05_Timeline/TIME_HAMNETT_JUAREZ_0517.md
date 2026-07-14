@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0517"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-13"
 tags: "timeline;hamnett;juarez;chapter6;congress"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -36,6 +36,8 @@ themes:
   - "Executive_Power_Vs_Congress"
 related_fact_cards:
   - "FACT_HAMNETT_JUAREZ_1507"
+  - "FACT_HAMNETT_JUAREZ_2984"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ---
 
 # Congress remains in session until 31 May 1863
@@ -79,7 +81,7 @@ Congress remained in session until 31 May 1863.
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1507]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1507]], [[FACT_HAMNETT_JUAREZ_2984]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.28.59.jpeg

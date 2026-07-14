@@ -73,3 +73,7 @@ Pérezは州議会を再招集し、1847年10月29日に同議会はJuárezをOa
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0020]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0175]]
 
+## Chronology Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] repeats 1847-10-29 as the opening of the governorship range.
+- Planned `FACT_HAMNETT_JUAREZ_3152` was not created; this card and [[FACT_HAMNETT_JUAREZ_0490|0490]] retain the endpoint evidence.

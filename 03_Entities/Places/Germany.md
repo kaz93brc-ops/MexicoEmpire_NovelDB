@@ -31,9 +31,9 @@ Entry note for Germany. Verify details in linked Fact Cards and Timeline Entries
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_MEXEMP_0174|Maximilianの感性はGerman Romanticismに影響されていたとされる]]
-- Timeline Entries:
-- Source Notes:
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_2952|1867年後のMexico主要対外関係はUSA・北ドイツ連邦・ItalyだったとHamnettは述べる]], [[FACT_MEXEMP_0174|Maximilianの感性はGerman Romanticismに影響されていたとされる]]
+- Timeline Entries: [[TIME_HAMNETT_JUAREZ_1097|1867年、帝政崩壊後のMexico対外関係が再配置される]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0122]]
 - Scenes:
 - Questions:
 

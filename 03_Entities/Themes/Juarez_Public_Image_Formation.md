@@ -27,7 +27,7 @@ Entry note for Juárez public image formation. Keep historical evidence, interpr
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0015|Juárez自身も自己像の形成に意識的だった]], [[FACT_HAMNETT_JUAREZ_1504|Hamnett says Juárez portrayed himself as symbol of nationhood after January 1858]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0015|Juárez自身も自己像の形成に意識的だった]], [[FACT_HAMNETT_JUAREZ_1504|Hamnett says Juárez portrayed himself as symbol of nationhood after January 1858]], [[FACT_HAMNETT_JUAREZ_3134|Juarez appears in major Mexican artistic representations]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0514|Juárez portrays himself as symbol of nationhood after January 1858]]
 - Source Notes:
 - Scenes:

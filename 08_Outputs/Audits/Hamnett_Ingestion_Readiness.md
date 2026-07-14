@@ -2,7 +2,7 @@
 id: HAMNETT-INGESTION-READINESS
 type: report
 status: active
-created: 2026-07-13
+created: 2026-07-14
 tags:
   - hamnett
   - ingestion
@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2776
-- hamnett_timeline_entries: 882
-- next_required_page: printed pages 238-239 / resolve p.237 unfinished sentence on Centralist experiments, regional opposition, and middle/lower social groups; confirm Conclusion continuation; local pp.146-147 gap remains unless handled elsewhere
+- hamnett_fact_cards: 2894
+- hamnett_timeline_entries: 927
+- next_required_page: printed pages 254-255 / continue Chronology and confirm whether the p.253 Ley Lerdo entry is complete; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -28,10 +28,12 @@ tags:
 - THE COLLAPSE OF THE EMPIRE: 71
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CRISIS IN THE ISTHMUS: 66
 - Chapter 6 / JUÁREZ AND CONGRESS continuation: 66
+- Conclusion: 66
 - Chapter 1 / The Geo-Politics of Mexico: 65
 - Chapter 4 / THE BREAKDOWN OF THE CONSTITUTIONAL EXPERIMENT: 65
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / STATE GOVERNOR OF OAXACA (1847-52): 64
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / EARLY LIBERALISM AND THE REVIVAL OF THE CHURCH: 64
+- Bibliographical Essay: 63
 - THE ISSUE OF RECOGNITION: 58
 - Chapter 6 / THE IMPACT OF THE FRENCH INTERVENTION: 54
 - Chapter 4 / STATE-LEVEL POLITICS: 52
@@ -86,7 +88,6 @@ tags:
 - THE DÍAZ BROTHERS AND THE REBELLION OF LA NORIA: 15
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / NOTES AND REFERENCES: 14
 - "THE CONVOCATORIA OF AUGUST 1867 AND THE CONTROVERSY OVER CONSTITUTIONAL REFORM": 14
-- Conclusion: 13
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR continuation: 12
 - Chapter 1 / The Aims of Mexican Liberalism: 10
 - THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72): 10
@@ -112,6 +113,7 @@ tags:
 - NOTES AND REFERENCES: 2
 - La Noria repression continuation: 2
 - THE DEATH OF JUÁREZ - JULY 1872 begins: 2
+- Chronology: 2
 - Chapter 1 "Nineteenth-Century Mexico: The World of Juárez": 1
 - Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism; The Politics of Fragmentation: 1
 - Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ: IN THE LIBERAL CONSTELLATION: 1
@@ -129,6 +131,7 @@ tags:
 - Chapter 1 / The Geo-Politics of Mexico: 38
 - THE COLLAPSE OF THE EMPIRE: 33
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / STATE GOVERNOR OF OAXACA (1847-52): 29
+- Bibliographical Essay: 29
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CRISIS IN THE ISTHMUS: 27
 - Chapter 3 / JUÁREZ AND LIBERALISM / THE REVOLUTION OF AYUTLA: 25
 - Chapter 3 / JUÁREZ AND LIBERALISM / DEEPENING DIVISIONS IN THE LIBERAL PARTY: 25
@@ -142,6 +145,7 @@ tags:
 - Chapter 6 / JUÁREZ IN CHIHUAHUA: 20
 - MEXICO AND THE AMERICAN CIVIL WAR (1861-65): 20
 - THE ESTABLISHMENT OF THE MEXICAN EMPIRE: 19
+- Conclusion: 19
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE VERACRUZ REFORM LAWS: 17
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ continuation: 16
 - THE DEBT QUESTION AND THE ALLIED INTERVENTION OF 1861-62: 16
@@ -193,7 +197,6 @@ tags:
 - THE VICTORY OF THE JUARISTAS conclusion: 4
 - "LIBERAL DIVISIONS IN PUEBLA": 4
 - CONSTITUTIONAL REFORM REVIVED: 4
-- Conclusion: 4
 - Chapter 1 / The Aims of Mexican Liberalism: 3
 - Chapter 3 / JUÁREZ AND LIBERALISM: 3
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ: 3
@@ -211,10 +214,14 @@ tags:
 - "THE CIVIL WAR IN GUERRERO" conclusion: 1
 - La Noria repression continuation: 1
 - THE DEATH OF JUÁREZ - JULY 1872 begins: 1
+- Chronology: 1
 
 ## Next Checks From Progress Master
 
-- printed pages 234-235で、p.233末尾の未完文、Juárez死去節の具体内容、Juárez死去日・経過、Chapter 10注17-19本文、President of Congress氏名、Lafraguaの正確な姓名を確認する。
+- printed pages 252-253で、p.251末尾は文として完結していることを前提に、Bibliographical Essayが継続するか終了するかと次の資料区分を確認する。
+- Favreの1867年12月2日発言原文・会議録、Weeksの正式書誌・刊行地、Covo／Salomon研究、APBJPS 1928年刊行情報、Díaz政権のJuárez神話利用開始時期を確認する。
+- SalinasのNAFTA関連テレビ演説日・媒体、1867年と1992年9月のHoly See関係の制度的正確性、Tamayo文書集の1964-71／1964-72年次齟齬を確認する。
+- Genaro García反論書1904年とBulnes本1905年の刊行順、Juan Sánchezの1902年刊行・1972年復刻、Gustavo Bazの著作名、Hilarión Frías y Sotoの1905年候補と既存1907年情報の不一致を確認する。
 - Notes 45-48は[[CAP_HAMNETT_JUAREZ_0101]]でlocator候補化済み。Juárez/Lerdo body inspection、body comment、robed/photography、Garibaldi/Hugo appeals、Baz statement、Juárez Manifesto、European diplomatic relationsへの正確な対応を個別確認する。
 - p.195下部に見える注1-2は章冒頭側の注であり、pp.194-195本文注45-48ではないことを維持する。
 - p.193-p.194のMaximilian遺体移送接続は `robed`/arranged body handling として修正済み。body theft/robberyのFactは作成しない。
@@ -251,6 +258,3 @@ tags:
 - 注26-30はpp.164-165で注本文を確認済みだが、帝政派公式新聞、New York Herald 1866-12-16、Juárez 1868年3月書簡、Zarco 1866年9月書簡、Seward方針、武器購入許可との本文対応は引き続き確認する。
 - Fernando Iglesias Calderón 1905年著述、Hilarión Frías y Soto 1907年著述、Romero/Doblado 1864年10月領土割譲疑惑、Baja California/Sonora支配状況を確認する。
 - "Ten days later" の基準日、Wyke-Zamacona Treatyの正式名称・条項・議会否認日を確認する。
-- Thomas Corwinの正式役職、Corwin loan proposal文書、上院手続、抵当対象の具体的法的性格を確認する。
-- Confederate diplomacyの具体的相手先、特に北部州知事との関係を確認する。
-- Hamnett解釈とRomero報告由来情報の分類を注15確認後に再検討する。

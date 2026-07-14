@@ -37,7 +37,7 @@ Hamnettは、Juárezの上昇をOaxacaのcreole patronage、州行政下層職�
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0017|Juárezの上昇には教育・法律実務・州政治・婚姻・Oaxaca人脈が重要だった]], [[FACT_HAMNETT_JUAREZ_0226|独立後Oaxacaでは非エリートの政治的上昇が可能になった]], [[FACT_HAMNETT_JUAREZ_0227|Creole政治家の庇護がJuárezらの州行政進出を助けた]], [[FACT_HAMNETT_JUAREZ_0228|Juárezの主な周辺人物は山地鉱業地帯からも出た]], [[FACT_HAMNETT_JUAREZ_0231|CastroとMejueirosは北部山地でjuarista causeを支えた]], [[FACT_HAMNETT_JUAREZ_0861|Hamnett summarizes Matías Romero's Oaxaca origin and Juárez connection]], [[FACT_HAMNETT_JUAREZ_1372|Oaxaca base was insufficient but supplied political personnel]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0017|Juárezの上昇には教育・法律実務・州政治・婚姻・Oaxaca人脈が重要だった]], [[FACT_HAMNETT_JUAREZ_0226|独立後Oaxacaでは非エリートの政治的上昇が可能になった]], [[FACT_HAMNETT_JUAREZ_0227|Creole政治家の庇護がJuárezらの州行政進出を助けた]], [[FACT_HAMNETT_JUAREZ_0228|Juárezの主な周辺人物は山地鉱業地帯からも出た]], [[FACT_HAMNETT_JUAREZ_0231|CastroとMejueirosは北部山地でjuarista causeを支えた]], [[FACT_HAMNETT_JUAREZ_0861|Hamnett summarizes Matías Romero's Oaxaca origin and Juárez connection]], [[FACT_HAMNETT_JUAREZ_1372|Oaxaca base was insufficient but supplied political personnel]], [[FACT_HAMNETT_JUAREZ_3031|Juan Sanchez promoted legality-centered Oaxacan juarismo]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0098|after 1820、Oaxacaで非エリートの政治的上昇が可能になった]], [[TIME_HAMNETT_JUAREZ_0101|1830-1846、José López Ortigozaが複数回Oaxaca州知事を務めた]], [[TIME_HAMNETT_JUAREZ_0102|1833-1834、Ramón Ramírez de Aguilarがacting governorを務めた]], [[TIME_HAMNETT_JUAREZ_0104|until the 1870s、CastroとMejueiro familyがjuarista causeを支えた]], [[TIME_HAMNETT_JUAREZ_0337|Matías Romero graduates from the Oaxaca instituto in 1852]]
 - Source Notes:
 - Scenes:
