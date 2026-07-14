@@ -27,7 +27,7 @@ Entry note for Mexican-American War. Verify details in linked Fact Cards and Tim
 
 ## Relationships
 
-- People:
+- People: [[Jose_Joaquin_de_Herrera|José Joaquín de Herrera]]
 - Organizations:
 - Places:
 - Events:
@@ -43,7 +43,7 @@ Entry note for Mexican-American War. Verify details in linked Fact Cards and Tim
 
 ## Linked Items
 
-- People: [[Antonio_de_Leon|Antonio de León]], [[Mariano_Paredes_y_Arrillaga|Mariano Paredes y Arrillaga]]
+- People: [[Antonio_de_Leon|Antonio de León]], [[Jose_Joaquin_de_Herrera|José Joaquín de Herrera]], [[Mariano_Paredes_y_Arrillaga|Mariano Paredes y Arrillaga]]
 - Organizations:
 - Places:
 - Events: [[Paredes_y_Arrillaga_Attempted_Dictatorship_1846|Paredes y Arrillaga Attempted Dictatorship 1846]], [[Texas_Annexation|Texas Annexation]], [[Treaty_Of_Guadalupe_Hidalgo|Treaty of Guadalupe Hidalgo]]

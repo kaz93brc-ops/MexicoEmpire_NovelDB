@@ -31,7 +31,7 @@ Entry note for First Federal Republic. Verify details in linked Fact Cards and T
 - Organizations:
 - Places:
 - Events:
-- Themes:
+- Themes: [[State_Fiscal_Weakness|State Fiscal Weakness]]
 
 ## Fact Cards
 
@@ -47,7 +47,7 @@ Entry note for First Federal Republic. Verify details in linked Fact Cards and T
 - Organizations:
 - Places:
 - Events: [[First_Federal_Republic_Collapse_1836|First Federal Republic Collapse 1836]]
-- Themes:
+- Themes: [[State_Fiscal_Weakness|State Fiscal Weakness]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0100|植民地期の統合要因は独立後メキシコの分解を防いだ]], [[FACT_HAMNETT_JUAREZ_0108|representative republican governmentは共和国創設者とJuárezの目標だった]], [[FACT_HAMNETT_JUAREZ_0338|Hamnett ties the First Federal Republic's collapse to fiscal weakness]], [[FACT_HAMNETT_JUAREZ_0339|Elite resistance to direct taxation undermined the First Federal Republic]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0042|1824年、First Federal Republic成立時に10の司教区が存在したとされる]], [[TIME_HAMNETT_JUAREZ_0049|1810s-1820s、代表共和政府の確立は共和国創設者たちの目標だった]], [[TIME_HAMNETT_JUAREZ_0155|First Federal Republic collapsed, 1836]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0018]]

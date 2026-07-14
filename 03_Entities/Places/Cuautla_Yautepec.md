@@ -24,13 +24,21 @@ coordinates: ""
 
 Entry note for Cuautla-Yautepec. Verify details in linked Fact Cards and Timeline Entries.
 
+## Relationships
+
+- People:
+- Organizations:
+- Places: [[Putla]]
+- Events:
+- Themes: [[Commercial_Agriculture|Commercial Agriculture]]
+
 ## Linked Items
 
 - People:
 - Organizations:
-- Places:
+- Places: [[Putla]]
 - Events: [[Mid_1840s_Rural_Rebellions|Mid-1840s Rural Rebellions]]
-- Themes: [[Rural_Rebellions|Rural Rebellions]]
+- Themes: [[Commercial_Agriculture|Commercial Agriculture]], [[Rural_Rebellions|Rural Rebellions]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0056|Puebla南部砂糖地帯とethnosocial tensions]], [[FACT_HAMNETT_JUAREZ_0345|Commercial agriculture intensified land and labor pressure]], [[FACT_HAMNETT_JUAREZ_0346|Sugar producers expanded production at peasant community expense]], [[FACT_HAMNETT_JUAREZ_0782|Villagers attacked Spanish-owned haciendas near Cuernavaca and Cuautla]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0162|Mid-1840s rural rebellions spread in commercial agriculture and southern zones]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0018]], [[CAP_HAMNETT_JUAREZ_0036]]
