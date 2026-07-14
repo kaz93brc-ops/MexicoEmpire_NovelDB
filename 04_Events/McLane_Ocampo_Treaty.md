@@ -62,3 +62,11 @@ Chapter 7 notes 5, 6, and 8 point back to BJDOCS, APBJPS, Tamayo, and U.S. Senat
 - Related Source: [[SRC_REF_BJDOCS_TAMAYO|BJDOCS]]
 - Related Themes: [[Territorial_Cession_And_Transit_Rights]], [[United_States_Recognition_Issue]], [[US_Mexico_Relations]]
 - Cautions: These notes reinforce source tracking; they do not by themselves settle treaty text, non-ratification, or "betrayal" accusations.
+
+## Hamnett 1994 p.255 Chronology Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0130]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1812]], [[FACT_HAMNETT_JUAREZ_3180]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0618]]
+- Note: The Chronology places the treaty inside the Reform War sequence after U.S. recognition and Reform Laws.
+- Cautions: Signature, U.S. Senate rejection, Mexican non-ratification, and Juárez's later response must remain separate questions.

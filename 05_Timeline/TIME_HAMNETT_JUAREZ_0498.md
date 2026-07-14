@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0498"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter6;election"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "1861年3月の大統領選挙でJuárezがLerdoとGonzález Ortegaを破った。"
 creative_use: "選挙勝利後も自由派内部対立が残る起点として使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0066"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.255, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people:
   - "Benito_Juarez"
   - "Miguel_Lerdo_De_Tejada"

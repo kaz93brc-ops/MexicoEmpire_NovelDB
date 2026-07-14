@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0504"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter6;mexico-city"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -15,11 +15,10 @@ archive_page: "/page/126/mode/2up; Page 126 (141/323)"
 page: "printed page 126"
 kindle_location: ""
 screenshot_file: "スクリーンショット 2026-06-13 17.28.57.jpeg"
-date: "1861"
-start_date: "1861"
-end_date: ""
-date_precision: "approximate_period"
-approximate_period: "after Liberal victory and before or around Juárez's return to the capital"
+date: "1860-12-25"
+start_date: "1860-12-25"
+end_date: "1860-12-25"
+date_precision: "day"
 calendar: "Gregorian"
 evidence_category: "historical_fact"
 confidence: "probable"
@@ -27,6 +26,8 @@ verification_needed: "yes"
 event_summary: "González Ortegaが25,000人を率いてJuárezより先にMexico Cityへ入り、Zacatecas Divisionが首都を数か月間占拠した。"
 creative_use: "首都での軍事的威信と憲法上の正統性の緊張に使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0066"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.255, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people:
   - "Jesus_Gonzalez_Ortega"
   - "Benito_Juarez"
@@ -50,11 +51,11 @@ related_fact_cards:
 
 ## Date
 
-- Date: 1861
-- Precision: approximate_period
+- Date: 1860-12-25
+- Precision: day
 - Calendar: Gregorian
-- Start date: 1861
-- Approximate period: after Liberal victory and before or around Juárez's return to the capital
+- Start date: 1860-12-25
+- End date: 1860-12-25
 
 ## Summary
 
@@ -72,7 +73,7 @@ González Ortegaが25,000人を率いてJuárezより先にMexico Cityへ入り�
 - Evidence category: historical_fact
 - Confidence: probable
 - Verification needed: yes
-- Caution: 厳密な入城日・占拠期間は未確認。
+- Caution: Chronology p.255は自由派の首都回復を1860-12-25とするが、入城経過・占拠期間は一次史料で確認する。
 
 ## Links
 

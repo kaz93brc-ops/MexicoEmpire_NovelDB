@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0630"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter7"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "The outbreak of the American Civil War thwarted Mexican hopes for support from the United States."
 creative_use: "Use the Civil War as an immediate constraint on U.S. aid to Juarez."
 related_capture: "CAP_HAMNETT_JUAREZ_0080"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.255, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people: ["Benito_Juarez", "Abraham_Lincoln"]
 events: ["American_Civil_War"]
 places: ["Mexico", "United_States"]

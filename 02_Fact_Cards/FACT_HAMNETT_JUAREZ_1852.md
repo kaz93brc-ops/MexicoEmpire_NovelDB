@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1852"
 type: "fact_card"
 status: "draft"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter7"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "南北戦争勃発はJuárez政府の米国支援期待を大き
 creative_use: "Use the Civil War as a constraint on U.S. aid rather than only as later anti-French pressure."
 cautions: "Confirm the precise causal wording in note 14."
 related_capture: "CAP_HAMNETT_JUAREZ_0080"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.255, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people: ["Benito_Juarez", "Abraham_Lincoln"]
 events: ["American_Civil_War"]
 places: ["Mexico", "United_States"]

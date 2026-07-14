@@ -2,7 +2,7 @@
 id: HAMNETT-INGESTION-READINESS
 type: report
 status: active
-created: 2026-07-14
+created: 2026-07-15
 tags:
   - hamnett
   - ingestion
@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2894
+- hamnett_fact_cards: 2896
 - hamnett_timeline_entries: 927
-- next_required_page: printed pages 254-255 / continue Chronology and confirm whether the p.253 Ley Lerdo entry is complete; local pp.146-147 gap remains unless handled elsewhere
+- next_required_page: printed pages 256-257 / continue Chronology through the debt crisis, European intervention, and French Intervention; confirm the Federal Congress session range; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -106,6 +106,7 @@ tags:
 - TERRITORIAL CESSION AND TRANSIT RIGHTS: 4
 - Chapter opening: 4
 - "THE GROWTH OF OPPOSITION" begins: 4
+- Chronology: 4
 - Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism: 3
 - "LIBERAL DIVISIONS IN PUEBLA" opening: 3
 - Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / NOTES AND REFERENCES: 3
@@ -113,7 +114,6 @@ tags:
 - NOTES AND REFERENCES: 2
 - La Noria repression continuation: 2
 - THE DEATH OF JUÁREZ - JULY 1872 begins: 2
-- Chronology: 2
 - Chapter 1 "Nineteenth-Century Mexico: The World of Juárez": 1
 - Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism; The Politics of Fragmentation: 1
 - Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ: IN THE LIBERAL CONSTELLATION: 1

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1363"
 type: "fact_card"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter6;extraordinary-powers"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "Juárezの憲法上の正統性と非常権限保持の緊張を
 creative_use: "法の言語を掲げるJuárezが非常権限を保持する政治的矛盾として使える。"
 cautions: "非常権限の法的根拠と返上手続は原典確認が必要。"
 related_capture: "CAP_HAMNETT_JUAREZ_0062"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.255, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people:
   - "Benito_Juarez"
   - "Ignacio_Comonfort"

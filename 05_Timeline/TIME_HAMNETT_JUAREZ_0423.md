@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0423"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter5"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -25,6 +25,8 @@ verification_needed: "yes"
 event_summary: "1856年12月15日Pius IXのAllocutionはJuárez Law、Lerdo Law、Labastida追放、Puebla司教区財産のsequestrationなどを非難した。"
 creative_use: "国内改革が国際カトリック秩序へ接続する場面に使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0052"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.254, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people: 
   - "Pope_Pius_IX"
   - "Pelagio_Antonio_de_Labastida_y_Davalos"

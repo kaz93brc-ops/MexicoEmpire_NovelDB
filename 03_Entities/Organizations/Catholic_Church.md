@@ -222,3 +222,11 @@ Hamnett pp.224-225 records the reported shooting of a Juchitán parish priest an
 - Related Organizations: [[Juchitan_Communities|Juchitán communities]]
 - Related Themes: [[Catholic_Symbolism|Catholic symbolism]], [[Religious_Conflict|religious conflict]], [[Liberal_Anticlericalism|Liberal anticlericalism]], [[State_Violence|state violence]]
 - Cautions: Do not treat the sacred-image details as fully verified fact until Chapter 10 notes and underlying testimony are checked; St Vincent Ferrer remains a religious-symbol candidate, not a new Person card.
+
+## Hamnett 1994 pp.254–255 Chronology Notes
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0130]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3180]], [[FACT_HAMNETT_JUAREZ_1249]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0423]], [[TIME_HAMNETT_JUAREZ_0445]]
+- Note: Pius IX's condemnation connects the preceding Ley Juárez / Ley Lerdo sequence to the later Reform Laws and Church-state conflict.
+- Cautions: Verify the papal document type and wording; do not treat the Chronology summary as the primary text.

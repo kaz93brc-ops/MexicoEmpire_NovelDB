@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0369"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-30"
-updated: "2026-07-13"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;arrest"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -25,6 +25,8 @@ verification_needed: "yes"
 event_summary: "1857年12月17日夜、JuárezはComonfortのクーデタに伴い内閣の一員として逮捕された。"
 creative_use: "Tacubaya危機の中でJuárezが逮捕される場面に使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0044"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.254, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people: ["Benito_Juarez", "Ignacio_Comonfort"]
 events: ["Plan_Of_Tacubaya", "Juarez_Arrest_1857_12_17"]
 places: ["Mexico_City"]

@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0035"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter1;1857;federal-constitution"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -12,15 +12,15 @@ section: "Chapter 1 / The Geo-Politics of Mexico"
 printed_page: "6-7"
 archive_page: "/page/6/mode/2up, Page 6 (21/323)"
 screenshot_file: "スクリーンショット 2026-06-13 17.22.48.jpeg"
-date: "1857"
-date_start: "1857"
+date: "1857-02-05"
+date_start: "1857-02-05"
 date_end: ""
-date_precision: "year"
+date_precision: "day"
 calendar: "Gregorian"
 evidence_category: "historical_fact"
 confidence: "probable"
 verification_needed: "yes"
-event_summary: "メキシコで19世紀第二の連邦憲法が成立した。"
+event_summary: "1857年2月5日、メキシコの連邦憲法が公布されたとChronologyは整理している。"
 creative_use: "改革期の連邦主義再編の背景として使える。"
 people: []
 events:
@@ -33,20 +33,22 @@ themes:
   - "Liberal Reform"
 related_fact_cards:
   - "FACT_HAMNETT_JUAREZ_0080"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.254, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 ---
 
-# 1857年、メキシコで19世紀第二の連邦憲法が成立した
+# 1857年2月5日、メキシコの連邦憲法が公布された
 
 ## Date
 
-- Start: 1857
+- Start: 1857-02-05
 - End:
-- Precision: year
+- Precision: day
 - Calendar: Gregorian
 
 ## Summary
 
-メキシコで19世紀第二の連邦憲法が成立した。
+1857年2月5日、メキシコの連邦憲法が公布されたとChronologyは整理している。
 
 ## Citation
 

@@ -174,3 +174,11 @@ Hamnett places García Granados and Rabasa's constitutional criticism against Co
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1153]], [[TIME_HAMNETT_JUAREZ_1155]]
 - Related People: [[Emilio_Rabasa]], [[Benito_Juarez]], [[Sebastian_Lerdo_De_Tejada]], [[Porfirio_Diaz]]
 - Cautions: Keep these as competing historiographical interpretations; confirm García Granados, Rabasa, and Cosío Villegas in their own works.
+
+## Hamnett 1994 p.254 Chronology Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0130]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3180]], [[FACT_HAMNETT_JUAREZ_0905]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0035]]
+- Note: The Chronology supplies 1857-02-05 as the publication date and immediately connects the constitutional order to Juárez's Supreme Court succession position and the Tacubaya crisis.
+- Cautions: Verify the publication/promulgation terminology and constitutional article in the legal text.

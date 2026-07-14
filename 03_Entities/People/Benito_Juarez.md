@@ -1129,3 +1129,12 @@ Hamnett separates Juárez the anti-imperial strategist, the late ruler seeking l
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3001]], [[FACT_HAMNETT_JUAREZ_3004]], [[FACT_HAMNETT_JUAREZ_3011]], [[FACT_HAMNETT_JUAREZ_3012]], [[FACT_HAMNETT_JUAREZ_3017]], [[FACT_HAMNETT_JUAREZ_3019]], [[FACT_HAMNETT_JUAREZ_3020]], [[FACT_HAMNETT_JUAREZ_3022]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1122]], [[TIME_HAMNETT_JUAREZ_1125]]
 - Cautions: Political mastery is not moral canonization; civic sainthood is a posthumous memory construction in Hamnett's interpretation.
+
+## Hamnett 1994 pp.254–255 Chronology Notes
+
+Hamnett's Chronology links Juárez's constitutional succession, Veracruz government, Liberal victory, capital return, and 1861 election while leaving the underlying dates and legal instruments for source verification.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0130]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3180]], [[FACT_HAMNETT_JUAREZ_3189]], [[FACT_HAMNETT_JUAREZ_0905]], [[FACT_HAMNETT_JUAREZ_1429]], [[FACT_HAMNETT_JUAREZ_1446]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0035]], [[TIME_HAMNETT_JUAREZ_0369]], [[TIME_HAMNETT_JUAREZ_0478]], [[TIME_HAMNETT_JUAREZ_0493]], [[TIME_HAMNETT_JUAREZ_0504]], [[TIME_HAMNETT_JUAREZ_0494]], [[TIME_HAMNETT_JUAREZ_0498]]
+- Cautions: Constitutional legitimacy, foreign recognition, emergency powers, and military victory remain distinct bases of authority.

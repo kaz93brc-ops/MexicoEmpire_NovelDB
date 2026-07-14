@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1446"
 type: "fact_card"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter6;election"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "1861年3月大統領選挙の勝敗は史実候補として扱�
 creative_use: "選挙勝利後もJuárezが自由派内部から挑戦される導入に使える。"
 cautions: "正確な投票日、制度上の確定手続き、注13を確認する。"
 related_capture: "CAP_HAMNETT_JUAREZ_0066"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0130"]
+additional_locators: ["Chronology, p.255, /page/254/mode/2up, Page 254 (269/323), スクリーンショット 2026-06-13 17.31.09.jpeg"]
 people:
   - "Benito_Juarez"
   - "Miguel_Lerdo_De_Tejada"
