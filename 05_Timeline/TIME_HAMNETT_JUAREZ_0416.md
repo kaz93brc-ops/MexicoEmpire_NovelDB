@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0416"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter5"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -63,6 +63,12 @@ related_fact_cards:
 - Page: printed page 98
 - Kindle location: 
 - Screenshot file: スクリーンショット 2026-06-13 17.28.28.jpeg
+
+## Hamnett 1994 p.268 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0137]] connects Ponciano Arriaga to the 1856–1857 Constituent Assembly.
+- Locator: p.268 / `/page/268/mode/2up` / `スクリーンショット 2026-06-13 17.31.27.jpeg`.
+- No new Timeline entry was created because this entry already records the Constituent opening date.
 
 ## Chronology Cross-Reference
 

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_3033"
 type: "fact_card"
 status: "draft"
 created: "2026-07-13"
-updated: "2026-07-13"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;historiography"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -62,3 +62,11 @@ Hamnettによれば、Francisco BulnesはJuárezをLiberal reformsの前衛で�
 - Themes: [[Historiography_Of_Juarez|historiography of Juárez]], [[Ocampo_And_Juarez_Relationship]], [[Juarez_Early_Political_Career]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0125]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1133]]
+
+## Hamnett 1994 p.269 Dramatis Personae Locator
+
+The Bulnes entry identifies him as a political journalist and later historical commentator whose 1904–1905 writings attacked Juárez's reputation. Existing Bibliographical Essay cards are reused instead of creating planned Fact3361.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3034]], [[FACT_HAMNETT_JUAREZ_3035]]
+- Cautions: Confirm the exact titles, publication years, and sequence of the Juárez-critical works.

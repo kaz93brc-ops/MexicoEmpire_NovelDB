@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0151"
 type: "fact_card"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;politics-fragmentation;guerrero-bravo"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -76,3 +76,11 @@ Hamnettは、Guerreroが反乱を鎮圧した後、Nicolás BravoがGuerreroへ�
 - Themes: [[Factionalism]], [[Personalism]], [[Mexican_Federalism|federalism]]
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0150]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0010]]
+
+## Hamnett 1994 p.269 Dramatis Personae Locator
+
+The person entry places Bravo's later opposition to Guerrero within a career that crossed insurgency, the Plan of Iguala, and early republican executive politics.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_0149]]
+- Cautions: Do not flatten the career into a fixed Liberal/Conservative label.

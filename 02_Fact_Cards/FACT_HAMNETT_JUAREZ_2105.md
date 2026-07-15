@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2105"
 type: "fact_card"
 status: "draft"
 created: "2026-07-05"
-updated: "2026-07-05"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -67,3 +67,11 @@ BazaineはMexican ConservativesとMiramónを嫌っており、Maximilianがフ�
 - Themes: [[Bazaine_Political_Military_Strategy|Bazaine's political-military strategy]], [[Maximilian_Bazaine_Conflict|Maximilian-Bazaine conflict]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0091]]
 - Related Timeline Entries:
+
+## Hamnett 1994 p.269 Dramatis Personae Locator
+
+The person entry restates Bazaine's distrust of Miramón and Mexican Conservatives and extends the same coalition-tension frame to the Catholic hierarchy. The broader relationship assessment is separated as [[FACT_HAMNETT_JUAREZ_3358]].
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3358]]
+- Cautions: Treat distrust as Hamnett's relationship assessment, not a verified statement of inner motive.

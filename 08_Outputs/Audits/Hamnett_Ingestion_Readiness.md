@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2938
+- hamnett_fact_cards: 2941
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 137 / confirm the continuation of the Ignacio Altamirano entry, identify the next person in Dramatis Personae, and verify that the Glossary ended on p.266; local pp.146-147 gap remains unless handled elsewhere
+- next_required_page: screenshot 138 / confirm that the Anastasio Bustamante entry does not continue, identify the next Dramatis Personae entries on pp.270-271, and preserve the local pp.146-147 gap unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -113,6 +113,7 @@ tags:
 - Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism: 3
 - "LIBERAL DIVISIONS IN PUEBLA" opening: 3
 - Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / NOTES AND REFERENCES: 3
+- DRAMATIS PERSONAE: 3
 - Chapter 4 / NOTES AND REFERENCES: 2
 - NOTES AND REFERENCES: 2
 - La Noria repression continuation: 2

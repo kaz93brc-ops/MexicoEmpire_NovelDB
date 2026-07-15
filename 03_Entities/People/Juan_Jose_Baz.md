@@ -3,7 +3,7 @@ id: "PERSON_JUAN_JOSE_BAZ"
 type: "person"
 status: "stub"
 created: "2026-07-01"
-updated: "2026-07-05"
+updated: "2026-07-15"
 tags:
   - "person"
   - "hamnett"
@@ -40,3 +40,13 @@ Use as a marker of radical Liberal rhetoric that turns execution into a claim ab
 - Places: [[Jalisco]], [[Mexico_City]], [[Federal_District]]
 - Organizations: [[La_Bandera_Roja]], [[Mexican_Republic]]
 - Themes: [[Liberal_Anticlericalism]], [[Mexican_Liberal_Press]], [[Execution_Of_Maximilian]], [[Monarchy_Vs_Republic]]
+
+## Hamnett 1994 p.268 Dramatis Personae Notes
+
+Hamnett presents Baz as a radical Liberal whose career connected anti-clerical politics, the Reform War, Federal District government, and the early Díaz regime.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_1192]], [[FACT_HAMNETT_JUAREZ_2347]], [[FACT_HAMNETT_JUAREZ_2501]]
+- Related People: [[Porfirio_Diaz|Porfirio Díaz]], [[Benito_Juarez|Benito Juárez]], [[Maximilian]]
+- Related Themes: [[Liberal_Anticlericalism|Liberal anti-clericalism]], [[Liberal_Factionalism|Liberal factionalism]]
+- Open Questions: Confirm Federal District governorship dates, La Bandera Roja editorship, and the interior-ministry term.

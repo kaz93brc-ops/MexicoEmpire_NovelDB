@@ -94,3 +94,14 @@ Hamnett begins a person entry presenting Altamirano as a radical Liberal novelis
 - Places: [[Tixtla]], [[Guerrero]]
 - Organizations: [[Radical_Liberals|radical Liberals]]
 - Open Questions: Confirm the continuation, dates, family-language formulation, Ramírez mentorship, and the specific content of later Juárez criticism.
+
+## Hamnett 1994 p.268 Dramatis Personae Continuation
+
+p.268 completes the entry by connecting Altamirano's Guerrero representation and legal training with learned-society work and the later nineteenth-century literary revival.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Existing Fact Card: [[FACT_HAMNETT_JUAREZ_3335]]
+- Related People: [[Benito_Juarez|Benito Juárez]], [[Ignacio_Ramirez|Ignacio Ramírez]]
+- Related Places: [[Guerrero]]
+- Related Themes: [[Radical_Liberalism|radical liberalism]], [[Liberal_Factionalism|Liberal factionalism]], [[Press_And_Political_Legitimacy|press and political legitimacy]]
+- Open Questions: Confirm the formal learned-society names, offices, and 1871–1874 chronology.

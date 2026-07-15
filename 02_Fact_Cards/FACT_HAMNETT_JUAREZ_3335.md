@@ -63,3 +63,11 @@ Hamnettの人物欄は、Ignacio Altamiranoを急進自由派の小説家・詩�
 - Organizations: [[Radical_Liberals|radical Liberals]]
 - Themes: [[Liberal_Factionalism]], [[Liberalism_As_Action_And_Administration|liberalism as action and administration]], [[Press_And_Political_Legitimacy]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+
+## Hamnett 1994 p.268 Dramatis Personae Continuation
+
+p.268 confirms that the Altamirano entry continues from p.267 and completes it by connecting his Guerrero representation and legal training to learned-society work and the later nineteenth-century literary revival. This continuation is attached to the existing role card rather than creating planned Fact3350.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Continuity: [[CAP_HAMNETT_JUAREZ_0136]] -> [[CAP_HAMNETT_JUAREZ_0137]]
+- Cautions: Confirm the formal society names, offices, and 1871–1874 dates before using them as fixed chronology.

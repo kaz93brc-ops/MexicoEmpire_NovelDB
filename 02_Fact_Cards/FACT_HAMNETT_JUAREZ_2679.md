@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2679"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -71,3 +71,10 @@ Hamnettは、1851年のHerreraからMariano Aristaへの政権移譲を、19世�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0113]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0972]]
 
+## Hamnett 1994 p.268 Dramatis Personae Locator
+
+The Arista entry connects the 1851–1853 presidency to a longer military career and presents him as a moderate military politician; that evaluative profile is separated as [[FACT_HAMNETT_JUAREZ_3354]].
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3354]]
+- Cautions: Confirm royalist service and northern-command chronology independently.

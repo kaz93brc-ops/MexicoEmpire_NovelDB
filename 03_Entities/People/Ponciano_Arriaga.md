@@ -3,7 +3,7 @@ id: "PERSON_PONCIANO_ARRIAGA"
 type: "person"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-15"
 tags:
   - "person"
   - "hamnett"
@@ -43,3 +43,13 @@ Hamnett p.60では、Álvarez内閣の内務担当として言及される。
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0700]]
 - Related Organizations: [[Alvarez_Cabinet]]
 - Cautions: 正式職名・任期は要確認。
+
+## Hamnett 1994 p.268 Dramatis Personae Notes
+
+Hamnett places Arriaga in a radical Liberal network connecting Melchor Ocampo, the Álvarez ministry, and the 1856–1857 Constituent Assembly.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_0667]], [[FACT_HAMNETT_JUAREZ_0700]], [[FACT_HAMNETT_JUAREZ_0938]]
+- Related People: [[Melchor_Ocampo|Melchor Ocampo]], [[Juan_Alvarez|Juan Álvarez]]
+- Related Event: [[Constituent_Congress_Of_1856_1857|Constituent Congress of 1856–1857]]
+- Open Questions: Confirm his formal offices, Constituent role, and alignment with Ocampo in primary or congressional sources.

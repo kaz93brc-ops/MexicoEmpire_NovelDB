@@ -3,7 +3,7 @@ id: "PERSON_ANASTASIO_BUSTAMANTE"
 type: "person"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-15"
 tags:
   - "person"
   - "hamnett"
@@ -60,3 +60,13 @@ Hamnettは、1829年末のGuerrero政権崩壊後、Bustamanteのproto-Conservat
 ## Open Questions
 
 - Vice-Presidentとしての権限、元王党派対反乱司令官としての経歴、Guerrero政権排除の具体過程を別史料で確認する。
+
+## Hamnett 1994 p.269 Dramatis Personae Notes
+
+Hamnett presents Bustamante as a royalist commander turned conservative politician, linking Plan of Iguala politics, centralist government, and repeated exile. The profile illustrates continuity between late-colonial military networks and early republican conservative politics.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_0158]], [[FACT_HAMNETT_JUAREZ_0257]], [[FACT_HAMNETT_JUAREZ_0297]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0136]]
+- Related People: [[Lucas_Alaman|Lucas Alamán]], [[Valentin_Gomez_Farias|Valentín Gómez Farías]], [[Vicente_Guerrero|Vicente Guerrero]]
+- Open Questions: Confirm presidencies, exile periods, Texas War involvement, and whether the entry continues on p.270.

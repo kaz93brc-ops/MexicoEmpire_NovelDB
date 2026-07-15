@@ -3,7 +3,7 @@ id: "PERSON_MARIANO_ARISTA"
 type: "person"
 status: "stub"
 created: "2026-06-22"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags:
   - "person"
   - "hamnett"
@@ -46,3 +46,13 @@ Hamnett pp.220-221 names Arista as the recipient of the rare 1851 peaceful presi
 - Related People: [[Jose_Joaquin_de_Herrera|José Joaquín de Herrera]]
 - Related Themes: [[Political_Legitimacy|political legitimacy]], [[Constitutional_Politics|constitutional politics]]
 - Cautions: Confirm the transfer's procedure and date in constitutional or presidential chronology sources.
+
+## Hamnett 1994 p.268 Dramatis Personae Notes
+
+Hamnett presents Arista as a moderate military politician whose career crossed royalist service, northern command, and the 1851–1853 presidency.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- New Fact Card: [[FACT_HAMNETT_JUAREZ_3354]]
+- Existing Fact Card: [[FACT_HAMNETT_JUAREZ_2679]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0972]]
+- Open Questions: Confirm military postings, northern command, presidential dates, and the basis for the moderate label.

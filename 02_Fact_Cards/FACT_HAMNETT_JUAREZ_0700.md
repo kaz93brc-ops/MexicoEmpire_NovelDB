@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0700"
 type: "fact_card"
 status: "draft"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter3;ayutla"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -71,3 +71,10 @@ related_timeline_entries: []
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0033]]
 - Related Timeline Entries:
 
+## Hamnett 1994 p.268 Dramatis Personae Locator
+
+The Arriaga entry places him in a radical Liberal network linking Ocampo, the Álvarez ministry, and the 1856–1857 Constituent Assembly. The existing ministry card and Constituent timeline are reused instead of creating planned Fact3355.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0416]]
+- Cautions: Confirm his formal Constituent role and dates in congressional sources.

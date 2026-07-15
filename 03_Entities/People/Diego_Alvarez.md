@@ -3,7 +3,7 @@ id: "PERSON_DIEGO_ALVAREZ"
 type: "person"
 status: "stub"
 created: "2026-07-05"
-updated: "2026-07-09"
+updated: "2026-07-15"
 tags:
   - "person"
   - "hamnett"
@@ -62,3 +62,13 @@ Hamnett pp.212-213 makes Diego Álvarez central to the Guerrero conflict: he is 
 - Related Places: [[Guerrero]], [[Hacienda_La_Providencia|Hacienda La Providencia]], [[Acapulco]], [[Tlapa]]
 - Related Themes: [[Caciquismo_And_Regional_Power|caciquismo and regional power]], [[Federal_State_Tension|federal-state tension]], [[War_Finance|war finance]]
 - Cautions: Hamnett's comparison of Diego and Juan is author interpretation; Álvarez's letters and protests remain primary-testimony candidates until originals are checked.
+
+## Hamnett 1994 p.268 Dramatis Personae Notes
+
+Hamnett identifies Diego as Juan Álvarez's son and places him in Guerrero's political-military connection to Juárez.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- New Fact Card: [[FACT_HAMNETT_JUAREZ_3351]]
+- Related People: [[Juan_Alvarez|Juan Álvarez]], [[Benito_Juarez|Benito Juárez]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0735]]
+- Open Questions: Confirm his governorship periods and the specific missions linking him to Juárez.

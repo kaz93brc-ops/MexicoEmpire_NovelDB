@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1192"
 type: "fact_card"
 status: "draft"
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter5"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -73,3 +73,10 @@ Jaliscoでは、Juan José Bazが1858年に急進派新聞La Bandera Rojaを創�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0054]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0433]]
 
+## Hamnett 1994 p.268 Dramatis Personae Locator
+
+The Baz entry groups the newspaper episode with radical anti-clerical politics, Reform War participation, Federal District government, and service in the early Díaz regime. These profile links are attached to existing Baz cards rather than creating planned Fact3356.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2347]], [[FACT_HAMNETT_JUAREZ_2501]]
+- Cautions: Confirm La Bandera Roja's place of publication, Federal District terms, and interior-ministry dates.

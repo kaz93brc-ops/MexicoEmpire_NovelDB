@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2501"
 type: "fact_card"
 status: "draft"
 created: "2026-07-06"
-updated: "2026-07-06"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -65,3 +65,11 @@ Díaz's circle included Justo Benítez, Juan José Baz, Manuel Zamacona, Vicente
 - Themes: [[Liberal_Factionalism|Liberal factionalism]], [[Porfirio_Diaz_And_Oaxaca_Power|Porfirio Díaz and Oaxaca power]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0107]]
 - Related Timeline Entries:
+
+## Hamnett 1994 p.269 Dramatis Personae Locator
+
+The Justo Benítez entry expands the existing Díaz-circle locator through support for La Noria and Tuxtepec, followed by a break with Díaz over the 1880 succession; the Baz entry also links radical Liberalism to the early Díaz regime.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0843]]
+- Cautions: Confirm Benítez's offices, rebellion roles, Tuxtepec chronology, and the precise 1880 dispute before creating separate historical-fact cards.

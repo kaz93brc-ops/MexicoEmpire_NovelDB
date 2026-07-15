@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0083"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter1;ayutla-march-1854"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -65,6 +65,12 @@ Hamnettは、Revolution of Ayutlaを1854年3月の出来事として示し、Jua
 - Page: printed page 16-17
 - Kindle location: 
 - Screenshot file: スクリーンショット 2026-06-13 17.23.01.jpeg
+
+## Hamnett 1994 p.268 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0137]] reiterates Juan Álvarez's initiation of the Ayutla Revolution in March 1854.
+- Locator: p.268 / `/page/268/mode/2up` / `スクリーンショット 2026-06-13 17.31.27.jpeg`.
+- No new Timeline entry was created because this entry already records the month and event.
 
 ## Evidence Notes
 
