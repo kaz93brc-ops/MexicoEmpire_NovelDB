@@ -3,7 +3,7 @@ id: SRC_HAMNETT_1994_JUAREZ
 type: source_note
 status: draft
 created: 2026-06-14
-updated: "2026-07-15"
+updated: "2026-07-16"
 tags:
   - source
   - book
@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-現在はユーザー指定の137枚目として `CAP_HAMNETT_JUAREZ_0137` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は DRAMATIS PERSONAE / printed pages 268-269 / archive `/page/268/mode/2up`。p.268冒頭でIgnacio Altamirano項目の続きが完結し、Álvarez、Arista、Arriaga、Baz、Bazaine、Benítez、Bravo、Bulnes、Bustamanteを新規Fact3351・3354・3358、既存Fact / Person / Timeline locatorへ振り分けた。次回138枚目でBustamante項目が続かないこととDramatis Personae継続を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
+現在はユーザー指定の138枚目として `CAP_HAMNETT_JUAREZ_0138` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は DRAMATIS PERSONAE / printed pages 270-271 / archive `/page/270/mode/2up`。p.269末尾のAnastasio Bustamante項目が続かず、p.270冒頭がCarlos María Bustamanteで始まることを確認し、Bustamante、Comonfort、Degollado、Félix / Porfirio Díaz、Doblado、Dublán、Dubois de Saligny、未完のGómez Farías項目をFact3370-3385と既存Person / Event / Theme / Timeline locatorへ接続した。次回139枚目でp.271末尾のValentín Gómez Farías項目のp.272継続を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-16に138枚目Captureとして [[CAP_HAMNETT_JUAREZ_0138|CAP_HAMNETT_JUAREZ_0138]] を作成。Readinessとユーザー指定はいずれもpp.270-271を指し、p.269末尾のAnastasio Bustamante項目が続かずp.270冒頭がCarlos María Bustamanteで始まることを確認した。新規Factは[[FACT_HAMNETT_JUAREZ_3370|3370]]-[[FACT_HAMNETT_JUAREZ_3385|3385]]。Comonfortの穏健自由派・制度危機・再統合、Degolladoの自由派軍事ネットワークと休戦論、Félix / Porfirio DíazのOaxaca政治と反Juárez勢力、Dobladoの対仏外交・移動政府、DublánのJuárez協力・帝政参加・復権・Díaz支持、Dubois de Salignyの干渉前史を分離した。Gómez Faríasはp.271末尾で未完のため、開始と次ページ継続だけを3385に記録した。新規Timeline・Entity stub・Relationshipカードは作成せず、既存Person 9件とTimeline 16件へlocatorを追加した。Readinessとの対象矛盾はなく、ローカルpp.146-147 gapは残る。人物欄全文、人物略歴全文、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。
 
 2026-07-15に137枚目Captureとして [[CAP_HAMNETT_JUAREZ_0137|CAP_HAMNETT_JUAREZ_0137]] を作成。Readinessとユーザー指定はいずれもpp.268-269を指し、136枚目から続くIgnacio Altamirano項目がp.268冒頭で完結することを確認した。新規Factは[[FACT_HAMNETT_JUAREZ_3351|3351]]、[[FACT_HAMNETT_JUAREZ_3354|3354]]、[[FACT_HAMNETT_JUAREZ_3358|3358]]。予定3350、3352-3353、3355-3357、3359-3363は既存Fact / Person / Timelineへlocatorを追加し、分析的要約はCapture内に留めたため未作成。既存人物11件とTimeline6件を更新し、新規Timeline・Entity stub・Relationshipカードは作成していない。BazaineをFrench command・Maximilian・Mexican conservatives・Catholic hierarchyの緊張、Juan ÁlvarezをGuerrero地方権力・Ayutla・共和派抵抗、BenítezをLa Noria / Tuxtepec / 1880年のDíazとの決裂へ接続した。p.269末尾のBustamante項目は完結しているように見えるが、138枚目で続きがないか確認する。人物欄全文、人物略歴全文、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。
 

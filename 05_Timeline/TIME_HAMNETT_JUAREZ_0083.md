@@ -66,6 +66,10 @@ Hamnettは、Revolution of Ayutlaを1854年3月の出来事として示し、Jua
 - Kindle location: 
 - Screenshot file: スクリーンショット 2026-06-13 17.23.01.jpeg
 
+## Hamnett Dramatis Personae p.270 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] connects Degollado's person-reference entry to the Ayutla movement in [[FACT_HAMNETT_JUAREZ_3374]].
+
 ## Hamnett 1994 p.268 Dramatis Personae Locator
 
 - [[CAP_HAMNETT_JUAREZ_0137]] reiterates Juan Álvarez's initiation of the Ayutla Revolution in March 1854.
@@ -95,7 +99,7 @@ Santa Anna体制崩壊とReforma前夜の転換点として使える。
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0181]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0181]], [[FACT_HAMNETT_JUAREZ_3374]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.23.01.jpeg

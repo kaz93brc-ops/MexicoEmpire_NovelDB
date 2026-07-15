@@ -2,7 +2,7 @@
 id: HAMNETT-INGESTION-READINESS
 type: report
 status: active
-created: 2026-07-15
+created: 2026-07-16
 tags:
   - hamnett
   - ingestion
@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2941
+- hamnett_fact_cards: 2957
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 138 / confirm that the Anastasio Bustamante entry does not continue, identify the next Dramatis Personae entries on pp.270-271, and preserve the local pp.146-147 gap unless handled elsewhere
+- next_required_page: screenshot 139 / continue the incomplete Valentín Gómez Farías entry on p.272, identify the following Dramatis Personae entries on pp.272-273, and preserve the local pp.146-147 gap unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -78,6 +78,7 @@ tags:
 - "SOCIAL MOVEMENTS AND THE AGRARIAN QUESTION": 21
 - THE DEATH OF JUÁREZ - JULY 1872: 20
 - chapter opening / "THE LATER JUÁREZ": 19
+- DRAMATIS PERSONAE: 19
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / GOVERNOR JUÁREZ AND THE BISHOP OF OAXACA: 18
 - THE VICTORY OF THE JUARISTAS conclusion: 18
 - CONSTITUTIONAL REFORM REVIVED: 18
@@ -113,7 +114,6 @@ tags:
 - Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism: 3
 - "LIBERAL DIVISIONS IN PUEBLA" opening: 3
 - Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / NOTES AND REFERENCES: 3
-- DRAMATIS PERSONAE: 3
 - Chapter 4 / NOTES AND REFERENCES: 2
 - NOTES AND REFERENCES: 2
 - La Noria repression continuation: 2

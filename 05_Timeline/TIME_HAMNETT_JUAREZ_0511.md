@@ -72,6 +72,10 @@ On 15 September 1861, 51 deputies requested Juárez to step down in favor of Gon
 - Archive page: /page/128/mode/2up; Page 128 (143/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.28.59.jpeg
 
+## Hamnett Dramatis Personae p.271 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] extends Dublán's person trail from Juárez's Oaxaca network to his 1865 imperial alignment in [[FACT_HAMNETT_JUAREZ_3381]]; no new 1865 timeline entry was created pending verification.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -92,7 +96,7 @@ On 15 September 1861, 51 deputies requested Juárez to step down in favor of Gon
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1484]], [[FACT_HAMNETT_JUAREZ_1485]], [[FACT_HAMNETT_JUAREZ_1486]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1484]], [[FACT_HAMNETT_JUAREZ_1485]], [[FACT_HAMNETT_JUAREZ_1486]], [[FACT_HAMNETT_JUAREZ_3381]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.28.59.jpeg

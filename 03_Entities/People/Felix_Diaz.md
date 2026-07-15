@@ -3,7 +3,7 @@ id: "PERSON_FELIX_DIAZ"
 type: "person"
 status: "stub"
 created: "2026-07-06"
-updated: "2026-07-15"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -119,3 +119,12 @@ Hamnett pp.230-231 resolves the previous-page continuation by placing Félix Dí
 - Existing Fact Card: [[FACT_HAMNETT_JUAREZ_2820]]
 - Existing Timeline Entries: [[TIME_HAMNETT_JUAREZ_1048]], [[TIME_HAMNETT_JUAREZ_1050]]
 - Cautions: The Chronology locator does not resolve the killing sequence or justify treating juchitecos as a single criminal organization.
+
+## Hamnett 1994 p.270 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0138]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3376]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0992]]
+- Related People: [[Porfirio_Diaz|Porfirio Díaz]], [[Benito_Juarez|Benito Juárez]]
+- Related Themes: [[Oaxaca_Politics|Oaxaca politics]], [[Liberal_Factionalism|Liberal factionalism]]
+- Cautions: Confirm the sibling relationship and exact 1867-1871 gubernatorial term from independent records.

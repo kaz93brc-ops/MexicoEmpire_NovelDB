@@ -67,6 +67,10 @@ Vice-President Valentín Gómez Faríasの下で最初の自由主義改革実�
 - Kindle location: 
 - Screenshot file: スクリーンショット 2026-06-13 17.22.58.jpeg
 
+## Hamnett Dramatis Personae p.271 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] records only the beginning of the Gómez Farías entry in [[FACT_HAMNETT_JUAREZ_3385]]; the entry continues to p.272.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -90,7 +94,7 @@ Juárez期Reforma以前の改革系譜として使える。
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0161]], [[FACT_HAMNETT_JUAREZ_0162]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0161]], [[FACT_HAMNETT_JUAREZ_0162]], [[FACT_HAMNETT_JUAREZ_3385]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.22.58.jpeg

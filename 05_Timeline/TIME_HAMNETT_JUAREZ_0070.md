@@ -66,6 +66,10 @@ Santa AnnaはGómez Faríasの自由主義体制を終わらせた。
 - Kindle location: 
 - Screenshot file: スクリーンショット 2026-06-13 17.22.58.jpeg
 
+## Hamnett Dramatis Personae p.271 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] keeps Gómez Farías's full political and Church-state summary open until screenshot 139 resolves the p.272 continuation; see [[FACT_HAMNETT_JUAREZ_3385]].
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -89,7 +93,7 @@ Santa AnnaはGómez Faríasの自由主義体制を終わらせた。
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0163]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0163]], [[FACT_HAMNETT_JUAREZ_3385]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.22.58.jpeg

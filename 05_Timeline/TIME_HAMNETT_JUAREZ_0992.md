@@ -54,6 +54,10 @@ Oaxaca州知事選でFélix DíazがMiguel Castroを大差で破ったとされ�
 - Archive page: /page/222/mode/2up; Page 222 (237/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.38.jpeg
 
+## Hamnett Dramatis Personae p.270 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] identifies Félix Díaz as Porfirio Díaz's younger brother and 1867-1871 Oaxaca governor in [[FACT_HAMNETT_JUAREZ_3376]].
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -78,7 +82,7 @@ Oaxaca州知事選でFélix DíazがMiguel Castroを大差で破ったとされ�
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2695]], [[FACT_HAMNETT_JUAREZ_2694]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2695]], [[FACT_HAMNETT_JUAREZ_2694]], [[FACT_HAMNETT_JUAREZ_3376]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.30.38.jpeg

@@ -60,6 +60,10 @@ Degolladoが保守派ゲリラの待ち伏せで殺害された。
 - Archive page: /page/126/mode/2up; Page 126 (141/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.28.57.jpeg
 
+## Hamnett Dramatis Personae p.270 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] adds Degollado's Reform War role and truce-policy conflict in [[FACT_HAMNETT_JUAREZ_3374]]-[[FACT_HAMNETT_JUAREZ_3375]]; the exact removal and death sequence remains to be verified.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -80,7 +84,7 @@ Degolladoが保守派ゲリラの待ち伏せで殺害された。
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1452]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1452]], [[FACT_HAMNETT_JUAREZ_3374]], [[FACT_HAMNETT_JUAREZ_3375]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.28.57.jpeg

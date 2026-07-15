@@ -3,7 +3,7 @@ id: "PERSON_MANUEL_DOBLADO"
 type: "person"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-07-02"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -126,3 +126,12 @@ Hamnett p.161 reports Frías y Soto's later claim that Doblado and Romero prepar
 - Related People: [[Benito_Juarez]], [[Matias_Romero]], [[Hilarion_Frias_Y_Soto]]
 - Related Themes: [[Territorial_Cession_And_Transit_Rights]], [[US_Mexico_Relations]]
 - Cautions: Treat as Frías y Soto's retrospective defense until Doblado documentation is checked.
+
+## Hamnett 1994 p.271 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0138]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3379]], [[FACT_HAMNETT_JUAREZ_3380]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0281]], [[TIME_HAMNETT_JUAREZ_0538]], [[TIME_HAMNETT_JUAREZ_0668]]
+- Related People: [[Benito_Juarez|Benito Juárez]]
+- Related Events: [[Plan_of_Ayutla|Plan of Ayutla]], [[French_Intervention_in_Mexico|French Intervention]]
+- Cautions: Confirm cabinet portfolios, Jalisco command, early French-intervention diplomacy, and the 1864 escort connection.

@@ -65,6 +65,10 @@ Napoleon IIIがMaximilianへ再び書簡を書き、メキシコ情勢は良好�
 - Kindle location: No.1013/7062
 - Screenshot file: スクリーンショット 2026-05-31 13.06.03.png
 
+## Hamnett 1994 p.271 Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0138]] places Saligny inside Napoleon III's diplomatic prehistory of intervention in [[FACT_HAMNETT_JUAREZ_3383]]-[[FACT_HAMNETT_JUAREZ_3384]].
+
 ## Evidence Notes
 
 - Evidence category: primary_testimony
@@ -88,7 +92,7 @@ Napoleon IIIがMaximilianへ再び書簡を書き、メキシコ情勢は良好�
 ## Evidence / Source Links
 
 - Source: [[SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO|The Last Emperor of Mexico: A Disaster in the New World]]
-- Related Fact Cards: [[FACT_MEXEMP_0343]], [[FACT_MEXEMP_0344]], [[FACT_MEXEMP_0345]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3383]], [[FACT_HAMNETT_JUAREZ_3384]], [[FACT_MEXEMP_0343]], [[FACT_MEXEMP_0344]], [[FACT_MEXEMP_0345]]
 - Evidence category: primary_testimony
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-05-31 13.06.03.png

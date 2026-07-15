@@ -63,6 +63,10 @@ Doblado resigned, clearing the way for Sebastián Lerdo to enter a central cabin
 - Archive page: /page/132/mode/2up; Page 132 (147/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.29.03.jpeg
 
+## Hamnett Dramatis Personae p.271 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] summarizes Doblado's 1861-1863 ministry and moving-government roles in [[FACT_HAMNETT_JUAREZ_3379]]-[[FACT_HAMNETT_JUAREZ_3380]].
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -83,7 +87,7 @@ Doblado resigned, clearing the way for Sebastián Lerdo to enter a central cabin
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1571]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1571]], [[FACT_HAMNETT_JUAREZ_3379]], [[FACT_HAMNETT_JUAREZ_3380]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.29.03.jpeg

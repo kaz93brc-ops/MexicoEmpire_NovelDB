@@ -65,6 +65,10 @@ Preliminaries of La Soledadの報がNapoleon IIIへ届き、彼はLa Gravière�
 - Kindle location: No.1013/7062
 - Screenshot file: スクリーンショット 2026-05-31 13.06.03.png
 
+## Hamnett 1994 p.271 Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0138]] identifies Saligny as a diplomatic promoter of intervention in [[FACT_HAMNETT_JUAREZ_3383]]-[[FACT_HAMNETT_JUAREZ_3384]].
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -88,7 +92,7 @@ Preliminaries of La Soledadの報がNapoleon IIIへ届き、彼はLa Gravière�
 ## Evidence / Source Links
 
 - Source: [[SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO|The Last Emperor of Mexico: A Disaster in the New World]]
-- Related Fact Cards: [[FACT_MEXEMP_0339]], [[FACT_MEXEMP_0340]], [[FACT_MEXEMP_0341]], [[FACT_MEXEMP_0342]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3383]], [[FACT_HAMNETT_JUAREZ_3384]], [[FACT_MEXEMP_0339]], [[FACT_MEXEMP_0340]], [[FACT_MEXEMP_0341]], [[FACT_MEXEMP_0342]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-05-31 13.06.03.png

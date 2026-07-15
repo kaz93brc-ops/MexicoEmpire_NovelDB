@@ -3,7 +3,7 @@ id: PER-PORFIRIO-DIAZ
 type: person
 status: draft
 created: 2026-06-14
-updated: "2026-07-15"
+updated: "2026-07-16"
 tags:
   - person
   - porfirio-diaz
@@ -311,3 +311,12 @@ Hamnett p.234 interprets Juárez's death as removing the pretext for Díaz's reb
 - Existing Fact Card: [[FACT_HAMNETT_JUAREZ_2744]]
 - Existing Timeline: [[TIME_HAMNETT_JUAREZ_1016]]
 - Note: Chronology places Díaz's Plan of La Noria inside a Liberal-republican rupture over Juárez's re-election, not a Conservative restoration.
+
+## Hamnett 1994 pp.270-271 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0138]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3377]], [[FACT_HAMNETT_JUAREZ_3378]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0843]]
+- Related People: [[Benito_Juarez|Benito Juárez]], [[Felix_Diaz|Félix Díaz]]
+- Related Events: [[Reform_War|Reform War]], [[French_Intervention_in_Mexico|French Intervention]]
+- Cautions: Keep the successful Liberal commander, Juárez's 1867-1872 opponent, and Hamnett's radical-wing classification distinct.

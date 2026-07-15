@@ -3,7 +3,7 @@ id: "PERSON_VALENTIN_GOMEZ_FARIAS"
 type: "person"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-07-02"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -92,3 +92,12 @@ Hamnett p.119 introduces Benito Gómez Farías in Degollado's network; this crea
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_1367]]
 - Related People: [[Benito_Gomez_Farias]], [[Santos_Degollado]], [[Melchor_Ocampo]]
 - Cautions: Confirm Benito Gómez Farías's identity and relationship to Valentín Gómez Farías before treating the connection as genealogical fact.
+
+## Hamnett 1994 p.271 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0138]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3385]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0069]], [[TIME_HAMNETT_JUAREZ_0070]]
+- Related Events: [[Gomez_Farias_Liberal_Experiment|Gómez Farías Liberal experiment]], [[Gomez_Farias_Reforms|Gómez Farías reforms]]
+- Related Theme: [[Liberal_Anticlericalism|Liberal anticlericalism]]
+- Cautions: The p.271 entry is incomplete and continues to p.272; defer the full person-reference summary until screenshot 139 is checked.
