@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Source/Capture notes: 251
+- Source/Capture notes: 252
 
 ## Sources
 
@@ -148,6 +148,7 @@ tags:
 - [[CAP_HAMNETT_JUAREZ_0131]]
 - [[CAP_HAMNETT_JUAREZ_0132]]
 - [[CAP_HAMNETT_JUAREZ_0133]]
+- [[CAP_HAMNETT_JUAREZ_0134]]
 - [[CAP_MEXEMP_0001_Prologue_Queretaro_Prisoners|CAP_MEXEMP_0001 - Prologue: Querétaro prisoners]]
 - [[CAP_MEXEMP_0002_Chapter2_Archduke_and_Princess_01|CAP_MEXEMP_0002 - Chapter 2: The Archduke and the Princess, screenshot 01]]
 - [[CAP_MEXEMP_0003_Chapter2_Archduke_and_Princess_02|CAP_MEXEMP_0003 - Chapter 2: The Archduke and the Princess, screenshot 02]]

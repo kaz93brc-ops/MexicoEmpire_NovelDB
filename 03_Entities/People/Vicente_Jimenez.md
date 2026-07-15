@@ -3,7 +3,7 @@ id: "PERSON_VICENTE_JIMENEZ"
 type: "person"
 status: "stub"
 created: "2026-07-06"
-updated: "2026-07-09"
+updated: "2026-07-15"
 tags:
   - "person"
   - "hamnett"
@@ -71,3 +71,13 @@ Hamnett p.214 resolves the p.213 continuation by stating that Jiménez organized
 - Related Places: [[Guerrero]], [[Oaxaca]], [[Putla]]
 - Related Event: [[La_Noria_Rebellion|La Noria rebellion]]
 - Cautions: Confirm note 16 and the exact geography of the coastal Oaxaca and Putla movement.
+
+## Hamnett 1994 pp.262–263 Glossary Note
+
+Hamnett defines jimenistas as Vicente Jiménez supporters in Guerrero who opposed Juárez after 1867 and connected with Porfirio Díaz and the Álvarez current.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0134]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3302]]
+- Related People: [[Benito_Juarez|Benito Juárez]], [[Porfirio_Diaz|Porfirio Díaz]], [[Juan_Alvarez|Juan Álvarez]], [[Diego_Alvarez|Diego Álvarez]]
+- Related Themes: [[Liberal_Factionalism|Liberal factionalism]], [[Alvarez_Jimenez_Alliance_And_Rupture|Álvarez-Jiménez alliance and rupture]]
+- Cautions: Verify the post-1867 sequence and the exact meaning of the claimed Álvarez connection.

@@ -3,7 +3,7 @@ id: "THEME_JEFE_POLITICO"
 type: "theme"
 status: "stub"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-07-15"
 tags:
   - "theme"
   - "hamnett"
@@ -41,3 +41,12 @@ Use this institution to show how liberal electoral ideals passed through local a
 - Events: [[Constitution_Of_1857]]
 - Organizations: [[State_Governments]], [[Regular_Army]]
 - Themes: [[Universal_Manhood_Suffrage]], [[Indirect_Election]], [[Electoral_College]], [[State_Level_Politics]], [[Tierras_Baldias]], [[Caciquismo_And_Regional_Power]], [[Liberal_Legality_Problem]]
+
+## Hamnett 1994 pp.262–263 Glossary Note
+
+The Glossary reinforces the jefe político as a governor-appointed local official who supervised municipalities and electoral processes under the 1857 constitutional order.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0134]]
+- Existing Fact Cards Reused: [[FACT_HAMNETT_JUAREZ_0842]], [[FACT_HAMNETT_JUAREZ_0850]]
+- Related Event: [[Constitution_Of_1857|Constitution of 1857]]
+- Cautions: Verify the institution's Cádiz constitutional ancestry, legal basis, and regional variation.

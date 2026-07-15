@@ -86,3 +86,13 @@ Hamnett p.167 uses Ocampo's October 1859 warning to separate disamortization and
 - Related People: [[Melchor_Ocampo]], [[Benito_Juarez]], [[Miguel_Lerdo_De_Tejada]]
 - Related Themes: [[Church_Property]], [[Nationalization_Of_Ecclesiastical_Property]], [[War_Finance]], [[Public_Debt]]
 - Cautions: Keep legal disamortization, nationalization, and fiscal expectations distinct.
+
+## Hamnett 1994 pp.262–263 Glossary Note
+
+The Glossary summarizes disamortization as the Liberal transfer of corporate property, including Church and indigenous-community holdings, toward market and individual ownership.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0134]]
+- Existing Fact Card Reused: [[FACT_HAMNETT_JUAREZ_0772]]
+- Related Event: [[Lerdo_Law_1856_06_25|Lerdo Law]]
+- Related Themes: [[Church_Property|church property]], [[Indigenous_Communal_Land|indigenous communal land]], [[Corporate_Property_Vs_Individual_Property|corporate versus individual property]]
+- Cautions: Cross-check the relation among the Lerdo Law, bienes nacionales, and communal land; do not merge disamortization with later nationalization.

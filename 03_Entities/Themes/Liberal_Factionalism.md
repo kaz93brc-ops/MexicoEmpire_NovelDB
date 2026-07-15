@@ -176,3 +176,12 @@ Hamnett concludes that Conservative defeat and official Liberal ideology did not
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3270]], [[FACT_HAMNETT_JUAREZ_3278]]
 - Note: The Chronology closes with the Juárez-Díaz rupture, while the Glossary identifies borlados as a period-specific moderate Liberal label.
 - Cautions: Do not turn borlados into a fixed nationwide organization or reduce La Noria to a two-person rivalry.
+
+## Hamnett 1994 pp.262–263 Glossary Cross-Reference
+
+The Glossary separates moderate and radical labels from leader- and region-centered groups: escoceses, exaltados, Jacobins, jimenistas, and juaristas. This vocabulary keeps post-imperial Liberal politics from collapsing into a single republican bloc.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0134]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3295]], [[FACT_HAMNETT_JUAREZ_3302]], [[FACT_HAMNETT_JUAREZ_3303]], [[FACT_HAMNETT_JUAREZ_0759]], [[FACT_HAMNETT_JUAREZ_1033]]
+- Related People: [[Benito_Juarez|Benito Juárez]], [[Porfirio_Diaz|Porfirio Díaz]], [[Vicente_Jimenez|Vicente Jiménez]]
+- Cautions: Keep these as context-dependent political labels, not stable modern parties.

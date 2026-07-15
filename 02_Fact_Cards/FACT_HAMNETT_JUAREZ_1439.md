@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1439"
 type: "fact_card"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter6;us-recognition"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "米国承認と自由党の政治的凝集を結びつけるHamn
 creative_use: "外部承認が内部統合と軍事勝利を支える構図として使える。"
 cautions: "golpista regimeの具体対象と外交承認の因果関係は注12で確認する。"
 related_capture: "CAP_HAMNETT_JUAREZ_0065"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0134"]
+additional_locators: ["Glossary, pp.262–263, /page/262/mode/2up, Page 262 (277/323), スクリーンショット 2026-06-13 17.31.18.jpeg"]
 people:
   - "Benito_Juarez"
 events:

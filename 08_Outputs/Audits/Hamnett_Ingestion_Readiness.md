@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2909
+- hamnett_fact_cards: 2917
 - hamnett_timeline_entries: 928
-- next_required_page: printed pages 262-263 / continue GLOSSARY after p.261 and verify the next terminology range; Chronology is complete; local pp.146-147 gap remains unless handled elsewhere
+- next_required_page: screenshot 135 / confirm GLOSSARY continuation after p.263, identify the next term range, and locate the porfirismo entry; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -95,6 +95,7 @@ tags:
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ: 8
 - Chapter 6 / JUÁREZ AND CONGRESS closing: 8
 - MARSHAL BAZAINE AND THE FRENCH RESPONSE continuation: 8
+- Glossary: 8
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / NOTES AND REFERENCES: 7
 - Chapter 6 / JUÁREZ AND THE STATE GOVERNORS: 6
 - Chapter 1: 5

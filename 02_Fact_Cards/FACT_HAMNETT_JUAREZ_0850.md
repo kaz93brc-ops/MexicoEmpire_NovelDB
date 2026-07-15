@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0850"
 type: "fact_card"
 status: "draft"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter4;elections;jefe-politico"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "jefe político は制度語として原語を保持する。"
 creative_use: "投票理念と地方行政権力の現実を同じ場面で描ける。"
 cautions: "すべての選挙が一律に操作されたとは断定しない。"
 related_capture: "CAP_HAMNETT_JUAREZ_0040"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0134"]
+additional_locators: ["Glossary, pp.262–263, /page/262/mode/2up, Page 262 (277/323), スクリーンショット 2026-06-13 17.31.18.jpeg"]
 people: []
 events:
   - "Constitution_Of_1857"

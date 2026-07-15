@@ -14,8 +14,8 @@ tags:
 
 - generated_stubs: 2234
 - backlink_10_plus: 372
-- backlink_5_9: 316
-- backlink_2_4: 630
+- backlink_5_9: 317
+- backlink_2_4: 629
 - backlink_1_low_priority: 916
 - backlink_0: 0
 
@@ -24,7 +24,7 @@ tags:
 - [[Oaxaca_State_Government|Oaxaca state government]] - backlinks: 422; quality_sections: yes
 - [[Federal_Government|federal government]] - backlinks: 332; quality_sections: yes
 - [[Constitutional_Legitimacy|constitutional legitimacy]] - backlinks: 311; quality_sections: yes
-- [[State_Governments|state governments]] - backlinks: 256; quality_sections: yes
+- [[State_Governments|state governments]] - backlinks: 257; quality_sections: yes
 - [[United_States_Government|United States government]] - backlinks: 235; quality_sections: yes
 - [[Oaxaca_Politics|Oaxaca politics]] - backlinks: 223; quality_sections: yes
 - [[Sebastian_Lerdo_De_Tejada|Sebastián Lerdo de Tejada]] - backlinks: 211; quality_sections: yes
@@ -37,14 +37,14 @@ tags:
 - [[Public_Debt|Public Debt]] - backlinks: 119; quality_sections: yes
 - [[Liberal_Party|Liberal Party]] - backlinks: 117; quality_sections: yes
 - [[Imperial_Government|imperial government]] - backlinks: 114; quality_sections: yes
-- [[Juarez_Later_Presidency|Juárez later presidency]] - backlinks: 112; quality_sections: yes
+- [[Juarez_Later_Presidency|Juárez later presidency]] - backlinks: 114; quality_sections: yes
 - [[Mexican_Army|Mexican army]] - backlinks: 110; quality_sections: yes
 - [[Provincial_Politics|Provincial politics]] - backlinks: 110; quality_sections: yes
 - [[Treason_And_Political_Legitimacy|treason and political legitimacy]] - backlinks: 106; quality_sections: yes
 - [[European_Intervention|European intervention]] - backlinks: 105; quality_sections: yes
-- [[Guerrero]] - backlinks: 100; quality_sections: yes
+- [[Guerrero]] - backlinks: 102; quality_sections: yes
+- [[Restored_Republic|Restored Republic]] - backlinks: 90; quality_sections: yes
 - [[Michoacan|Michoacán]] - backlinks: 89; quality_sections: yes
-- [[Restored_Republic|Restored Republic]] - backlinks: 88; quality_sections: yes
 - [[Washington]] - backlinks: 87; quality_sections: yes
 - [[Execution_Of_Maximilian_Miramon_And_Mejia|Execution of Maximilian, Miramón and Mejía]] - backlinks: 86; quality_sections: yes
 - [[Confederate_States|Confederate States]] - backlinks: 81; quality_sections: yes
@@ -89,10 +89,10 @@ tags:
 - [[Catholic_Church_In_Mexico|Catholic Church in Mexico]] - backlinks: 44; quality_sections: yes
 - [[Jose_Joaquin_de_Herrera|José Joaquín de Herrera]] - backlinks: 44; quality_sections: yes
 - [[Liberal_Cooptation_Under_Maximilian|Liberal cooptation under Maximilian]] - backlinks: 43; quality_sections: yes
+- [[Rural_Communities_And_Land_Claims|Rural Communities And Land Claims]] - backlinks: 43; quality_sections: yes
 - [[French_Forces|French forces]] - backlinks: 42; quality_sections: yes
 - [[State_Violence|state violence]] - backlinks: 42; quality_sections: yes
 - [[European_Diplomacy|European diplomacy]] - backlinks: 41; quality_sections: yes
-- [[Rural_Communities_And_Land_Claims|Rural Communities And Land Claims]] - backlinks: 41; quality_sections: yes
 - [[US_Mexico_Border|US-Mexico border]] - backlinks: 41; quality_sections: yes
 - [[Liberal_Opposition|Liberal opposition]] - backlinks: 40; quality_sections: yes
 - [[Mexican_American_War|Mexican-American War]] - backlinks: 40; quality_sections: yes

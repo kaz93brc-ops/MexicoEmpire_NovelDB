@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-現在はユーザー指定の133枚目として `CAP_HAMNETT_JUAREZ_0133` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は Chronology conclusion / GLOSSARY opening / printed pages 260-261 / archive `/page/260/mode/2up`。Juárez再選危機、La Noria反乱、非常権限、憲法改革、Juárez死去、Lerdo継承までを接続し、p.260でChronology完結、p.261からGlossary開始を確認した。次回pp.262-263でGlossaryの続きと用語範囲を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
+現在はユーザー指定の134枚目として `CAP_HAMNETT_JUAREZ_0134` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は GLOSSARY / printed pages 262-263 / archive `/page/262/mode/2up`。caciquismo、caudillo、convocatoria、fueros、hacienda、jimenistas、juaristas等を概念要約・既存Entity接続・Fact Cardへ振り分けた。次回135枚目でGlossaryの継続と後続用語範囲、とくにporfirismo項目の位置を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-15に134枚目Captureとして [[CAP_HAMNETT_JUAREZ_0134|CAP_HAMNETT_JUAREZ_0134]] を作成。Readinessとユーザー指定はいずれもpp.262-263を指した。新規Factは[[FACT_HAMNETT_JUAREZ_3290|3290]]-[[FACT_HAMNETT_JUAREZ_3292|3292]]、[[FACT_HAMNETT_JUAREZ_3295|3295]]、[[FACT_HAMNETT_JUAREZ_3297|3297]]、[[FACT_HAMNETT_JUAREZ_3299|3299]]、[[FACT_HAMNETT_JUAREZ_3302|3302]]-[[FACT_HAMNETT_JUAREZ_3303|3303]]。予定3293、3294、3296、3298、3300、3301は既存Cortes、disamortization、exaltados、golpista、Jacobins、jefe políticoカードへGlossary locatorを追加したため未作成。Glossary由来の補助年代は既存Chronology / Timelineと重複するため新規Timelineなし。既存Vicente Jiménez、Juaristas、Caciquismo、Caudillismo、Disentailment、Fueros、Jefe Político、Liberal Factionalism、Landownershipへ接続し、新規stubとRelationshipカードは作成していない。p.263末尾のjuaristasはページ内で完結しているように見えるが、135枚目でGlossary継続とporfirismo項目の位置を確認する。Glossary定義全文、用語全列挙、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。
 
 2026-07-15に133枚目Captureとして [[CAP_HAMNETT_JUAREZ_0133|CAP_HAMNETT_JUAREZ_0133]] を作成。Readinessとユーザー指定はいずれもpp.260-261を指した。新規Factは[[FACT_HAMNETT_JUAREZ_3270|3270]]、[[FACT_HAMNETT_JUAREZ_3277|3277]]-[[FACT_HAMNETT_JUAREZ_3281|3281]]。予定Fact3271-3276と3282、予定Timeline1300-1308は既存の選挙、La Noria、非常権限、Félix Díaz、Rocha、憲法改革、Juárez死去・Lerdo継承、audienciaカードへlocatorまたは表記差異を追記したため未作成。p.260のJuárez死亡日9 July表記はp.234・既存Timelineの18 Julyと衝突するため、訂正せず`variant_disputed / uncertain / verification_needed`として保持した。p.260でChronologyが完結し、p.261からGlossaryが開始して次ページへ続く。borlados、cacicazgo / cacique、bienes nacionales、Bases Orgánicasは定義全文ではなく短い概念要約と既存Theme / Event接続に限定した。新規stubとRelationshipカードはなし。Lucas、Mier y Terán、Alatorre、Xindihui、juchitecosは候補・Open Questionsに留めた。Chronology・Glossary全項目、日付全列挙、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。次回はpp.262-263でGlossary続行を確認する。
 

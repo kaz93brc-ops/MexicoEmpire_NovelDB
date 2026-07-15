@@ -54,3 +54,12 @@ Glossary p.261 ties cacicazgo / cacique to landownership, patronage, armed follo
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_3279]]
 - Related Themes: [[Landownership]], [[Patron_Client_Networks|patron-client networks]], [[Armed_Politics|armed politics]], [[Regional_Elites|regional elites]]
 - Cautions: Treat the definition as Hamnett's organizing concept, not a mechanical label for every regional leader.
+
+## Hamnett 1994 pp.262–263 Glossary Note
+
+Hamnett continues the p.261 cacique / cacicazgo cluster by defining caciquismo as a private power network centered on a cacique.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0134]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3290]]
+- Related Themes: [[Clientelism]], [[Patron_Client_Networks|patron-client networks]], [[Regional_Elites|regional elites]]
+- Cautions: Treat this as an author-supplied analytical category, not a universal label for local politics.
