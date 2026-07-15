@@ -3,7 +3,7 @@ id: "THEME_CHURCH_PROPERTY"
 type: "theme"
 status: "stub"
 created: "2026-06-24"
-updated: "2026-06-24"
+updated: "2026-07-15"
 tags:
   - "theme"
   - "hamnett"
@@ -32,3 +32,10 @@ Use this theme to frame Church conflict as institutional property, corporate rig
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0725]]
 - Organizations: [[Catholic_Church]]
 - Themes: [[Church_State_Relations_Mexico]], [[Liberal_Reform_And_Catholic_Church]]
+
+## Hamnett 1994 p.261 Glossary Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3280]]
+- Related Event: [[Veracruz_Reform_Laws_1859_07_12|Veracruz Reform Laws, 12 July 1859]]
+- Note: Glossary defines bienes nacionales as Church property nationalized under the 1859 Reform Laws; exact legal categories and sale history require verification.

@@ -3,7 +3,7 @@ id: "THEME_LIBERAL_FACTIONALISM"
 type: "theme"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-07-06"
+updated: "2026-07-15"
 tags:
   - "theme"
   - "hamnett"
@@ -169,3 +169,10 @@ Hamnett concludes that Conservative defeat and official Liberal ideology did not
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3007]], [[FACT_HAMNETT_JUAREZ_3008]], [[FACT_HAMNETT_JUAREZ_3009]], [[FACT_HAMNETT_JUAREZ_3010]], [[FACT_HAMNETT_JUAREZ_3011]], [[FACT_HAMNETT_JUAREZ_3012]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1121]], [[TIME_HAMNETT_JUAREZ_1122]]
 - Cautions: Do not replace a Liberal/Conservative binary with a Juárez/Díaz binary; both operated inside a divided Liberal field.
+
+## Hamnett 1994 pp.260–261 Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3270]], [[FACT_HAMNETT_JUAREZ_3278]]
+- Note: The Chronology closes with the Juárez-Díaz rupture, while the Glossary identifies borlados as a period-specific moderate Liberal label.
+- Cautions: Do not turn borlados into a fixed nationwide organization or reduce La Noria to a two-person rivalry.

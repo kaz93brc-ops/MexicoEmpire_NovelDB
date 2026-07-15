@@ -3,7 +3,7 @@ id: PER-PORFIRIO-DIAZ
 type: person
 status: draft
 created: 2026-06-14
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags:
   - person
   - porfirio-diaz
@@ -303,3 +303,11 @@ Hamnett p.234 interprets Juárez's death as removing the pretext for Díaz's reb
 - Existing Timeline: [[TIME_HAMNETT_JUAREZ_0843]]
 - Hamnett presents Díaz as Juárez's most dangerous late rival, whose constitutional-defence language accompanied armed rebellion and whose judgment underestimated Juárez's political mastery.
 - Cautions: Treat the violent-pretext and underestimation language as author interpretation, not neutral chronology.
+
+## Hamnett 1994 p.260 Chronology Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Related Interpretation: [[FACT_HAMNETT_JUAREZ_3270]]
+- Existing Fact Card: [[FACT_HAMNETT_JUAREZ_2744]]
+- Existing Timeline: [[TIME_HAMNETT_JUAREZ_1016]]
+- Note: Chronology places Díaz's Plan of La Noria inside a Liberal-republican rupture over Juárez's re-election, not a Conservative restoration.

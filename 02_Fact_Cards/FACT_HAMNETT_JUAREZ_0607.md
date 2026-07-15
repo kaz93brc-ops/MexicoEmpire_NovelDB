@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0607"
 type: "fact_card"
 status: "draft"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter3;oaxaca"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "borlados / rojos の語義と構成員は注で確認する。"
 creative_use: "同じ自由主義陣営内の階層・気質・利害差を示せる。"
 cautions: "ラベルを道徳的善悪に変換しない。"
 related_capture: "CAP_HAMNETT_JUAREZ_0030"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["GLOSSARY, p.261, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: []
 events:
   - "Oaxaca_Liberal_Factional_Politics_1856_1863"
@@ -73,4 +75,3 @@ Oaxacaの地方自由主義勢力は、穏健派と急進派、短い原文メ�
 - Themes: [[Liberal_Factionalism]], [[Moderate_Vs_Progressive_Liberalism]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0030]]
 - Related Timeline Entries: none
-

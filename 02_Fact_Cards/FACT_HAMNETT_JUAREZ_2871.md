@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2871"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "同日付の憲法改革再提起とは別カードで、非常�
 creative_use: "改革演説と同時に非常権限を求める緊張した議会場面に使える。"
 cautions: "Verify note 19 and whether this belongs to the same message context as the reform revival."
 related_capture: "CAP_HAMNETT_JUAREZ_0119"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Benito_Juarez"]
 events: ["La_Noria_Rebellion"]
 places: []

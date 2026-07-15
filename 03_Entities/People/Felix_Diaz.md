@@ -3,7 +3,7 @@ id: "PERSON_FELIX_DIAZ"
 type: "person"
 status: "stub"
 created: "2026-07-06"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags:
   - "person"
   - "hamnett"
@@ -112,3 +112,10 @@ Hamnett pp.230-231 resolves the previous-page continuation by placing Félix Dí
 - Related Organizations: [[Juchitan_Communities|Juchitán communities]]
 - Related Themes: [[State_Violence|state violence]], [[Oaxaca_Politics|Oaxaca politics]], [[Catholic_Symbolism|Catholic symbolism]]
 - Cautions: Killing date, exact agency, body violence, and St Vincent compensation request require notes 13 and 15; keep juchitecos from being flattened into a criminalized group image.
+
+## Hamnett 1994 p.260 Chronology Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Existing Fact Card: [[FACT_HAMNETT_JUAREZ_2820]]
+- Existing Timeline Entries: [[TIME_HAMNETT_JUAREZ_1048]], [[TIME_HAMNETT_JUAREZ_1050]]
+- Cautions: The Chronology locator does not resolve the killing sequence or justify treating juchitecos as a single criminal organization.

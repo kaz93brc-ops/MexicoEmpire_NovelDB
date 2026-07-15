@@ -72,3 +72,11 @@ Chronology p.259 places the 1867-12-18 authorization to suspend constitutional g
 - Existing Fact Card: [[FACT_HAMNETT_JUAREZ_2598]]
 - Existing Timeline Entry: [[TIME_HAMNETT_JUAREZ_0923]]
 - Cautions: Confirm the formal act, geographical scope, and affected guarantees before using it as a settled legal claim.
+
+## Hamnett 1994 p.260 Chronology Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Related Interpretation: [[FACT_HAMNETT_JUAREZ_3270]]
+- Existing Fact Card: [[FACT_HAMNETT_JUAREZ_2810]]
+- Existing Timeline Entry: [[TIME_HAMNETT_JUAREZ_1045]]
+- Cautions: Keep the suspension measure distinct from the beginning of Juárez's new term until the formal act and timing are verified.

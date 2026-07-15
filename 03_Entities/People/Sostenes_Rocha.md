@@ -3,7 +3,7 @@ id: "PERSON_SOSTENES_ROCHA"
 type: "person"
 status: "stub"
 created: "2026-07-06"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags:
   - "person"
   - "hamnett"
@@ -61,3 +61,10 @@ Hamnett pp.230-231 presents Rocha as taking Aguascalientes on 29 February 1872, 
 - Related Events: [[La_Noria_Rebellion|La Noria rebellion]]
 - Related Themes: [[Mexican_Military_Factions|Mexican military factions]], [[Military_Rebellion_And_Civilian_Legitimacy|military rebellion and civilian legitimacy]]
 - Cautions: Confirm the Aguascalientes operation, Zacatecas date, and Monterrey sequence through note 16.
+
+## Hamnett 1994 p.260 Chronology Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_2772]], [[FACT_HAMNETT_JUAREZ_2841]], [[FACT_HAMNETT_JUAREZ_2842]], [[FACT_HAMNETT_JUAREZ_2846]]
+- Existing Timeline Entries: [[TIME_HAMNETT_JUAREZ_1033]], [[TIME_HAMNETT_JUAREZ_1055]], [[TIME_HAMNETT_JUAREZ_1056]], [[TIME_HAMNETT_JUAREZ_1059]]
+- Note: Chronology condenses Rocha's role as a loyalist commander across Tampico, Aguascalientes, Zacatecas, and Monterrey.

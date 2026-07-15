@@ -118,3 +118,11 @@ Chronology p.259 places the return and renewal of extraordinary powers inside th
 - Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_2486]], [[FACT_HAMNETT_JUAREZ_2609]]
 - Existing Timeline Entries: [[TIME_HAMNETT_JUAREZ_0888]], [[TIME_HAMNETT_JUAREZ_0929]]
 - Cautions: Verify each legal act separately and avoid treating emergency power as either automatic dictatorship or unproblematic legality.
+
+## Hamnett 1994 p.260 Chronology Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Related Interpretation: [[FACT_HAMNETT_JUAREZ_3270]]
+- Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_2807]], [[FACT_HAMNETT_JUAREZ_2871]], [[FACT_HAMNETT_JUAREZ_2876]]
+- Existing Timeline Entries: [[TIME_HAMNETT_JUAREZ_1044]], [[TIME_HAMNETT_JUAREZ_1061]], [[TIME_HAMNETT_JUAREZ_1062]]
+- Cautions: Chronology placement does not settle the legal basis, duration, or substantive scope of each grant.

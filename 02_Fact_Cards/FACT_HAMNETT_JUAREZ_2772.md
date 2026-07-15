@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2772"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "Rochaは既存のSóstenes Rochaへ接続するが、詳細な�
 creative_use: "政府側が反乱の芽を先に潰す軍事場面に使える。"
 cautions: "具体日、Rochaの役職、事件名は確認が必要。"
 related_capture: "CAP_HAMNETT_JUAREZ_0116"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Sostenes_Rocha"]
 events: ["La_Noria_Rebellion"]
 places: ["Tampico"]

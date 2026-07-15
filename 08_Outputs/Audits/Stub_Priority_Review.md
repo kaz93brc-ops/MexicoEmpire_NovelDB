@@ -27,7 +27,7 @@ tags:
 - [[State_Governments|state governments]] - backlinks: 256; quality_sections: yes
 - [[United_States_Government|United States government]] - backlinks: 235; quality_sections: yes
 - [[Oaxaca_Politics|Oaxaca politics]] - backlinks: 223; quality_sections: yes
-- [[Sebastian_Lerdo_De_Tejada|Sebastián Lerdo de Tejada]] - backlinks: 208; quality_sections: yes
+- [[Sebastian_Lerdo_De_Tejada|Sebastián Lerdo de Tejada]] - backlinks: 211; quality_sections: yes
 - [[Jesus_Gonzalez_Ortega|Jesús González Ortega]] - backlinks: 194; quality_sections: yes
 - [[Isthmus_Of_Tehuantepec|Isthmus of Tehuantepec]] - backlinks: 178; quality_sections: yes
 - [[Historiography_Of_Juarez|Historiography of Juárez]] - backlinks: 173; quality_sections: yes
@@ -35,7 +35,7 @@ tags:
 - [[San_Luis_Potosi|San Luis Potosí]] - backlinks: 162; quality_sections: yes
 - [[War_Finance|war finance]] - backlinks: 158; quality_sections: yes
 - [[Public_Debt|Public Debt]] - backlinks: 119; quality_sections: yes
-- [[Liberal_Party|Liberal Party]] - backlinks: 116; quality_sections: yes
+- [[Liberal_Party|Liberal Party]] - backlinks: 117; quality_sections: yes
 - [[Imperial_Government|imperial government]] - backlinks: 114; quality_sections: yes
 - [[Juarez_Later_Presidency|Juárez later presidency]] - backlinks: 112; quality_sections: yes
 - [[Mexican_Army|Mexican army]] - backlinks: 110; quality_sections: yes
@@ -44,9 +44,9 @@ tags:
 - [[European_Intervention|European intervention]] - backlinks: 105; quality_sections: yes
 - [[Guerrero]] - backlinks: 100; quality_sections: yes
 - [[Michoacan|Michoacán]] - backlinks: 89; quality_sections: yes
+- [[Restored_Republic|Restored Republic]] - backlinks: 88; quality_sections: yes
 - [[Washington]] - backlinks: 87; quality_sections: yes
 - [[Execution_Of_Maximilian_Miramon_And_Mejia|Execution of Maximilian, Miramón and Mejía]] - backlinks: 86; quality_sections: yes
-- [[Restored_Republic|Restored Republic]] - backlinks: 85; quality_sections: yes
 - [[Confederate_States|Confederate States]] - backlinks: 81; quality_sections: yes
 - [[Margarita_Eustacia_Maza|Margarita Eustacia Maza]] - backlinks: 81; quality_sections: yes
 - [[Nuevo_Leon|Nuevo León]] - backlinks: 81; quality_sections: yes
@@ -59,7 +59,7 @@ tags:
 - [[Agrarian_Question|Agrarian Question]] - backlinks: 70; quality_sections: yes
 - [[Republican_Legitimacy|republican legitimacy]] - backlinks: 70; quality_sections: yes
 - [[European_Powers|European powers]] - backlinks: 69; quality_sections: yes
-- [[Monterrey]] - backlinks: 67; quality_sections: yes
+- [[Monterrey]] - backlinks: 68; quality_sections: yes
 - [[Gonzalez_Ortega_Presidential_Claim|González Ortega presidential claim]] - backlinks: 66; quality_sections: yes
 - [[Ramon_Corona|Ramón Corona]] - backlinks: 66; quality_sections: yes
 - [[Liberal_Army|Liberal army]] - backlinks: 65; quality_sections: yes

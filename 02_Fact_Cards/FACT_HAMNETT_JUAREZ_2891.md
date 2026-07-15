@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2891"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,9 @@ japanese_note: "Juárez死去の主要年表点として扱う。"
 creative_use: "1872年7月18日夜の継承発動場面の核にできる。"
 cautions: "Confirm diagnosis, time, and source trail before exact medical narration."
 related_capture: "CAP_HAMNETT_JUAREZ_0120"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg; the Chronology prints 9 July, conflicting with this p.234-based 18 July claim"]
+related_variant_fact: "FACT_HAMNETT_JUAREZ_3277"
 people: ["Benito_Juarez"]
 events: ["Death_Of_Juarez_July_1872"]
 places: []

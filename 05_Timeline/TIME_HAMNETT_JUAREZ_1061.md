@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_1061"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "JuárezがLa Noria期のextraordinary faculties延長をCongressに求める。"
 creative_use: "改革提案と非常権限要求が同じ政治局面に並ぶ緊張として使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0119"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Benito_Juarez"]
 events: ["La_Noria_Rebellion"]
 places: []

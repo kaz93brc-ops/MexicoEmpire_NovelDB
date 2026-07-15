@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0097"
 type: "fact_card"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;audiencias"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "Mexico City一極だけでなくGuadalajaraも統治構造上重
 creative_use: "地域権力と中央権力の制度的背景を描ける。"
 cautions: "audienciasの管轄・制度史は別途確認が必要。"
 related_capture: "CAP_HAMNETT_JUAREZ_0007"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["GLOSSARY, p.261, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: []
 events: 
   - "Spanish colonial era"

@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_1014"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "1871年大統領選でJuárez、Porfirio Díaz、Lerdoが競合し、Oaxacaの全16選挙区はPorfirio Díazに投票したとされる。"
 creative_use: "Juárez再選争いがOaxacaの離反と全国政治の分裂を同時に示す場面に使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0115"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Benito_Juarez", "Porfirio_Diaz", "Sebastian_Lerdo_De_Tejada", "Felix_Diaz"]
 events: []
 places: ["Oaxaca", "Mexico"]

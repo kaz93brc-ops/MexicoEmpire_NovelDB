@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2892"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,9 @@ japanese_note: "継承手続きに関わる通知情報として、一次証言�
 creative_use: "Juárez死去からLerdo継承へ移る場面に使える。"
 cautions: "The Mejia identity in the notification sequence remains to be checked."
 related_capture: "CAP_HAMNETT_JUAREZ_0120"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg; accession is printed as 18 July"]
+related_variant_fact: "FACT_HAMNETT_JUAREZ_3277"
 people: ["Benito_Juarez", "Sebastian_Lerdo_De_Tejada"]
 events: ["Death_Of_Juarez_July_1872", "Lerdo_Succession_1872"]
 places: []

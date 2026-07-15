@@ -3,7 +3,7 @@ id: PER-BENITO-JUAREZ
 type: person
 status: draft
 created: 2026-05-31
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags:
   - person
   - juarez
@@ -1138,3 +1138,12 @@ Hamnett's Chronology links Juárez's constitutional succession, Veracruz governm
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3180]], [[FACT_HAMNETT_JUAREZ_3189]], [[FACT_HAMNETT_JUAREZ_0905]], [[FACT_HAMNETT_JUAREZ_1429]], [[FACT_HAMNETT_JUAREZ_1446]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0035]], [[TIME_HAMNETT_JUAREZ_0369]], [[TIME_HAMNETT_JUAREZ_0478]], [[TIME_HAMNETT_JUAREZ_0493]], [[TIME_HAMNETT_JUAREZ_0504]], [[TIME_HAMNETT_JUAREZ_0494]], [[TIME_HAMNETT_JUAREZ_0498]]
 - Cautions: Constitutional legitimacy, foreign recognition, emergency powers, and military victory remain distinct bases of authority.
+
+## Hamnett 1994 p.260 Chronology Closing Note
+
+Chronology p.260 closes Juárez's presidency through the re-election crisis, La Noria, extraordinary powers, reform revival, and succession. Its printed 9 July death date conflicts with Hamnett p.234 and the existing 18 July Timeline and is retained only as a disputed variant.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3270]], [[FACT_HAMNETT_JUAREZ_3277]]
+- Existing Timeline: [[TIME_HAMNETT_JUAREZ_1075]]
+- Cautions: Do not silently correct or adopt the Chronology date; verify it against the scanned page, p.234, and external chronology.

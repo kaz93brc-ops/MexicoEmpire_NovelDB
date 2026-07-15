@@ -3,7 +3,7 @@ id: "ORG_AUDIENCIAS_NEW_SPAIN"
 type: "organization"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-15"
 tags:
   - "organization"
   - "audiencias"
@@ -37,3 +37,8 @@ organization_kind: "colonial administrative and judicial institution"
 
 個別audienciaの管轄と制度変遷は要確認。
 
+## Hamnett 1994 p.261 Glossary Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Existing Fact Card: [[FACT_HAMNETT_JUAREZ_0097]]
+- Note: The Glossary locator reinforces audiencia as a senior colonial judicial-administrative institution; no separate definition card was created.

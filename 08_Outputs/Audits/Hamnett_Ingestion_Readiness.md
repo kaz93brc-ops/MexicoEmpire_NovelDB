@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2903
+- hamnett_fact_cards: 2909
 - hamnett_timeline_entries: 928
-- next_required_page: printed pages 260-261 / continue Chronology after 1871-01-02 through re-election, La Noria, Juárez's death, Lerdo, and Díaz's rise; local pp.146-147 gap remains unless handled elsewhere
+- next_required_page: printed pages 262-263 / continue GLOSSARY after p.261 and verify the next terminology range; Chronology is complete; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -88,8 +88,8 @@ tags:
 - THE DÍAZ BROTHERS AND THE REBELLION OF LA NORIA: 15
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / NOTES AND REFERENCES: 14
 - "THE CONVOCATORIA OF AUGUST 1867 AND THE CONTROVERSY OVER CONSTITUTIONAL REFORM": 14
+- Chronology: 13
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR continuation: 12
-- Chronology: 11
 - Chapter 1 / The Aims of Mexican Liberalism: 10
 - THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72): 10
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ: 8
@@ -107,6 +107,7 @@ tags:
 - TERRITORIAL CESSION AND TRANSIT RIGHTS: 4
 - Chapter opening: 4
 - "THE GROWTH OF OPPOSITION" begins: 4
+- GLOSSARY: 4
 - Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism: 3
 - "LIBERAL DIVISIONS IN PUEBLA" opening: 3
 - Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / NOTES AND REFERENCES: 3

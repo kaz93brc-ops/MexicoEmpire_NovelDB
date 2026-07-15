@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2842"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "正確な日付は相対表現からは固定せず、1872年3�
 creative_use: "Rochaが連続して反乱軍を押し返す年表展開に使える。"
 cautions: "Exact date is inferred and should be verified before day-level narrative use."
 related_capture: "CAP_HAMNETT_JUAREZ_0118"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Sostenes_Rocha"]
 events: ["La_Noria_Rebellion"]
 places: ["Zacatecas"]
