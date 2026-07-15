@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0944"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-09"
-updated: "2026-07-09"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -25,6 +25,8 @@ verification_needed: "yes"
 event_summary: "Gran Círculo de Obreros de Méxicoが形成される。"
 creative_use: "労働者集会の組織化場面に使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0111"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: []
 events: []
 places: 

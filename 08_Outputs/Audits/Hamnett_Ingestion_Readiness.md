@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2897
-- hamnett_timeline_entries: 927
-- next_required_page: printed pages 258-259 / continue Chronology through 1866-67, United States pressure, French withdrawal, Maximilian's isolation, Querétaro, court martial, execution, and republican restoration; local pp.146-147 gap remains unless handled elsewhere
+- hamnett_fact_cards: 2903
+- hamnett_timeline_entries: 928
+- next_required_page: printed pages 260-261 / continue Chronology after 1871-01-02 through re-election, La Noria, Juárez's death, Lerdo, and Díaz's rise; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -89,6 +89,7 @@ tags:
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / NOTES AND REFERENCES: 14
 - "THE CONVOCATORIA OF AUGUST 1867 AND THE CONTROVERSY OVER CONSTITUTIONAL REFORM": 14
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR continuation: 12
+- Chronology: 11
 - Chapter 1 / The Aims of Mexican Liberalism: 10
 - THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72): 10
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ: 8
@@ -101,7 +102,6 @@ tags:
 - Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT? conclusion: 5
 - TERRITORIAL CESSION AND TRANSIT RIGHTS continuation: 5
 - MEXICO AND THE AMERICAN CIVIL WAR (1861-65) continuation: 5
-- Chronology: 5
 - Chapter 2 notes / Chapter 3 opening: 4
 - Chapter 7 opening: 4
 - TERRITORIAL CESSION AND TRANSIT RIGHTS: 4
@@ -206,6 +206,7 @@ tags:
 - MEXICO AND THE AMERICAN CIVIL WAR (1861-65) continuation: 2
 - Chapter opening: 2
 - MARSHAL BAZAINE AND THE FRENCH RESPONSE continuation: 2
+- Chronology: 2
 - Chapter 1: 1
 - Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism: 1
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / beginning of THE LIBERAL EXPERIMENT OF 1833-34: 1
@@ -214,7 +215,6 @@ tags:
 - "THE CIVIL WAR IN GUERRERO" conclusion: 1
 - La Noria repression continuation: 1
 - THE DEATH OF JUÁREZ - JULY 1872 begins: 1
-- Chronology: 1
 
 ## Next Checks From Progress Master
 

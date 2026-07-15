@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0654"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter7"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "Napoleon III ordered the phased withdrawal of French troops from Mexico."
 creative_use: "Use as the turning point that Juárez reads as an unavoidable step toward victory."
 related_capture: "CAP_HAMNETT_JUAREZ_0082"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.258, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Napoleon_III", "Benito_Juarez", "Maximilian"]
 events: ["Napoleon_IIIs_Phased_Withdrawal_Order_1866", "French_Withdrawal", "French_Intervention_in_Mexico"]
 places: ["Mexico"]

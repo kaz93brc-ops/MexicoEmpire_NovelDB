@@ -23,7 +23,7 @@ tags:
 
 - [[Oaxaca_State_Government|Oaxaca state government]] - backlinks: 422; quality_sections: yes
 - [[Federal_Government|federal government]] - backlinks: 332; quality_sections: yes
-- [[Constitutional_Legitimacy|constitutional legitimacy]] - backlinks: 310; quality_sections: yes
+- [[Constitutional_Legitimacy|constitutional legitimacy]] - backlinks: 311; quality_sections: yes
 - [[State_Governments|state governments]] - backlinks: 256; quality_sections: yes
 - [[United_States_Government|United States government]] - backlinks: 235; quality_sections: yes
 - [[Oaxaca_Politics|Oaxaca politics]] - backlinks: 223; quality_sections: yes
@@ -32,37 +32,37 @@ tags:
 - [[Isthmus_Of_Tehuantepec|Isthmus of Tehuantepec]] - backlinks: 178; quality_sections: yes
 - [[Historiography_Of_Juarez|Historiography of Juárez]] - backlinks: 173; quality_sections: yes
 - [[American_Civil_War|American Civil War]] - backlinks: 169; quality_sections: yes
-- [[San_Luis_Potosi|San Luis Potosí]] - backlinks: 160; quality_sections: yes
+- [[San_Luis_Potosi|San Luis Potosí]] - backlinks: 162; quality_sections: yes
 - [[War_Finance|war finance]] - backlinks: 158; quality_sections: yes
 - [[Public_Debt|Public Debt]] - backlinks: 119; quality_sections: yes
 - [[Liberal_Party|Liberal Party]] - backlinks: 116; quality_sections: yes
 - [[Imperial_Government|imperial government]] - backlinks: 114; quality_sections: yes
 - [[Juarez_Later_Presidency|Juárez later presidency]] - backlinks: 112; quality_sections: yes
 - [[Mexican_Army|Mexican army]] - backlinks: 110; quality_sections: yes
-- [[Provincial_Politics|Provincial politics]] - backlinks: 109; quality_sections: yes
+- [[Provincial_Politics|Provincial politics]] - backlinks: 110; quality_sections: yes
 - [[Treason_And_Political_Legitimacy|treason and political legitimacy]] - backlinks: 106; quality_sections: yes
 - [[European_Intervention|European intervention]] - backlinks: 105; quality_sections: yes
 - [[Guerrero]] - backlinks: 100; quality_sections: yes
 - [[Michoacan|Michoacán]] - backlinks: 89; quality_sections: yes
 - [[Washington]] - backlinks: 87; quality_sections: yes
-- [[Execution_Of_Maximilian_Miramon_And_Mejia|Execution of Maximilian, Miramón and Mejía]] - backlinks: 84; quality_sections: yes
+- [[Execution_Of_Maximilian_Miramon_And_Mejia|Execution of Maximilian, Miramón and Mejía]] - backlinks: 86; quality_sections: yes
+- [[Restored_Republic|Restored Republic]] - backlinks: 85; quality_sections: yes
 - [[Confederate_States|Confederate States]] - backlinks: 81; quality_sections: yes
+- [[Margarita_Eustacia_Maza|Margarita Eustacia Maza]] - backlinks: 81; quality_sections: yes
 - [[Nuevo_Leon|Nuevo León]] - backlinks: 81; quality_sections: yes
-- [[Restored_Republic|Restored Republic]] - backlinks: 81; quality_sections: yes
-- [[Margarita_Eustacia_Maza|Margarita Eustacia Maza]] - backlinks: 80; quality_sections: yes
 - [[Mariano_Riva_Palacio|Mariano Riva Palacio]] - backlinks: 77; quality_sections: yes
 - [[Mexican_Republic|Mexican Republic]] - backlinks: 77; quality_sections: yes
 - [[Moderate_Liberalism|moderate Liberalism]] - backlinks: 77; quality_sections: yes
 - [[Abraham_Lincoln|Abraham Lincoln]] - backlinks: 76; quality_sections: yes
 - [[French_Imperial_Policy|French imperial policy]] - backlinks: 76; quality_sections: yes
 - [[Juarez_Cabinet|Juárez cabinet]] - backlinks: 74; quality_sections: yes
+- [[Agrarian_Question|Agrarian Question]] - backlinks: 70; quality_sections: yes
+- [[Republican_Legitimacy|republican legitimacy]] - backlinks: 70; quality_sections: yes
 - [[European_Powers|European powers]] - backlinks: 69; quality_sections: yes
-- [[Agrarian_Question|Agrarian Question]] - backlinks: 68; quality_sections: yes
 - [[Monterrey]] - backlinks: 67; quality_sections: yes
-- [[Republican_Legitimacy|republican legitimacy]] - backlinks: 67; quality_sections: yes
 - [[Gonzalez_Ortega_Presidential_Claim|González Ortega presidential claim]] - backlinks: 66; quality_sections: yes
+- [[Ramon_Corona|Ramón Corona]] - backlinks: 66; quality_sections: yes
 - [[Liberal_Army|Liberal army]] - backlinks: 65; quality_sections: yes
-- [[Ramon_Corona|Ramón Corona]] - backlinks: 65; quality_sections: yes
 - [[Legitimacy_Of_Trial|legitimacy of trial]] - backlinks: 64; quality_sections: yes
 - [[Catholic_Clergy|Catholic clergy]] - backlinks: 63; quality_sections: yes
 - [[Coahuila]] - backlinks: 62; quality_sections: yes
@@ -71,7 +71,7 @@ tags:
 - [[Guanajuato]] - backlinks: 62; quality_sections: yes
 - [[Political_Legitimacy|political legitimacy]] - backlinks: 62; quality_sections: yes
 - [[New_Orleans|New Orleans]] - backlinks: 61; quality_sections: yes
-- [[Rural_Rebellions|Rural Rebellions]] - backlinks: 60; quality_sections: yes
+- [[Rural_Rebellions|Rural Rebellions]] - backlinks: 61; quality_sections: yes
 - [[American_Civil_War_Border_Context|American Civil War border context]] - backlinks: 59; quality_sections: yes
 - [[Rafael_Martinez_De_La_Torre|Rafael Martínez de la Torre]] - backlinks: 58; quality_sections: yes
 - [[Death_Sentence_Against_Maximilian|death sentence against Maximilian]] - backlinks: 55; quality_sections: yes
@@ -136,6 +136,7 @@ tags:
 - [[Morelia]] - backlinks: 27; quality_sections: yes
 - [[Transfer_Of_Maximilians_Remains|Transfer of Maximilian’s remains]] - backlinks: 27; quality_sections: yes
 - [[United_States_Diplomacy|United States diplomacy]] - backlinks: 27; quality_sections: yes
+- [[Army_Of_The_East|Army of the East]] - backlinks: 26; quality_sections: yes
 - [[Jose_Lopez_Uraga|José López Uraga]] - backlinks: 26; quality_sections: yes
 - [[Latin_America|Latin America]] - backlinks: 26; quality_sections: yes
 - [[Luis_Fernandez_del_Campo|Luis Fernández del Campo]] - backlinks: 26; quality_sections: yes
@@ -143,7 +144,6 @@ tags:
 - [[Putla]] - backlinks: 26; quality_sections: yes
 - [[US_Expansion|US expansion]] - backlinks: 26; quality_sections: yes
 - [[Abandonment_Of_Maximilian|abandonment of Maximilian]] - backlinks: 25; quality_sections: yes
-- [[Army_Of_The_East|Army of the East]] - backlinks: 25; quality_sections: yes
 - [[Conservative_Government|conservative government]] - backlinks: 25; quality_sections: yes
 - [[Francesco_Meglia|Francesco Meglia]] - backlinks: 25; quality_sections: yes
 - [[March_14_Attack|March 14 attack]] - backlinks: 25; quality_sections: yes
@@ -160,6 +160,7 @@ tags:
 - [[Juarista_Guerrilla_Warfare|Juarista guerrilla warfare]] - backlinks: 23; quality_sections: yes
 - [[London]] - backlinks: 23; quality_sections: yes
 - [[Monarchy_Vs_Republic|monarchy vs republic]] - backlinks: 23; quality_sections: yes
+- [[Republican_Victory|Republican victory]] - backlinks: 23; quality_sections: yes
 - [[Superior_Tribunal_Of_Justice_Oaxaca|Superior Tribunal of Justice]] - backlinks: 23; quality_sections: yes
 - [[The_Times|The Times]] - backlinks: 23; quality_sections: yes
 - [[Attempted_Breakout_from_Queretaro|attempted breakout from Querétaro]] - backlinks: 22; quality_sections: yes
@@ -170,7 +171,7 @@ tags:
 - [[Grand_Hotel|Grand Hotel]] - backlinks: 22; quality_sections: yes
 - [[Military_Finance|military finance]] - backlinks: 22; quality_sections: yes
 - [[Queretaro_Campaign|Querétaro campaign]] - backlinks: 22; quality_sections: yes
-- [[Republican_Victory|Republican victory]] - backlinks: 22; quality_sections: yes
+- [[Siege_Of_Mexico_City|Siege of Mexico City]] - backlinks: 22; quality_sections: yes
 - [[Austrian_Navy|Austrian Navy]] - backlinks: 21; quality_sections: yes
 - [[Chapultepec]] - backlinks: 21; quality_sections: yes
 - [[Commercial_Agriculture|Commercial Agriculture]] - backlinks: 21; quality_sections: yes
@@ -179,7 +180,6 @@ tags:
 - [[Monroe_Doctrine|Monroe Doctrine]] - backlinks: 21; quality_sections: yes
 - [[Republican_Retreat_To_Chihuahua|Republican retreat to Chihuahua]] - backlinks: 21; quality_sections: yes
 - [[Richard_Metternich|Richard Metternich]] - backlinks: 21; quality_sections: yes
-- [[Siege_Of_Mexico_City|Siege of Mexico City]] - backlinks: 21; quality_sections: yes
 - [[Staged_Legitimacy|staged legitimacy]] - backlinks: 21; quality_sections: yes
 - [[US_Diplomacy|US diplomacy]] - backlinks: 21; quality_sections: yes
 - [[Agnes_Salm_Salm|Agnes Salm-Salm]] - backlinks: 20; quality_sections: yes

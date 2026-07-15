@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2400"
 type: "fact_card"
 status: "draft"
 created: "2026-07-06"
-updated: "2026-07-06"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "102枚目で保留したMexico City帰還の年月をこのペ�
 creative_use: "勝利の凱旋ではなく戦後統治の始まりとして使える。"
 cautions: "Confirm the exact date and source trail outside this spread."
 related_capture: "CAP_HAMNETT_JUAREZ_0103"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, 1867-07-15, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Benito_Juarez"]
 events: ["Fall_Of_The_Second_Mexican_Empire"]
 places: ["Mexico_City"]

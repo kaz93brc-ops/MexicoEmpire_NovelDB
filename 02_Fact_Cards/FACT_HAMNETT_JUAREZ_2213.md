@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2213"
 type: "fact_card"
 status: "draft"
 created: "2026-07-05"
-updated: "2026-07-05"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "Orizaba crisisを日付幅つきの出来事として扱う。"
 creative_use: "退位をめぐる孤立した宮廷場面として使える。"
 cautions: "到着日、五週間の根拠、注29を確認する。"
 related_capture: "CAP_HAMNETT_JUAREZ_0095"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.258, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Maximilian"]
 events: ["Second_Mexican_Empire", "Abdication_Crisis"]
 places: ["Orizaba"]

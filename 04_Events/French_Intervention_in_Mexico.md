@@ -3,7 +3,7 @@ id: EVT-FRENCH-INTERVENTION-IN-MEXICO
 type: event
 status: draft
 created: 2026-05-31
-updated: 2026-07-03
+updated: 2026-07-15
 tags:
   - event
   - french-intervention
@@ -121,3 +121,12 @@ Hamnett pp.170-171 frames the French Intervention as tied to Napoleon III's glob
 - [[TIME_HAMNETT_JUAREZ_0003]]
 - [[TIME_HAMNETT_JUAREZ_0004]]
 - [[TIME_HAMNETT_JUAREZ_0005]]
+
+## Hamnett 1994 pp.258-259 Chronology Conclusion Notes
+
+Chronology pp.258-259 closes the intervention through French withdrawal, Maximilian's Orizaba crisis, Querétaro, execution, and the republican return, then opens the Restored Republic as a still-contested reconstruction.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0132]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3240]], [[FACT_HAMNETT_JUAREZ_3241]], [[FACT_HAMNETT_JUAREZ_3246]], [[FACT_HAMNETT_JUAREZ_3247]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0654]], [[TIME_HAMNETT_JUAREZ_0755]], [[TIME_HAMNETT_JUAREZ_0779]], [[TIME_HAMNETT_JUAREZ_0805]], [[TIME_HAMNETT_JUAREZ_0840]]
+- Cautions: Keep French withdrawal, republican military advance, mobile-government continuity, and postwar instability visible together.

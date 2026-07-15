@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2253"
 type: "fact_card"
 status: "draft"
 created: "2026-07-05"
-updated: "2026-07-05"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -28,6 +28,8 @@ japanese_note: "Hamnett本文のみのためprobableで扱い、注・他史料�
 creative_use: "小説利用時は史実、Hamnett解釈、創作用推測を分ける。"
 cautions: "捕獲場所、降伏手続、関係者の厳密な動きは注確認が必要。"
 related_capture: "CAP_HAMNETT_JUAREZ_0096"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, pp.258–259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Maximilian", "Miguel_Miramon", "Tomas_Mejia"]
 events: ["Fall_of_Queretaro", "Siege_of_Queretaro"]
 places: ["Cerro_de_las_Campanas", "Queretaro"]

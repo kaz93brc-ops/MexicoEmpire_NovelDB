@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2884"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "Juárezの1871年再選運動直前の家族的喪失として�
 creative_use: "政治的緊張と私的喪失が重なる転機として使える。"
 cautions: "Confirm note 20 before treating the age and date as independently verified."
 related_capture: "CAP_HAMNETT_JUAREZ_0120"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Margarita_Eustacia_Maza", "Benito_Juarez"]
 events: []
 places: []

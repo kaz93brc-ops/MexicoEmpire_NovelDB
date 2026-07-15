@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1618"
 type: "fact_card"
 status: "draft"
 created: "2026-07-03"
-updated: "2026-07-03"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter6"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "Juárezは1865-66年の二期間、Rio Grande南岸・El Paso対
 creative_use: "国境ぎりぎりの移動政府と米国側の近さを見せる場面に使える。"
 cautions: "Confirm the exact residence dates and period place names."
 related_capture: "CAP_HAMNETT_JUAREZ_0070"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.258, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Benito_Juarez"]
 events: ["French_Intervention_in_Mexico"]
 places: ["Paso_Del_Norte", "Rio_Grande", "El_Paso", "Chihuahua"]

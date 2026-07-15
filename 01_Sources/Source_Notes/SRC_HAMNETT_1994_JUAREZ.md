@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-現在はユーザー指定の131枚目として `CAP_HAMNETT_JUAREZ_0131` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は Chronology / printed pages 256-257 / archive `/page/256/mode/2up`。1861年の債務・外交危機から三国干渉、フランス単独介入、Regency Council、第二帝政、Juárez移動政府、1865年の帝政・共和派双方の合法性問題への接続を記録し、個別事件は既存Fact / Timelineへのlocator追加を優先した。次回pp.258-259で1866-67年、米国圧力、フランス撤退、Maximilian孤立、Querétaro、軍法会議・処刑、共和政復帰への接続を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
+現在はユーザー指定の132枚目として `CAP_HAMNETT_JUAREZ_0132` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は Chronology / printed pages 258-259 / archive `/page/258/mode/2up`。フランス撤退、Orizaba退位危機、Querétaroでの帝政崩壊、Juárez政府のMexico City帰還を経て、`The Restored Republic 1867-76`の非常権限、保障停止、土地・農民・労働運動、Margarita Maza de Juárez死去まで接続した。次回pp.260-261で1871年以後、再選、La Noria反乱、Juárez死去、Lerdo、Díaz台頭へのChronology継続を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-15に132枚目Captureとして [[CAP_HAMNETT_JUAREZ_0132|CAP_HAMNETT_JUAREZ_0132]] を作成。Readinessとユーザー指定はいずれもpp.258-259を指した。新規Factは[[FACT_HAMNETT_JUAREZ_3240|3240]]、[[FACT_HAMNETT_JUAREZ_3241|3241]]、[[FACT_HAMNETT_JUAREZ_3246|3246]]-[[FACT_HAMNETT_JUAREZ_3249|3249]]、新規Timelineは[[TIME_HAMNETT_JUAREZ_1272|1272]]。予定Fact3242-3245、3250-3251と予定Timeline1270-1271、1273-1287は既存Hamnett / ShawcrossカードへChronology locatorまたは日付補足を追加したため未作成。French withdrawal、Orizaba退位危機、Querétaro、三人の処刑、Díaz進入、Juárez帰還、Restored Republic、非常権限、保障停止、Lozada、Gran Círculo、Margarita死去を接続した。新規stubとRelationshipカードはなし。Chávez López、Negrete、jimenistasは候補・Open Questionsに留めた。Chronology全項目・日付全列挙・本文全文・長文引用・全文翻訳・全文OCR・スクリーンショット全文転記は保存していない。次回はpp.260-261で1871年以降の再選、La Noria、Juárez死去、Lerdo、Díaz台頭への継続を確認する。
 
 2026-07-15に131枚目Captureとして [[CAP_HAMNETT_JUAREZ_0131|CAP_HAMNETT_JUAREZ_0131]] を作成。Readinessとユーザー指定はいずれもpp.256-257を指した。新規FactはChronology構成解釈の[[FACT_HAMNETT_JUAREZ_3210|3210]]のみ。予定Fact3211-3224は既存Hamnett / Shawcross Factへ、予定Timeline1250-1268は既存Timeline 19件へChronology locatorを追加したため未作成。French Intervention、Maximilian受諾・到着、Juárez移動政府、Vidaurri、Bazaine / Díaz、1865年Imperial Decree、Juárez任期延長・González Ortega問題を既存カードへ接続した。候補固有名詞のbasename、title、aliasesを確認し、主要候補は既存Entityを再利用したため新規stubなし。Relationshipカードは候補止まり。ID衝突なし。Chronology全項目・日付全列挙・本文全文・長文引用・全文翻訳・全文OCR・スクリーンショット全文転記は保存していない。p.257末尾でChronologyと`The French Intervention 1862-67`が未完であり、次回はpp.258-259の1866-67年と共和政復帰への接続を確認する。
 

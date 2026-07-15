@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2330"
 type: "fact_card"
 status: "draft"
 created: "2026-07-05"
-updated: "2026-07-05"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -28,6 +28,8 @@ japanese_note: "日時・場所を持つ中心年表事実だが、別資料で�
 creative_use: "処刑場面の時刻、場所、三人の同時性を確定する軸になる。"
 cautions: "時刻、処刑隊、位置の詳細はShawcrossや一次資料で確認する。"
 related_capture: "CAP_HAMNETT_JUAREZ_0099"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Maximilian", "Miguel_Miramon", "Tomas_Mejia"]
 events: ["Execution_Of_Maximilian_Miramon_And_Mejia"]
 places: ["Cerro_de_las_Campanas", "Queretaro"]

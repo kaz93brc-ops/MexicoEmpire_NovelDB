@@ -3,7 +3,7 @@ id: "ORG_GRAN_CIRCULO_DE_OBREROS_DE_MEXICO"
 type: "organization"
 status: "stub"
 created: "2026-07-09"
-updated: "2026-07-09"
+updated: "2026-07-15"
 tags:
   - "organization"
   - "hamnett"
@@ -34,8 +34,8 @@ Use as a worker-organization setting where radical ideas, Liberal political open
 ## Linked Items
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ]]
-- Capture: [[CAP_HAMNETT_JUAREZ_0111]]
+- Capture: [[CAP_HAMNETT_JUAREZ_0111]], [[CAP_HAMNETT_JUAREZ_0132]]
 - Places: [[Mexico_City|Mexico City]], [[Toluca]], [[San_Luis_Potosi|San Luis Potosí]], [[Zacatecas]]
 - Themes: [[Popular_Classes_in_Politics|popular classes in politics]], [[Popular_Politics_And_Elite_Liberalism|popular politics and elite Liberalism]], [[Radical_Liberalism|radical Liberalism]]
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_2630]], [[FACT_HAMNETT_JUAREZ_2631]], [[FACT_HAMNETT_JUAREZ_2632]], [[FACT_HAMNETT_JUAREZ_2633]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_2630]], [[FACT_HAMNETT_JUAREZ_2631]], [[FACT_HAMNETT_JUAREZ_2632]], [[FACT_HAMNETT_JUAREZ_2633]], [[FACT_HAMNETT_JUAREZ_3249]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0944]], [[TIME_HAMNETT_JUAREZ_0945]], [[TIME_HAMNETT_JUAREZ_0946]]

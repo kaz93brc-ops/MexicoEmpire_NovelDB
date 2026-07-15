@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0776"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-05"
-updated: "2026-07-05"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "Escobedo began investing Querétaro."
 creative_use: "Use as a dated collapse-of-the-Empire beat after source checking."
 related_capture: "CAP_HAMNETT_JUAREZ_0096"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.258, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Mariano_Escobedo"]
 events: ["Siege_of_Queretaro"]
 places: ["Queretaro"]

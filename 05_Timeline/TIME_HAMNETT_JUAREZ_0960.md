@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0960"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -25,6 +25,8 @@ verification_needed: "yes"
 event_summary: "Lozadaの通達が、土地権利防衛のため村落による直接行動を認める。"
 creative_use: "村落が土地を守るために直接行動へ移る契機として使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0112"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people:
   - "Manuel_Lozada"
 events: []

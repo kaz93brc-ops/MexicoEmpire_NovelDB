@@ -3,7 +3,7 @@ id: "PERSON_MANUEL_LOZADA"
 type: "person"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags:
   - "person"
   - "hamnett"
@@ -93,3 +93,13 @@ Hamnett pp.230-231 says Porfirio Díaz sought Lozada's support after fleeing thr
 - Related Organizations: [[Liberal_Party|Liberal Party]]
 - Related Themes: [[Caciquismo_And_Regional_Power|regional power]], [[Liberal_Factionalism|Liberal factionalism]], [[US_Mexico_Relations|US-Mexico relations]], [[Sovereignty_of_the_Nation|sovereignty of the nation]]
 - Cautions: Verify Lozada's wording and political position through note 14; avoid absorbing his stance into either juarista or porfirista logic.
+
+## Hamnett 1994 p.259 Chronology Cross-Reference
+
+Chronology p.259 places Lozada's 1869 land-rights circular among the unresolved social tensions of the Restored Republic.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0132]]
+- Existing Fact Card: [[FACT_HAMNETT_JUAREZ_2655]]
+- Existing Timeline Entry: [[TIME_HAMNETT_JUAREZ_0960]]
+- Related Interpretation: [[FACT_HAMNETT_JUAREZ_3249]]
+- Cautions: Confirm the circular's formal title and original text; do not flatten Lozada into a single political label.

@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0810"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-05"
-updated: "2026-07-05"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,9 @@ verification_needed: "yes"
 event_summary: "Mexico City fell to republican forces; around this moment Díaz appointed Juan José Baz as jefe político of the Federal District."
 creative_use: "Use as a capital-fall and republican power-reorganization marker tied to Baz's execution rhetoric."
 related_capture: "CAP_HAMNETT_JUAREZ_0100"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
+chronology_note: "Chronology p.259 specifies Díaz entering Mexico City on 1867-06-21; verify the distinction between entry, capitulation, and appointment timing."
 people: ["Porfirio_Diaz", "Juan_Jose_Baz"]
 events: ["Fall_Of_The_Second_Mexican_Empire"]
 places: ["Mexico_City", "Federal_District"]
