@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2896
+- hamnett_fact_cards: 2897
 - hamnett_timeline_entries: 927
-- next_required_page: printed pages 256-257 / continue Chronology through the debt crisis, European intervention, and French Intervention; confirm the Federal Congress session range; local pp.146-147 gap remains unless handled elsewhere
+- next_required_page: printed pages 258-259 / continue Chronology through 1866-67, United States pressure, French withdrawal, Maximilian's isolation, Querétaro, court martial, execution, and republican restoration; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -101,12 +101,12 @@ tags:
 - Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT? conclusion: 5
 - TERRITORIAL CESSION AND TRANSIT RIGHTS continuation: 5
 - MEXICO AND THE AMERICAN CIVIL WAR (1861-65) continuation: 5
+- Chronology: 5
 - Chapter 2 notes / Chapter 3 opening: 4
 - Chapter 7 opening: 4
 - TERRITORIAL CESSION AND TRANSIT RIGHTS: 4
 - Chapter opening: 4
 - "THE GROWTH OF OPPOSITION" begins: 4
-- Chronology: 4
 - Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism: 3
 - "LIBERAL DIVISIONS IN PUEBLA" opening: 3
 - Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / NOTES AND REFERENCES: 3
@@ -218,7 +218,7 @@ tags:
 
 ## Next Checks From Progress Master
 
-- printed pages 252-253で、p.251末尾は文として完結していることを前提に、Bibliographical Essayが継続するか終了するかと次の資料区分を確認する。
+- printed pages 258-259で、1866-67年、米国圧力、フランス撤退、Maximilian孤立、Querétaro、捕縛、軍法会議、処刑、共和政復帰へのChronology接続を確認する。
 - Favreの1867年12月2日発言原文・会議録、Weeksの正式書誌・刊行地、Covo／Salomon研究、APBJPS 1928年刊行情報、Díaz政権のJuárez神話利用開始時期を確認する。
 - SalinasのNAFTA関連テレビ演説日・媒体、1867年と1992年9月のHoly See関係の制度的正確性、Tamayo文書集の1964-71／1964-72年次齟齬を確認する。
 - Genaro García反論書1904年とBulnes本1905年の刊行順、Juan Sánchezの1902年刊行・1972年復刻、Gustavo Bazの著作名、Hilarión Frías y Sotoの1905年候補と既存1907年情報の不一致を確認する。

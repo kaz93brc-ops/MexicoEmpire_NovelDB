@@ -50,7 +50,7 @@ Entry note for Charles Wyke. Verify details in linked Fact Cards and Timeline En
 - Themes: [[Convention_Of_London|Convention of London]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1857|Zamacona and Wyke conclude a treaty on 21 November 1861]], [[FACT_HAMNETT_JUAREZ_1858|Mexican Congress unanimously rejects the Wyke-Zamacona Treaty]], [[FACT_HAMNETT_JUAREZ_1861|Wyke-Zamacona rejection ends U.S. loan talks]], [[FACT_MEXEMP_0291|英西側はフランスの特殊請求ではなく債務交渉を目的としていた]], [[FACT_MEXEMP_0294|Charles WykeはSalignyの交渉方針を拒否し英国軍の内陸進軍も禁じられていた]], [[FACT_MEXEMP_0295|Veracruzの疫病環境により英国は海兵隊上陸を避けた]], [[FACT_MEXEMP_0301|英西の支援なしにフランス軍単独でMexico Cityへ進むのは危険だった]], [[FACT_MEXEMP_0356|WykeはAlmonteがJuárezと戦争中の保守党指導者である点を問題視した]], [[FACT_MEXEMP_0357|Wykeはフランスが残虐行為で悪名高い保守派を保護することを疑問視した]], [[FACT_MEXEMP_0364|WykeはMárquezを英国資金徴発の点でも悪名高い人物と見た]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0633|21 November 1861 Wyke-Zamacona Treaty]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0080]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0080]], [[CAP_HAMNETT_JUAREZ_0131]]
 - Scenes:
 - Questions:
 

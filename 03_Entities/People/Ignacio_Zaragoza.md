@@ -50,7 +50,7 @@ Entry note for Ignacio Zaragoza. Verify details in linked Fact Cards and Timelin
 - Themes:
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1536|Escobedo, Zaragoza, and Treviño move into the Juárez camp]], [[FACT_HAMNETT_JUAREZ_1538|Hamnett says Vidaurri lost three best commanders]], [[FACT_MEXEMP_0348|JuárezはIgnacio ZaragozaをArmy of the East司令官に任命した]], [[FACT_MEXEMP_0349|VeracruzからMexico Cityへの要路は防備された]], [[FACT_MEXEMP_0374|ZaragozaはRobles Pezuelaの処刑を命じた]], [[FACT_MEXEMP_0377|Robles Pezuelaは処刑された]], [[FACT_MEXEMP_0385|ZaragozaはPuebla攻撃に備えて数か月準備していた]], [[FACT_MEXEMP_0396|LorencezはGuadalupe奪取でZaragozaを崩せると考えた]], [[FACT_MEXEMP_0398|Zaragozaは正面強襲を予期していなかったとされる]], [[FACT_MEXEMP_0411|Zaragozaへの記念剣購入のためMexico Cityで募金が行われた]], [[FACT_MEXEMP_0413|Puebla勝利はCinco de Mayoとして記憶された]]
 - Timeline Entries: [[TIME_MEXEMP_0075|1862年5月4日、Lorencezが翌日のPuebla強襲方針を取った]], [[TIME_MEXEMP_0076|1862年5月5日、Puebla守備側がフランス軍を迎え撃った]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0068]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0068]], [[CAP_HAMNETT_JUAREZ_0130]], [[CAP_HAMNETT_JUAREZ_0131]]
 - Scenes:
 - Questions:
 
