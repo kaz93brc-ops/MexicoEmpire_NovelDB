@@ -37,12 +37,12 @@ Use as an entry point for political sociability and network formation.
 ## Linked Items
 
 - People: [[Antonio_de_Leon|Antonio de León]], [[Benito_Juarez|Benito Juarez]], [[Maximilian]]
-- Organizations: [[Masonic_Lodges|Masonic Lodges]]
+- Organizations: [[Masonic_Lodges|Masonic Lodges]], [[Yorkino_Rite|Yorkino Rite]]
 - Places:
 - Events:
 - Themes:
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0326|León founded a Yorkist masonic branch in Oaxaca in April 1828]], [[FACT_HAMNETT_JUAREZ_0981|Juárez as freemason in masonic-party context]], [[FACT_HAMNETT_JUAREZ_0982|Maximilian also as mason]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0149|León founded a Yorkist masonic branch in Oaxaca]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0017]], [[CAP_HAMNETT_JUAREZ_0046]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0017]], [[CAP_HAMNETT_JUAREZ_0046]], [[CAP_HAMNETT_JUAREZ_0136]]
 - Scenes:
 - Questions:

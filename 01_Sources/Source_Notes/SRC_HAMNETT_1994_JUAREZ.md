@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-現在はユーザー指定の135枚目として `CAP_HAMNETT_JUAREZ_0135` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は Glossary / printed pages 264-265 / archive `/page/264/mode/2up`。juchitecos、土地・農村労働語、lerdistas / porfiristas等の自由派内部派閥、pronunciamiento、Reforma、Siete Leyes、tierras baldíasを概念要約・既存Entity接続・Fact / Timeline locatorへ振り分けた。次回136枚目でp.265末尾tierras baldíasの続き、GlossaryのT以降継続または別セクション移行を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
+現在はユーザー指定の136枚目として `CAP_HAMNETT_JUAREZ_0136` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は Glossary ending / Dramatis Personae opening / printed pages 266-267 / archive `/page/266/mode/2up`。unicameralism、yorkinos、Lucas Alamán、Juan Nepomuceno Almonte、Ignacio Altamiranoを、既存Fact locator、人物ノート、新規Fact3330-3335、Banco de Avío / Mon-Almonte Treaty最小stubへ振り分けた。次回137枚目でAltamirano項目の続き、次の人物、Dramatis Personae継続を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-15に136枚目Captureとして [[CAP_HAMNETT_JUAREZ_0136|CAP_HAMNETT_JUAREZ_0136]] を作成。Readinessとユーザー指定はいずれもpp.266-267を指し、135枚目p.265末尾の`tierras baldías`は完結、p.266でGlossaryが終了し、p.267でDramatis Personaeが開始する構成を記録した。新規Factは[[FACT_HAMNETT_JUAREZ_3330|3330]]-[[FACT_HAMNETT_JUAREZ_3335|3335]]。unicameralism、yorkinos、Alamánの植民地秩序・Santa Anna接続、AlmonteのRegency Council、Altamiranoの後期Juárez批判は既存Fact0118、0153、0762、0142、0563、0565、2043、2492へlocatorを追加したため重複カード化していない。新規Timelineなし。既存人物・制度ノートを再利用し、Banco de AvíoとMon-Almonte Treatyのみ、反復利用価値とリンク解決のため最小stubを作成した。Relationshipカードは候補止まり。p.267末尾のAltamirano項目は次ページへ続く可能性を残した。Glossary定義全文、人物略歴全文、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。
 
 2026-07-15に135枚目Captureとして [[CAP_HAMNETT_JUAREZ_0135|CAP_HAMNETT_JUAREZ_0135]] を作成。Readinessとユーザー指定はいずれもpp.264-265を指した。新規Factは[[FACT_HAMNETT_JUAREZ_3310|3310]]-[[FACT_HAMNETT_JUAREZ_3315|3315]]、[[FACT_HAMNETT_JUAREZ_3317|3317]]-[[FACT_HAMNETT_JUAREZ_3321|3321]]、[[FACT_HAMNETT_JUAREZ_3323|3323]]-[[FACT_HAMNETT_JUAREZ_3325|3325]]、[[FACT_HAMNETT_JUAREZ_3327|3327]]。予定3316、3322、3326、3328は既存polkos、Reforma期間、Siete Leyes、1863-07-22土地布告カードへGlossary locatorを追加したため未作成。既存Timeline0064、0072、0561へGlossary locatorを追加し、新規Timelineなし。Juchitán communities、Liberal factionalism、puros、santanistas、tierras baldías等の既存Entityへ接続し、新規stubとRelationshipカードは作成していない。Méndez、Pérez、Castroはフルネーム未確認のため新規Person化していない。p.265末尾のtierras baldíasはページ内で完結しているように見えるが、136枚目で続きとGlossary継続有無を確認する。Glossary定義全文、用語全列挙、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。
 

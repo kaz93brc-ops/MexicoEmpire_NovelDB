@@ -3,7 +3,7 @@ id: ORG-REGENCY_COUNCIL
 type: organization
 status: draft
 created: 2026-06-20
-updated: 2026-07-04
+updated: 2026-07-15
 tags:
   - organization
 source_id: ""
@@ -57,3 +57,12 @@ Hamnett p.187 records a 20 February 1867 Regency Council appointed by Maximilian
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0773|TIME_HAMNETT_JUAREZ_0773]]
 - Related People: [[Maximilian|Maximilian]], [[Teodosio_Lares|Teodosio Lares]], [[Jose_Maria_Lacunza|José María Lacunza]], [[Leonardo_Marquez|Leonardo Márquez]]
 - Cautions: Distinguish this final emergency council from the earlier establishment-period Regency Council.
+
+## Hamnett 1994 p.267 Almonte Locator
+
+Hamnett's Dramatis Personae entry connects Juan Nepomuceno Almonte to the establishment-period Regency Council as one stage in a longer political and diplomatic career.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- Related Person: [[Juan_Nepomuceno_Almonte|Juan Nepomuceno Almonte]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_2043]]
+- Cautions: Keep the 1863–64 council distinct from Maximilian's February 1867 emergency council.

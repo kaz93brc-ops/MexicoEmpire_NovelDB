@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2492"
 type: "fact_card"
 status: "draft"
 created: "2026-07-06"
-updated: "2026-07-06"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -65,3 +65,11 @@ Hamnett states that Ignacio Ramírez and Ignacio Altamirano distrusted Juárez a
 - Themes: [[Radical_Liberals|radical Liberals]], [[Constitutionalism_Of_1857|constitutionalism of 1857]], [[Liberal_Factionalism|Liberal factionalism]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0106]]
 - Related Timeline Entries:
+
+## Hamnett 1994 p.267 Dramatis Personae Locator
+
+The incomplete Altamirano entry identifies him as a radical Liberal writer and journalist and connects that role to later criticism of Juárez; the next page must be checked before expanding the biographical claim.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3335]]
+- Cautions: The entry may continue on p.268; do not treat the p.267 text as a complete biography.

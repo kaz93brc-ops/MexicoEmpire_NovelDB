@@ -3,7 +3,7 @@ id: ORG-CONSERVATIVE_PARTY
 type: organization
 status: draft
 created: 2026-06-20
-updated: 2026-07-01
+updated: 2026-07-15
 tags:
   - organization
 source_id: ""
@@ -84,3 +84,11 @@ Hamnett p.97 treats the Puebla rebellion as more than clerical reaction: rebel l
 - Related Events: [[Puebla_Rebellion_1855_1856]], [[Zacapoaxtla_Rebellion_1855_1856]], [[Revolution_of_Ayutla]]
 - Related Themes: [[Religious_Political_Mobilization]], [[Armed_Politics]], [[Reform_War_Origins]], [[Conciliation_Policy]]
 - Cautions: Do not reduce the rebellion to a single anti-liberal reflex; keep religion, constitutional restoration, anti-Comonfort politics, and military opportunity separate.
+
+## Hamnett 1994 p.267 Dramatis Personae Notes
+
+Hamnett connects Lucas Alamán to the party's 1848 formation and Juan Nepomuceno Almonte to conservative politics after 1850; both claims remain verification-needed at the organizational and chronological level.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- Related People: [[Lucas_Alaman|Lucas Alamán]], [[Juan_Nepomuceno_Almonte|Juan Nepomuceno Almonte]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3330]], [[FACT_HAMNETT_JUAREZ_3333]], [[FACT_HAMNETT_JUAREZ_3334]]

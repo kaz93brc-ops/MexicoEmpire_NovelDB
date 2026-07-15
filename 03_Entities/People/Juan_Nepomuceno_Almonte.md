@@ -3,7 +3,7 @@ id: PER-JUAN-NEPOMUCENO-ALMONTE
 type: person
 status: draft
 created: 2026-06-14
-updated: 2026-07-04
+updated: 2026-07-15
 tags:
   - person
   - almonte
@@ -89,3 +89,17 @@ Hamnett p.171 identifies Juan Nepomuceno Almonte as the Conservative politician 
 - Related Organization: [[Regency_Council]]
 - Related Events: [[Second_Mexican_Empire]], [[Mexican_Empire]]
 - Cautions: Keep Almonte's Regency role separate from a simple reactionary label; verify p.172 and related notes for the transfer's date and legal character.
+
+## Hamnett 1994 p.267 Dramatis Personae Notes
+
+Hamnett's person entry connects Almonte's Morelos lineage, movement from an early moderate position toward conservatism after 1850, the Mon-Almonte Treaty, the French Intervention, the Regency Council, and Maximilian's diplomacy. The entry makes him a bridge across independence memory, conservative politics, and European intervention rather than a peripheral imperial figure.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3332]], [[FACT_HAMNETT_JUAREZ_3333]], [[FACT_HAMNETT_JUAREZ_3334]]
+- Existing Hamnett Fact Card: [[FACT_HAMNETT_JUAREZ_2043]]
+- Shawcross cross-check: [[FACT_MEXEMP_1529]], [[FACT_MEXEMP_1540]]
+- People: [[Jose_Maria_Morelos|José María Morelos]], [[Maximilian]], [[Napoleon_III|Napoleon III]]
+- Events: [[Mon_Almonte_Treaty|Mon-Almonte Treaty]], [[French_Intervention_in_Mexico|French Intervention]]
+- Organizations: [[Conservative_Party|Conservative Party]], [[Regency_Council|Regency Council]]
+- Places: [[Paris]], [[France]], [[Texas]]
+- Open Questions: Verify the political-shift chronology, treaty details, Regency office and dates, and 1866 Paris envoy authority.

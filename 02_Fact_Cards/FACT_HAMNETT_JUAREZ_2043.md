@@ -68,3 +68,11 @@ Foreyは主権をRegency Councilへ移し、その構成員にはMariano Salas�
 - Themes: [[Early_Mexican_Empire_Government_Formation|early Mexican Empire government formation]], [[Legitimacy]], [[Constitutional_Monarchy|constitutional monarchy]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0088]]
 - Related Timeline Entries:
+
+## Hamnett 1994 p.267 Dramatis Personae Locator
+
+Hamnett's Almonte entry repeats his Regency Council connection and places it within a longer trajectory from independence-era lineage through conservative diplomacy to the Maximilian regime.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3332]], [[FACT_HAMNETT_JUAREZ_3333]], [[FACT_HAMNETT_JUAREZ_3334]]
+- Cautions: Distinguish the 1863–64 Regency Council from Maximilian's 1867 emergency Regency plan.

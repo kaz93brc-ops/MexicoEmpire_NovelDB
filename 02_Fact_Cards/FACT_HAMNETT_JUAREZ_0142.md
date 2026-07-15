@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0142"
 type: "fact_card"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-06-20"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;alaman;conservatism"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -76,3 +76,11 @@ Hamnettによれば、Lucas Alamánに代表される潮流は、colonial eraに
 - Themes: [[Hispanic_Catholic_Foundations|Hispanic Catholic Foundations]], [[Colonial_Legacy|Colonial Legacy]], [[Mexican_Conservatism|Mexican conservatism]]
 - Related Fact Cards: 
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0009]]
+
+## Hamnett 1994 p.267 Dramatis Personae Locator
+
+Hamnett's person entry again links Alamán's positive valuation of colonial order to his conservative state-building outlook.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- New related Fact Cards: [[FACT_HAMNETT_JUAREZ_3330]], [[FACT_HAMNETT_JUAREZ_3331]]
+- Cautions: Keep the evaluation of colonial order separate from the independently verifiable party and industrial-policy claims.

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0118"
 type: "fact_card"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-06-20"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;constitution-1812"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -79,3 +79,9 @@ Constitution of March 1812は、imperial parliament / Cortesをunicameralな機�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0008]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0054]]
 
+## Hamnett 1994 p.266 Glossary Locator
+
+Hamnett's Glossary returns to the 1812 Spanish constitutional model as one side of a comparison with the bicameral 1824 Mexican order and the unicameral design associated with 1857.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- Cautions: Treat the three-constitution comparison as Hamnett's compact Glossary framing; verify the precise constitutional articles separately.

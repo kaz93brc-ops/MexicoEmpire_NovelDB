@@ -48,7 +48,7 @@ Entry note for Political Economy. Verify details in linked Fact Cards and Timeli
 - Places:
 - Events: [[Bourbon_Reforms|Bourbon Reforms]]
 - Themes: [[Landownership]]
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0098|Bourbon reforms後まで経済的連関と政治的連関は補完的だった]], [[FACT_HAMNETT_JUAREZ_1149|Lerdo Law converted rent into interest payments]], [[FACT_HAMNETT_JUAREZ_3299|Hamnett defines hacienda as a market-oriented private estate shaped by regional ecology]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0098|Bourbon reforms後まで経済的連関と政治的連関は補完的だった]], [[FACT_HAMNETT_JUAREZ_1149|Lerdo Law converted rent into interest payments]], [[FACT_HAMNETT_JUAREZ_3299|Hamnett defines hacienda as a market-oriented private estate shaped by regional ecology]], [[FACT_HAMNETT_JUAREZ_3331|Hamnett connects Alaman's statecraft to industrial promotion through Banco de Avio]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]
 - Source Notes:
 - Scenes:

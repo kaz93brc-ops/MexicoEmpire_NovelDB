@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0563"
 type: "fact_card"
 status: "draft"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter3"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -76,3 +76,9 @@ Hamnettは、1853年にSanta AnnaがAlamánおよび保守派と連携して復�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0028]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0250]]
 
+## Hamnett 1994 p.267 Dramatis Personae Locator
+
+The Alamán entry identifies his connection to Santa Anna's final administration as part of the compact biographical reference.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- Cautions: Use the chapter narrative and independent sources for the office, dates, and policy content.

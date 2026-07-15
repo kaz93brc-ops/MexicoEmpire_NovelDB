@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2932
+- hamnett_fact_cards: 2938
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 136 / confirm whether p.265 `tierras baldías` continues, whether Glossary proceeds with T or later terms, and whether the next spread changes section; local pp.146-147 gap remains unless handled elsewhere
+- next_required_page: screenshot 137 / confirm the continuation of the Ignacio Altamirano entry, identify the next person in Dramatis Personae, and verify that the Glossary ended on p.266; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -98,6 +98,7 @@ tags:
 - MARSHAL BAZAINE AND THE FRENCH RESPONSE continuation: 8
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / NOTES AND REFERENCES: 7
 - Chapter 6 / JUÁREZ AND THE STATE GOVERNORS: 6
+- Dramatis Personae: 6
 - Chapter 1: 5
 - Chapter 6 / JUÁREZ AND CONGRESS: 5
 - Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT? conclusion: 5
