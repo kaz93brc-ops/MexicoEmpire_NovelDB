@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2917
+- hamnett_fact_cards: 2932
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 135 / confirm GLOSSARY continuation after p.263, identify the next term range, and locate the porfirismo entry; local pp.146-147 gap remains unless handled elsewhere
+- next_required_page: screenshot 136 / confirm whether p.265 `tierras baldías` continues, whether Glossary proceeds with T or later terms, and whether the next spread changes section; local pp.146-147 gap remains unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -71,6 +71,7 @@ tags:
 - FÉLIX DÍAZ IN CONTROL OF OAXACA (1867-71): 24
 - PREFACE: 23
 - Chapter 3 / JUÁREZ AND LIBERALISM: 23
+- Glossary: 23
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE INSTITUTE OF SCIENCE AND ARTS: 22
 - "LIBERAL DIVISIONS IN PUEBLA" continuation: 22
 - Chapter 1 / Mexican Constitutionalism: 21
@@ -95,7 +96,6 @@ tags:
 - Chapter 6 / THE JUÁREZ REGIME IN VERACRUZ: 8
 - Chapter 6 / JUÁREZ AND CONGRESS closing: 8
 - MARSHAL BAZAINE AND THE FRENCH RESPONSE continuation: 8
-- Glossary: 8
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / NOTES AND REFERENCES: 7
 - Chapter 6 / JUÁREZ AND THE STATE GOVERNORS: 6
 - Chapter 1: 5

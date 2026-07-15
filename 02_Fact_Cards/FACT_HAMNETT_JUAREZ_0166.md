@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0166"
 type: "fact_card"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;siete-leyes"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -75,4 +75,9 @@ Hamnettは、1836年のSiete Leyesが新しい中央集権体制の憲法的基�
 - Related Fact Cards: 
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0010]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0072]], [[TIME_HAMNETT_JUAREZ_0074]], [[TIME_HAMNETT_JUAREZ_0073]]
+
+## Glossary Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0135|Glossary pp.264–265]] again identifies the 1836 `Siete Leyes` as the centralist constitutional reaction to the 1824 federal order.
+- Planned `FACT_HAMNETT_JUAREZ_3326` was held because this card already carries the claim; the exact structure of the laws remains `verification_needed: yes`.
 

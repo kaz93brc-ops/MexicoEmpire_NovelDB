@@ -40,3 +40,9 @@ Use as a factional label for Santa Anna-aligned actors only when the source cont
 - People: [[Antonio_Lopez_de_Santa_Anna]]
 - Events: [[Federal_Constitution_of_1824]], [[Constitution_Of_1857]], [[Revolution_of_Ayutla]]
 - Themes: [[Constitutionalism_Of_1857]], [[Santa_Anna_Regime]]
+
+## Hamnett 1994 p.265 Glossary Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0135]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3324]]
+- Note: The Glossary treats santanistas as Santa Anna supporters or personal clients, especially in Veracruz; do not infer a single centralized party.

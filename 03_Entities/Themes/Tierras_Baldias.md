@@ -38,3 +38,10 @@ Use this theme to show how liberal state-building, local administration, land cl
 - Capture: [[CAP_HAMNETT_JUAREZ_0039]]
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0842]]
 - Themes: [[Jefe_Politico]], [[State_Level_Politics]], [[Caciquismo_And_Regional_Power]], [[Corporate_Property_Vs_Individual_Property]]
+
+## Hamnett 1994 pp.264–265 Glossary Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0135]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3327]], [[FACT_HAMNETT_JUAREZ_1648]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0561]]
+- Note: The Glossary connects `tierras baldías` to privatization and sale under Reform-era law and repeats the 22 July 1863 San Luis Potosí decree; distinguish unoccupied, communal, public, and privately used land pending legal verification.

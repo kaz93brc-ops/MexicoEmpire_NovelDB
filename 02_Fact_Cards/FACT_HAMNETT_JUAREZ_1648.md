@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1648"
 type: "fact_card"
 status: "draft"
 created: "2026-07-03"
-updated: "2026-07-03"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter6;historical-fact"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -67,4 +67,9 @@ The land-grant policy operated through Juárez's San Luis Potosí decree of 22 J
 - Themes: [[Tierras_Baldias|tierras baldías]], [[Landownership]], [[Federal_State_Tension|Federal-state tension]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0071]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0561]]
+
+## Glossary Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0135|Glossary pp.264–265]] repeats the 22 July 1863 San Luis Potosí decree in the `tierras baldías` entry.
+- Planned `FACT_HAMNETT_JUAREZ_3328` was held because this card already records the decree, location, and land-alienation claim; official title and exact text remain unverified.
 

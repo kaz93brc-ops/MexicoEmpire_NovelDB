@@ -14,8 +14,8 @@ tags:
 
 - generated_stubs: 2234
 - backlink_10_plus: 372
-- backlink_5_9: 317
-- backlink_2_4: 629
+- backlink_5_9: 318
+- backlink_2_4: 628
 - backlink_1_low_priority: 916
 - backlink_0: 0
 
@@ -27,12 +27,12 @@ tags:
 - [[State_Governments|state governments]] - backlinks: 257; quality_sections: yes
 - [[United_States_Government|United States government]] - backlinks: 235; quality_sections: yes
 - [[Oaxaca_Politics|Oaxaca politics]] - backlinks: 223; quality_sections: yes
-- [[Sebastian_Lerdo_De_Tejada|Sebastián Lerdo de Tejada]] - backlinks: 211; quality_sections: yes
+- [[Sebastian_Lerdo_De_Tejada|Sebastián Lerdo de Tejada]] - backlinks: 215; quality_sections: yes
 - [[Jesus_Gonzalez_Ortega|Jesús González Ortega]] - backlinks: 194; quality_sections: yes
-- [[Isthmus_Of_Tehuantepec|Isthmus of Tehuantepec]] - backlinks: 178; quality_sections: yes
+- [[Isthmus_Of_Tehuantepec|Isthmus of Tehuantepec]] - backlinks: 179; quality_sections: yes
 - [[Historiography_Of_Juarez|Historiography of Juárez]] - backlinks: 173; quality_sections: yes
 - [[American_Civil_War|American Civil War]] - backlinks: 169; quality_sections: yes
-- [[San_Luis_Potosi|San Luis Potosí]] - backlinks: 162; quality_sections: yes
+- [[San_Luis_Potosi|San Luis Potosí]] - backlinks: 164; quality_sections: yes
 - [[War_Finance|war finance]] - backlinks: 158; quality_sections: yes
 - [[Public_Debt|Public Debt]] - backlinks: 119; quality_sections: yes
 - [[Liberal_Party|Liberal Party]] - backlinks: 117; quality_sections: yes
@@ -42,7 +42,7 @@ tags:
 - [[Provincial_Politics|Provincial politics]] - backlinks: 110; quality_sections: yes
 - [[Treason_And_Political_Legitimacy|treason and political legitimacy]] - backlinks: 106; quality_sections: yes
 - [[European_Intervention|European intervention]] - backlinks: 105; quality_sections: yes
-- [[Guerrero]] - backlinks: 102; quality_sections: yes
+- [[Guerrero]] - backlinks: 104; quality_sections: yes
 - [[Restored_Republic|Restored Republic]] - backlinks: 90; quality_sections: yes
 - [[Michoacan|Michoacán]] - backlinks: 89; quality_sections: yes
 - [[Washington]] - backlinks: 87; quality_sections: yes
@@ -56,7 +56,7 @@ tags:
 - [[Abraham_Lincoln|Abraham Lincoln]] - backlinks: 76; quality_sections: yes
 - [[French_Imperial_Policy|French imperial policy]] - backlinks: 76; quality_sections: yes
 - [[Juarez_Cabinet|Juárez cabinet]] - backlinks: 74; quality_sections: yes
-- [[Agrarian_Question|Agrarian Question]] - backlinks: 70; quality_sections: yes
+- [[Agrarian_Question|Agrarian Question]] - backlinks: 72; quality_sections: yes
 - [[Republican_Legitimacy|republican legitimacy]] - backlinks: 70; quality_sections: yes
 - [[European_Powers|European powers]] - backlinks: 69; quality_sections: yes
 - [[Monterrey]] - backlinks: 68; quality_sections: yes
@@ -70,8 +70,8 @@ tags:
 - [[Cuba]] - backlinks: 62; quality_sections: yes
 - [[Guanajuato]] - backlinks: 62; quality_sections: yes
 - [[Political_Legitimacy|political legitimacy]] - backlinks: 62; quality_sections: yes
+- [[Rural_Rebellions|Rural Rebellions]] - backlinks: 62; quality_sections: yes
 - [[New_Orleans|New Orleans]] - backlinks: 61; quality_sections: yes
-- [[Rural_Rebellions|Rural Rebellions]] - backlinks: 61; quality_sections: yes
 - [[American_Civil_War_Border_Context|American Civil War border context]] - backlinks: 59; quality_sections: yes
 - [[Rafael_Martinez_De_La_Torre|Rafael Martínez de la Torre]] - backlinks: 58; quality_sections: yes
 - [[Death_Sentence_Against_Maximilian|death sentence against Maximilian]] - backlinks: 55; quality_sections: yes
@@ -80,21 +80,21 @@ tags:
 - [[Pope_Pius_IX|Pope Pius IX]] - backlinks: 53; quality_sections: yes
 - [[Juarez_Legitimacy|Juárez legitimacy]] - backlinks: 52; quality_sections: yes
 - [[Land_Conflict|land conflict]] - backlinks: 52; quality_sections: yes
-- [[Mexican_Military_Factions|Mexican military factions]] - backlinks: 48; quality_sections: yes
+- [[Mexican_Military_Factions|Mexican military factions]] - backlinks: 49; quality_sections: yes
 - [[Oaxaca_Governorship|Oaxaca governorship]] - backlinks: 48; quality_sections: yes
 - [[Juarez_Private_Life|Juárez private life]] - backlinks: 47; quality_sections: yes
 - [[Papacy]] - backlinks: 47; quality_sections: yes
 - [[Republican_Army|republican army]] - backlinks: 47; quality_sections: yes
+- [[Rural_Communities_And_Land_Claims|Rural Communities And Land Claims]] - backlinks: 45; quality_sections: yes
 - [[US_Foreign_Policy|US foreign policy]] - backlinks: 45; quality_sections: yes
 - [[Catholic_Church_In_Mexico|Catholic Church in Mexico]] - backlinks: 44; quality_sections: yes
 - [[Jose_Joaquin_de_Herrera|José Joaquín de Herrera]] - backlinks: 44; quality_sections: yes
 - [[Liberal_Cooptation_Under_Maximilian|Liberal cooptation under Maximilian]] - backlinks: 43; quality_sections: yes
-- [[Rural_Communities_And_Land_Claims|Rural Communities And Land Claims]] - backlinks: 43; quality_sections: yes
+- [[State_Violence|state violence]] - backlinks: 43; quality_sections: yes
 - [[French_Forces|French forces]] - backlinks: 42; quality_sections: yes
-- [[State_Violence|state violence]] - backlinks: 42; quality_sections: yes
 - [[European_Diplomacy|European diplomacy]] - backlinks: 41; quality_sections: yes
+- [[Liberal_Opposition|Liberal opposition]] - backlinks: 41; quality_sections: yes
 - [[US_Mexico_Border|US-Mexico border]] - backlinks: 41; quality_sections: yes
-- [[Liberal_Opposition|Liberal opposition]] - backlinks: 40; quality_sections: yes
 - [[Mexican_American_War|Mexican-American War]] - backlinks: 40; quality_sections: yes
 - [[Mexican_Monarchist_Proposal|Mexican monarchist proposal]] - backlinks: 40; quality_sections: yes
 - [[Treaty_Of_Miramar|Treaty of Miramar]] - backlinks: 40; quality_sections: yes
@@ -346,6 +346,7 @@ tags:
 - [[Matamoros_Campaign|Matamoros campaign]] - backlinks: 11; quality_sections: yes
 - [[Maximilians_Contemplated_Abdication|Maximilian’s contemplated abdication]] - backlinks: 11; quality_sections: yes
 - [[Mejia|Mejía]] - backlinks: 11; quality_sections: yes
+- [[Mestizo_Nationality|Mestizo nationality]] - backlinks: 11; quality_sections: yes
 - [[Mexican_Conservatism|Mexican conservatism]] - backlinks: 11; quality_sections: yes
 - [[Monarchy_Project|monarchy project]] - backlinks: 11; quality_sections: yes
 - [[Oaxaca_Military_Command|Oaxaca military command]] - backlinks: 11; quality_sections: yes
@@ -379,7 +380,6 @@ tags:
 - [[Maximilian_May_1856_Diplomatic_Mission_To_France|Maximilian May 1856 diplomatic mission to France]] - backlinks: 10; quality_sections: yes
 - [[Maximilians_Indigenous_Policy|Maximilian’s indigenous policy]] - backlinks: 10; quality_sections: yes
 - [[Maximilians_Queretaro_Headquarters|Maximilian’s Querétaro headquarters]] - backlinks: 10; quality_sections: yes
-- [[Mestizo_Nationality|Mestizo nationality]] - backlinks: 10; quality_sections: yes
 - [[Monroe_Doctrine_Context|Monroe Doctrine context]] - backlinks: 10; quality_sections: yes
 - [[Morelia_Visit|Morelia visit]] - backlinks: 10; quality_sections: yes
 - [[Napoleon_III_Intervention_Of_March_1864|Napoleon III intervention of March 1864]] - backlinks: 10; quality_sections: yes

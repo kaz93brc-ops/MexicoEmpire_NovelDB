@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0064"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-06-20"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter1;reforma;secularization"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -71,6 +71,7 @@ Hamnettの整理では、Reforma期にChurch subordination、property appropriat
 - [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] independently labels the Reform Period as 1855–1876.
 - Locator: p.253 / `/page/252/mode/2up` / `スクリーンショット 2026-06-13 17.31.07.jpeg`.
 - The period remains `author_interpretation / probable / verification_needed: yes`; planned Fact3155 was held in favor of [[FACT_HAMNETT_JUAREZ_0135|0135]].
+- [[CAP_HAMNETT_JUAREZ_0135|Glossary pp.264–265]] independently repeats the 1855–1876 periodization; no new Timeline entry was created.
 
 ## Evidence Notes
 

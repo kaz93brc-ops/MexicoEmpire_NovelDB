@@ -38,7 +38,7 @@ Use as a myth-critical theme, not as a flat explanation of the marriage.
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0314|Later biography made the Juárez-Maza marriage a symbol of mestizo nationality]], [[FACT_HAMNETT_JUAREZ_1721|Juárez's origins may have resonated with the mestizo-Indian majority]], [[FACT_HAMNETT_JUAREZ_1733|Hamnett stresses non-European resistance to European empire]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0314|Later biography made the Juárez-Maza marriage a symbol of mestizo nationality]], [[FACT_HAMNETT_JUAREZ_1721|Juárez's origins may have resonated with the mestizo-Indian majority]], [[FACT_HAMNETT_JUAREZ_1733|Hamnett stresses non-European resistance to European empire]], [[FACT_HAMNETT_JUAREZ_3313|Hamnett treats mestizos as a social category involving cultural assimilation]]
 - Timeline Entries:
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0017]], [[CAP_HAMNETT_JUAREZ_0074]]
 - Scenes:

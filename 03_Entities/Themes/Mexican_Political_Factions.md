@@ -27,7 +27,7 @@ Entry note for Mexican political factions. Keep historical evidence, interpretat
 - Places:
 - Events:
 - Themes: [[Factionalism]]
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_2755|Hamnett criticizes Plan accusations]], [[FACT_MEXEMP_0458|Bourdillonはメキシコに政党ではなく権力派閥しかないと見た]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_2755|Hamnett criticizes Plan accusations]], [[FACT_HAMNETT_JUAREZ_3312|Hamnett defines lerdistas as Sebastian Lerdo supporters distinct from juaristas and porfiristas]], [[FACT_HAMNETT_JUAREZ_3317|Hamnett defines porfiristas as post-1867 Diaz supporters opposed to Juarez]], [[FACT_MEXEMP_0458|Bourdillonはメキシコに政党ではなく権力派閥しかないと見た]]
 - Timeline Entries:
 - Source Notes:
 - Scenes:
