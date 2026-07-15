@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2957
+- hamnett_fact_cards: 2971
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 139 / continue the incomplete Valentín Gómez Farías entry on p.272, identify the following Dramatis Personae entries on pp.272-273, and preserve the local pp.146-147 gap unless handled elsewhere
+- next_required_page: screenshot 140 / confirm whether a separate Sebastián Lerdo de Tejada or other Lerdo / later-L entry follows the apparently complete Miguel Lerdo de Tejada entry on p.273, continue Dramatis Personae on pp.274-275, and preserve the local pp.146-147 gap unless handled elsewhere
 
 ## Fact Cards By Section
 
@@ -55,6 +55,7 @@ tags:
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / NATIONALISM, SECULARISM AND PLURALISM: 36
 - Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ IN THE LIBERAL CONSTELLATION: 35
 - THE EXECUTION OF MAXIMILIAN: 33
+- DRAMATIS PERSONAE: 33
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE ESCALATION OF CONFLICT AND THE CIVIL WAR OF THE REFORM: 32
 - Chapter 4 / THE CONSTITUTION OF 1857: 31
 - THE EXECUTION OF MAXIMILIAN continuation: 31
@@ -78,7 +79,6 @@ tags:
 - "SOCIAL MOVEMENTS AND THE AGRARIAN QUESTION": 21
 - THE DEATH OF JUÁREZ - JULY 1872: 20
 - chapter opening / "THE LATER JUÁREZ": 19
-- DRAMATIS PERSONAE: 19
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / GOVERNOR JUÁREZ AND THE BISHOP OF OAXACA: 18
 - THE VICTORY OF THE JUARISTAS conclusion: 18
 - CONSTITUTIONAL REFORM REVIVED: 18

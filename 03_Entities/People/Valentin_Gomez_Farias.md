@@ -100,4 +100,13 @@ Hamnett p.119 introduces Benito Gómez Farías in Degollado's network; this crea
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0069]], [[TIME_HAMNETT_JUAREZ_0070]]
 - Related Events: [[Gomez_Farias_Liberal_Experiment|Gómez Farías Liberal experiment]], [[Gomez_Farias_Reforms|Gómez Farías reforms]]
 - Related Theme: [[Liberal_Anticlericalism|Liberal anticlericalism]]
-- Cautions: The p.271 entry is incomplete and continues to p.272; defer the full person-reference summary until screenshot 139 is checked.
+- Cautions: This p.271 locator preserves the former incomplete state; [[CAP_HAMNETT_JUAREZ_0139]] resolves the continuation on p.272.
+
+## Hamnett 1994 p.272 Dramatis Personae Continuation
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0139]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3390]], [[FACT_HAMNETT_JUAREZ_3391]]
+- Related People: [[Jose_Maria_Luis_Mora|José María Luis Mora]]
+- Related Events: [[Treaty_Of_Guadalupe_Hidalgo]], [[Constituent_Congress_Of_1856_1857]]
+- Note: p.271からの項目はp.272上部で完結し、初期自由主義・亡命後の政治活動・Reforma前史へ接続する。
+- Cautions: 政治分類、帰国年、条約反対、制憲議会参加を別史料で確認する。

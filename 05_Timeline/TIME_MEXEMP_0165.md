@@ -3,7 +3,7 @@ id: "TIME_MEXEMP_0165"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-03"
-updated: "2026-06-03"
+updated: "2026-07-16"
 tags:
   - "timeline"
   - "chapter2"
@@ -64,6 +64,10 @@ related_fact_cards:
 - Page: Kindle PC 147/400ページ
 - Kindle location: No.2053/7062
 - Screenshot file: スクリーンショット 2026-05-31 13.08.31.png
+
+## Hamnett Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0139|Hamnett, Dramatis Personae p.273]] provides the First Empire person-reference context used to compare Iturbide's imperial trajectory with Maximilian's Second Empire.
 
 ## Evidence Notes
 

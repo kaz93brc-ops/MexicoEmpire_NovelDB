@@ -3,7 +3,7 @@ id: "PERSON_VICENTE_GUERRERO"
 type: "person"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-06-21"
+updated: "2026-07-16"
 tags:
   - "person"
   - "mexican-republic"
@@ -77,3 +77,11 @@ p.45では、HamnettがJuárezの国家構想をHidalgo、Morelos、Guerrero以�
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0520]]
 - Related Themes: [[Republican_Sovereignty_And_Colonial_Inheritance]], [[Mexican_Liberalism_and_Nationalism]]
 - Cautions: この系譜化はHamnettの解釈として扱い、Guerrero本人の政治的立場・政権経験との差を消さない。
+
+## Hamnett 1994 p.272 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0139]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3392]], [[FACT_HAMNETT_JUAREZ_3393]], [[FACT_HAMNETT_JUAREZ_3394]]
+- Related People: [[Jose_Maria_Morelos]], [[Agustin_De_Iturbide]], [[Nicolas_Bravo]]
+- Note: Morelos勢力、1815年以後の南部抵抗、Plan of Iguala、失脚と司法的殺害評価を独立前史・合法性問題へ接続する。
+- Cautions: 「judicial murder」はHamnett評価であり、裁判・処刑経過を別途確認する。

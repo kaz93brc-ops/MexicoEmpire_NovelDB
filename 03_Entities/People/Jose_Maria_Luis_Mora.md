@@ -3,7 +3,7 @@ id: "PERSON_JOSE_MARIA_LUIS_MORA"
 type: "person"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-06-20"
+updated: "2026-07-16"
 tags:
   - "person"
   - "mexican-liberalism"
@@ -38,3 +38,10 @@ Former cleric and Liberal political philosopher. Hamnettの整理では、Spanis
 ## Cautions
 
 思想分類はHamnettの整理として扱う。Mora本人の原典、政治活動、Churchとの関係は別史料で確認する。
+
+## Hamnett 1994 p.272 Dramatis Personae Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0139]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3390]]
+- Related Person: [[Valentin_Gomez_Farias|Valentín Gómez Farías]]
+- Note: HamnettはGómez FaríasをMoraに近い初期自由主義者として位置づけるが、具体的協働関係は別史料確認が必要。

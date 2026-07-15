@@ -3,7 +3,7 @@ id: "PERSON_MIGUEL_LERDO_DE_TEJADA"
 type: "person"
 status: "stub"
 created: "2026-06-24"
-updated: "2026-07-01"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -187,3 +187,12 @@ Hamnett p.167 says that, after U.S. borrowing failed, the cabinet hesitated in M
 - Related Organizations: [[Juarez_Government]], [[United_States_Government]]
 - Related Themes: [[Public_Debt]], [[War_Finance]], [[Juarez_Cabinet]], [[US_Mexico_Relations]]
 - Cautions: Confirm that this p.167 "Lerdo" is Miguel Lerdo de Tejada and verify the cabinet record.
+
+## Hamnett 1994 p.273 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0139]]
+- Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_0770]], [[FACT_HAMNETT_JUAREZ_0771]], [[FACT_HAMNETT_JUAREZ_1385]]
+- Existing Timeline Entries: [[TIME_HAMNETT_JUAREZ_0317]], [[TIME_HAMNETT_JUAREZ_0318]], [[TIME_HAMNETT_JUAREZ_0479]]
+- Note: 財務省、Ley Lerdo、法人財産政策、VeracruzのJuárez政府への参加を既存カードへ接続した。
+- Held Facts: planned `FACT_HAMNETT_JUAREZ_3405` and `3406` were not created because the existing cards already preserve those claims.
+- Cautions: Sebastián Lerdo de Tejadaと混同せず、Ley Lerdo日付の1856-06-25 / 1856-06-26差と政策目的を確認する。

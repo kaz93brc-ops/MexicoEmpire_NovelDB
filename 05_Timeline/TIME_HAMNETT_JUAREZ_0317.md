@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0317"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-24"
-updated: "2026-06-24"
+updated: "2026-07-16"
 tags: "timeline;hamnett;juarez;chapter3;lerdo"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -57,6 +57,10 @@ Miguel Lerdoが1856年5月から1857年1月まで財務大臣を務めた。
 - Printed page: p.65
 - Archive page: /page/64/mode/2up; Page 64 (79/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.27.50.jpeg
+
+## Dramatis Personae Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0139|p.273]] repeats Miguel Lerdo de Tejada's finance-ministry role; no new Timeline was created.
 
 ## Evidence Notes
 

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0771"
 type: "fact_card"
 status: "draft"
 created: "2026-06-24"
-updated: "2026-06-24"
+updated: "2026-07-16"
 tags: "fact-card;hamnett;juarez;chapter3;lerdo-law"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -76,3 +76,9 @@ Miguel Lerdoは、1856年6月25日のLerdo Lawを、議会の支持を得て発�
 
 - [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] places the 1856-06-25 Ley Lerdo beside the Constituent Congress in the early Reform sequence.
 - Planned `FACT_HAMNETT_JUAREZ_3157` was not created because this card, [[TIME_HAMNETT_JUAREZ_0318|0318]], and [[TIME_HAMNETT_JUAREZ_0416|0416]] preserve the two claims separately.
+
+## Dramatis Personae Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0139|p.273]] repeats Miguel Lerdo de Tejada's association with the Ley Lerdo and corporate-property policy.
+- Planned `FACT_HAMNETT_JUAREZ_3405` was not created because this card and [[TIME_HAMNETT_JUAREZ_0318|0318]] already preserve the claim.
+- The user-supplied candidate date 1856-06-26 differs from this card's 1856-06-25; the existing date remains unchanged pending verification.

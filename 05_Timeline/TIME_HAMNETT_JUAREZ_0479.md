@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0479"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-16"
 tags: "timeline;hamnett;juarez;lerdo"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -65,6 +65,10 @@ Miguel Lerdoが財務・開発大臣としてJuárez内閣の中心を占めた�
 - Printed page: p.121
 - Archive page: /page/120/mode/2up; Page 120 (135/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.28.51.jpeg
+
+## Dramatis Personae Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0139|p.273]] repeats Miguel Lerdo de Tejada's Juárez-government finance role; no new Timeline was created.
 
 ## Evidence Notes
 

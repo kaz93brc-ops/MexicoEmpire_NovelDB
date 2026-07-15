@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-現在はユーザー指定の138枚目として `CAP_HAMNETT_JUAREZ_0138` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は DRAMATIS PERSONAE / printed pages 270-271 / archive `/page/270/mode/2up`。p.269末尾のAnastasio Bustamante項目が続かず、p.270冒頭がCarlos María Bustamanteで始まることを確認し、Bustamante、Comonfort、Degollado、Félix / Porfirio Díaz、Doblado、Dublán、Dubois de Saligny、未完のGómez Farías項目をFact3370-3385と既存Person / Event / Theme / Timeline locatorへ接続した。次回139枚目でp.271末尾のValentín Gómez Farías項目のp.272継続を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
+現在はユーザー指定の139枚目として `CAP_HAMNETT_JUAREZ_0139` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は DRAMATIS PERSONAE / printed pages 272-273 / archive `/page/272/mode/2up`。138枚目p.271末尾から続くValentín Gómez Farías項目がp.272上部で完結することを確認し、Gómez Farías、Guerrero、León Guzmán、Hidalgo、Iglesias、Iturbide、Lacunza、Lafragua、Miguel Lerdo de TejadaをFact3390-3396 / 3398-3404と既存Fact / Person / Event / Theme / Timeline locatorへ接続した。p.273末尾のMiguel Lerdo項目は完結しているように見えるが、次回ページで別のLerdo姓・L以降の人物継続を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-16に139枚目Captureとして [[CAP_HAMNETT_JUAREZ_0139|CAP_HAMNETT_JUAREZ_0139]] を作成。Readinessとユーザー指定はいずれもpp.272-273を指し、138枚目p.271末尾から続くValentín Gómez Farías項目がp.272上部で完結することを確認した。新規Factは[[FACT_HAMNETT_JUAREZ_3390|3390]]-[[FACT_HAMNETT_JUAREZ_3396|3396]]と[[FACT_HAMNETT_JUAREZ_3398|3398]]-[[FACT_HAMNETT_JUAREZ_3404|3404]]。予定3397、3405、3406は既存Hidalgo、Ley Lerdo、Miguel Lerdo / Veracruz Fact・Timelineへlocatorを追加したため未作成。新規Timeline・Entity stub・Relationshipカードは作成せず、既存Person / Theme 10件と既存Fact 4件、Timeline 6件へlocatorを追加した。Iglesiasを移動政府・制度官職・1876年合法性論争、Lacunzaを帝政側文人・法律家・閣僚層、Miguel LerdoをLey Lerdo・法人財産政策・Church-state conflictの制度的人物、Iturbideを第一帝政前史として接続した。p.273末尾のMiguel Lerdo項目は完結しているように見えるが、次ページでLerdo姓・L以降の人物が続くか確認する。人物欄全文、人物略歴全文、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。
 
 2026-07-16に138枚目Captureとして [[CAP_HAMNETT_JUAREZ_0138|CAP_HAMNETT_JUAREZ_0138]] を作成。Readinessとユーザー指定はいずれもpp.270-271を指し、p.269末尾のAnastasio Bustamante項目が続かずp.270冒頭がCarlos María Bustamanteで始まることを確認した。新規Factは[[FACT_HAMNETT_JUAREZ_3370|3370]]-[[FACT_HAMNETT_JUAREZ_3385|3385]]。Comonfortの穏健自由派・制度危機・再統合、Degolladoの自由派軍事ネットワークと休戦論、Félix / Porfirio DíazのOaxaca政治と反Juárez勢力、Dobladoの対仏外交・移動政府、DublánのJuárez協力・帝政参加・復権・Díaz支持、Dubois de Salignyの干渉前史を分離した。Gómez Faríasはp.271末尾で未完のため、開始と次ページ継続だけを3385に記録した。新規Timeline・Entity stub・Relationshipカードは作成せず、既存Person 9件とTimeline 16件へlocatorを追加した。Readinessとの対象矛盾はなく、ローカルpp.146-147 gapは残る。人物欄全文、人物略歴全文、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。
 

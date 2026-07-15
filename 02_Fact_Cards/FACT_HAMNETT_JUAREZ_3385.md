@@ -26,6 +26,7 @@ japanese_note: "詳細な政治経歴・教会国家関係は139枚目確認後�
 creative_use: "このカード単独では人物像を組み立てず、次ページ接続後に利用する。"
 cautions: "incomplete_entry_next_page。人物欄の前半だけで経歴や評価を確定しない。"
 related_capture: "CAP_HAMNETT_JUAREZ_0138"
+continuation_resolved_by: "CAP_HAMNETT_JUAREZ_0139"
 people: ["Valentin_Gomez_Farias", "Antonio_Lopez_de_Santa_Anna"]
 events: ["Gomez_Farias_Liberal_Experiment", "Gomez_Farias_Reforms"]
 places: ["Mexico"]
@@ -66,3 +67,8 @@ p.271ではValentín Gómez Faríasが1830年代・1840年代の自由派指導�
 - Themes: [[Liberal_Anticlericalism|Liberal anticlericalism]], [[Liberal_Factionalism|Liberal factionalism]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0138]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0069]], [[TIME_HAMNETT_JUAREZ_0070]]
+
+## Continuation Resolution
+
+- [[CAP_HAMNETT_JUAREZ_0139|139枚目]]p.272上部でGómez Farías項目の続きと完結を確認した。
+- 詳細は[[FACT_HAMNETT_JUAREZ_3390|3390]]と[[FACT_HAMNETT_JUAREZ_3391|3391]]へ分離し、このカードはp.271の開始・継続記録として保持する。

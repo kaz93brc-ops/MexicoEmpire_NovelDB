@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1385"
 type: "fact_card"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-16"
 tags: "fact-card;hamnett;juarez;chapter6;lerdo"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -79,3 +79,7 @@ Miguel Lerdoは1859年1月から1860年6月まで財務・開発大臣としてJ
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0063]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0479]]
 
+## Dramatis Personae Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0139|p.273]] repeats Miguel Lerdo de Tejada's service in the Juárez government during the Reform War.
+- Planned `FACT_HAMNETT_JUAREZ_3406` was not created because this card and [[TIME_HAMNETT_JUAREZ_0479|0479]] already preserve the claim.
