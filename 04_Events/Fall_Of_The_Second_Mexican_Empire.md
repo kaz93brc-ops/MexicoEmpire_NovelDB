@@ -3,7 +3,7 @@ id: EVT-FALL_OF_THE_SECOND_MEXICAN_EMPIRE
 type: event
 status: draft
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-07-18
 tags:
   - event
 source_id: ""
@@ -56,7 +56,7 @@ Entry note for Fall of the Second Mexican Empire. Verify chronology and actors i
 - Themes: [[Anti_Colonial_Reading_of_1867|Anti-Colonial Reading of 1867]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0011|Latin AmericansはJuárezの抵抗を第二の独立闘争として見た]], [[FACT_HAMNETT_JUAREZ_0012|Hamnettは1867年のJuárez勝利を反植民地主義的勝利として位置付ける]], [[FACT_HAMNETT_JUAREZ_2398|Hamnett links conservative resurgence to moderate return to juaristas]], [[FACT_HAMNETT_JUAREZ_2400|Juarez returned to power in Mexico City in July 1867]], [[FACT_HAMNETT_JUAREZ_3000|Hamnett places the empire beyond recovery by May 1867]], [[FACT_HAMNETT_JUAREZ_3007|The Conservative Party ceased to be a major contender after 1867]], [[FACT_HAMNETT_JUAREZ_3008|Liberalism became the official ideology of the Mexican state]], [[FACT_HAMNETT_JUAREZ_3013|The euphoria of 1867 concealed long-term problems]], [[FACT_HAMNETT_JUAREZ_3130|Favre linked Juarez's victory to the fall of the Second Empire]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0004|1867年、Juárez側の勝利は反植民地主義的勝利として位置付けられる]], [[TIME_HAMNETT_JUAREZ_0810|Mexico City falls and Baz is appointed in the Federal District]], [[TIME_HAMNETT_JUAREZ_0834|Conservatives return to the imperial foreground]], [[TIME_HAMNETT_JUAREZ_0840|Juarez returns to power in Mexico City]], [[TIME_HAMNETT_JUAREZ_0841|Diaz and Marquez military context before late Juarez rivalry]], [[TIME_HAMNETT_JUAREZ_1120|Hamnett places the empire beyond recovery by May 1867]], [[TIME_HAMNETT_JUAREZ_1121|Post-1867 ideological settlement]], [[TIME_HAMNETT_JUAREZ_1194|Favre links Juarez's victory to the fall of the Second Empire]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0102]], [[CAP_HAMNETT_JUAREZ_0103]], [[CAP_HAMNETT_JUAREZ_0124]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0102]], [[CAP_HAMNETT_JUAREZ_0103]], [[CAP_HAMNETT_JUAREZ_0124]], [[CAP_HAMNETT_JUAREZ_0145]]
 - Scenes:
 - Questions:
 
@@ -78,3 +78,10 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - Which linked claims are strong enough for scene design?
 - Which source passages still need page-level verification?
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] supplies broad spatial context among Querétaro, Mexico City, Puebla, Veracruz, San Luis Potosí, and the northern / Gulf republic for the 1867 imperial collapse.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: the map does not depict fronts, control areas, campaign routes, or causal sequence.

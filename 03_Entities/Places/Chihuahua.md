@@ -79,3 +79,10 @@ Hamnett identifies Almada and Tamayo as later guides to Terrazas family power, J
 
 - Locator: p.282 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
 - Caution: Use for orientation only; detailed boundaries require cartographic cross-check.
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] places Chihuahua within the northern republic-wide frame used to orient Juárez's mobile government before its southward return.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: Map 3 does not establish residence dates or the government's route.

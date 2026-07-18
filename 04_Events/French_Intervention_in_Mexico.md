@@ -136,3 +136,10 @@ Chronology pp.258-259 closes the intervention through French withdrawal, Maximil
 - [[CAP_HAMNETT_JUAREZ_0142]] uses Prim to show that European intervention was not a single French-led political project and uses Vallarta to connect wartime exile with republican return.
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3457]], [[FACT_HAMNETT_JUAREZ_3466]]
 - Cautions: Keep Spanish withdrawal, French escalation, and Mexican internal politics analytically separate.
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] provides republic-wide geographic context for the Intervention's 1867 endpoint and later republican restoration.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: Map 3 is not a campaign, occupation, withdrawal, or control-area map.

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_3246"
 type: "fact_card"
 status: "draft"
 created: "2026-07-15"
-updated: "2026-07-15"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chronology"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -25,6 +25,8 @@ japanese_note: "Díazの軍事的功績と後の反Juárez政治を時系列上�
 creative_use: "勝利者Díazを後の対立の伏線として登場させられる。"
 cautions: "Mexico City進入の軍事手続と6月21日の日付は既存資料で照合する。"
 related_capture: "CAP_HAMNETT_JUAREZ_0132"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0145"]
+additional_locators: ["Map 3, pp.284–285, /page/284/mode/2up, Page 284 (299/323), スクリーンショット 2026-06-13 17.31.46.jpeg"]
 people: ["Porfirio_Diaz", "Benito_Juarez"]
 events: ["Fall_Of_Puebla", "Siege_Of_Mexico_City"]
 places: ["Puebla", "Mexico_City"]
@@ -65,3 +67,8 @@ Puebla攻略後のPorfirio Díazは1867年6月21日にMexico Cityへ入り、Ju�
 - Themes: [[Imperial_Collapse|imperial collapse]], [[Republican_Victory|republican military victory]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0132]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0810]]
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0145]] supplies broad Puebla–Mexico City orientation and places Veracruz on the Gulf side of that wider axis.
+- Caution: the map does not independently establish Díaz's campaign route, entry sequence, or supply line.

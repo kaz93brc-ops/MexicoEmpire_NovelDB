@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_3241"
 type: "fact_card"
 status: "draft"
 created: "2026-07-15"
-updated: "2026-07-15"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chronology"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -25,6 +25,8 @@ japanese_note: "移動経路は地理的後退と共和政府の制度的継続�
 creative_use: "政府文書・閣僚・軍事報告が都市間を移る場面の骨格に使える。"
 cautions: "各出発・到着日とDurango滞在期間は一次資料で照合する。"
 related_capture: "CAP_HAMNETT_JUAREZ_0132"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0145"]
+additional_locators: ["Map 3, pp.284–285, /page/284/mode/2up, Page 284 (299/323), スクリーンショット 2026-06-13 17.31.46.jpeg"]
 people: ["Benito_Juarez"]
 events: ["French_Intervention_in_Mexico"]
 places: ["Paso_Del_Norte", "Chihuahua", "Durango", "San_Luis_Potosi"]
@@ -65,3 +67,8 @@ Juárez政府は1865年末から1867年初頭にPaso del Norte、Chihuahua City�
 - Themes: [[Republican_Legitimacy|republican legitimacy]], [[Republican_Government_In_Movement|mobile republican government]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0132]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0553]], [[TIME_HAMNETT_JUAREZ_1272]]
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0145]] places Paso del Norte, Chihuahua, and San Luis Potosí within the wider republic and supports geographic orientation for the mobile government.
+- Caution: the map alone does not establish the government's exact route, dates, communications, or administrative reach.

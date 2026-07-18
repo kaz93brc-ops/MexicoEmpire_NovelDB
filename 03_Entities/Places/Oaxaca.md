@@ -115,3 +115,10 @@ Hamnett pp.94-95 places Oaxaca's governor, diocese, city hospitals, Zimatlan, an
 
 - Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
 - Caution: Regional boundaries are map labels and remain verification-needed.
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] places Oaxaca within the southern republic, apart from the capital-centred and north-central axes emphasized for 1867.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: regional power, administrative reach, and the Chiapas / Guatemala relationship require other evidence and Map 2 cross-checking.

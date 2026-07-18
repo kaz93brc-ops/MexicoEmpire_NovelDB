@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0553"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-03"
-updated: "2026-07-15"
+updated: "2026-07-18"
 tags: "timeline;hamnett;juarez;chapter6"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,8 +26,8 @@ verification_needed: "yes"
 event_summary: "Juárez resided in Paso del Norte during the second listed period."
 creative_use: "Use as the second Paso del Norte residence period."
 related_capture: "CAP_HAMNETT_JUAREZ_0070"
-additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
-additional_locators: ["Chronology, p.258, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132", "CAP_HAMNETT_JUAREZ_0145"]
+additional_locators: ["Chronology, p.258, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg", "Map 3, pp.284–285, /page/284/mode/2up, Page 284 (299/323), スクリーンショット 2026-06-13 17.31.46.jpeg"]
 people: ["Benito_Juarez"]
 events: ["French_Intervention_in_Mexico"]
 places: ["Paso_Del_Norte", "Rio_Grande", "El_Paso", "Chihuahua"]
@@ -57,6 +57,10 @@ Juárez resided in Paso del Norte during the second listed period.
 - Printed page: p.135
 - Archive page: /page/134/mode/2up; Page 134 (149/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.29.05.jpeg
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0145]] locates Paso del Norte within the republic-wide map; it does not establish this residence period or the travel route.
 
 ## Evidence Notes
 

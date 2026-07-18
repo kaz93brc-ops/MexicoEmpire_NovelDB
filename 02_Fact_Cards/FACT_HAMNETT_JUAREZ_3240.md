@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_3240"
 type: "fact_card"
 status: "draft"
 created: "2026-07-15"
-updated: "2026-07-15"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chronology"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -25,6 +25,8 @@ japanese_note: "個別事件の確定ではなく、帝政崩壊から共和政�
 creative_use: "帝政崩壊を外交・軍事・政治の段階的収束として構成できる。"
 cautions: "Maximilian中心の悲劇叙述だけにせず、共和派攻勢と移動政府の継続を残す。"
 related_capture: "CAP_HAMNETT_JUAREZ_0132"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0145"]
+additional_locators: ["Map 3, pp.284–285, /page/284/mode/2up, Page 284 (299/323), スクリーンショット 2026-06-13 17.31.46.jpeg"]
 people: ["Benito_Juarez", "Maximilian", "Napoleon_III", "Bazaine"]
 events: ["French_Intervention_in_Mexico", "Fall_of_Queretaro", "Execution_Of_Maximilian_Miramon_And_Mejia"]
 places: ["Orizaba", "Queretaro", "Mexico_City", "Veracruz"]
@@ -65,3 +67,8 @@ HamnettのChronologyはFrench Intervention終盤を、フランス軍撤退、Ma
 - Themes: [[Imperial_Collapse|imperial collapse]], [[Republican_Legitimacy|republican legitimacy]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0132]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0654]], [[TIME_HAMNETT_JUAREZ_0755]], [[TIME_HAMNETT_JUAREZ_0779]], [[TIME_HAMNETT_JUAREZ_0805]], [[TIME_HAMNETT_JUAREZ_0840]]
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0145]] supplies broad spatial orientation among Querétaro, Mexico City, Puebla, Veracruz, and San Luis Potosí for the collapse-to-restoration sequence.
+- Caution: the map does not independently prove chronology, fronts, control zones, routes, or causation.

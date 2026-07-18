@@ -3,7 +3,7 @@ id: "PLACE_MEXICO_CITY"
 type: "place"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-18"
 tags:
   - "place"
   - "mexico-city"
@@ -50,3 +50,10 @@ Mexico City中心性を強調しすぎると地方政治の自律性を見落と
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1428]], [[FACT_HAMNETT_JUAREZ_1456]], [[FACT_HAMNETT_JUAREZ_1429]], [[FACT_HAMNETT_JUAREZ_3180]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0493]], [[TIME_HAMNETT_JUAREZ_0504]], [[TIME_HAMNETT_JUAREZ_0494]]
 - Note: The Chronology distinguishes Liberal recovery of the capital on 1860-12-25 from the Juárez administration's return on 1861-01-11.
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] uses Mexico City as the central anchor for Querétaro to the north-west and Puebla / Veracruz to the east and Gulf side.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: Map 3 does not establish 1867 control periods or campaign routes.

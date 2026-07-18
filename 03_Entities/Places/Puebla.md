@@ -3,7 +3,7 @@ id: "PLACE_PUEBLA"
 type: "place"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-07-04"
+updated: "2026-07-18"
 tags:
   - "place"
   - "puebla"
@@ -56,3 +56,10 @@ Hamnett p.87 identifies Puebla, alongside Mexico City, as a major center of the 
 ## Open Questions
 
 - 各地域の範囲、人口・経済指標、Puebla National Guardの実態。
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] places Puebla inland east of [[Mexico_City|Mexico City]] and west of Gulf-side [[Veracruz]].
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: the map supports a broad geographic axis, not a verified route or supply line.

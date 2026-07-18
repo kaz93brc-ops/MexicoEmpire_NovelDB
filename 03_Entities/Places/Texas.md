@@ -43,3 +43,10 @@ Hamnettは、regionalismをseparatismと同一視しないという論点の中�
 
 - Locator: p.282 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
 - Caution: Map 1 covers 1821-53 political geography and is not a Second Empire campaign map.
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] uses Texas as an external north / north-east reference beside the Mexican border and Gulf connections.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: United States pressure, diplomacy, and logistics require narrative evidence beyond this map.
