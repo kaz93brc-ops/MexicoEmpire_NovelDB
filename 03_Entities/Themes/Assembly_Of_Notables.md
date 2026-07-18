@@ -29,10 +29,15 @@ Entry note for Assembly of Notables. Keep historical evidence, interpretation, a
 - Themes:
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_2049|Forey convened the Assembly of Notables under French military backing]], [[FACT_MEXEMP_0628|CarlotaはAssembly of Notablesと全国的承認を正統性根拠にした]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0702|Forey convenes Assembly of Notables]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0089]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0089]], [[CAP_HAMNETT_JUAREZ_0146]]
 - Scenes:
 - Questions:
 
 ## Source Notes
 
 -
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Index entry provides a route to the French-backed imperial-establishment sequence.
+- Caution: verify composition, authority, and political representation in the cited narrative and other sources.

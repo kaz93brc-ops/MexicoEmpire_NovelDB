@@ -42,3 +42,8 @@ Use as a Veracruz siege episode where Juárez's government relies on U.S. naval 
 - Organizations: [[Juarez_Government]], [[Conservative_Government]], [[US_Navy|U.S. Navy]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1821]], [[FACT_HAMNETT_JUAREZ_1822]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0622]]
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Index supplies an additional locator for the incident.
+- Caution: retain the existing main-text Fact and Timeline evidence; the Index alone does not add chronology or event detail.

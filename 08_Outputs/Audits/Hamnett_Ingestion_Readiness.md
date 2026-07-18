@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 3010
+- hamnett_fact_cards: 3011
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, inspect the page after p.285 to confirm Map 3 and MAPS ending / next-section transition; preserve local pp.146-147 gap
+- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, inspect screenshot 147 / pp.288-289 for Catholic Church continuation and C onward; preserve local pp.146-147 gap
 
 ## Fact Cards By Section
 
@@ -129,6 +129,7 @@ tags:
 - THE COLLAPSE OF THE EMPIRE; THE EXECUTION OF MAXIMILIAN: 1
 - "THE CIVIL WAR IN GUERRERO" opening: 1
 - "THE CIVIL WAR IN GUERRERO" conclusion: 1
+- INDEX: 1
 
 ## Timeline By Section
 

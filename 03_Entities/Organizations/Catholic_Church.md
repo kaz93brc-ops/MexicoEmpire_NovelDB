@@ -230,3 +230,8 @@ Hamnett pp.224-225 records the reported shooting of a Juchitán parish priest an
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0423]], [[TIME_HAMNETT_JUAREZ_0445]]
 - Note: Pius IX's condemnation connects the preceding Ley Juárez / Ley Lerdo sequence to the later Reform Laws and Church-state conflict.
 - Cautions: Verify the papal document type and wording; do not treat the Chronology summary as the primary text.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Catholic Church entry cross-references Juárez, Reform Laws, the Empire, and French Intervention clusters.
+- Caution: the entry reaches the p.287 foot and may continue on pp.288–289; the Index does not establish a single unified Church position.

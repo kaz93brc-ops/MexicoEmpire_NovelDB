@@ -51,3 +51,8 @@ themes:
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_3281]]
 - Note: Glossary identifies the Bases Orgánicas as a centralist constitutional framework authorized under Santa Anna in 1843.
 - Cautions: Verify authorization, promulgation, and implementation separately.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Index provides multiple routes to the Bases Orgánicas across constitutional and centralist discussion.
+- Caution: page clustering is not evidence of implementation or institutional continuity.

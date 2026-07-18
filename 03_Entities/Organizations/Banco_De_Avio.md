@@ -33,3 +33,8 @@ Use as evidence that conservative state-building could include industrial policy
 - Places: [[Orizaba]], [[Veracruz]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_3331]]
 - Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the English rendering `Bank of Development` cross-references `Banco de Avío`.
+- Caution: retain Banco de Avío as the Entity name and verify the institutional context in the cited main text.

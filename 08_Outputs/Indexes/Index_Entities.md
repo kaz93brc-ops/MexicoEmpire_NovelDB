@@ -21,16 +21,16 @@ tags:
 
 ## High-Link Entity Notes
 
-- [[Benito_Juarez|Benito Juarez]] - backlinks: 3451
+- [[Benito_Juarez|Benito Juarez]] - backlinks: 3452
 - [[Mexico]] - backlinks: 2194
 - [[Maximilian]] - backlinks: 2026
 - [[Juarez_Government|Juárez Government]] - backlinks: 1246
-- [[Oaxaca]] - backlinks: 1003
+- [[Oaxaca]] - backlinks: 1004
 - [[Liberal_Factionalism|Liberal Factionalism]] - backlinks: 843
-- [[Mexico_City|Mexico City]] - backlinks: 772
-- [[French_Intervention_in_Mexico|French Intervention in Mexico]] - backlinks: 757
+- [[Mexico_City|Mexico City]] - backlinks: 773
+- [[French_Intervention_in_Mexico|French Intervention in Mexico]] - backlinks: 760
 - [[Mexican_Empire|Mexican Empire]] - backlinks: 704
-- [[Catholic_Church|Catholic Church]] - backlinks: 663
+- [[Catholic_Church|Catholic Church]] - backlinks: 665
 - [[Napoleon_III|Napoleon III]] - backlinks: 595
 - [[Carlota]] - backlinks: 574
 - [[Queretaro]] - backlinks: 518
@@ -50,11 +50,11 @@ tags:
 - [[Federal_Government|federal government]] - backlinks: 335
 - [[Constitutional_Legitimacy|constitutional legitimacy]] - backlinks: 321
 - [[French_Empire|French Empire]] - backlinks: 319
-- [[Second_Mexican_Empire|Second Mexican Empire]] - backlinks: 316
-- [[Bazaine|Achille Bazaine]] - backlinks: 310
+- [[Second_Mexican_Empire|Second Mexican Empire]] - backlinks: 319
+- [[Bazaine|Achille Bazaine]] - backlinks: 312
 - [[Puebla]] - backlinks: 305
 - [[Miguel_Miramon|Miguel Miramón]] - backlinks: 286
-- [[La_Noria_Rebellion|La Noria rebellion]] - backlinks: 279
+- [[La_Noria_Rebellion|La Noria rebellion]] - backlinks: 280
 - [[Melchor_Ocampo|Melchor Ocampo]] - backlinks: 270
 - [[Miguel_Lerdo_De_Tejada|Miguel Lerdo de Tejada]] - backlinks: 259
 - [[State_Governments|state governments]] - backlinks: 257
@@ -63,7 +63,7 @@ tags:
 - [[Caciquismo_And_Regional_Power|Caciquismo and regional power]] - backlinks: 242
 - [[Santiago_Vidaurri|Santiago Vidaurri]] - backlinks: 242
 - [[United_States_Government|United States government]] - backlinks: 238
-- [[Conservative_Party|Conservative Party]] - backlinks: 234
+- [[Conservative_Party|Conservative Party]] - backlinks: 235
 - [[Oaxaca_Politics|Oaxaca politics]] - backlinks: 230
 - [[Imperial_Army|Imperial Army]] - backlinks: 229
 - [[Antonio_Lopez_de_Santa_Anna|Antonio López de Santa Anna]] - backlinks: 226

@@ -116,3 +116,8 @@ The entry links Juan Álvarez's insurgent and Plan of Iguala past to Guerrero ca
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0083]], [[TIME_HAMNETT_JUAREZ_0306]]
 - Related People: [[Diego_Alvarez|Diego Álvarez]], [[Benito_Juarez|Benito Juárez]], [[Vicente_Guerrero|Vicente Guerrero]]
 - Open Questions: Confirm Plan of Iguala participation and the timing and form of liaison with Juárez's government and Liberal forces.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Álvarez entry routes later checking toward Guerrero, Ayutla, Juárez's return, and Liberal regional networks.
+- Caution: confirm each connection in the cited main-text pages before treating it as a historical claim.

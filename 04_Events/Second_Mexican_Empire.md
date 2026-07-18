@@ -105,3 +105,8 @@ Hamnett pp.174-175 resolves the Orozco y Berra continuation, then shows the Empi
 
 - Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
 - Caution: the map does not show imperial territory, republican territory, or changes through 1867.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; Bazaine, Catholic Church, and Assembly of Notables supply selected routes into the Empire's establishment and political constraints.
+- Caution: the Index does not prove that these actors' interests were identical or stable.

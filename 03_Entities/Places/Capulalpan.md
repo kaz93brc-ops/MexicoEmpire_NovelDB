@@ -33,3 +33,8 @@ JuárezとMéndezを、Oaxaca山地・Zapotec世界・鉱業町の背景で接�
 - Places: [[Oaxaca]], [[Northern_Sierra_Oaxaca|Northern Sierra Oaxaca]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0244]]
 
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Index explicitly distinguishes Capulalpan (Oaxaca) from Calpulalpan (Tlaxcala).
+- Caution: do not merge this Oaxaca place with [[Battle_Of_Calpulalpan_1860_12_22|Calpulalpan, Tlaxcala]].
+

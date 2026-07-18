@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-ユーザー指定により145枚目 `CAP_HAMNETT_JUAREZ_0145` / MAPS / printed pages 284–285 / archive `/page/284/mode/2up` まで先行処理済み。ただし140枚目 `CAP_HAMNETT_JUAREZ_0140` / pp.274–275はrepoに未存在で、Readinessの次入口として残す。145枚目ではMap 3 `The Mexican Republic in 1867`を確認し、地図ラベルの網羅的転記やFact乱造を避け、Querétaro–Mexico City、Veracruz–Puebla–Mexico City、San Luis Potosíと移動政府、Matamoros / Tampico / Texas / Gulfなどの相対地理をCaptureと既存Fact / Timeline / Place / Event / Theme locatorへ接続した。予定Fact3496–3502は作成せず保持し、新規Timeline / Entity / Relationshipも作成していない。次ページではMAPS終了と次セクション移行を確認するが、Readiness上は140枚目を優先する。欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` は補完済みで、76枚目/pp.146–147のローカルgapは未確認のまま維持する。
+ユーザー指定により146枚目 `CAP_HAMNETT_JUAREZ_0146` / INDEX / printed pages 286–287 / archive `/page/286/mode/2up` まで先行処理済み。ただし140枚目 `CAP_HAMNETT_JUAREZ_0140` / pp.274–275はrepoに未存在で、Readinessの次入口として残す。146枚目ではp.285でMap 3とMAPSが終了しp.286でIndexが始まることを確認し、A–C前半から人物・制度・事件・主題の選別locatorだけをCaptureと既存Entityへ接続した。Index開始を記録するFact3503のみ作成し、新規Timeline / Entity / Relationshipは作成していない。次のIndex見開きではCatholic Church項目の継続有無とC後半以降を確認するが、Readiness上は140枚目を優先する。欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` は補完済みで、76枚目/pp.146–147のローカルgapは未確認のまま維持する。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-18にユーザー指定の146枚目Captureとして [[CAP_HAMNETT_JUAREZ_0146|CAP_HAMNETT_JUAREZ_0146]] を作成。Readinessは未処理の140枚目pp.274–275を示していたため146を先行処理し、次入口は140のまま維持した。pp.286–287でMap 3 / MAPS終了とIndex開始、A–C前半の範囲を確認し、Index項目・サブ項目・ページ番号は網羅的に転記しなかった。新規FactはIndex開始と範囲だけを記録する [[FACT_HAMNETT_JUAREZ_3503|3503]]。新規Timeline / Entity stub / Relationshipカードは作成せず、Bazaine、Juan Álvarez、Catholic Church、army、caciquismo、Reform Laws、French Intervention、Second Mexican Empire、Banco de Avío、Antón Lizardo等を既存EntityとCapture-level locatorへ接続した。Capulalpan (Oaxaca) と Calpulalpan (Tlaxcala) を分離し、Calles / Cárdenas / Carranzaを1860年代の直接人物へ誤接続しなかった。次のIndex見開きでCatholic Church項目の継続有無とC後半以降を確認する。添付実体 `.png` とcatalog指定 `.jpeg` の差を記録した。本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記、Index全文転記は保存していない。
 
 2026-07-18にユーザー指定の145枚目Captureとして [[CAP_HAMNETT_JUAREZ_0145|CAP_HAMNETT_JUAREZ_0145]] を作成。Readinessは未処理の140枚目pp.274–275を示していたため145を先行処理し、次入口は140のまま維持した。pp.284–285 Map 3 `The Mexican Republic in 1867`を、戦線・支配領域図ではなく1867年共和国の広域位置参照として整理した。Querétaro–Mexico City、Veracruz–Puebla–Mexico City、San Luis Potosíと移動政府、Matamoros / Tampico / Texas / Gulf、Oaxacaと南部の相対地理をCaptureと既存Fact3240、3241、3246、2253、2330、Timeline0553、1272、0779、0805、0810、0840、主要Place / Event / Themeへ接続した。予定Fact3496–3502は地図補助資料として保持し、新規Fact / Timeline / Entity stub / Relationshipカードは作成しなかった。El Paso del Norte、Guaymas、Tampico、Matamorosは既存Placeを再利用し、軽微な地名・州名は候補に留めた。次ページでMap 3とMAPS終了、次セクション移行を確認する。本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記、凡例全文、地図ラベル・州名・都市名の網羅的転記は保存していない。
 

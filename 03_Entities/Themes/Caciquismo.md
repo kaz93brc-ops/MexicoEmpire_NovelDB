@@ -63,3 +63,8 @@ Hamnett continues the p.261 cacique / cacicazgo cluster by defining caciquismo a
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_3290]]
 - Related Themes: [[Clientelism]], [[Patron_Client_Networks|patron-client networks]], [[Regional_Elites|regional elites]]
 - Cautions: Treat this as an author-supplied analytical category, not a universal label for local politics.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; `cacicazgo`, `caciques`, and `caciquismo` form a selected cross-reference cluster for regional power and popular politics.
+- Caution: keep the three terms analytically distinct until their cited main-text uses are checked.

@@ -60,3 +60,8 @@ Use as a legislative turning point tied to Veracruz politics, Church property, c
 - Capture: [[CAP_HAMNETT_JUAREZ_0133]]
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_3280]]
 - Note: The bienes nacionales entry supplies a compact terminology cross-reference to the 1859 Church-property nationalization framework; the Glossary definition is not a substitute for the individual laws.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Catholic Church and bienes nacionales entries provide routes back to Reform Laws, Church property, and jurisdiction passages.
+- Caution: Index locators do not establish the content, sequence, implementation, or reception of individual laws.

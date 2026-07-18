@@ -143,3 +143,8 @@ Chronology pp.258-259 closes the intervention through French withdrawal, Maximil
 
 - Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
 - Caution: Map 3 is not a campaign, occupation, withdrawal, or control-area map.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; Bazaine and Catholic Church entries provide selected routes into the Intervention narrative.
+- Caution: use the cited main-text pages to distinguish French policy, military command, Mexican allies, Church actors, and republican resistance.

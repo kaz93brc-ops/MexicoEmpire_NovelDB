@@ -177,3 +177,8 @@ Hamnett summarizes Bazaine's command of the French Expeditionary Force in Mexico
 - Related People: [[Maximilian]], [[Miguel_Miramon|Miguel Miramón]]
 - Related Organizations: [[French_Expeditionary_Force|French Expeditionary Force]], [[Mexican_Conservatives|Mexican conservatives]], [[Catholic_Hierarchy|Catholic hierarchy]]
 - Open Questions: Confirm command dates and the documentary basis, timing, and targets of the distrust assessment.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Bazaine entry supplies a broad locator cluster for the French Intervention, Second Empire, and withdrawal/endgame pages.
+- Caution: the Index cluster does not itself establish Bazaine's actions, motives, or relations with Maximilian and the Church.
