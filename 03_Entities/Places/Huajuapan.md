@@ -3,7 +3,7 @@ id: "PLACE_HUAJUAPAN"
 type: "place"
 status: "stub"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-18"
 tags:
   - "place"
   - "hamnett"
@@ -38,11 +38,17 @@ Use this as an entry point for scene design after checking the linked evidence.
 
 - People:
 - Organizations:
-- Places:
+- Places: [[Mixteca_Baja|Mixteca Baja]]
 - Events: [[Oaxaca_National_Guard_Reconstruction_1847_1849|Oaxaca National Guard Reconstruction 1847 1849]]
 - Themes:
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0288|León took Oaxaca city on 21 June 1834]], [[FACT_HAMNETT_JUAREZ_0332|León family influence rested on Mixteca Baja goat herding]], [[FACT_HAMNETT_JUAREZ_0432|Armed force organization extended to several Oaxaca districts]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0131|León led militia forces from Huajuapan and took control of the Oaxaca state capital under the Plan of Cuernavaca.]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0016]], [[CAP_HAMNETT_JUAREZ_0018]], [[CAP_HAMNETT_JUAREZ_0022]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0016]], [[CAP_HAMNETT_JUAREZ_0018]], [[CAP_HAMNETT_JUAREZ_0022]], [[CAP_HAMNETT_JUAREZ_0144]]
 - Scenes:
 - Questions:
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] uses Huajuapan as the main north-western reference point within [[Mixteca_Baja]], north of the west-to-Oaxaca chain and linked outward toward Tehuacán.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.

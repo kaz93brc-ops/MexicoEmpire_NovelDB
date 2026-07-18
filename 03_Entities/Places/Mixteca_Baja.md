@@ -3,7 +3,7 @@ id: "PLACE_MIXTECA_BAJA"
 type: "place"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-18"
 tags:
   - "place"
   - "oaxaca"
@@ -34,3 +34,9 @@ Oaxaca州政治を中央盆地以外から動かす地域として使える。
 - Places: [[Oaxaca]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0230]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0099]], [[TIME_HAMNETT_JUAREZ_0103]]
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places Mixteca Baja in north-west Oaxaca around [[Huajuapan]], near the external Tehuacán / Puebla connection and north of the principal west-to-Oaxaca chain.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.

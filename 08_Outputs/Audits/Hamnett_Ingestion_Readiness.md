@@ -15,7 +15,7 @@ tags:
 
 - hamnett_fact_cards: 3010
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, continue screenshot 144 / pp.282-283 to verify Map 1 and Map 2 titles, dates, and DB connections; preserve local pp.146-147 gap
+- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, continue screenshot 145 / p.284 to verify Map 3, The Mexican Republic in 1867; preserve local pp.146-147 gap
 
 ## Fact Cards By Section
 
@@ -222,7 +222,7 @@ tags:
 
 ## Next Checks From Progress Master
 
-- screenshot 140 / pp.274-275 remains the Readiness entry. After 140, inspect screenshot 143 / pp.280-281 to complete the Manuel María Zamacona y Murphy entry and confirm his Juárez-government foreign-relations office, term, and later political activity.
+- screenshot 140 / pp.274-275 remains the Readiness entry. Screenshot 144 / pp.282-283 Map 1 and Map 2 is processed out of sequence; after 140, inspect screenshot 145 / p.284 for Map 3, The Mexican Republic in 1867, and its Mexico City / Veracruz / Puebla / Querétaro connections.
 - "Ten days later" の基準日、Wyke-Zamacona Treatyの正式名称・条項・議会否認日を確認する。
 - printed pages 258-259で、1866-67年、米国圧力、フランス撤退、Maximilian孤立、Querétaro、捕縛、軍法会議、処刑、共和政復帰へのChronology接続を確認する。
 - Favreの1867年12月2日発言原文・会議録、Weeksの正式書誌・刊行地、Covo／Salomon研究、APBJPS 1928年刊行情報、Díaz政権のJuárez神話利用開始時期を確認する。

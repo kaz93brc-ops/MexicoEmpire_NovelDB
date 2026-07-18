@@ -3,7 +3,7 @@ id: "PLACE_IXTLAN"
 type: "place"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-07-12"
+updated: "2026-07-18"
 tags:
   - "place"
   - "oaxaca"
@@ -44,3 +44,9 @@ Hamnett p.222 says mining interests in the Ixtlán district opposed the expandin
 - Related Places: [[Oaxaca]], [[Northern_Sierra_Oaxaca|northern sierra of Oaxaca]]
 - Related Themes: [[Oaxaca_Economy|Oaxaca economy]], [[Regional_Economy|regional economy]], [[Oaxaca_Politics|Oaxaca politics]]
 - Cautions: Confirm 19th-century district boundaries, mining actors, and source basis.
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places Ixtlán in the Northern Highlands north-east of [[Oaxaca_City|Oaxaca City]] and eastward of [[Guelatao]].
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.

@@ -3,7 +3,7 @@ id: "PLC-NEW_MEXICO"
 type: "place"
 status: "stub"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-18"
 tags:
   - "place"
   - "hamnett"
@@ -38,3 +38,9 @@ Use as the nearby U.S. refuge Juárez politely refused, preserving a sovereignty
 - Timeline Entries:
 - Themes: [[US_Mexico_Relations]], [[Sovereignty_of_the_Nation]]
 
+## Hamnett 1994 Map 1 p.282 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] shows New Mexico within the 1848 lost territory, north of [[Sonora]] and [[Chihuahua]], west of [[Texas]], and east of Upper California.
+
+- Locator: p.282 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: Relative placement is map-derived; no detailed border claim is added.

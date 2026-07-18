@@ -3,7 +3,7 @@ id: "PLACE_TEXAS"
 type: "place"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-18"
 tags:
   - "place"
   - "texas"
@@ -36,3 +36,10 @@ Hamnettは、regionalismをseparatismと同一視しないという論点の中�
 
 - 1835-36年の分離主義的経路の正確な時系列。
 - Yucatán事例との性格差。
+
+## Hamnett 1994 Map 1 p.282 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places Texas east of [[New_Mexico]], north-east of [[Chihuahua]], and open toward the Gulf of Mexico within the northern loss geography.
+
+- Locator: p.282 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: Map 1 covers 1821-53 political geography and is not a Second Empire campaign map.

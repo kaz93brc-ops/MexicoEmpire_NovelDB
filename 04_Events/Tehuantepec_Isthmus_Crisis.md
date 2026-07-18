@@ -3,7 +3,7 @@ id: "EVENT_TEHUANTEPEC_ISTHMUS_CRISIS"
 type: "event"
 status: "stub"
 created: "2026-06-22"
-updated: "2026-06-22"
+updated: "2026-07-18"
 tags:
   - "event"
   - "hamnett"
@@ -62,3 +62,10 @@ p.44-45では、Isthmus危機がJuárez州政の失敗、Pinillos政権、Santa 
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0221]] - [[TIME_HAMNETT_JUAREZ_0226]]
 - Related Events: [[Pinillos_Regime_In_Oaxaca]], [[Creation_Of_Federal_Territory_Isthmus_Tehuantepec]], [[Juarez_1853_Arrest_And_Exile]]
 - Cautions: Juárez側の合法性も中立的に受け取られず、私的利害保護に見える危険を持った点を保持する。
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] locates [[Tehuantepec]] and [[Juchitan|Juchitán]] in the distant eastern / south-eastern Isthmus zone relative to [[Oaxaca_City|Oaxaca City]], with a northern Gulf connection via Coatzacoalcos River.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: The map supplies spatial context only; it does not establish causes, jurisdiction, or travel times.

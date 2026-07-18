@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0194"
 type: "fact_card"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chapter2;mexico-territory"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -74,3 +74,9 @@ Hamnettは、1848年に国土の半分をUnited Statesへ失った後でも、Me
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0012]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0095]]
 
+## Hamnett 1994 Map 1 p.282 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0144]]
+- Locator: p.282 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Map support: Upper California, New Mexico, and Texas appear in the northern loss geography, while [[Sonora]], [[Chihuahua]], and [[Lower_California]] define the retained northern / western edge.
+- Caution: Detailed boundary authority remains verification-needed.

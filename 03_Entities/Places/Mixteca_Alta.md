@@ -3,7 +3,7 @@ id: "PLACE_MIXTECA_ALTA"
 type: "place"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-18"
 tags:
   - "place"
   - "oaxaca"
@@ -32,3 +32,10 @@ Hamnett p.19では、18世紀に経済的重要性を増したOaxaca周縁地域
 - Places: [[Mixteca]], [[Tlaxiaco]]
 - Themes: [[Regional_Economy]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0209]], [[FACT_HAMNETT_JUAREZ_0210]]
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places Mixteca Alta west to south-west of central Oaxaca, connecting [[Tlaxiaco]] and Juxtlahuaca toward the capital via Teposcolula and Nochixtlán.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: Minor route labels remain Capture-only rather than separate new cards.

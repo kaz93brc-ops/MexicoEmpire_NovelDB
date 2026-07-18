@@ -3,7 +3,7 @@ id: "PLACE_JUCHITAN"
 type: "place"
 status: "stub"
 created: "2026-06-22"
-updated: "2026-07-12"
+updated: "2026-07-18"
 tags:
   - "place"
   - "hamnett"
@@ -52,3 +52,10 @@ Hamnett pp.224-225 returns to Juchitán as a site of Isthmus resistance to Oaxac
 - Related Places: [[Ixtaltepec]], [[Petapa]], [[Isthmus_Of_Tehuantepec|Isthmus of Tehuantepec]], [[Oaxaca_City|Oaxaca City]]
 - Related Themes: [[State_Violence|state violence]], [[Religious_Conflict|religious conflict]], [[Catholic_Symbolism|Catholic symbolism]], [[Popular_Politics_And_Elite_Liberalism|popular politics and elite Liberalism]]
 - Cautions: Details of casualties, the parish-priest execution, and the St Vincent Ferrer image require note and primary-source checking.
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places Juchitán near [[Tehuantepec]] but farther east and closer to the Chiapas side of the Isthmus, distant from [[Oaxaca_City|Oaxaca City]].
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: Spatial context must not reduce Juchitán communities to rebellion or criminality.

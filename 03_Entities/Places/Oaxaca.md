@@ -3,7 +3,7 @@ id: PLC-OAXACA
 type: place
 status: draft
 created: 2026-06-14
-updated: 2026-06-30
+updated: 2026-07-18
 tags:
   - place
   - oaxaca
@@ -108,3 +108,10 @@ Hamnett pp.94-95 places Oaxaca's governor, diocese, city hospitals, Zimatlan, an
 - Related Organizations: [[Oaxaca_State_Government]], [[Diocese_Of_Oaxaca]], [[Catholic_Church]], [[Department_Governors]]
 - Related Themes: [[Rule_of_Law]], [[Church_State_Relations_Mexico]], [[Parish_Dues]], [[Church_Wealth]], [[Oaxaca_Indigenous_Communities]]
 - Cautions: Do not generalize all Oaxaca village reactions from Mantecon's warning alone.
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] treats Oaxaca in 1857 as a composite of central valley, [[Northern_Sierra_Oaxaca|Northern Highlands]], [[Mixteca_Baja]], [[Mixteca_Alta]], Coastal Mixteca, and [[Isthmus_Of_Tehuantepec|Isthmus]] zones.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: Regional boundaries are map labels and remain verification-needed.

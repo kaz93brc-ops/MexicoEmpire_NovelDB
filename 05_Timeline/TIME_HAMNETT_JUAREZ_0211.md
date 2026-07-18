@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0211"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-22"
-updated: "2026-06-22"
+updated: "2026-07-18"
 tags: "timeline;hamnett;juarez;chapter2"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -54,6 +54,12 @@ MeléndezのJuchitán反乱が暴力を伴って発生した。
 - Printed page: 42-43
 - Archive page: /page/42/mode/2up; Page 42 (57/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.24.21.jpeg
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0144]] places [[Juchitan|Juchitán]] near but east of [[Tehuantepec]], toward Chiapas and far from [[Oaxaca_City|Oaxaca City]].
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: geography contextualizes the rebellion but does not establish causation.
 
 ## Evidence Notes
 
