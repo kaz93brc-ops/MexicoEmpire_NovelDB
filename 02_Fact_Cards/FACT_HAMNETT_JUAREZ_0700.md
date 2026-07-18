@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0700"
 type: "fact_card"
 status: "draft"
 created: "2026-06-23"
-updated: "2026-07-15"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chapter3;ayutla"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -78,3 +78,11 @@ The Arriaga entry places him in a radical Liberal network linking Ocampo, the Á
 - Capture: [[CAP_HAMNETT_JUAREZ_0137]]
 - Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0416]]
 - Cautions: Confirm his formal Constituent role and dates in congressional sources.
+
+## Hamnett 1994 p.278 Dramatis Personae Locator
+
+The Prieto entry repeats his Finance service across several Liberal administrations and connects it to Ayutla and the 1856-1857 Constituent Congress.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
+- Locator: p.278 / `/page/278/mode/2up` / `スクリーンショット 2026-06-13 17.31.40.jpeg`.
+- Cautions: The several Finance terms require separate verification; no new duplicate portfolio card was created.

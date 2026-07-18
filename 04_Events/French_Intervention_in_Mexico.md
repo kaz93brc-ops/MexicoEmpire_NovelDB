@@ -3,7 +3,7 @@ id: EVT-FRENCH-INTERVENTION-IN-MEXICO
 type: event
 status: draft
 created: 2026-05-31
-updated: 2026-07-15
+updated: 2026-07-18
 tags:
   - event
   - french-intervention
@@ -130,3 +130,9 @@ Chronology pp.258-259 closes the intervention through French withdrawal, Maximil
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3240]], [[FACT_HAMNETT_JUAREZ_3241]], [[FACT_HAMNETT_JUAREZ_3246]], [[FACT_HAMNETT_JUAREZ_3247]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0654]], [[TIME_HAMNETT_JUAREZ_0755]], [[TIME_HAMNETT_JUAREZ_0779]], [[TIME_HAMNETT_JUAREZ_0805]], [[TIME_HAMNETT_JUAREZ_0840]]
 - Cautions: Keep French withdrawal, republican military advance, mobile-government continuity, and postwar instability visible together.
+
+## Hamnett 1994 pp.278-279 Dramatis Personae Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0142]] uses Prim to show that European intervention was not a single French-led political project and uses Vallarta to connect wartime exile with republican return.
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3457]], [[FACT_HAMNETT_JUAREZ_3466]]
+- Cautions: Keep Spanish withdrawal, French escalation, and Mexican internal politics analytically separate.

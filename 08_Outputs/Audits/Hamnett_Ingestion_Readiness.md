@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2983
+- hamnett_fact_cards: 2998
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, continue screenshot 142 to confirm whether Payno continues from p.277; preserve local pp.146-147 gap
+- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, continue screenshot 143 / pp.280-281 to complete Zamacona; preserve local pp.146-147 gap
 
 ## Fact Cards By Section
 
@@ -34,6 +34,7 @@ tags:
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / STATE GOVERNOR OF OAXACA (1847-52): 64
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / EARLY LIBERALISM AND THE REVIVAL OF THE CHURCH: 64
 - Bibliographical Essay: 63
+- DRAMATIS PERSONAE: 60
 - THE ISSUE OF RECOGNITION: 58
 - Chapter 6 / THE IMPACT OF THE FRENCH INTERVENTION: 54
 - Chapter 4 / STATE-LEVEL POLITICS: 52
@@ -43,7 +44,6 @@ tags:
 - Chapter 2, The Provincial Origins: Juárez and Oaxaca / Oaxaca: Culture and Society: 49
 - Chapter 6 / JUÁREZ IN CHIHUAHUA: 47
 - THE VICTORY OF THE JUARISTAS: 46
-- DRAMATIS PERSONAE: 45
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CENTRALIST REPUBLIC (1836-46): 44
 - THE ESTABLISHMENT OF THE MEXICAN EMPIRE: 43
 - Chapter 1 / The Politics of Fragmentation: 42
@@ -222,6 +222,8 @@ tags:
 
 ## Next Checks From Progress Master
 
+- screenshot 140 / pp.274-275 remains the Readiness entry. After 140, inspect screenshot 143 / pp.280-281 to complete the Manuel María Zamacona y Murphy entry and confirm his Juárez-government foreign-relations office, term, and later political activity.
+- "Ten days later" の基準日、Wyke-Zamacona Treatyの正式名称・条項・議会否認日を確認する。
 - printed pages 258-259で、1866-67年、米国圧力、フランス撤退、Maximilian孤立、Querétaro、捕縛、軍法会議、処刑、共和政復帰へのChronology接続を確認する。
 - Favreの1867年12月2日発言原文・会議録、Weeksの正式書誌・刊行地、Covo／Salomon研究、APBJPS 1928年刊行情報、Díaz政権のJuárez神話利用開始時期を確認する。
 - SalinasのNAFTA関連テレビ演説日・媒体、1867年と1992年9月のHoly See関係の制度的正確性、Tamayo文書集の1964-71／1964-72年次齟齬を確認する。
@@ -261,4 +263,3 @@ tags:
 - 注18のJuárez-Lincoln往復書簡未発見について、HAHR論文著者名の完全表記と論文情報、特にGordon L.のフルネームを確認する。
 - 注26-30はpp.164-165で注本文を確認済みだが、帝政派公式新聞、New York Herald 1866-12-16、Juárez 1868年3月書簡、Zarco 1866年9月書簡、Seward方針、武器購入許可との本文対応は引き続き確認する。
 - Fernando Iglesias Calderón 1905年著述、Hilarión Frías y Soto 1907年著述、Romero/Doblado 1864年10月領土割譲疑惑、Baja California/Sonora支配状況を確認する。
-- "Ten days later" の基準日、Wyke-Zamacona Treatyの正式名称・条項・議会否認日を確認する。

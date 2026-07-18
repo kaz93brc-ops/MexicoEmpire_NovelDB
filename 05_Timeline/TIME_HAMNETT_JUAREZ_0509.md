@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0509"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-18"
 tags: "timeline;hamnett;juarez;chapter6;cabinet"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -65,6 +65,12 @@ Hamnettは、Zarco、Ignacio Ramírez、Prietoを含む1861年のJuárez内閣�
 - Printed page: p.127
 - Archive page: /page/126/mode/2up; Page 126 (141/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.28.57.jpeg
+
+## Hamnett 1994 p.278 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0142]] repeats Prieto's Finance service and Ramírez's Justice / Development roles while distinguishing their later opposition to Juárez reelection.
+- Locator: p.278 / `/page/278/mode/2up` / `スクリーンショット 2026-06-13 17.31.40.jpeg`.
+- No new cabinet Timeline was created; exact short portfolio terms remain verification-needed.
 
 ## Evidence Notes
 

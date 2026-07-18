@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2012"
 type: "fact_card"
 status: "draft"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -68,3 +68,11 @@ related_timeline_entries: ["TIME_HAMNETT_JUAREZ_0687"]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0087]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0687]]
 
+## Hamnett 1994 p.278 Dramatis Personae Locator
+
+The Prim entry adds the 1862-01-09 Veracruz landing and the withdrawal after his Orizaba meeting with Doblado.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3457]]
+- Locator: p.278 / `/page/278/mode/2up` / `スクリーンショット 2026-06-13 17.31.40.jpeg`.
+- Cautions: Separate the historical landing-and-withdrawal sequence from this card's policy interpretation.

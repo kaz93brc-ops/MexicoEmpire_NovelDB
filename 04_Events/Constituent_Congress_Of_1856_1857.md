@@ -3,7 +3,7 @@ id: "EVENT_CONSTITUENT_CONGRESS_OF_1856_1857"
 type: "event"
 status: "stub"
 created: "2026-06-24"
-updated: "2026-06-24"
+updated: "2026-07-18"
 tags:
   - "event"
   - "hamnett"
@@ -60,3 +60,10 @@ Hamnett p.107 states that the 1859 Manifesto referred back to radical social ref
 - Chronology locator: [[CAP_HAMNETT_JUAREZ_0129]] / p.253 / `/page/252/mode/2up`.
 - The Chronology supplies 1856-02-18 as the convening date in Mexico City; existing [[TIME_HAMNETT_JUAREZ_0416|Timeline0416]] was reused.
 - Planned Timeline1217 was held as a duplicate; the end of the Congress remains year-level in this Event note.
+
+## Hamnett 1994 pp.278-279 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0142]] identifies Prieto, Ramírez, and Vallarta as participants in the 1856-1857 Congress.
+- Related People: [[Guillermo_Prieto|Guillermo Prieto]], [[Ignacio_Ramirez|Ignacio Ramírez]], [[Ignacio_Vallarta|Ignacio Vallarta]]
+- Reused Timeline Entry: [[TIME_HAMNETT_JUAREZ_0416]]
+- Cautions: Verify each deputy's district, term, committee role, and attendance independently.

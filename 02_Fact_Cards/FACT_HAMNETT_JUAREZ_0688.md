@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0688"
 type: "fact_card"
 status: "draft"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chapter3;ayutla"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -77,3 +77,9 @@ Ayutla coalitionは、1855年8月8日のSanta Anna逃亡後、正規軍の黙認
 
 - [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] uses 1855-08-08 as the Santa Anna fall marker.
 - Planned `FACT_HAMNETT_JUAREZ_3154` was not created; this card and [[FACT_HAMNETT_JUAREZ_0647|0647]] preserve the two endpoint claims separately.
+
+## Hamnett 1994 p.279 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0142]] summarizes Santa Anna's 1853-1855 final regime and August 1855 overthrow as part of a longer military-political career.
+- Locator: p.279 / `/page/278/mode/2up` / `スクリーンショット 2026-06-13 17.31.40.jpeg`.
+- Planned `FACT_HAMNETT_JUAREZ_3463` was not created because this card and [[TIME_HAMNETT_JUAREZ_0294|Timeline0294]] already preserve the fall marker.

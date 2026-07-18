@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0294"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-18"
 tags: "timeline;hamnett;juarez;chapter3;ayutla"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -59,6 +59,12 @@ related_fact_cards:
 - Printed page: pp.58-59
 - Archive page: /page/58/mode/2up; Page 58 (73/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.27.43.jpeg
+
+## Hamnett 1994 p.279 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0142]] repeats August 1855 as the overthrow and exile marker for Santa Anna's final regime.
+- Locator: p.279 / `/page/278/mode/2up` / `スクリーンショット 2026-06-13 17.31.40.jpeg`.
+- Planned `TIME_HAMNETT_JUAREZ_*` and `FACT_HAMNETT_JUAREZ_3463` were not created because this entry already records the exact fall date.
 
 ## Chronology Cross-Reference
 

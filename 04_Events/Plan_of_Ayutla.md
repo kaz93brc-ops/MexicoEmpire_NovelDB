@@ -3,7 +3,7 @@ id: "EVENT_PLAN_OF_AYUTLA"
 type: "event"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-18"
 tags:
   - "event"
   - "hamnett"
@@ -36,3 +36,10 @@ Use to separate anti-Santa Anna mobilization from later Liberal reform ideology.
 - Places: [[Hacienda_La_Providencia]], [[Ometepec]], [[Costa_Chica]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0644]], [[FACT_HAMNETT_JUAREZ_0645]], [[FACT_HAMNETT_JUAREZ_0646]], [[FACT_HAMNETT_JUAREZ_0647]], [[FACT_HAMNETT_JUAREZ_0648]], [[FACT_HAMNETT_JUAREZ_0649]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0280]]
+
+## Hamnett 1994 pp.278-279 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0142]] connects Guillermo Prieto's support to the Plan and treats Santa Anna's August 1855 fall as the endpoint of his final regime.
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3455]], [[FACT_HAMNETT_JUAREZ_0688]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0280]], [[TIME_HAMNETT_JUAREZ_0294]]
+- Cautions: Prieto's support and Santa Anna's fall are distinct claims and should not be compressed into a single ideological narrative.

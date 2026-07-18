@@ -3,7 +3,7 @@ id: "PERSON_IGNACIO_RAMIREZ"
 type: "person"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-18"
 tags:
   - "person"
   - "hamnett"
@@ -73,3 +73,13 @@ Hamnett p.207 says Ignacio Ramírez distrusted Juárez and saw Díaz as a defend
 - Related Events: [[Constitution_Of_1857|Constitution of 1857]]
 - Related Themes: [[Radical_Liberals]], [[Constitutionalism_Of_1857]], [[Liberal_Factionalism]]
 - Cautions: Confirm whether Hamnett relies on Ramírez's own writings or a later synthesis.
+
+## Hamnett 1994 p.278 Dramatis Personae Notes
+
+Hamnett p.278 presents Ramírez as the radical Liberal journalist `El Nigromante`, connects him to the Constituent Congress and Miguel Lerdo's candidacy, reuses his 1861 cabinet service, and distinguishes his 1867 opposition to Juárez reelection and radical religious thought.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3458]]-[[FACT_HAMNETT_JUAREZ_3461]]
+- Reused Fact Card / Timeline: [[FACT_HAMNETT_JUAREZ_1481]], [[TIME_HAMNETT_JUAREZ_0509]]
+- Related Events: [[Constituent_Congress_Of_1856_1857]], [[Mexican_Elections_1861]], [[Constitution_Of_1857]]
+- Cautions: Confirm ministerial terms, election positions, and the intellectual source for the Creation claim.

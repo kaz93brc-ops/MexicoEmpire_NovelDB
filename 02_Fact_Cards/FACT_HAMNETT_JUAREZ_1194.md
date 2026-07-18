@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1194"
 type: "fact_card"
 status: "draft"
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chapter5"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -72,3 +72,12 @@ Ignacio VallartaとLeandro Valleは、Jaliscoで厳しい反聖職者措置を�
 - Themes: [[Liberal_Anticlericalism]], [[State_Radicalism]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0054]]
 - Related Timeline Entries:
+
+## Hamnett 1994 p.279 Dramatis Personae Locator
+
+The Vallarta entry reinforces his Jalisco radical-Liberal positioning and connects it to legal, journalistic, wartime, diplomatic, and judicial work.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
+- Related new Fact Cards: [[FACT_HAMNETT_JUAREZ_3465]]-[[FACT_HAMNETT_JUAREZ_3468]]
+- Locator: p.279 / `/page/278/mode/2up` / `スクリーンショット 2026-06-13 17.31.40.jpeg`.
+- Cautions: Keep the p.103 anticlerical measures distinct from the broader p.279 career summary.

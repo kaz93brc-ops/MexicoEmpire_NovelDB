@@ -3,7 +3,7 @@ id: "PERSON_ANTONIO_LOPEZ_DE_SANTA_ANNA"
 type: "person"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-22"
+updated: "2026-07-18"
 tags:
   - "person"
   - "hamnett"
@@ -93,6 +93,16 @@ Hamnett p.41では、1842年にSanta AnnaがJosé GarayへIsthmus横断の鉄道
 ## Open Questions
 
 - 各政権を一括して「独裁」と処理しない。1842-1844年体制、1843年Bases Orgánicas、1853-1855年最終政権の制度的差異を確認する。
+
+## Hamnett 1994 p.279 Dramatis Personae Notes
+
+The person reference compresses Santa Anna's shifts across royalist service, independence, federalism, centralism, Texas, the U.S.-Mexico War, Ayutla, exile, and repeated return attempts. It should be used as a navigation summary, not as a single ideological label.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
+- New Fact Card: [[FACT_HAMNETT_JUAREZ_3464]]
+- Reused Fact / Timeline: [[FACT_HAMNETT_JUAREZ_0688]], [[TIME_HAMNETT_JUAREZ_0294]]
+- Related Events: [[Plan_of_Ayutla]], [[Revolution_of_Ayutla]], [[French_Intervention_in_Mexico]], [[Second_Mexican_Empire]]
+- Cautions: Planned Facts3462-3463 were held to avoid compressing many regimes and duplicating the 1855 fall marker.
 
 ## Hamnett 1994 p.42-43 Notes
 

@@ -3,7 +3,7 @@ id: "ORG_YORKINO_RITE"
 type: "organization"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-07-15"
+updated: "2026-07-18"
 tags:
   - "organization"
   - "hamnett"
@@ -44,3 +44,12 @@ The Glossary connects `yorkinos` to York Rite political masonry and to radical, 
 - Related Organizations: [[Escoces_Rite|Escocés Rite]], [[Masonic_Lodges|Masonic lodges]]
 - Related Theme: [[Masonic_Networks_And_Liberalism|masonic networks and liberalism]]
 - Cautions: Verify formal structure, membership, and regional differences.
+
+## Hamnett 1994 p.278 Poinsett Notes
+
+The Poinsett entry links U.S. diplomacy to the formation of a yorkino lodge and to Zavala and Guerrero, but the degree of intervention remains disputed and verification-needed.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3453]]
+- Related People: [[Joel_Roberts_Poinsett|Joel Roberts Poinsett]], [[Lorenzo_de_Zavala|Lorenzo de Zavala]], [[Vicente_Guerrero|Vicente Guerrero]]
+- Cautions: Do not treat yorkino politics as a single foreign-controlled organization.

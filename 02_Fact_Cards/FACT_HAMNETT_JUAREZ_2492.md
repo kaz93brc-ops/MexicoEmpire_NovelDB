@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2492"
 type: "fact_card"
 status: "draft"
 created: "2026-07-06"
-updated: "2026-07-15"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -73,3 +73,12 @@ The incomplete Altamirano entry identifies him as a radical Liberal writer and j
 - Capture: [[CAP_HAMNETT_JUAREZ_0136]]
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_3335]]
 - Cautions: The entry may continue on p.268; do not treat the p.267 text as a complete biography.
+
+## Hamnett 1994 p.278 Dramatis Personae Locator
+
+The complete Ramírez entry places his 1867 opposition to Juárez's reelection before his later alignment with constitutionalist opposition.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3460]]
+- Locator: p.278 / `/page/278/mode/2up` / `スクリーンショット 2026-06-13 17.31.40.jpeg`.
+- Cautions: Opposition to reelection in 1867 and the later view of Díaz are related but not identical claims.

@@ -3,7 +3,7 @@ id: "ORG_EL_SIGLO_XIX"
 type: "organization"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-07-12"
+updated: "2026-07-18"
 tags:
   - "organization"
   - "press"
@@ -74,3 +74,8 @@ Hamnett p.229 reports that El Siglo XIX judged the Plan of La Noria worse than J
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_2809]]
 - Related Event: [[La_Noria_Rebellion|La Noria rebellion]]
 - Cautions: Confirm issue date and exact wording before direct quotation.
+
+## Hamnett 1994 p.279 Zamacona Locator
+
+- [[CAP_HAMNETT_JUAREZ_0142]] begins the incomplete Zamacona entry and associates him with El Siglo XIX.
+- The entry continues onto screenshot 143, so his exact role at the newspaper and later foreign-relations career remain open.
