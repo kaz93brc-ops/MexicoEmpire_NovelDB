@@ -27,7 +27,7 @@ Entry note for Otomí identity. Keep historical evidence, interpretation, and cr
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_MEXEMP_0702|MejíaはSierra Gorda出身のOtomíとして描かれる]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_3437|Hamnett roots Tomás Mejía in Otomí Sierra Gorda militia networks]], [[FACT_MEXEMP_0702|MejíaはSierra Gorda出身のOtomíとして描かれる]]
 - Timeline Entries:
 - Source Notes:
 - Scenes:

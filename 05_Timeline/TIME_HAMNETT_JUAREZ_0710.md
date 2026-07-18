@@ -54,6 +54,10 @@ Maximilian sent Miramón to Berlin.
 - Archive page: /page/174/mode/2up; Page 174 (189/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.29.48.jpeg
 
+## Hamnett Dramatis Personae p.277 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0141]] repeats Maximilian's November 1864 Berlin posting of Miramón; motive remains interpretation-sensitive.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

@@ -176,3 +176,12 @@ Hamnett p.167 presents Ocampo's October 1859 warning that Liberal expectations f
 - Related Organizations: [[Juarez_Government]], [[Veracruz_Liberal_Regime]]
 - Related Themes: [[Church_Property]], [[Disentailment_Disamortization]], [[Nationalization_Of_Ecclesiastical_Property]], [[War_Finance]], [[Public_Debt]]
 - Cautions: Treat Ocampo's point as a warning about fiscal limits, not a simple rejection of Church-property policy.
+
+## Hamnett 1994 p.277 Dramatis Personae Notes
+
+Hamnett's entry connects Ocampo's Radical Liberal and anticlerical positioning to Michoacán, Juárez's New Orleans exile, Reform ministries, civil marriage, Church-state separation, and his 3 June 1861 killing.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0141]]
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3448]], [[FACT_HAMNETT_JUAREZ_3449]]
+- Reused Fact / Timeline: [[FACT_HAMNETT_JUAREZ_1451]], [[TIME_HAMNETT_JUAREZ_0501]]
+- Cautions: political labels are Hamnett interpretation; offices, dates, legal authorship, and killing responsibility remain verification-needed.

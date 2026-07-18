@@ -45,3 +45,10 @@ p.45では、HamnettがJuárezの国家構想をHidalgo、Morelos、Guerrero以�
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0520]]
 - Related Themes: [[Republican_Sovereignty_And_Colonial_Inheritance]], [[Mexican_Liberalism_and_Nationalism]]
 - Cautions: この系譜化はHamnettの解釈として扱い、Morelos本人の思想差を消さない。
+
+## Hamnett 1994 p.277 Dramatis Personae Notes
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0141]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3447]]
+- Note: Hamnett places Morelos after Hidalgo as a principal insurgent commander and gives 22 December 1815 as his execution date.
+- Cautions: retain this as independence-war prehistory and avoid creating thin additional stubs.

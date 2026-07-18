@@ -126,3 +126,11 @@ Hamnett p.222 says War Minister Ignacio Mejía strongly suspected the Díaz brot
 - Related Organizations: [[Mexican_Army|Mexican Army]], [[Juarez_Government|Juárez government]]
 - Related Themes: [[Trust_And_Distrust_In_Juarez_Politics|trust and distrust in Juárez politics]], [[Liberal_Factionalism|Liberal factionalism]]
 - Cautions: Classification is provisional primary-testimony; recheck after Chapter 10 notes 2-5.
+
+## Hamnett 1994 pp.275-276 Dramatis Personae Notes
+
+The entry completes across p.275-p.276, gives a War Ministry range that conflicts with the p.205 summary, and carries Mejía through exile until 1884 and later Oaxaca property/business activity.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0141]]; planned prior capture `CAP_HAMNETT_JUAREZ_0140` remains absent.
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3435]], [[FACT_HAMNETT_JUAREZ_2457]], [[FACT_HAMNETT_JUAREZ_2466]]
+- Cautions: keep Ignacio Mejía separate from [[Tomas_Mejia|Tomás Mejía]]; verify both ministry ranges, exile status, and 1884 return circumstances.

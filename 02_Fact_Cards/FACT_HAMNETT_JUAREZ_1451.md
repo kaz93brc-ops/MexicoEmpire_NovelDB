@@ -74,3 +74,8 @@ Ocampo was assassinated on 3 June 1861, allegedly by Conservative guerrillas.
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0066]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0501]]
 
+## Hamnett Dramatis Personae p.277 Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0141]].
+- Additional locator: DRAMATIS PERSONAE, p.277, /page/276/mode/2up, Page 276 (291/323), スクリーンショット 2026-06-13 17.31.38.jpeg.
+- Caution: the entry attributes the killing to Conservative guerrillas, but specific responsibility remains verification-needed.

@@ -2,7 +2,7 @@
 id: HAMNETT-INGESTION-READINESS
 type: report
 status: active
-created: 2026-07-16
+created: 2026-07-18
 tags:
   - hamnett
   - ingestion
@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2971
+- hamnett_fact_cards: 2983
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 140 / confirm whether a separate Sebastián Lerdo de Tejada or other Lerdo / later-L entry follows the apparently complete Miguel Lerdo de Tejada entry on p.273, continue Dramatis Personae on pp.274-275, and preserve the local pp.146-147 gap unless handled elsewhere
+- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, continue screenshot 142 to confirm whether Payno continues from p.277; preserve local pp.146-147 gap
 
 ## Fact Cards By Section
 
@@ -43,6 +43,7 @@ tags:
 - Chapter 2, The Provincial Origins: Juárez and Oaxaca / Oaxaca: Culture and Society: 49
 - Chapter 6 / JUÁREZ IN CHIHUAHUA: 47
 - THE VICTORY OF THE JUARISTAS: 46
+- DRAMATIS PERSONAE: 45
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CENTRALIST REPUBLIC (1836-46): 44
 - THE ESTABLISHMENT OF THE MEXICAN EMPIRE: 43
 - Chapter 1 / The Politics of Fragmentation: 42
@@ -55,7 +56,6 @@ tags:
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / NATIONALISM, SECULARISM AND PLURALISM: 36
 - Chapter 3 / JUÁREZ AND LIBERALISM / JUÁREZ IN THE LIBERAL CONSTELLATION: 35
 - THE EXECUTION OF MAXIMILIAN: 33
-- DRAMATIS PERSONAE: 33
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE ESCALATION OF CONFLICT AND THE CIVIL WAR OF THE REFORM: 32
 - Chapter 4 / THE CONSTITUTION OF 1857: 31
 - THE EXECUTION OF MAXIMILIAN continuation: 31

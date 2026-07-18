@@ -53,6 +53,10 @@ After Díaz seized power, Mejía entered voluntary exile for several years.
 - Archive page: /page/204/mode/2up; Page 204 (219/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.20.jpeg
 
+## Hamnett Dramatis Personae p.276 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0141]] specifies exile until 1884 and later Oaxaca property/business activity; formal prohibition on return is not established by the visible entry.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

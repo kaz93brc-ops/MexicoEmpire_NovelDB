@@ -68,3 +68,8 @@ MaximilianはMiramónを1864年11月にBerlinへ、Márquezを1864年末にConst
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0090]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0710]], [[TIME_HAMNETT_JUAREZ_0711]], [[TIME_HAMNETT_JUAREZ_0712]]
 
+## Hamnett Dramatis Personae p.277 Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0141]].
+- Additional locator: DRAMATIS PERSONAE, p.277, /page/276/mode/2up, Page 276 (291/323), スクリーンショット 2026-06-13 17.31.38.jpeg.
+- Caution: the entry connects the Berlin posting to Maximilian's dislike of Miramón, but motive and diplomatic office remain verification-needed.

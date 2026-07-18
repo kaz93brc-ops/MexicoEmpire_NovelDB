@@ -65,3 +65,9 @@ HamnettはValentín Gómez FaríasをJosé María Luis Moraに近い初期自由
 - Themes: [[Liberal_Reform]], [[Liberal_Anticlericalism]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0139]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0069]], [[TIME_HAMNETT_JUAREZ_0070]]
+
+## Hamnett Dramatis Personae p.277 Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0141]].
+- Additional locator: José María Luis Mora entry, p.277, /page/276/mode/2up, Page 276 (291/323), スクリーンショット 2026-06-13 17.31.38.jpeg.
+- Note: the entry reinforces Mora's early-Liberal connection to Gómez Farías in 1833-34 and Church-state reform prehistory.

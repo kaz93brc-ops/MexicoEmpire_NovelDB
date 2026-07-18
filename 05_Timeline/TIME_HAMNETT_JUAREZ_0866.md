@@ -53,6 +53,10 @@ Ignacio Mejía served as Minister of War.
 - Archive page: /page/204/mode/2up; Page 204 (219/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.20.jpeg
 
+## Hamnett Dramatis Personae pp.275-276 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0141]] supplies a conflicting War Ministry range ending 30 August 1876; see [[FACT_HAMNETT_JUAREZ_3435]] and do not overwrite the existing range without verification.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -73,7 +77,7 @@ Ignacio Mejía served as Minister of War.
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2457]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2457]], [[FACT_HAMNETT_JUAREZ_3435]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.30.20.jpeg

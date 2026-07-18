@@ -66,3 +66,8 @@ After Díaz seized power in 1876, Ignacio Mejía entered voluntary exile for sev
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0105]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0868]]
 
+## Hamnett Dramatis Personae p.276 Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0141]].
+- Additional locator: DRAMATIS PERSONAE, p.276, /page/276/mode/2up, Page 276 (291/323), スクリーンショット 2026-06-13 17.31.38.jpeg.
+- Note: the entry says Mejía remained in exile until 1884 and later lived in Oaxaca as a property-owner and businessman; it does not visibly establish that return was formally prohibited.

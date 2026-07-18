@@ -55,6 +55,10 @@ Juárez government moved south as far as Zacatecas and narrowly escaped Miramón
 - Archive page: /page/186/mode/2up; Page 186 (201/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.01.jpeg
 
+## Hamnett Dramatis Personae p.277 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0141]] repeats Miramón's near-capture of Juárez at Zacatecas in January 1867.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

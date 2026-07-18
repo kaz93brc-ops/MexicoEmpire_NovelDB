@@ -37,3 +37,12 @@ Use him as a cabinet and finance-policy connection during the shift from Ayutla 
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0307]], [[TIME_HAMNETT_JUAREZ_0310]]
 - People: [[Miguel_Lerdo_De_Tejada]]
 - Themes: [[Political_Legitimacy]], [[Liberal_Reform]]
+
+## Hamnett 1994 p.277 Dramatis Personae Notes
+
+The entry expands Payno beyond finance administration to Moderate Liberal politics, Comonfort's coup, federal legislative service, Spanish diplomacy, and literary activity.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0141]]
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3450]], [[FACT_HAMNETT_JUAREZ_3451]]
+- Reused Fact / Timeline: [[FACT_HAMNETT_JUAREZ_0747]], [[TIME_HAMNETT_JUAREZ_0369]]
+- Cautions: confirm Finance Ministry dates, coup contribution, diplomatic terms, and whether the entry continues on the next page.

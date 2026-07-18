@@ -3,7 +3,7 @@ id: SRC_HAMNETT_1994_JUAREZ
 type: source_note
 status: draft
 created: 2026-06-14
-updated: "2026-07-16"
+updated: "2026-07-18"
 tags:
   - source
   - book
@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-現在はユーザー指定の139枚目として `CAP_HAMNETT_JUAREZ_0139` まで処理済みで、欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` も補完済み。最新処理範囲は DRAMATIS PERSONAE / printed pages 272-273 / archive `/page/272/mode/2up`。138枚目p.271末尾から続くValentín Gómez Farías項目がp.272上部で完結することを確認し、Gómez Farías、Guerrero、León Guzmán、Hidalgo、Iglesias、Iturbide、Lacunza、Lafragua、Miguel Lerdo de TejadaをFact3390-3396 / 3398-3404と既存Fact / Person / Event / Theme / Timeline locatorへ接続した。p.273末尾のMiguel Lerdo項目は完結しているように見えるが、次回ページで別のLerdo姓・L以降の人物継続を確認する。ローカルDBでは76枚目/pp.146-147のCaptureは未確認で、必要ならReadiness差分として戻る。
+ユーザー指定により141枚目 `CAP_HAMNETT_JUAREZ_0141` / DRAMATIS PERSONAE / printed pages 276-277 / archive `/page/276/mode/2up` まで先行処理済み。ただし140枚目 `CAP_HAMNETT_JUAREZ_0140` / pp.274-275はrepoに未存在で、Readinessの次入口として残す。141枚目ではIgnacio Mejía項目のp.275-p.276接続、Tomás Mejía、Miguel Miramón、Mora、Morelos、Ocampo、PaynoをFact3435、3437-3438、3440-3443、3447-3451と既存Fact / Timeline / Entity locatorへ接続した。p.277末尾のPayno項目は次画像で継続確認が必要。欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` は補完済みで、76枚目/pp.146-147のローカルgapは未確認のまま維持する。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-18にユーザー指定の141枚目Captureとして [[CAP_HAMNETT_JUAREZ_0141|CAP_HAMNETT_JUAREZ_0141]] を作成。Readinessは未処理の140枚目pp.274-275を示していたため、141を先行処理し次入口は140のまま維持した。新規Factは[[FACT_HAMNETT_JUAREZ_3435|3435]]、[[FACT_HAMNETT_JUAREZ_3437|3437]]-[[FACT_HAMNETT_JUAREZ_3438|3438]]、[[FACT_HAMNETT_JUAREZ_3440|3440]]-[[FACT_HAMNETT_JUAREZ_3443|3443]]、[[FACT_HAMNETT_JUAREZ_3447|3447]]-[[FACT_HAMNETT_JUAREZ_3451|3451]]。予定3436、3439、3444-3446は既存Fact / Timelineへp.276-277 locatorを追加したため未作成。新規Timeline・Entity stub・Relationshipカードは作成せず、既存Fact 10件、Timeline 7件、Person 7件、Sierra Gorda、処刑Eventへ接続した。Ignacio Mejía任期は既存p.205の1867-1874と人物欄の1865-11-30から1876-08-30が衝突するため`variant_disputed / uncertain`で分離し、Tomás Mejíaと混同しなかった。Plan of Sierra Gordaは依頼文27 Decemberに対し画像が2 December 1855と読めるため画像値を採用し要確認とした。MiramónのFrench planning・Bazaine・Maximilian関係、Ocampo官職、Payno次頁継続はOpen Questionsに保持した。人物欄全文、人物略歴全文、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。
 
 2026-07-16に139枚目Captureとして [[CAP_HAMNETT_JUAREZ_0139|CAP_HAMNETT_JUAREZ_0139]] を作成。Readinessとユーザー指定はいずれもpp.272-273を指し、138枚目p.271末尾から続くValentín Gómez Farías項目がp.272上部で完結することを確認した。新規Factは[[FACT_HAMNETT_JUAREZ_3390|3390]]-[[FACT_HAMNETT_JUAREZ_3396|3396]]と[[FACT_HAMNETT_JUAREZ_3398|3398]]-[[FACT_HAMNETT_JUAREZ_3404|3404]]。予定3397、3405、3406は既存Hidalgo、Ley Lerdo、Miguel Lerdo / Veracruz Fact・Timelineへlocatorを追加したため未作成。新規Timeline・Entity stub・Relationshipカードは作成せず、既存Person / Theme 10件と既存Fact 4件、Timeline 6件へlocatorを追加した。Iglesiasを移動政府・制度官職・1876年合法性論争、Lacunzaを帝政側文人・法律家・閣僚層、Miguel LerdoをLey Lerdo・法人財産政策・Church-state conflictの制度的人物、Iturbideを第一帝政前史として接続した。p.273末尾のMiguel Lerdo項目は完結しているように見えるが、次ページでLerdo姓・L以降の人物が続くか確認する。人物欄全文、人物略歴全文、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。
 

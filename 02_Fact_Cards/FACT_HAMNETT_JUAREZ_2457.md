@@ -66,3 +66,8 @@ Ignacio Mejía served as Minister of War from 1867 until 1874.
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0105]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0866]]
 
+## Hamnett Dramatis Personae pp.275-276 Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0141]]; prior planned capture `CAP_HAMNETT_JUAREZ_0140` is not yet present.
+- Additional locator: DRAMATIS PERSONAE, pp.275-276, /page/276/mode/2up, Page 276 (291/323), スクリーンショット 2026-06-13 17.31.38.jpeg.
+- Caution: the Dramatis Personae range `30 November 1865 – 30 August 1876` conflicts with this card's p.205 range `1867–1874`; see [[FACT_HAMNETT_JUAREZ_3435]].

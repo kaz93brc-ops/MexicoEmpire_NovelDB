@@ -68,3 +68,8 @@ Miramónは政権崩壊後にHavana、次いで1861年4月にParisへ移り、Me
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0087]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0686]]
 
+## Hamnett Dramatis Personae p.276 Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0141]].
+- Additional locator: DRAMATIS PERSONAE, p.276, /page/276/mode/2up, Page 276 (291/323), スクリーンショット 2026-06-13 17.31.38.jpeg.
+- Caution: maintain Hamnett's distinction between awareness of French plans and direct participation in them.

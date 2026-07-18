@@ -27,7 +27,7 @@ Entry note for conservative Catholic politics. Keep historical evidence, interpr
 - Places:
 - Events: [[McLane_Ocampo_Treaty|McLane-Ocampo Treaty]]
 - Themes: [[Religious_Political_Mobilization|Religious Political Mobilization]]
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_1026|Conservative use of religious sentiment against Liberal legislation]], [[FACT_HAMNETT_JUAREZ_1827|The treaty left Juárez vulnerable to betrayal accusations]], [[FACT_HAMNETT_JUAREZ_1828|Conservative and clerical propaganda used the McLane-Ocampo Treaty]], [[FACT_MEXEMP_0682|BazaineはLabastidaの身振りを同盟喪失の示唆として受け取った]], [[FACT_MEXEMP_0685|Labastidaは欧州的解決をメキシコ問題へ適用することを拒絶した]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_1026|Conservative use of religious sentiment against Liberal legislation]], [[FACT_HAMNETT_JUAREZ_1827|The treaty left Juárez vulnerable to betrayal accusations]], [[FACT_HAMNETT_JUAREZ_1828|Conservative and clerical propaganda used the McLane-Ocampo Treaty]], [[FACT_HAMNETT_JUAREZ_3438|Tomás Mejía jointly proclaimed the Plan of Sierra Gorda]], [[FACT_MEXEMP_0682|BazaineはLabastidaの身振りを同盟喪失の示唆として受け取った]], [[FACT_MEXEMP_0685|Labastidaは欧州的解決をメキシコ問題へ適用することを拒絶した]]
 - Timeline Entries:
 - Source Notes:
 - Scenes:

@@ -71,3 +71,9 @@ related_timeline_entries: ["TIME_HAMNETT_JUAREZ_0805"]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0099]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0805]]
 
+## Hamnett Dramatis Personae pp.276-277 Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0141]].
+- Additional locator: Tomás Mejía p.276 and Miramón pp.276-277, /page/276/mode/2up, Page 276 (291/323), スクリーンショット 2026-06-13 17.31.38.jpeg.
+- Use note: read the execution as the endpoint of Miramón's and Tomás Mejía's longer Conservative civil-war histories, not only as Maximilian's personal tragedy.
+

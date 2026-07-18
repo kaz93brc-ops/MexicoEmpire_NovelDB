@@ -72,3 +72,8 @@ Manuel Paynoは1855年12月13日から1856年5月20日まで財務大臣を務�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0034]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0307]], [[TIME_HAMNETT_JUAREZ_0310]]
 
+## Hamnett Dramatis Personae p.277 Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0141]].
+- Additional locator: DRAMATIS PERSONAE, p.277, /page/276/mode/2up, Page 276 (291/323), スクリーンショット 2026-06-13 17.31.38.jpeg.
+- Caution: the entry displays Payno's first Finance Ministry as 4 July 1850 – 13 January 1851 and a later term beginning 14 December 1855; reconcile this with this card's 13 December date.

@@ -45,3 +45,9 @@ Former cleric and Liberal political philosopher. Hamnettの整理では、Spanis
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_3390]]
 - Related Person: [[Valentin_Gomez_Farias|Valentín Gómez Farías]]
 - Note: HamnettはGómez FaríasをMoraに近い初期自由主義者として位置づけるが、具体的協働関係は別史料確認が必要。
+
+## Hamnett 1994 p.277 Dramatis Personae Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0141]]
+- Reused Fact Cards: [[FACT_HAMNETT_JUAREZ_3390]], [[FACT_HAMNETT_JUAREZ_1011]], [[FACT_HAMNETT_JUAREZ_1032]]
+- Note: the entry reinforces Mora's early-Liberal, Gómez Farías, and Church-state reform connections without requiring a duplicate Fact Card.

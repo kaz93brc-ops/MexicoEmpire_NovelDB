@@ -27,7 +27,7 @@ Entry note for conservative Catholicism. Keep historical evidence, interpretatio
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_MEXEMP_1065|JuárezとLabastidaは対立しつつもメキシコ像を持っていたとされる]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_3440|Hamnett gives Tomás Mejía's anti-Liberal struggle a crusading quality]], [[FACT_MEXEMP_1065|JuárezとLabastidaは対立しつつもメキシコ像を持っていたとされる]]
 - Timeline Entries:
 - Source Notes:
 - Scenes:

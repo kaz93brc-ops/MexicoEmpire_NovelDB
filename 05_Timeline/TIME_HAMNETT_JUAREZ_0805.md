@@ -57,6 +57,10 @@ Maximilian, Miramón, and Mejía were executed by firing squad at Cerro de las C
 - Archive page: /page/192/mode/2up; Page 192 (207/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.08.jpeg
 
+## Hamnett Dramatis Personae pp.276-277 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0141]] links the 19 June 1867 execution to the longer Conservative military histories of [[Tomas_Mejia|Tomás Mejía]] and [[Miguel_Miramon|Miguel Miramón]].
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
