@@ -73,3 +73,9 @@ Félix Zuloagaは、Santa Anna側のMichoacán軍司令官だったが、Comonfo
 - Themes: [[Comonfort_As_Coalition_Manager]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0032]]
 - Related Timeline Entries: 
+
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] confirms that Zuloaga opposed the Plan of Ayutla before Comonfort won him over in 1855.
+- Locator: p.280 / `/page/280/mode/2up` / `スクリーンショット 2026-06-13 17.31.41.jpeg`.
+- Cautions: The mechanism and date of Zuloaga's shift remain verification-needed; no duplicate Fact was created.

@@ -3,7 +3,7 @@ id: "PERSON_FELIX_ZULOAGA"
 type: "person"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-07-01"
+updated: "2026-07-18"
 tags:
   - "person"
   - "hamnett"
@@ -68,3 +68,14 @@ Hamnett p.102 treats Comonfort's alliance with Zuloaga after the December 1857 c
 - Related Organizations: [[Moderate_Liberals]], [[Radical_Liberals]]
 - Related Themes: [[Liberal_Factionalism]], [[Church_State_Relations_Mexico]]
 - Cautions: This is Hamnett's factional interpretation; the exact alliance terms need source confirmation.
+
+## Hamnett 1994 p.280 Dramatis Personae Notes
+
+Hamnett's closing person entry connects Zuloaga's militia and Regular Army career, 1855 shift under Comonfort, 1857 Mexico City command, military role in the 17 December coup, Conservative interim presidency, replacement by Miramón, and Cuba residence during the French Intervention.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0143]]
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3480]], [[FACT_HAMNETT_JUAREZ_3482]], [[FACT_HAMNETT_JUAREZ_3483]], [[FACT_HAMNETT_JUAREZ_3484]]
+- Existing Fact locators: [[FACT_HAMNETT_JUAREZ_0676]], [[FACT_HAMNETT_JUAREZ_0919]]
+- Existing Timeline locators: [[TIME_HAMNETT_JUAREZ_0370]], [[TIME_HAMNETT_JUAREZ_0432]]
+- Related People / Events: [[Ignacio_Comonfort|Ignacio Comonfort]], [[Miguel_Miramon|Miguel Miramón]], [[Plan_of_Ayutla|Plan of Ayutla]], [[Plan_Of_Tacubaya|Plan of Tacubaya]], [[Reform_War|Reform War]], [[French_Intervention_in_Mexico|French Intervention]]
+- Cautions: Verify formal commands, exact coup role, interim-presidency dates and legal basis, and the period and political meaning of Cuba residence.

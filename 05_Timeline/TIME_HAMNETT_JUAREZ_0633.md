@@ -55,6 +55,12 @@ Zamacona and Sir Charles Wyke arranged a treaty intended to settle claims betwee
 - Archive page: /page/154/mode/2up; Page 154 (169/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.29.27.jpeg
 
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] gives Zamacona's Foreign Relations period as 13 July-26 November 1861 and connects his resignation to congressional rejection of the treaty; see [[FACT_HAMNETT_JUAREZ_3470]].
+- Locator: p.280 / `/page/280/mode/2up` / `スクリーンショット 2026-06-13 17.31.41.jpeg`.
+- Cautions: Confirm the rejection date and resignation procedure; no duplicate treaty Timeline was created.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -75,7 +81,7 @@ Zamacona and Sir Charles Wyke arranged a treaty intended to settle claims betwee
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1857]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1857]], [[FACT_HAMNETT_JUAREZ_3470]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.29.27.jpeg

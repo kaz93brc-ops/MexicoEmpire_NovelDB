@@ -3,7 +3,7 @@ id: "EVENT_LOSS_OF_TEXAS_1836"
 type: "event"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-18"
 tags:
   - "event"
   - "texas"
@@ -37,3 +37,7 @@ date_precision: "year"
 
 Texas Revolution、Republic of Texas、米国併合、Mexican-American Warを混同しない。
 
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] links Zavala's participation in Texas secession to Hamnett's evaluation that it compromised his Mexican political standing; see [[FACT_HAMNETT_JUAREZ_3479]].
+- Cautions: Keep participation history separate from Hamnett's retrospective political evaluation.

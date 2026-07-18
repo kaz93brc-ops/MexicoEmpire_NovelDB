@@ -3,7 +3,7 @@ id: "PERSON_LORENZO_DE_ZAVALA"
 type: "person"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-06-21"
+updated: "2026-07-18"
 tags:
   - "person"
   - "mexican-liberalism"
@@ -59,3 +59,13 @@ Hamnettは、Zavalaが1828-29年にGuerreroと協力したことを、自由派�
 ## Cautions
 
 「急進的」「危険」という評価はmoderatesから見た評価として扱う。1828-29年の具体的政策・事件は別史料で確認する。
+
+## Hamnett 1994 p.280 Dramatis Personae Notes
+
+Hamnett's entry links Zavala's radical Liberal and federalist position to Yucatán, early constituent politics, the yorkino network, Acordada, Finance service in 1829 and 1833-34, and a disputed evaluation of his 1836 Texas role.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0143]]
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3476]], [[FACT_HAMNETT_JUAREZ_3478]], [[FACT_HAMNETT_JUAREZ_3479]]
+- Existing Acordada Fact / Timeline: [[FACT_HAMNETT_JUAREZ_0155]], [[FACT_HAMNETT_JUAREZ_0156]], [[TIME_HAMNETT_JUAREZ_0066]]
+- Related People / Events: [[Joel_Roberts_Poinsett|Joel Roberts Poinsett]], [[Vicente_Guerrero|Vicente Guerrero]], [[Rebellion_of_the_Acordada|Rebellion of the Acordada]], [[Loss_of_Texas_1836|Loss of Texas in 1836]]
+- Cautions: Verify yorkino involvement, Acordada role, Finance terms, Texas participation, and whether Hamnett's `compromised` wording reflects later political judgment.

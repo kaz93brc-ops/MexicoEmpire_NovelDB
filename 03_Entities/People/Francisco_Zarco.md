@@ -3,7 +3,7 @@ id: "PERSON_FRANCISCO_ZARCO"
 type: "person"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-07-04"
+updated: "2026-07-18"
 tags:
   - "person"
   - "hamnett"
@@ -87,3 +87,13 @@ Hamnett p.161 cites Zarco's September 1866 letter from New York to Juárez as wa
 - Related Event: [[Zarco_September_1866_Letter_From_New_York]]
 - Related Themes: [[US_Mexico_Relations]], [[Republican_Resistance]], [[French_Withdrawal_Causation_Debate]]
 - Cautions: Confirm exact letter date, source, and whether this Zarco reference is Francisco Zarco in the cited document.
+
+## Hamnett 1994 p.280 Dramatis Personae Notes
+
+Hamnett positions Zarco as a radical Liberal politician-journalist connected to El Demócrata, La Ilustración Mexicana, and [[El_Siglo_XIX|El Siglo XIX]], then links him to the 1856-57 Constituent Congress, arrests under the Conservative regime, and exact 1861 Foreign Relations / Interior terms.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0143]]
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3472]], [[FACT_HAMNETT_JUAREZ_3473]], [[FACT_HAMNETT_JUAREZ_3474]]
+- Existing cabinet Fact / Timeline: [[FACT_HAMNETT_JUAREZ_1481]], [[TIME_HAMNETT_JUAREZ_0509]]
+- Related Timeline: [[TIME_HAMNETT_JUAREZ_0314]]
+- Cautions: Confirm newspaper roles, arrests, Durango representation, formal portfolio names, and overlapping appointment dates.

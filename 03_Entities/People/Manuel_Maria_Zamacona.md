@@ -64,11 +64,13 @@ Hamnett p.229 presents Zamacona as opposing extraordinary powers for Juárez whi
 - Related Organization: [[Federal_Congress_Mexico|Federal Congress]]
 - Cautions: Confirm that this is Manuel María Zamacona and check the speech or congressional record.
 
-## Hamnett 1994 p.279 Incomplete Dramatis Personae Note
+## Hamnett 1994 pp.279-280 Dramatis Personae Note
 
-The entry begins by identifying Manuel María Zamacona y Murphy as a Puebla-born radical Liberal politician and journalist associated with [[El_Siglo_XIX|El Siglo XIX]], then breaks during the description of his Juárez-government foreign-relations role.
+The entry begins on p.279 and completes on p.280. It connects Zamacona's radical Liberal journalism and [[El_Siglo_XIX|El Siglo XIX]] role to Juárez-government Foreign Relations, the Wyke-Zamacona Treaty rejection, later opposition to Juárez, and an 1892 hope of succeeding Díaz.
 
-- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
-- Planned Fact: `FACT_HAMNETT_JUAREZ_3469` held until screenshot 143 completes the entry.
-- Continuity: screenshot 143 must confirm the foreign office, term, and later political activity before any biographical Fact is finalized.
-- Cautions: This is an incomplete-page locator, not a completed career summary.
+- Captures: [[CAP_HAMNETT_JUAREZ_0142]], [[CAP_HAMNETT_JUAREZ_0143]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3470]], [[FACT_HAMNETT_JUAREZ_3471]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0633]]
+- Related People: [[Benito_Juarez|Benito Juárez]], [[Porfirio_Diaz|Porfirio Díaz]], [[Charles_Wyke|Charles Wyke]]
+- Related Event: [[Wyke_Zamacona_Treaty|Wyke-Zamacona Treaty]]
+- Cautions: Confirm office title and dates, congressional rejection date, resignation procedure, later anti-Juárez activity, and the 1892 succession context.

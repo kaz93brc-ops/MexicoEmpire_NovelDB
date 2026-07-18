@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2998
+- hamnett_fact_cards: 3010
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, continue screenshot 143 / pp.280-281 to complete Zamacona; preserve local pp.146-147 gap
+- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, continue screenshot 144 / pp.282-283 to verify Map 1 and Map 2 titles, dates, and DB connections; preserve local pp.146-147 gap
 
 ## Fact Cards By Section
 
@@ -25,6 +25,7 @@ tags:
 - MEXICO AND THE AMERICAN CIVIL WAR (1861-65): 84
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE VERACRUZ REFORM LAWS: 79
 - JUÁREZ'S POLICY OF UNCOMPROMISING RESISTANCE: 76
+- DRAMATIS PERSONAE: 72
 - THE COLLAPSE OF THE EMPIRE: 71
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CRISIS IN THE ISTHMUS: 66
 - Chapter 6 / JUÁREZ AND CONGRESS continuation: 66
@@ -34,7 +35,6 @@ tags:
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / STATE GOVERNOR OF OAXACA (1847-52): 64
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / EARLY LIBERALISM AND THE REVIVAL OF THE CHURCH: 64
 - Bibliographical Essay: 63
-- DRAMATIS PERSONAE: 60
 - THE ISSUE OF RECOGNITION: 58
 - Chapter 6 / THE IMPACT OF THE FRENCH INTERVENTION: 54
 - Chapter 4 / STATE-LEVEL POLITICS: 52
@@ -262,4 +262,3 @@ tags:
 - p.162本文の "Iglesias" はJosé María Iglesiasと断定しない。注32がFernando Iglesias Calderón著作を指すため、人物同定を保留する。
 - 注18のJuárez-Lincoln往復書簡未発見について、HAHR論文著者名の完全表記と論文情報、特にGordon L.のフルネームを確認する。
 - 注26-30はpp.164-165で注本文を確認済みだが、帝政派公式新聞、New York Herald 1866-12-16、Juárez 1868年3月書簡、Zarco 1866年9月書簡、Seward方針、武器購入許可との本文対応は引き続き確認する。
-- Fernando Iglesias Calderón 1905年著述、Hilarión Frías y Soto 1907年著述、Romero/Doblado 1864年10月領土割譲疑惑、Baja California/Sonora支配状況を確認する。

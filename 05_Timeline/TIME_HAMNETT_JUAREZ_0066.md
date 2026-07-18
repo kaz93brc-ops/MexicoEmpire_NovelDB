@@ -66,6 +66,11 @@ Rebellion of the Acordadaにより、Vicente Guerreroが大統領となり、Lor
 - Kindle location: 
 - Screenshot file: スクリーンショット 2026-06-13 17.22.58.jpeg
 
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] repeats Zavala's December 1828 Acordada role and Finance service, while [[FACT_HAMNETT_JUAREZ_3478]] records his additional 1833-34 Finance period.
+- Locator: p.280 / `/page/280/mode/2up` / `スクリーンショット 2026-06-13 17.31.41.jpeg`.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -89,7 +94,7 @@ Rebellion of the Acordadaにより、Vicente Guerreroが大統領となり、Lor
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0156]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0156]], [[FACT_HAMNETT_JUAREZ_3478]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.22.58.jpeg

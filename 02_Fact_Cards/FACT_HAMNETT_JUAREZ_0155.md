@@ -77,3 +77,8 @@ Hamnettは、Zavalaが指導したRebellion of the Acordadaを、急進自由主
 - Themes: [[Constitutionalism]], [[Mexican_Liberalism|Mexican Liberalism]], [[Factionalism]]
 - Related Fact Cards: 
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0010]]
+
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] repeats Zavala's leading yorkino role and participation in the December 1828 Acordada; the role evaluation remains verification-needed.
+- Locator: p.280 / `/page/280/mode/2up` / `スクリーンショット 2026-06-13 17.31.41.jpeg`.

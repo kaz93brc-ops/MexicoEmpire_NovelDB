@@ -65,3 +65,8 @@ Mexico City駐屯軍司令官Félix Zuloagaに軍事的権威が集中してい�
 - Themes: [[Regular_Army_As_Veto_Actor]], [[Civil_Military_Authority]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0043]]
 - Related Timeline Entries:
+
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] identifies Zuloaga as brigade commander in Mexico City in 1857 and separates Hamnett's `military arm` evaluation into [[FACT_HAMNETT_JUAREZ_3482]].
+- Locator: p.280 / `/page/280/mode/2up` / `スクリーンショット 2026-06-13 17.31.41.jpeg`.

@@ -66,6 +66,12 @@ Hamnettは、Zarco、Ignacio Ramírez、Prietoを含む1861年のJuárez内閣�
 - Archive page: /page/126/mode/2up; Page 126 (141/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.28.57.jpeg
 
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] gives Zarco's Foreign Relations term as 20 January-11 May 1861 and Interior term as 6 April-10 May 1861.
+- Locator: p.280 / `/page/280/mode/2up` / `スクリーンショット 2026-06-13 17.31.41.jpeg`.
+- Cautions: Confirm formal portfolio names and overlapping appointment dates; no new cabinet Timeline was created.
+
 ## Hamnett 1994 p.278 Dramatis Personae Locator
 
 - [[CAP_HAMNETT_JUAREZ_0142]] repeats Prieto's Finance service and Ramírez's Justice / Development roles while distinguishing their later opposition to Juárez reelection.
