@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2880"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-19"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -14,7 +14,7 @@ printed_page: "pp.233-234"
 archive_page: "/page/234/mode/2up; Page 234 (249/323)"
 page: "printed pages 233-234"
 kindle_location: ""
-screenshot_file: "スクリーンショット 2026-06-13 17.30.49.jpeg"
+screenshot_file: "スクリーンショット 2026-06-13 17.30.49.png"
 printed_page_status: "confirmed"
 title: "Counterfactual reform time if Juarez had lived to 1875"
 statement: "Hamnettは、Juárezが1875年まで生きて任期を完了していれば、憲法改革と国家制度の固着を進める時間を持ち得たと整理している。"
@@ -48,7 +48,7 @@ Hamnettは、Juárezが1875年まで生きて任期を完了していれば、�
 - Source: [[SRC_HAMNETT_1994_JUAREZ]]
 - Printed page: pp.233-234
 - Archive page: /page/234/mode/2up; Page 234 (249/323)
-- Screenshot file: スクリーンショット 2026-06-13 17.30.49.jpeg
+- Screenshot file: スクリーンショット 2026-06-13 17.30.49.png
 
 ## Notes
 

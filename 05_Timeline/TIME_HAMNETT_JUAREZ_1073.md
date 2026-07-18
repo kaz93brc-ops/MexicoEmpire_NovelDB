@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_1073"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-19"
 tags: "timeline;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -14,7 +14,7 @@ printed_page: "p.234"
 archive_page: "/page/234/mode/2up; Page 234 (249/323)"
 page: "printed page 234"
 kindle_location: ""
-screenshot_file: "スクリーンショット 2026-06-13 17.30.49.jpeg"
+screenshot_file: "スクリーンショット 2026-06-13 17.30.49.png"
 date: "1872-07-08"
 start_date: "1872-07-08"
 end_date: ""
@@ -52,7 +52,7 @@ Juárezがさらに重い心臓発作を起こした。
 - Source: [[SRC_HAMNETT_1994_JUAREZ]]
 - Printed page: p.234
 - Archive page: /page/234/mode/2up; Page 234 (249/323)
-- Screenshot file: スクリーンショット 2026-06-13 17.30.49.jpeg
+- Screenshot file: スクリーンショット 2026-06-13 17.30.49.png
 
 ## Evidence Notes
 
@@ -77,4 +77,4 @@ Juárezがさらに重い心臓発作を起こした。
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2889]]
 - Evidence category: historical_fact
 - Confidence: probable
-- Screenshot file: スクリーンショット 2026-06-13 17.30.49.jpeg
+- Screenshot file: スクリーンショット 2026-06-13 17.30.49.png

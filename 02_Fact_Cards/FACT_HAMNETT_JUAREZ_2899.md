@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2899"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-19"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -14,7 +14,7 @@ printed_page: "p.234"
 archive_page: "/page/234/mode/2up; Page 234 (249/323)"
 page: "printed page 234"
 kindle_location: ""
-screenshot_file: "スクリーンショット 2026-06-13 17.30.49.jpeg"
+screenshot_file: "スクリーンショット 2026-06-13 17.30.49.png"
 printed_page_status: "confirmed"
 title: "Benito Juarez Maza served as Oaxaca governor in 1911-1912"
 statement: "Benito Juárez Mazaは革命初期の1911–12年にOaxaca州知事となった。"
@@ -48,7 +48,7 @@ Benito Juárez Mazaは革命初期の1911–12年にOaxaca州知事となった�
 - Source: [[SRC_HAMNETT_1994_JUAREZ]]
 - Printed page: p.234
 - Archive page: /page/234/mode/2up; Page 234 (249/323)
-- Screenshot file: スクリーンショット 2026-06-13 17.30.49.jpeg
+- Screenshot file: スクリーンショット 2026-06-13 17.30.49.png
 
 ## Notes
 

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2897"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-19"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -14,7 +14,7 @@ printed_page: "p.234"
 archive_page: "/page/234/mode/2up; Page 234 (249/323)"
 page: "printed page 234"
 kindle_location: ""
-screenshot_file: "スクリーンショット 2026-06-13 17.30.49.jpeg"
+screenshot_file: "スクリーンショット 2026-06-13 17.30.49.png"
 printed_page_status: "confirmed"
 title: "Juarez children before and during marriage to Margarita"
 statement: "Hamnettは、JuárezにはMargaritaとの結婚前の子ども二人と、Margaritaとの子ども十人がいたと述べている。"
@@ -48,7 +48,7 @@ Hamnettは、JuárezにはMargaritaとの結婚前の子ども二人と、Margar
 - Source: [[SRC_HAMNETT_1994_JUAREZ]]
 - Printed page: p.234
 - Archive page: /page/234/mode/2up; Page 234 (249/323)
-- Screenshot file: スクリーンショット 2026-06-13 17.30.49.jpeg
+- Screenshot file: スクリーンショット 2026-06-13 17.30.49.png
 
 ## Notes
 

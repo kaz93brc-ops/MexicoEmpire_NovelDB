@@ -3,7 +3,7 @@ id: "CAP_HAMNETT_JUAREZ_0120"
 type: "capture"
 status: "processed"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-19"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
 author: "Brian R. Hamnett"
@@ -16,10 +16,10 @@ printed_page: "234-235"
 printed_pages: "234-235"
 archive_page: "/page/234/mode/2up"
 screen_display: "Page 234 (249/323)"
-screenshot_file: "スクリーンショット 2026-06-13 17.30.49.jpeg"
+screenshot_file: "スクリーンショット 2026-06-13 17.30.49.png"
 printed_page_status: "verified"
-printed_page_verification: "user-specified printed pages and archive display"
-reading_accuracy: "high for supplied summary; note bodies summarized only"
+printed_page_verification: "attached PNG visually inspected on 2026-07-19; printed pages and archive display directly confirmed"
+reading_accuracy: "high - attached PNG visually inspected; note references remain summarized only"
 content_type: "chapter_text / notes_and_references / chapter_end_candidate"
 previous_page_continuation_resolved: "yes - p.233 death-section sentence completes on p.234."
 next_page_continuation: "uncertain - p.235 note 20 appears complete, but next page must confirm whether Chapter 10 notes fully end."
@@ -41,7 +41,7 @@ relationship_cards_created: []
 - Printed page: pp.234-235
 - Archive page: /page/234/mode/2up
 - Screen display: Page 234 (249/323)
-- Screenshot file: スクリーンショット 2026-06-13 17.30.49.jpeg
+- Screenshot file: スクリーンショット 2026-06-13 17.30.49.png
 
 ## ID Handling
 
@@ -87,6 +87,13 @@ p.234 lower section and p.235 move into "NOTES AND REFERENCES." Notes 1-20 are v
 
 - Readiness and user target both point to printed pages 234-235.
 - Readiness mentioned notes 17-19; this spread confirms visible notes 1-20 and adds note 20 plus note 15's Benigno Cartas detail.
+
+### Supplemental Image Verification (2026-07-19)
+
+- The attached PNG was visually checked against this Capture and directly confirms printed pp.234-235, Archive `/page/234/mode/2up`, and screen display `Page 234 (249/323)`.
+- The attachment's actual filename extension is `.png`; the earlier `.jpeg` metadata was corrected across this Capture, its Fact Cards, Timeline Entries, and the progress record.
+- The visible chapter conclusion and notes are already represented by Fact Cards 2880-2900 and Timeline Entries 1070-1077, so no duplicate Fact or Timeline card was added.
+- Direct image review verifies what Hamnett's page says, but it does not independently confirm the underlying historical claims; existing `verification_needed` cautions remain.
 
 ## Fact Cards Created
 

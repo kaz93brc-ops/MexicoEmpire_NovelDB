@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2891"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-15"
+updated: "2026-07-19"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -14,7 +14,7 @@ printed_page: "p.234"
 archive_page: "/page/234/mode/2up; Page 234 (249/323)"
 page: "printed page 234"
 kindle_location: ""
-screenshot_file: "スクリーンショット 2026-06-13 17.30.49.jpeg"
+screenshot_file: "スクリーンショット 2026-06-13 17.30.49.png"
 printed_page_status: "confirmed"
 title: "Juarez died at 11:30 p.m. on 18 July 1872"
 statement: "Juárezは1872年7月18日午後11時30分に狭心症で死去した。"
@@ -51,7 +51,7 @@ Juárezは1872年7月18日午後11時30分に狭心症で死去した。
 - Source: [[SRC_HAMNETT_1994_JUAREZ]]
 - Printed page: p.234
 - Archive page: /page/234/mode/2up; Page 234 (249/323)
-- Screenshot file: スクリーンショット 2026-06-13 17.30.49.jpeg
+- Screenshot file: スクリーンショット 2026-06-13 17.30.49.png
 
 ## Notes
 
