@@ -68,3 +68,9 @@ related_timeline_entries: ["TIME_HAMNETT_JUAREZ_0705"]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0089]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0705]]
 
+## Hamnett 1994 p.275 Dramatis Personae Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Additional locator: Maximilian entry, p.275, `/page/274/mode/2up`, Page 274 (289/323), スクリーンショット 2026-06-13 17.31.36.jpeg.
+- Caution: the person reference confirms the date context but does not replace verification of the treaty terms or Shawcross comparison.
+

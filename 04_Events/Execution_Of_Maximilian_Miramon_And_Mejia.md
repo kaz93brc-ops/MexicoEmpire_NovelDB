@@ -98,3 +98,10 @@ Hamnett pp.192-193 follows the final clemency appeals, execution postponement, 1
 
 - Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
 - Caution: execution-site detail and causation are not derived from Map 3.
+
+## Hamnett 1994 p.275 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Existing Fact / Timeline: [[FACT_HAMNETT_JUAREZ_2330]], [[TIME_HAMNETT_JUAREZ_0805]].
+- Note: the Maximilian entry restates the 1867-06-19 execution with Miguel Miramón and Tomás Mejía; the Ignacio Mejía entry begins separately at the bottom of the same page.
+- Caution: keep Tomás Mejía and Ignacio Mejía distinct and compare the three men's relationship at Querétaro with Shawcross.

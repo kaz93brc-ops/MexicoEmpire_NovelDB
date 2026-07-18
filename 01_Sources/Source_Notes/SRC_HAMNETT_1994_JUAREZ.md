@@ -3,7 +3,7 @@ id: SRC_HAMNETT_1994_JUAREZ
 type: source_note
 status: draft
 created: 2026-06-14
-updated: "2026-07-18"
+updated: "2026-07-19"
 tags:
   - source
   - book
@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-ユーザー指定により146枚目 `CAP_HAMNETT_JUAREZ_0146` / INDEX / printed pages 286–287 / archive `/page/286/mode/2up` まで先行処理済み。ただし140枚目 `CAP_HAMNETT_JUAREZ_0140` / pp.274–275はrepoに未存在で、Readinessの次入口として残す。146枚目ではp.285でMap 3とMAPSが終了しp.286でIndexが始まることを確認し、A–C前半から人物・制度・事件・主題の選別locatorだけをCaptureと既存Entityへ接続した。Index開始を記録するFact3503のみ作成し、新規Timeline / Entity / Relationshipは作成していない。次のIndex見開きではCatholic Church項目の継続有無とC後半以降を確認するが、Readiness上は140枚目を優先する。欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` は補完済みで、76枚目/pp.146–147のローカルgapは未確認のまま維持する。
+ユーザー指定により146枚目 `CAP_HAMNETT_JUAREZ_0146` / INDEX / printed pages 286–287 / archive `/page/286/mode/2up` まで先行処理済みで、欠けていた140枚目 `CAP_HAMNETT_JUAREZ_0140` / pp.274–275も補完した。140枚目ではSebastián Lerdo、Ignacio Mariscal、Leonardo Márquez、Maximilian、未完のIgnacio Mejíaを整理し、重要Fact9件と既存Fact / Timeline / Entity locatorへ接続した。新規Timeline / Entity / Relationshipは作成していない。次入口は147枚目 / pp.288–289のIndex（Catholic Church継続とC後半以降）とし、76枚目/pp.146–147のローカルgapは未確認のまま維持する。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-19に欠けていた140枚目Captureとして [[CAP_HAMNETT_JUAREZ_0140|CAP_HAMNETT_JUAREZ_0140]] を補完し、Readinessとユーザー指定がともにpp.274–275を指すことを確認した。139枚目p.273のMiguel Lerdo de Tejada項目は完結し、p.274がSebastián Lerdo de Tejada新項目から始まる。新規Factは[[FACT_HAMNETT_JUAREZ_3412|3412]]-[[FACT_HAMNETT_JUAREZ_3414|3414]]、[[FACT_HAMNETT_JUAREZ_3416|3416]]、[[FACT_HAMNETT_JUAREZ_3419|3419]]、[[FACT_HAMNETT_JUAREZ_3422|3422]]、[[FACT_HAMNETT_JUAREZ_3426|3426]]-[[FACT_HAMNETT_JUAREZ_3427|3427]]、[[FACT_HAMNETT_JUAREZ_3429|3429]]。Treaty of Miramar、MaximilianのMexico City到着・処刑、MárquezのTacubaya異名と1867年行動、Lerdo移動政府は既存Fact / Timelineへlocatorを追加し、新規Timeline・Entity stub・Relationshipカードは作成しなかった。Márquezの暴力責任は`variant_disputed / disputed`、Maximilianの非嫡出子記述は`rumor_hearsay / uncertain`とし、MaximilianのReform Laws維持とCatholic establishment / Church controlの緊張を分離した。p.275末尾のIgnacio Mejía項目は未完として[[CAP_HAMNETT_JUAREZ_0141|141枚目]]へ接続し、任期差を要確認のまま維持した。次入口は147枚目pp.288–289。人物欄全文、人物略歴全文、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。
 
 2026-07-18にユーザー指定の146枚目Captureとして [[CAP_HAMNETT_JUAREZ_0146|CAP_HAMNETT_JUAREZ_0146]] を作成。Readinessは未処理の140枚目pp.274–275を示していたため146を先行処理し、次入口は140のまま維持した。pp.286–287でMap 3 / MAPS終了とIndex開始、A–C前半の範囲を確認し、Index項目・サブ項目・ページ番号は網羅的に転記しなかった。新規FactはIndex開始と範囲だけを記録する [[FACT_HAMNETT_JUAREZ_3503|3503]]。新規Timeline / Entity stub / Relationshipカードは作成せず、Bazaine、Juan Álvarez、Catholic Church、army、caciquismo、Reform Laws、French Intervention、Second Mexican Empire、Banco de Avío、Antón Lizardo等を既存EntityとCapture-level locatorへ接続した。Capulalpan (Oaxaca) と Calpulalpan (Tlaxcala) を分離し、Calles / Cárdenas / Carranzaを1860年代の直接人物へ誤接続しなかった。次のIndex見開きでCatholic Church項目の継続有無とC後半以降を確認する。添付実体 `.png` とcatalog指定 `.jpeg` の差を記録した。本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記、Index全文転記は保存していない。
 

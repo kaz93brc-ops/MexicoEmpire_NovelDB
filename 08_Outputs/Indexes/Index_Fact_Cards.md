@@ -2,8 +2,8 @@
 id: "Index_Fact_Cards"
 type: "index_note"
 status: "active"
-created: "2026-07-18"
-updated: "2026-07-18"
+created: "2026-07-19"
+updated: "2026-07-19"
 tags:
   - "index"
   - "fact-cards"
@@ -13,9 +13,9 @@ tags:
 
 ## Summary
 
-- Fact Cards: 5051
+- Fact Cards: 5060
 - source_id_review review count: 0
-- printed_page_confirmed review count: 3011
+- printed_page_confirmed review count: 3020
 - kindle_page_locator_available review count: 2034
 - page_locator_available review count: 6
 - kindle_locator_available review count: 0
@@ -24,7 +24,7 @@ tags:
 
 ## By Source
 
-- [[SRC_HAMNETT_1994_JUAREZ|Juárez]]: 3011
+- [[SRC_HAMNETT_1994_JUAREZ|Juárez]]: 3020
 - [[SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO|The Last Emperor of Mexico: A Disaster in the New World]]: 2040
 
 ## Metadata Review

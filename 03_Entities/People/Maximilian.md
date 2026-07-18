@@ -304,3 +304,12 @@ Hamnett places Juárez's resistance to Maximilian within national-sovereignty de
 - Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_1120]]
 - The p.241 sentence resolves: Hamnett places the Empire beyond recovery by May 1867 because imperial finances collapsed and an effective Mexican army was not formed.
 - Cautions: Keep structural failure and Juárez's anti-colonial framing alongside, but distinct from, Maximilian's personal tragedy.
+
+## Hamnett 1994 p.275 Dramatis Personae Notes
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3426]], [[FACT_HAMNETT_JUAREZ_3427]], [[FACT_HAMNETT_JUAREZ_3429]].
+- Existing locator targets: [[FACT_HAMNETT_JUAREZ_2057]], [[FACT_HAMNETT_JUAREZ_2071]], [[FACT_HAMNETT_JUAREZ_2330]], [[TIME_HAMNETT_JUAREZ_0705]], [[TIME_HAMNETT_JUAREZ_0707]], [[TIME_HAMNETT_JUAREZ_0805]].
+- Historical role: Hamnett presents a ruler seeking a moderate Liberal imperial regime while supporting a Catholic establishment, maintaining much of the Reform Laws, and attempting imperial control of Church institutions.
+- Creative use: retain the contradiction among foreign monarchy, Catholic order, and Liberal institutional continuity; do not reduce Maximilian to a simple reactionary or reformer.
+- Cautions: cross-check Treaty of Miramar, Church policy, Reform Laws scope, and the illegitimate-children rumor with Shawcross and primary evidence.

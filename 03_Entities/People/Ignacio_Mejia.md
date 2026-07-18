@@ -129,8 +129,9 @@ Hamnett p.222 says War Minister Ignacio Mejía strongly suspected the Díaz brot
 
 ## Hamnett 1994 pp.275-276 Dramatis Personae Notes
 
-The entry completes across p.275-p.276, gives a War Ministry range that conflicts with the p.205 summary, and carries Mejía through exile until 1884 and later Oaxaca property/business activity.
+The entry begins at the end of p.275 and completes across p.276, gives a War Ministry range that conflicts with the p.205 summary, and carries Mejía through exile until 1884 and later Oaxaca property/business activity.
 
-- Capture: [[CAP_HAMNETT_JUAREZ_0141]]; planned prior capture `CAP_HAMNETT_JUAREZ_0140` remains absent.
+- Captures: [[CAP_HAMNETT_JUAREZ_0140]], [[CAP_HAMNETT_JUAREZ_0141]].
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3435]], [[FACT_HAMNETT_JUAREZ_2457]], [[FACT_HAMNETT_JUAREZ_2466]]
-- Cautions: keep Ignacio Mejía separate from [[Tomas_Mejia|Tomás Mejía]]; verify both ministry ranges, exile status, and 1884 return circumstances.
+- Continuity: CAP0140 records only the unfinished p.275 opening; CAP0141 records the p.276 continuation and does not retroactively make the p.275-only claim complete.
+- Cautions: keep Ignacio Mejía separate from [[Tomas_Mejia|Tomás Mejía]]; verify both ministry ranges, official titles, exile status, and 1884 return circumstances.

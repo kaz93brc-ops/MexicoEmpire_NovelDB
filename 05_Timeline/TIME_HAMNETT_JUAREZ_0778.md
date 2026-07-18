@@ -55,6 +55,12 @@ Díaz took Puebla and the forts of Loreto and Guadalupe.
 - Archive page: /page/186/mode/2up; Page 186 (201/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.01.jpeg
 
+## Hamnett 1994 p.275 Dramatis Personae Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Additional locator: Leonardo Márquez entry, p.275, `/page/274/mode/2up`, Page 274 (289/323), スクリーンショット 2026-06-13 17.31.36.jpeg.
+- Caution: compare Puebla relief failure and Mexico City return with Shawcross before expanding the route.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

@@ -69,3 +69,9 @@ related_timeline_entries: ["TIME_HAMNETT_JUAREZ_0778"]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0096|CAP_HAMNETT_JUAREZ_0096]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0778|TIME_HAMNETT_JUAREZ_0778]], [[TIME_HAMNETT_JUAREZ_0778]]
 
+## Hamnett 1994 p.275 Dramatis Personae Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Additional locator: Leonardo Márquez entry, p.275, `/page/274/mode/2up`, Page 274 (289/323), スクリーンショット 2026-06-13 17.31.36.jpeg.
+- Note: the person reference links the failed Puebla relief to Márquez's return to Mexico City; route and dates remain cross-check items.
+
