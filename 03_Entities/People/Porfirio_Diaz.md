@@ -320,3 +320,8 @@ Hamnett p.234 interprets Juárez's death as removing the pretext for Díaz's reb
 - Related People: [[Benito_Juarez|Benito Juárez]], [[Felix_Diaz|Félix Díaz]]
 - Related Events: [[Reform_War|Reform War]], [[French_Intervention_in_Mexico|French Intervention]]
 - Cautions: Keep the successful Liberal commander, Juárez's 1867-1872 opponent, and Hamnett's radical-wing classification distinct.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; `in Rebellion of La Noria` and `and Restored Republic` are retained as separate research routes.
+- Caution: do not infer a single causal narrative from the adjacent subentries; check each cited main-text cluster independently.

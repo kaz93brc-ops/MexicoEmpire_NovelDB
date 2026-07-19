@@ -67,3 +67,8 @@ Hamnett p.107 states that the 1859 Manifesto referred back to radical social ref
 - Related People: [[Guillermo_Prieto|Guillermo Prieto]], [[Ignacio_Ramirez|Ignacio Ramírez]], [[Ignacio_Vallarta|Ignacio Vallarta]]
 - Reused Timeline Entry: [[TIME_HAMNETT_JUAREZ_0416]]
 - Cautions: Verify each deputy's district, term, committee role, and attendance independently.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the `Constituent Congress` cluster provides an additional route to the 1822–23, 1823–24, and 1856–57 groupings.
+- Caution: this existing Event represents 1856–57 only; earlier Congress groupings are not merged into it.

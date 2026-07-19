@@ -29,7 +29,7 @@ Entry note for Convention of London. Keep historical evidence, interpretation, a
 - Themes: [[Allied_Intervention_In_Mexico|Allied intervention in Mexico]], [[Allied_Occupation_Of_Veracruz|Allied occupation of Veracruz]], [[European_Intervention|European intervention]], [[European_Powers|European powers]], [[Public_Debt|Public Debt]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1855|London Convention forms tripartite debt-intervention framework]], [[FACT_HAMNETT_JUAREZ_1992|London Convention authorizes tripartite debt collection]], [[FACT_HAMNETT_JUAREZ_3210|Chronology links debt crisis to intervention empire and mobile republic]], [[FACT_MEXEMP_0266|London Conventionにはメキシコ内政不干渉条項が入った]], [[FACT_MEXEMP_0269|London Conventionは1861年10月31日に署名された]], [[FACT_MEXEMP_0270|フランス側は英国が秘密裏に同意していると説明した]], [[FACT_MEXEMP_0273|Napoleon IIIは現地裁量条項で非干渉条項を迂回できると見込んだ]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0632|31 October 1861 London Convention]], [[TIME_HAMNETT_JUAREZ_0677|London Convention agrees on debt-collection intervention]], [[TIME_MEXEMP_0050|1861年10月31日、London Conventionが署名された]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0080]], [[CAP_HAMNETT_JUAREZ_0086]], [[CAP_HAMNETT_JUAREZ_0131]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0080]], [[CAP_HAMNETT_JUAREZ_0086]], [[CAP_HAMNETT_JUAREZ_0131]], [[CAP_HAMNETT_JUAREZ_0147]]
 - Scenes:
 - Questions:
 
@@ -77,3 +77,8 @@ Hamnett p.167 places the 31 October 1861 London Convention in a debt-enforcement
 - Related Places: [[Spain]], [[Britain]], [[France]], [[Veracruz]], [[Mexico]]
 - Related Themes: [[Allied_Intervention_In_Mexico]], [[Allied_Occupation_Of_Veracruz]], [[Public_Debt]], [[Debt_Enforcement]]
 - Cautions: Treaty text and individual national aims still need confirmation.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Index supplies an additional selected locator cluster for the Convention of London.
+- Caution: retain the existing main-text and Timeline evidence for date and participants; the Index adds no treaty content.

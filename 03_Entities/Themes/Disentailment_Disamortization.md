@@ -96,3 +96,8 @@ The Glossary summarizes disamortization as the Liberal transfer of corporate pro
 - Related Event: [[Lerdo_Law_1856_06_25|Lerdo Law]]
 - Related Themes: [[Church_Property|church property]], [[Indigenous_Communal_Land|indigenous communal land]], [[Corporate_Property_Vs_Individual_Property|corporate versus individual property]]
 - Cautions: Cross-check the relation among the Lerdo Law, bienes nacionales, and communal land; do not merge disamortization with later nationalization.
+
+## Hamnett 1994 Index pp.288–289 Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; `disamortization ... see also Lerdo Law` and the corporate-properties entry provide navigation to this Theme.
+- Caution: the Index does not define scope, implementation, affected property, or social consequences.

@@ -148,3 +148,8 @@ Chronology pp.258-259 closes the intervention through French withdrawal, Maximil
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0146]]; Bazaine and Catholic Church entries provide selected routes into the Intervention narrative.
 - Caution: use the cited main-text pages to distinguish French policy, military command, Mexican allies, Church actors, and republican resistance.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Conservative Party subentry provides another route into French Intervention passages.
+- Caution: the Index does not define Conservative alignment, internal differences, or causation.

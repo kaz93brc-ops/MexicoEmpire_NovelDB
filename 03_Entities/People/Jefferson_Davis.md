@@ -50,7 +50,7 @@ Entry note for Jefferson Davis. Verify details in linked Fact Cards and Timeline
 - Themes: [[Confederate_Diplomacy_Toward_Mexico|Confederate Diplomacy Toward Mexico]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1554|Quintero carries Toombs letter sent by Davis]], [[FACT_HAMNETT_JUAREZ_1555|Confederacy denies territorial ambition toward Mexico]], [[FACT_HAMNETT_JUAREZ_1558|Davis seeks to win Luis Terrazas]], [[FACT_HAMNETT_JUAREZ_1562|Davis government still hopes for Juárez ministry]], [[FACT_HAMNETT_JUAREZ_1871|Davis government seeks cooperation from Juarez or northern governors]], [[FACT_HAMNETT_JUAREZ_1879|Confederate diplomacy intensifies in 1862 and early 1863]], [[FACT_HAMNETT_JUAREZ_2295|Vazquez and Ortega invoke Jefferson Davis comparison]], [[FACT_MEXEMP_2429|Ulysses S. GrantはMaximilianを裁いた後に赦すべきだと考えたとされる]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0534|Quintero meets Vidaurri in Monterrey]], [[TIME_HAMNETT_JUAREZ_0637|1862 to early 1863 Confederate diplomacy toward Mexico intensifies]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0069]], [[CAP_HAMNETT_JUAREZ_0080]], [[CAP_HAMNETT_JUAREZ_0098]], [[CAP_MEXEMP_0098]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0069]], [[CAP_HAMNETT_JUAREZ_0080]], [[CAP_HAMNETT_JUAREZ_0098]], [[CAP_HAMNETT_JUAREZ_0147]], [[CAP_MEXEMP_0098]]
 - Scenes:
 - Questions:
 
@@ -103,3 +103,8 @@ Hamnett p.190 records Maximilian's defence counsel invoking Jefferson Davis as a
 - Related People: [[Jose_Maria_Vazquez|José María Vázquez]], [[Eulalio_Ortega|Eulalio Ortega]], [[Maximilian]]
 - Related Event: [[Trial_of_Maximilian|Trial of Maximilian]]
 - Cautions: This is a defence comparison, not a new Davis Timeline event for the Hamnett page.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Index supplies a selected locator cluster for Jefferson Davis.
+- Caution: do not turn the Index cluster into a Mexico-related biography or a new Juárez-era event.

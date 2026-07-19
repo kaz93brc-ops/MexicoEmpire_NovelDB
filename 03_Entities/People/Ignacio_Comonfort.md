@@ -217,3 +217,8 @@ Hamnett p.199 interprets Juárez's 1867 constitutional-reform position as placin
 - Related People: [[Benito_Juarez|Benito Juárez]], [[Antonio_Lopez_de_Santa_Anna|Antonio López de Santa Anna]]
 - Related Events: [[Plan_of_Ayutla|Plan of Ayutla]], [[Plan_Of_Tacubaya|Plan of Tacubaya]], [[Reform_War|Reform War]]
 - Cautions: Treat moderate Liberalism, institutional fracture, and later military reintegration separately; confirm office dates, exile, and 1863 death.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Index separates routes for the 1857 coup and `Estatuto Orgánico Provisional (1856)`.
+- Caution: verify both cited passages; the Index does not establish their content, sequence, or Comonfort's motive.

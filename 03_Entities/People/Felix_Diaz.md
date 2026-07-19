@@ -128,3 +128,8 @@ Hamnett pp.230-231 resolves the previous-page continuation by placing Félix Dí
 - Related People: [[Porfirio_Diaz|Porfirio Díaz]], [[Benito_Juarez|Benito Juárez]]
 - Related Themes: [[Oaxaca_Politics|Oaxaca politics]], [[Liberal_Factionalism|Liberal factionalism]]
 - Cautions: Confirm the sibling relationship and exact 1867-1871 gubernatorial term from independent records.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; `Governor of Oaxaca` is retained as an Index locator phrase.
+- Caution: verify the office and dates from the cited main text or independent records; the Index alone is not a biographical claim.

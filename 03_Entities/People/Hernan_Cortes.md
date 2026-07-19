@@ -50,7 +50,7 @@ Entry note for Hernán Cortés. Verify details in linked Fact Cards and Timeline
 - Themes:
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0458|1836 livestock estate sale aggravated Isthmus land conflicts]], [[FACT_HAMNETT_JUAREZ_0534|Hamnett note 34 points to Tehuantepec and Cortés hacienda labor studies]], [[FACT_MEXEMP_0219|CarlotaはMexico統治をHabsburgの使命として想像した]], [[FACT_MEXEMP_0530|フランス軍の首都接近はCortésの征服行と比較された]], [[FACT_MEXEMP_0531|フランス軍演説はCortésとの違いを強調した]], [[FACT_MEXEMP_2128|MaximilianはMexico Cityを離れながらCortésの撤退を想起した]], [[FACT_MEXEMP_2129|MaximilianはCortésの撤退と再起の故事に自分を重ねた]], [[FACT_MEXEMP_2130|ShawcrossはMaximilianのCortés比喩に皮肉を添えている]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0197|Southern Isthmus livestock estates sold]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0023]], [[CAP_MEXEMP_0087]], [[CAP_MEXEMP_0088]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0023]], [[CAP_HAMNETT_JUAREZ_0147]], [[CAP_MEXEMP_0087]], [[CAP_MEXEMP_0088]]
 - Scenes:
 - Questions:
 
@@ -72,3 +72,8 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - Which linked claims are strong enough for scene design?
 - Which source passages still need page-level verification?
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Index supplies a selected locator for `Cortés, Hernán`.
+- Caution: keep Hernán Cortés distinct from [[Cadiz_Cortes|Cortes of Cádiz]] and the lowercase institutional term `cortes`.

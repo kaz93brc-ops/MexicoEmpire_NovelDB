@@ -81,3 +81,8 @@ Hamnett p.128 lists Manuel Dublán among Oaxacan deputies who supported Juárez 
 - Related People: [[Benito_Juarez|Benito Juárez]], [[Porfirio_Diaz|Porfirio Díaz]], [[Maximilian]]
 - Related Events / Organizations: [[Second_Mexican_Empire|Second Mexican Empire]], [[Restored_Republic|Restored Republic]]
 - Cautions: Keep Oaxaca Liberal association, 1865 imperial alignment, rehabilitation, Díaz support, and finance-minister service as a fluid career; do not reduce it to betrayal or infer motive.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; `Dublán, Manuel` is the last visible heading on p.289 and has visible locators.
+- Caution: check the next spread before deciding whether the entry is complete; do not expand identity or career from the Index.

@@ -182,3 +182,8 @@ Hamnett places García Granados and Rabasa's constitutional criticism against Co
 - Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0035]]
 - Note: The Chronology supplies 1857-02-05 as the publication date and immediately connects the constitutional order to Juárez's Supreme Court succession position and the Tacubaya crisis.
 - Cautions: Verify the publication/promulgation terminology and constitutional article in the legal text.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the multi-country Constitution cluster includes a distinct 1857 Mexico grouping.
+- Caution: keep the 1787 U.S., 1791 France, 1812 Spain, 1824 Mexico, and 1917 Mexico entries separate; do not attach later constitutions to Juárez-era events.

@@ -235,3 +235,8 @@ Hamnett pp.224-225 records the reported shooting of a Juchitán parish priest an
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Catholic Church entry cross-references Juárez, Reform Laws, the Empire, and French Intervention clusters.
 - Caution: the entry reaches the p.287 foot and may continue on pp.288–289; the Index does not establish a single unified Church position.
+
+## Hamnett 1994 Index pp.288–289 Continuation
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the opening fragment `and Restored Republic, 205–6` completes the Catholic Church entry carried from p.287, which appears to end at the top of p.288.
+- Caution: the continuation is a locator only and does not establish Church policy or a single relationship with the Restored Republic.

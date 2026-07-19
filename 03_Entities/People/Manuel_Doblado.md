@@ -135,3 +135,8 @@ Hamnett p.161 reports Frías y Soto's later claim that Doblado and Romero prepar
 - Related People: [[Benito_Juarez|Benito Juárez]]
 - Related Events: [[Plan_of_Ayutla|Plan of Ayutla]], [[French_Intervention_in_Mexico|French Intervention]]
 - Cautions: Confirm cabinet portfolios, Jalisco command, early French-intervention diplomacy, and the 1864 escort connection.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Index supplies an additional selected locator cluster for Manuel Doblado.
+- Caution: retain existing narrative evidence for office, diplomacy, and chronology; the Index adds no independent career claim.

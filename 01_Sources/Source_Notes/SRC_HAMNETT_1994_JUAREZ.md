@@ -3,7 +3,7 @@ id: SRC_HAMNETT_1994_JUAREZ
 type: source_note
 status: draft
 created: 2026-06-14
-updated: "2026-07-18"
+updated: "2026-07-19"
 tags:
   - source
   - book
@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-ユーザー指定により146枚目 `CAP_HAMNETT_JUAREZ_0146` / INDEX / printed pages 286–287 / archive `/page/286/mode/2up` まで先行処理済み。ただし140枚目 `CAP_HAMNETT_JUAREZ_0140` / pp.274–275はrepoに未存在で、Readinessの次入口として残す。146枚目ではp.285でMap 3とMAPSが終了しp.286でIndexが始まることを確認し、A–C前半から人物・制度・事件・主題の選別locatorだけをCaptureと既存Entityへ接続した。Index開始を記録するFact3503のみ作成し、新規Timeline / Entity / Relationshipは作成していない。次のIndex見開きではCatholic Church項目の継続有無とC後半以降を確認するが、Readiness上は140枚目を優先する。欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` は補完済みで、76枚目/pp.146–147のローカルgapは未確認のまま維持する。
+ユーザー指定により147枚目 `CAP_HAMNETT_JUAREZ_0147` / INDEX / printed pages 288–289 / archive `/page/288/mode/2up` まで先行処理済み。ただし140枚目 `CAP_HAMNETT_JUAREZ_0140` / pp.274–275はrepoに未存在で、Readinessの次入口として残す。147枚目ではC後半からD前半を選別locatorとして整理し、p.288冒頭で前ページのCatholic Church項目が完結するとみられること、明示的なsee / see also、Constitutionの複数国・複数時期区分、p.289末尾のDublán項目を記録した。予定Fact3504はIndex構造をCaptureで十分に扱えるため未使用とし、新規Fact / Timeline / Entity / Relationshipは作成していない。次のIndex見開きではDublán項目の継続有無とD以降を確認するが、Readiness上は140枚目を優先する。欠落していた39枚目 `CAP_HAMNETT_JUAREZ_0039` は補完済みで、76枚目/pp.146–147のローカルgapは未確認のまま維持する。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-19にユーザー指定の147枚目Captureとして [[CAP_HAMNETT_JUAREZ_0147|CAP_HAMNETT_JUAREZ_0147]] を作成。Readinessは未処理の140枚目pp.274–275を示していたため147を先行処理し、次入口は140のまま維持した。pp.288–289のC後半–D前半から、Catholic Church前ページ継続の完結、Civil War of the Reform -> Reform Movement、corporate properties -> disamortization / Lerdo Law、disamortization -> Lerdo Lawの相互参照、Constitutionの複数国・複数時期区分、Dublán次ページ継続可能性を記録した。予定Fact3504は未使用で、新規Fact / Timeline / Entity stub / Relationshipカードは作成せず、主要既存Person / Organization / Event / Theme / Placeへ選別locatorを追加した。Cosijoezaと独立PlaceとしてのCuetzalanはcandidate-only、Douayは既存basename候補があっても同定未確定とした。1917年憲法等をJuárez同時代へ接続せず、Index項目・サブ項目・ページ番号は網羅的に転記しなかった。添付実体 `.png` とcatalog指定 `.jpeg` の差を記録した。本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記、Index全文転記は保存していない。
 
 2026-07-18にユーザー指定の146枚目Captureとして [[CAP_HAMNETT_JUAREZ_0146|CAP_HAMNETT_JUAREZ_0146]] を作成。Readinessは未処理の140枚目pp.274–275を示していたため146を先行処理し、次入口は140のまま維持した。pp.286–287でMap 3 / MAPS終了とIndex開始、A–C前半の範囲を確認し、Index項目・サブ項目・ページ番号は網羅的に転記しなかった。新規FactはIndex開始と範囲だけを記録する [[FACT_HAMNETT_JUAREZ_3503|3503]]。新規Timeline / Entity stub / Relationshipカードは作成せず、Bazaine、Juan Álvarez、Catholic Church、army、caciquismo、Reform Laws、French Intervention、Second Mexican Empire、Banco de Avío、Antón Lizardo等を既存EntityとCapture-level locatorへ接続した。Capulalpan (Oaxaca) と Calpulalpan (Tlaxcala) を分離し、Calles / Cárdenas / Carranzaを1860年代の直接人物へ誤接続しなかった。次のIndex見開きでCatholic Church項目の継続有無とC後半以降を確認する。添付実体 `.png` とcatalog指定 `.jpeg` の差を記録した。本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記、Index全文転記は保存していない。
 

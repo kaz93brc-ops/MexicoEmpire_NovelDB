@@ -122,3 +122,8 @@ Hamnett pp.94-95 places Oaxaca's governor, diocese, city hospitals, Zimatlan, an
 
 - Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
 - Caution: regional power, administrative reach, and the Chiapas / Guatemala relationship require other evidence and Map 2 cross-checking.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; several person and place entries provide selected routes into Oaxaca material.
+- Caution: the Index does not establish offices, regional boundaries, or relations among Félix Díaz, Cuilapan, and other Oaxaca entries.

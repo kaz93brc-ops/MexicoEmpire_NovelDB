@@ -2,7 +2,7 @@
 id: HAMNETT-INGESTION-READINESS
 type: report
 status: active
-created: 2026-07-18
+created: 2026-07-19
 tags:
   - hamnett
   - ingestion
@@ -15,7 +15,7 @@ tags:
 
 - hamnett_fact_cards: 3011
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, inspect screenshot 147 / pp.288-289 for Catholic Church continuation and C onward; preserve local pp.146-147 gap
+- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, inspect screenshot 148 / pp.290-291 for possible Dublán continuation and D onward; preserve local pp.146-147 gap
 
 ## Fact Cards By Section
 

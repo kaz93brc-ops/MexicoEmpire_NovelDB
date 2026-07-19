@@ -90,3 +90,8 @@ Hamnett p.126 records Degollado's death in an ambush on 1861-06-15 and treats hi
 - Related People: [[Melchor_Ocampo|Melchor Ocampo]], [[Benito_Juarez|Benito Juárez]]
 - Related Events: [[Revolution_of_Ayutla|Ayutla Revolution]], [[Reform_War|Reform War]]
 - Cautions: Confirm Jalisco command, truce proposal, Juárez's removal decision, and death date; do not infer motive from the person-reference entry.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Index supplies an additional selected locator cluster for Santos Degollado.
+- Caution: verify political and military episodes in the cited main text rather than deriving a career narrative from the Index.

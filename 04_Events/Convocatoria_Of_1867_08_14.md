@@ -63,3 +63,8 @@ Hamnett p.206 says the 1867 convocatoria reaffirmed the 1864 electoral-law provi
 - Existing Timeline Entry: [[TIME_HAMNETT_JUAREZ_0850]]
 - Related Interpretation: [[FACT_HAMNETT_JUAREZ_3248]]
 - Cautions: Confirm the formal title, five proposals, and legal basis in the original document.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; `convocatoria (1867)` provides an additional route to the existing Event.
+- Caution: the Index does not establish the document's date, provisions, procedure, or controversy.

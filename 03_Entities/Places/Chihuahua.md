@@ -86,3 +86,8 @@ Hamnett identifies Almada and Tamayo as later guides to Terrazas family power, J
 
 - Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
 - Caution: Map 3 does not establish residence dates or the government's route.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Index supplies a selected locator cluster for Chihuahua.
+- Caution: use cited narrative passages for place, government, and campaign context; the Index adds no chronology or boundary evidence.

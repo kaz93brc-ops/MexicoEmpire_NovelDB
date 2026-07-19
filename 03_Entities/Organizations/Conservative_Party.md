@@ -92,3 +92,8 @@ Hamnett connects Lucas Alamán to the party's 1848 formation and Juan Nepomuceno
 - Capture: [[CAP_HAMNETT_JUAREZ_0136]]
 - Related People: [[Lucas_Alaman|Lucas Alamán]], [[Juan_Nepomuceno_Almonte|Juan Nepomuceno Almonte]]
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3330]], [[FACT_HAMNETT_JUAREZ_3333]], [[FACT_HAMNETT_JUAREZ_3334]]
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; `attitude to USA`, `and French Intervention`, and `and Lozada` are retained as separate research routes.
+- Caution: the Index does not establish a unified party position, the nature of any relationship, or causation among the three clusters.
