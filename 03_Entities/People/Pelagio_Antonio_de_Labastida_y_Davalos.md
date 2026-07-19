@@ -87,3 +87,8 @@ Hamnett p.206 says an amnesty made Archbishop Labastida's return from exile poss
 - Related Organizations: [[Catholic_Church]], [[Juarez_Government]]
 - Related Themes: [[Church_State_Relations_Mexico]], [[Liberalism_And_Catholicism]]
 - Cautions: This page uses "Archbishop Labastida"; confirm identity, amnesty terms, and return date before treating the full name as settled for this claim.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; Labastida's entry supplies routes under Archbishop of Mexico, Regent, and Restored Republic.
+- Caution: the Index does not establish office dates, legal status, actions, or continuity among these roles.

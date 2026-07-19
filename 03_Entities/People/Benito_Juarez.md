@@ -1152,3 +1152,8 @@ Chronology p.260 closes Juárez's presidency through the re-election crisis, La 
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the French Intervention entry includes a Juárez subentry and supplies a reciprocal research route.
 - Caution: no new Relationship card or causal claim is created from this Index cross-reference.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; the Juárez entry crosses the page break and routes to European powers, Catholic Church, Constitution of 1857, the Díaz brothers, historiography, Juárez Law, last years, Liberalism, provincial origins, La Noria, Álvarez, Lozada, state governorship / governors, the qualified `supposed coup d’état`, USA, and Félix Díaz.
+- Caution: these are research routes only; they do not establish the meaning, direction, responsibility, support, conflict, or causation of any relationship.

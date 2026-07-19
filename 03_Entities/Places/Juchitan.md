@@ -59,3 +59,8 @@ Hamnett pp.224-225 returns to Juchitán as a site of Isthmus resistance to Oaxac
 
 - Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
 - Caution: Spatial context must not reduce Juchitán communities to rebellion or criminality.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; Juchitán and the separate `juchitecos` heading provide Place and community research routes.
+- Caution: `juchitecos` is not treated as a Place, and the Index does not define political alignment or event content.

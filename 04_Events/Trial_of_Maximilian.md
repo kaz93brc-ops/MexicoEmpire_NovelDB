@@ -102,3 +102,8 @@ Hamnett pp.192-193 continues the defence's constitutional challenge, records the
 - Related capture: [[CAP_HAMNETT_JUAREZ_0101]]
 - Related source candidates: [[SRC_REF_BJDOCS_TAMAYO|BJDOCS]], Archivo Juárez MSJ, HAHR, Riva Palacio / Martínez de la Torre 1867 Memorandum.
 - Cautions: Use these notes as a locator map only until exact documents and body-note correspondences are verified.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; `trial of Maximilian` continues under the cross-column Sebastián Lerdo de Tejada entry.
+- Caution: this route does not establish Lerdo's specific role, words, advice, judgment, or responsibility at the trial.

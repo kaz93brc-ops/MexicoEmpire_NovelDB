@@ -196,3 +196,8 @@ Hamnett p.167 says that, after U.S. borrowing failed, the cabinet hesitated in M
 - Note: 財務省、Ley Lerdo、法人財産政策、VeracruzのJuárez政府への参加を既存カードへ接続した。
 - Held Facts: planned `FACT_HAMNETT_JUAREZ_3405` and `3406` were not created because the existing cards already preserve those claims.
 - Cautions: Sebastián Lerdo de Tejadaと混同せず、Ley Lerdo日付の1856-06-25 / 1856-06-26差と政策目的を確認する。
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; Miguel Lerdo has a separate main entry and a `Lerdo Law (Ley Lerdo)` route.
+- Caution: keep Miguel separate from the following Sebastián Lerdo entry and use the existing law Event for the alternate labels.

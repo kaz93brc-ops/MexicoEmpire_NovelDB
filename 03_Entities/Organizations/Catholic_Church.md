@@ -240,3 +240,8 @@ Hamnett pp.224-225 records the reported shooting of a Juchitán parish priest an
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the opening fragment `and Restored Republic, 205–6` completes the Catholic Church entry carried from p.287, which appears to end at the top of p.288.
 - Caution: the continuation is a locator only and does not establish Church policy or a single relationship with the Restored Republic.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; the Juárez and Mexican Liberals hierarchies provide separate routes to Catholic Church passages.
+- Caution: the Index does not define either relationship or establish a single Church or Liberal position.

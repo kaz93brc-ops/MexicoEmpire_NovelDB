@@ -178,3 +178,8 @@ Hamnett p.234 treats Juárez's death as removing the pretext for the Díaz rebel
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Porfirio Díaz subentry provides an additional route to Rebellion of La Noria passages.
 - Caution: use existing Fact and Timeline evidence for the revolt; the Index adds no date, motive, or causal sequence.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; Rebellion of La Noria appears within the cross-page Juárez hierarchy.
+- Caution: the Index adds no chronology, motive, responsibility, or causal connection; keep the separate `supposed coup d’état` qualification intact.

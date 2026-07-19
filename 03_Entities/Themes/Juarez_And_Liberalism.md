@@ -57,3 +57,8 @@ Hamnett p.56 closes the Liberal constellation discussion by presenting Juárez a
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0632]], [[FACT_HAMNETT_JUAREZ_0634]], [[FACT_HAMNETT_JUAREZ_0635]], [[FACT_HAMNETT_JUAREZ_0636]], [[FACT_HAMNETT_JUAREZ_0638]], [[FACT_HAMNETT_JUAREZ_0640]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0278]], [[TIME_HAMNETT_JUAREZ_0284]], [[TIME_HAMNETT_JUAREZ_0285]]
 - Related Themes: [[Constitutional_Government]], [[Rule_of_Law]], [[Supremacy_of_Civil_Power]], [[Liberal_Party_As_Obstacle]]
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; `Juárez and Liberalism` appears within the Juárez hierarchy, while the spread separately distinguishes Oaxaca, Spanish, state-governor, and Mexican-Liberal routes.
+- Caution: the Index does not define Juárez's ideology, agreement, conflict, or change over time.

@@ -127,3 +127,8 @@ Hamnett pp.94-95 places Oaxaca's governor, diocese, city hospitals, Zimatlan, an
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0147]]; several person and place entries provide selected routes into Oaxaca material.
 - Caution: the Index does not establish offices, regional boundaries, or relations among Félix Díaz, Cuilapan, and other Oaxaca entries.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; selected routes connect Oaxaca with Liberalism, labour movement, minor localities, and Juárez's provincial / state-governor research trail.
+- Caution: the Index does not establish routes of travel, local sentiment, boundaries, labour organization, or political causation.

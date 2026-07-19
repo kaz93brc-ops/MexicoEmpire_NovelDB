@@ -187,3 +187,8 @@ Hamnett places García Granados and Rabasa's constitutional criticism against Co
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the multi-country Constitution cluster includes a distinct 1857 Mexico grouping.
 - Caution: keep the 1787 U.S., 1791 France, 1812 Spain, 1824 Mexico, and 1917 Mexico entries separate; do not attach later constitutions to Juárez-era events.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; Constitution of 1857 appears as a subentry route within the cross-page Juárez hierarchy.
+- Caution: the Index adds no constitutional content, date evidence, or description of Juárez's position.

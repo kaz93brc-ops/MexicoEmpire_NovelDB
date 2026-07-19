@@ -103,3 +103,8 @@ Chronology p.259 places Lozada's 1869 land-rights circular among the unresolved 
 - Existing Timeline Entry: [[TIME_HAMNETT_JUAREZ_0960]]
 - Related Interpretation: [[FACT_HAMNETT_JUAREZ_3249]]
 - Cautions: Confirm the circular's formal title and original text; do not flatten Lozada into a single political label.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; Lozada has a main entry and is also a relations-with-Lozada route inside the Juárez hierarchy.
+- Caution: the Index does not define cooperation, conflict, chronology, responsibility, or motive.
