@@ -83,3 +83,8 @@ Hamnett p.278 presents Ramírez as the radical Liberal journalist `El Nigromante
 - Reused Fact Card / Timeline: [[FACT_HAMNETT_JUAREZ_1481]], [[TIME_HAMNETT_JUAREZ_0509]]
 - Related Events: [[Constituent_Congress_Of_1856_1857]], [[Mexican_Elections_1861]], [[Constitution_Of_1857]]
 - Cautions: Confirm ministerial terms, election positions, and the intellectual source for the Creation claim.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Ramírez, Ignacio` supplies a broad selected route to this existing Person.
+- Caution: Keep him separate from José Fernando Ramírez, generic José Ramírez, and Ramón Ramírez de Aguilar; the Index adds no biography or action.

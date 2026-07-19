@@ -53,3 +53,8 @@ Hamnett p.128 says Juárez could count on the governor of Querétaro and records
 
 - Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
 - Caution: this is spatial orientation, not a siege-line, control-area, or route claim.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; Querétaro supplies a selected `defence and siege of` route to the existing siege structure.
+- Caution: Do not merge the place route automatically with Maximilian's capture, trial, or execution.

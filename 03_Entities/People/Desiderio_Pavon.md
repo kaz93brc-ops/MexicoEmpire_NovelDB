@@ -39,3 +39,8 @@ Use as a regional guerrilla commander tied to Huasteca pressure on imperial stro
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_2156|FACT HAMNETT JUAREZ 2156]]
 - Timeline Entries: 
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0093]], [[SRC_HAMNETT_1994_JUAREZ]]
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Pavón, Desiderio` reuses this existing Person route.
+- Caution: The Index adds no biography, action, chronology, or relationship.

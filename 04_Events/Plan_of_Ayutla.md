@@ -43,3 +43,8 @@ Use to separate anti-Santa Anna mobilization from later Liberal reform ideology.
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3455]], [[FACT_HAMNETT_JUAREZ_0688]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0280]], [[TIME_HAMNETT_JUAREZ_0294]]
 - Cautions: Prieto's support and Santa Anna's fall are distinct claims and should not be compressed into a single ideological narrative.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; Plan of Ayutla (1854) appears among named Plans and remains separate from the generic `pronunciamientos -> Plans` reference.
+- Caution: The Index adds no authorship, text, adoption process, or consequences.

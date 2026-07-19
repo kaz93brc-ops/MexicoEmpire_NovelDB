@@ -53,3 +53,8 @@ Entry note for Ottoman Empire. Verify details in linked Fact Cards and Timeline 
 - Source Notes:
 - Scenes:
 - Questions:
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Ottoman Empire` reuses this existing Organization route.
+- Caution: The Index adds no relationship to Mexico, chronology, policy, or comparative argument.

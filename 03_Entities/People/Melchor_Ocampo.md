@@ -185,3 +185,8 @@ Hamnett's entry connects Ocampo's Radical Liberal and anticlerical positioning t
 - New Fact Cards: [[FACT_HAMNETT_JUAREZ_3448]], [[FACT_HAMNETT_JUAREZ_3449]]
 - Reused Fact / Timeline: [[FACT_HAMNETT_JUAREZ_1451]], [[TIME_HAMNETT_JUAREZ_0501]]
 - Cautions: political labels are Hamnett interpretation; offices, dates, legal authorship, and killing responsibility remain verification-needed.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; Ocampo has a broad selected locator route across the book.
+- Caution: The Index adds no office, action, chronology, political position, or causal role.

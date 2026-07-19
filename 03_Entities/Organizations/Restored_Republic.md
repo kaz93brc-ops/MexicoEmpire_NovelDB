@@ -161,3 +161,8 @@ Hamnett pp.220-221 presents the Restored Republic not as a settled victory order
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0149]]; Labastida, Sebastián Lerdo, and Mexican Liberals supply distinct Restored Republic routes.
 - Caution: the Index does not establish a unified settlement, shared programme, or identical role for these actors and groups.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `in Restored Republic` remains a Puebla subentry and a route for main-text verification of local recovery and regional politics.
+- Caution: The Index does not define the subentry's scope, actors, chronology, or relation to Liberal recovery.

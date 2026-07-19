@@ -183,3 +183,8 @@ Hamnett p.234 treats Juárez's death as removing the pretext for the Díaz rebel
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0149]]; Rebellion of La Noria appears within the cross-page Juárez hierarchy.
 - Caution: the Index adds no chronology, motive, responsibility, or causal connection; keep the separate `supposed coup d’état` qualification intact.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; Oaxaca State and the independent Rebellion of La Noria entry both route to this existing Event / Plan alias structure.
+- Caution: The Index adds no event content, actors, chronology, motive, or outcome.

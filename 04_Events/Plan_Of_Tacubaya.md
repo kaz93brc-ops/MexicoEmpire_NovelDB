@@ -39,3 +39,8 @@ Use as the constitutional crisis that turns Liberal factionalism and executive-l
 - Places: [[Tacubaya]], [[Mexico_City]]
 - Organizations: [[Federal_Congress_Mexico]], [[Regular_Army]], [[Liberal_Party_Mexico]], [[Conservative_Party]]
 - Themes: [[Constitutional_Workability]], [[Liberal_Factionalism]], [[Executive_Power_Vs_Congress]], [[Military_Threat_To_Constitutional_Order]]
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; Plan of Tacubaya (1857) reuses this existing Event route.
+- Caution: The Index adds no plan content, endorsement, implementation, or causal relationship.

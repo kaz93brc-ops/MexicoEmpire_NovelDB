@@ -39,3 +39,8 @@ Use as an early link among U.S. diplomacy, Mexican factional politics, masonic n
 - Places: [[Mexico]], [[United_States]], [[Texas]]
 - Organizations: [[Yorkino_Rite|yorkino rite]]
 - Themes: [[United_States_Diplomacy|United States diplomacy]], [[US_Mexico_Relations|US-Mexico relations]], [[Masonic_Networks_And_Liberalism|masonic networks and Liberalism]]
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Poinsett, Joel Roberts` reuses this existing Person route.
+- Caution: The Index adds no diplomatic action, institutional affiliation, chronology, or evaluation.

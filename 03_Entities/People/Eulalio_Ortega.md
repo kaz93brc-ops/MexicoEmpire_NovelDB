@@ -50,3 +50,8 @@ Hamnett p.192 reports Ortega and Vázquez sending word from Querétaro that the 
 - Related People: [[Jose_Maria_Vazquez|José María Vázquez]], [[Maximilian]], [[Miguel_Miramon|Miguel Miramón]], [[Tomas_Mejia|Tomás Mejía]]
 - Related Event: [[Execution_Of_Maximilian_Miramon_And_Mejia|Execution of Maximilian, Miramón and Mejía]]
 - Cautions: Confirm whether this report was signed jointly and check its date.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Ortega, Lic. Eulalio` reuses this existing Person route.
+- Caution: The Index adds no office, action, date, or relationship.

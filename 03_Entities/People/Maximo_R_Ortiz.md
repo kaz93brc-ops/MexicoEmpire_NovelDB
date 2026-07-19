@@ -36,3 +36,8 @@ Isthmus危機を、地方政治・州統治・中央政治・軍事力の接点�
 - Events: [[Tehuantepec_Isthmus_Crisis]]
 - Themes: [[Juarez_And_Oaxaca_Local_Politics]], [[Political_Defection_And_Military_Opportunism]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0024]]
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Ortiz, Máximo R.` reuses this existing Person route.
+- Caution: The Index adds no biography, office, action, or relationship.

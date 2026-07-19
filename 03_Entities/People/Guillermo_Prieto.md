@@ -93,3 +93,8 @@ Hamnett p.278 connects Prieto's literary and journalistic identity to Ayutla sup
 - Reused Fact Cards: [[FACT_HAMNETT_JUAREZ_0700]], [[FACT_HAMNETT_JUAREZ_1481]]
 - Related Events: [[Plan_of_Ayutla]], [[Constituent_Congress_Of_1856_1857]]
 - Cautions: Confirm each Finance term and the 1867 / 1876 political positions separately.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Prieto, Guillermo` supplies a broad selected route to this existing Person.
+- Caution: The Index adds no office, action, chronology, position, or causal role.

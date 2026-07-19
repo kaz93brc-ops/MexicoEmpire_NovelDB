@@ -108,3 +108,8 @@ Hamnett p.206 says Pius IX appointed six new bishops in late June 1868 to fill v
 - Related Organizations: [[Holy_See]], [[Catholic_Church]], [[Vatican]]
 - Related Themes: [[Church_State_Relations_Mexico]], [[Catholic_Church_In_Mexico]]
 - Cautions: Confirm the six names and dioceses from papal or Mexican Church sources.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Pius IX, Pope` reuses this existing Person route.
+- Caution: Keep the pope separate from the Papal Nuncio role; the Index adds no statement, decision, chronology, or causal relation.

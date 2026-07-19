@@ -132,3 +132,8 @@ Hamnett pp.94-95 places Oaxaca's governor, diocese, city hospitals, Zimatlan, an
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0149]]; selected routes connect Oaxaca with Liberalism, labour movement, minor localities, and Juárez's provincial / state-governor research trail.
 - Caution: the Index does not establish routes of travel, local sentiment, boundaries, labour organization, or political causation.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Oaxaca, State of` supplies selected routes to department, assembly, diocese, Félix Díaz, La Noria, senate, constitution, court, and legislature material.
+- Caution: Keep the State separate from [[Oaxaca_City|Oaxaca city]]; the Index does not establish institutional powers, legal development, chronology, or causal relations.

@@ -82,3 +82,8 @@ Hamnett pp.94-95 shows the Oaxaca state government using law, public works, hosp
 - Related Organizations: [[Diocese_Of_Oaxaca]], [[Department_Governors]], [[Hospice_Of_The_Poor]], [[Oaxaca_City_Council]]
 - Related Themes: [[Rule_of_Law]], [[Parish_Dues]], [[Oaxaca_Hospitals]], [[Church_Wealth]], [[Statistical_Investigation]], [[Church_State_Relations_Mexico]]
 - Cautions: State action here is administrative and top-down; do not treat it as neutral modernization without village and Church consequences.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; the Oaxaca State hierarchy provides an institutional research route spanning department, assembly, senate, court, constitution, and legislature labels.
+- Caution: This is an Index route, not evidence for a single unified administration, powers, dates, or policy effects.

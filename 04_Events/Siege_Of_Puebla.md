@@ -78,3 +78,8 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - Which linked claims are strong enough for scene design?
 - Which source passages still need page-level verification?
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `siege of (1863)` remains a Puebla subentry and is routed to this existing 1863 siege Event.
+- Caution: Keep it separate from the 1862 battle and later captures; the Index adds no siege sequence, actors, or result.

@@ -71,3 +71,8 @@ Hamnett p.171 treats the 5 May 1862 French defeat at Puebla as an early military
 - Related Organizations: [[Juarez_Government]], [[French_Expeditionary_Force]]
 - Related Themes: [[Republican_Resistance]], [[European_Intervention]]
 - Cautions: The date and battle result are historical_fact / probable / verification_needed here; Hamnett's exposed-weakness and strategic-delay framing remains author interpretation where causal emphasis matters.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Battle of (1862)` remains a Puebla subentry and reuses this existing Event.
+- Caution: The Index adds no forces, sequence, outcome, or causal interpretation.

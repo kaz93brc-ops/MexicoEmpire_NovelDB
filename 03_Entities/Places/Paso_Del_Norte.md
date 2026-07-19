@@ -55,3 +55,8 @@ Hamnett p.178 states that Juárez moved the government seat to Paso del Norte on
 - Related Organizations: [[Juarez_Government]], [[French_Army]]
 - Related Themes: [[Republican_Government_In_Movement]], [[Republican_Resistance]], [[French_Military_Strategy]]
 - Cautions: Confirm the original source for the 1865-08-14 move and distinguish Paso del Norte from El Paso.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Paso del Norte` reuses this existing historical Place route.
+- Caution: The Index adds no modern-name equivalence, administrative boundary, journey, chronology, or event content.

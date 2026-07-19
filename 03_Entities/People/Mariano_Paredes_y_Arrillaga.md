@@ -68,3 +68,8 @@ p.34では、JuárezがParedes政権期の政治方針を反国民的方向性�
 ## Open Questions
 
 - 1846年独裁未遂の制度形式、米墨戦争勃発との関係、monarchist viewsの一次・二次史料上の根拠を確認する。
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; the Index form `Paredes (y) Arrillaga, Gen. Mariano` is routed to this existing Person.
+- Caution: Preserve the parenthetical `(y)` as an alias / typography check; the Index adds no action, office, chronology, or evaluation.

@@ -47,3 +47,8 @@ Hamnett p.174 resolves the previous page's unfinished "José Fernando Ramírez a
 - Related Event: [[Second_Mexican_Empire]]
 - Related Themes: [[Liberal_Cooptation_Under_Maximilian]], [[Conservative_Politics]]
 - Cautions: Keep Orozco y Berra as an intellectual-administrative participant, not a simple reactionary type.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Orozco y Berra, Manuel` reuses this existing Person route.
+- Caution: Keep him separate from José Clemente Orozco; the Index adds no biography, office, or evaluation.

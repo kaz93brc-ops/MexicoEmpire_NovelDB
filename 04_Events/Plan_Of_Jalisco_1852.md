@@ -35,3 +35,8 @@ Isthmus危機を、地方政治・州統治・中央政治・軍事力の接点�
 - Events: [[Santa_Anna_Final_Regime_1853_1855]]
 - Themes: [[Conservative_Reaction]], [[Federal_Weakness_And_Local_Rebellion]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0024]]
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; Plan of Jalisco (1852) reuses this existing Event route.
+- Caution: Confirm the existing Event's naming and scope in the main text; the Index adds no content, actors, or effects.

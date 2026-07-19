@@ -52,3 +52,8 @@ Hamnett p.68 places Miguel Lerdo de Tejada among the leading puros and connects 
 - Capture: [[CAP_HAMNETT_JUAREZ_0135]]
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_3320]]
 - Note: The Glossary summarizes puros as radical, anticlerical Liberals pressing rapid Reform; membership and period-specific usage remain to be checked.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `puros` reuses this existing faction route.
+- Caution: The Index adds no membership, programme, period-specific usage, or relationship to nearby entries.

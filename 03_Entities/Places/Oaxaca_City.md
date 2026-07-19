@@ -55,3 +55,8 @@ Hamnett pp.94-95 uses Oaxaca City as the setting for a hospital-repair and Hospi
 
 - Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
 - Creative caution: Administrative reach and travel difficulty are inference, not measured journey times.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Oaxaca, city of` is an independent heading with routes to occupation, institutions, press, and seminary material.
+- Caution: Keep the city separate from [[Oaxaca|Oaxaca State]]; the Index does not establish institutional content, actors, chronology, or causation.
