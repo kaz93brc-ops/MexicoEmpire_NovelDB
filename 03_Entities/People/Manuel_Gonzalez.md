@@ -40,3 +40,8 @@ Use as a connector figure who shows how Díaz's rebellion could draw on personal
 - Places: [[Nuevo_Leon|Nuevo León]], [[Northern_Sierra_Puebla|Puebla sierra]]
 - Events: [[La_Noria_Rebellion|La Noria rebellion]]
 - Themes: [[Liberal_Conservative_Fluidity|Liberal-Conservative fluidity]], [[Liberal_Factionalism|Liberal factionalism]], [[Personalism]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `González, Gen. Manuel` provides selected main-text locators.
+- Caution: do not merge this entry with [[Jesus_Gonzalez_Ortega|Jesús González Ortega]] or infer career details from the Index.

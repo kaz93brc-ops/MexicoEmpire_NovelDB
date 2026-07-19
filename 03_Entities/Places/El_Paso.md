@@ -38,3 +38,8 @@ Use as the United States-side reference point for border scenes around Paso del 
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1618]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0552]], [[TIME_HAMNETT_JUAREZ_0553]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0070]], [[SRC_HAMNETT_1994_JUAREZ]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `El Paso (Texas)` provides a selected main-text locator.
+- Caution: keep this label distinct from El Paso del Norte and verify each narrative context.

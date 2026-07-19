@@ -110,3 +110,8 @@ Hamnett pp.174-175 resolves the Orozco y Berra continuation, then shows the Empi
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0146]]; Bazaine, Catholic Church, and Assembly of Notables supply selected routes into the Empire's establishment and political constraints.
 - Caution: the Index does not prove that these actors' interests were identical or stable.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Second Mexican` appears as a subentry in the Empire cluster.
+- Caution: no meaning is assigned to the adjacent `Second French` label from the Index alone.

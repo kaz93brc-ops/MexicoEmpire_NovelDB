@@ -37,3 +37,8 @@ Use as a material sign that Liberal Reform could create or reinforce regional la
 - Events: [[Lerdo_Law_1856_06_25]]
 - Places: [[Oaxaca]]
 - Themes: [[Disentailment_Disamortization]], [[Land_Conflict_And_Liberal_State_Building]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Hacienda del Rosario (Oaxaca)` provides a selected main-text locator.
+- Caution: location detail, ownership, activity, and political role are not added from the Index.

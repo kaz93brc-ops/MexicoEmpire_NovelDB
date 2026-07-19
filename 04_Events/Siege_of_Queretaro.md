@@ -64,3 +64,8 @@ Hamnett p.187 dates Corona's arrival near Querétaro to 8 March 1867 and Escobed
 
 - Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
 - Caution: the map is not evidence for siege lines, forces, control, routes, or chronology.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the Escobedo entry supplies a selected route to the siege of Querétaro.
+- Caution: the Index does not establish command decisions, siege sequence, or Escobedo's specific actions.

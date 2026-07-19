@@ -38,3 +38,8 @@ Use as a local setting where Liberal property law, family wealth, municipal auth
 - Related People: [[Esteban_Esperon]], [[Jose_Esperon]]
 - Related Places: [[Tlaxiaco]], [[Oaxaca_Mixteca]]
 - Related Themes: [[Rural_Communities_And_Land_Claims]], [[Indigenous_Communal_Land]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Hacienda de La Concepción (Oaxaca)` provides a selected main-text locator.
+- Caution: location detail, ownership, daily life, and political role are not inferred from the Index.

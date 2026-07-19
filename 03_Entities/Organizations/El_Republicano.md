@@ -36,3 +36,8 @@ Use as a press voice for provisional-government legitimacy, after confirming art
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0742]]
 - Organizations: [[El_Siglo_XIX]], [[Liberal_Party_Mexico]]
 - Themes: [[Press_And_Political_Legitimacy]], [[Political_Legitimacy]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `El Republicano (Mexico City)` provides a selected publication locator.
+- Caution: founding date, editors, political position, and publication period are not inferred from the Index.

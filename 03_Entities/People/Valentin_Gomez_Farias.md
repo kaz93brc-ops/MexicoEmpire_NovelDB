@@ -110,3 +110,8 @@ Hamnett p.119 introduces Benito Gómez Farías in Degollado's network; this crea
 - Related Events: [[Treaty_Of_Guadalupe_Hidalgo]], [[Constituent_Congress_Of_1856_1857]]
 - Note: p.271からの項目はp.272上部で完結し、初期自由主義・亡命後の政治活動・Reforma前史へ接続する。
 - Cautions: 政治分類、帰国年、条約反対、制憲議会参加を別史料で確認する。
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the Valentín Gómez Farías entry provides selected main-text routes.
+- Caution: keep this person distinct from [[Benito_Gomez_Farias|Benito Gómez Farías]] and verify each route in narrative evidence.

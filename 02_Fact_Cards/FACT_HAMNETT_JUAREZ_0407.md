@@ -70,3 +70,8 @@ Oaxacaの選挙制度は、Cádiz Constitution of 1812とFrench Revolutionary Co
 - Organizations: [[Cadiz_Cortes]]
 - Themes: [[Liberal_Constitutionalism]], [[Cadiz_Constitutionalism]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0021]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the French Revolution entry routes readers to the Constitution of 1791.
+- Caution: this supplementary locator does not independently verify the existing claim or the Constitution's content.

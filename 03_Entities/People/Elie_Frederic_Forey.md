@@ -53,3 +53,8 @@ Hamnett p.171 records Forey's 1863-06-10 entry into Mexico City and then introdu
 - Related Organizations: [[French_Army]], [[French_Expeditionary_Force]], [[Regency_Council]]
 - Related Events: [[French_Intervention_in_Mexico]], [[Second_Mexican_Empire]]
 - Cautions: Forey's full name and the exact legal meaning/date of transferred "sovereignty" should remain open until p.172 and note material are checked.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the Forey entry provides a selected route into French Intervention passages.
+- Caution: the Index does not establish command decisions, chronology, or causal responsibility.

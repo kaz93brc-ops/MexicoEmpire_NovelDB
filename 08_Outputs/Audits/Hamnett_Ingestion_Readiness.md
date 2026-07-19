@@ -15,7 +15,7 @@ tags:
 
 - hamnett_fact_cards: 3011
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, inspect screenshot 148 / pp.290-291 for possible Dublán continuation and D onward; preserve local pp.146-147 gap
+- next_required_page: screenshot 140 / pp.274-275 remains required; after 140, inspect screenshot 149 / pp.292-293 for possible Hernández continuation and H onward; preserve local pp.146-147 gap
 
 ## Fact Cards By Section
 

@@ -85,3 +85,8 @@ p.45では、HamnettがJuárezの国家構想をHidalgo、Morelos、Guerrero以�
 - Related People: [[Jose_Maria_Morelos]], [[Agustin_De_Iturbide]], [[Nicolas_Bravo]]
 - Note: Morelos勢力、1815年以後の南部抵抗、Plan of Iguala、失脚と司法的殺害評価を独立前史・合法性問題へ接続する。
 - Cautions: 「judicial murder」はHamnett評価であり、裁判・処刑経過を別途確認する。
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Guerrero, Gen. Vicente` provides selected main-text routes.
+- Caution: the Index does not add biography, military sequence, or an evaluation of his fall.

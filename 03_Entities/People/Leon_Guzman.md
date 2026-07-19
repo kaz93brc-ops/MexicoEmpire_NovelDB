@@ -55,3 +55,8 @@ Use him as an insider Liberal critic who can voice disappointment with Juárez f
 - Note: Ayutla・制憲議会・Juárez政権参加と、1867年Guanajuato暫定知事解任を自由派内部の制度対立へ接続する。
 - Cautions: Radical Liberal分類、官職、convocatoria反対と解任事情は要確認。
 
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Guzmán, León` provides selected main-text routes.
+- Caution: political classification, offices, actions, and motives are not established by the Index.
+

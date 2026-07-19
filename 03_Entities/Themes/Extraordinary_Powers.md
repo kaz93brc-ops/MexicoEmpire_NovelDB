@@ -126,3 +126,8 @@ Chronology p.259 places the return and renewal of extraordinary powers inside th
 - Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_2807]], [[FACT_HAMNETT_JUAREZ_2871]], [[FACT_HAMNETT_JUAREZ_2876]]
 - Existing Timeline Entries: [[TIME_HAMNETT_JUAREZ_1044]], [[TIME_HAMNETT_JUAREZ_1061]], [[TIME_HAMNETT_JUAREZ_1062]]
 - Cautions: Chronology placement does not settle the legal basis, duration, or substantive scope of each grant.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `extraordinary powers, granted to Juárez` provides a research route to the existing theme.
+- Caution: legal basis, scope, dates, motives, and Juárez's personal attitude are not established by the Index.

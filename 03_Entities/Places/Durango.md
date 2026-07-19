@@ -38,3 +38,8 @@ Use as a northern state power base linked to Patoni's role in Juárez's attempt 
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1644]]
 - Timeline Entries:
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0071]], [[SRC_HAMNETT_1994_JUAREZ]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; Durango provides selected main-text locators.
+- Caution: the Index does not establish a single regional sequence, government position, or event role.

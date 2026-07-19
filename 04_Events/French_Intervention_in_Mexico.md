@@ -153,3 +153,8 @@ Chronology pp.258-259 closes the intervention through French withdrawal, Maximil
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Conservative Party subentry provides another route into French Intervention passages.
 - Caution: the Index does not define Conservative alignment, internal differences, or causation.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the French Intervention entry includes a Juárez subentry and provides a reciprocal locator to [[Benito_Juarez|Benito Juárez]].
+- Caution: this is not a new Relationship claim and does not establish policy, sequence, or causation.

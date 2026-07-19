@@ -40,3 +40,8 @@ Use as a northern-theater marker for the military pressure that accompanied Fren
 - Organizations: [[Mexican_Republicans]]
 - Events: [[French_Intervention_in_Mexico]]
 - Themes: [[Republican_Resistance]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Hermosillo (Sonora)` provides a selected main-text locator.
+- Caution: the Index does not establish event role, political control, or chronology.

@@ -46,3 +46,8 @@ Hamnett's Glossary uses fueros for corporate privilege and privileged jurisdicti
 - Related Event: [[Juarez_Law_On_Administration_Of_Justice_1855_11_23|Juárez Law]]
 - Related Themes: [[Corporate_Privilege|corporate privilege]], [[Juarez_Law_And_Jurisdictional_Reform|jurisdictional reform]], [[Church_State_Relations_Mexico|Church-state relations]]
 - Cautions: Confirm the exact scope of ecclesiastical and military jurisdiction in the primary legislation.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; fueros, fuero eclesiástico, and fuero militar appear as distinct locator routes.
+- Caution: the Index does not define legal scope or permit ecclesiastical and military jurisdictions to be treated as identical.

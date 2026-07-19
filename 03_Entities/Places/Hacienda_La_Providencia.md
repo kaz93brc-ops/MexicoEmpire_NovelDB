@@ -47,3 +47,8 @@ Hamnett pp.212-213 returns to Hacienda La Providencia as Diego Álvarez's armed 
 - Related Event: [[Civil_War_In_Guerrero|Civil war in Guerrero]]
 - Related Themes: [[Caciquismo_And_Regional_Power|caciquismo and regional power]], [[Armed_Politics|armed politics]]
 - Cautions: Confirm location, military presence, and whether Álvarez's danger claim is corroborated.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Hacienda de La Providencia (Guerrero)` provides selected main-text locators.
+- Caution: location detail, ownership, armed presence, and political role require the cited narrative and independent verification.

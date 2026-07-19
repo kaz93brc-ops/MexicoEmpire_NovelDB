@@ -39,3 +39,8 @@ Use as a worker-organization setting where radical ideas, Liberal political open
 - Themes: [[Popular_Classes_in_Politics|popular classes in politics]], [[Popular_Politics_And_Elite_Liberalism|popular politics and elite Liberalism]], [[Radical_Liberalism|radical Liberalism]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_2630]], [[FACT_HAMNETT_JUAREZ_2631]], [[FACT_HAMNETT_JUAREZ_2632]], [[FACT_HAMNETT_JUAREZ_2633]], [[FACT_HAMNETT_JUAREZ_3249]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0944]], [[TIME_HAMNETT_JUAREZ_0945]], [[TIME_HAMNETT_JUAREZ_0946]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Gran Círculo de Obreros Mexicanos` provides selected main-text locators.
+- Caution: founding circumstances, membership, programme, and political position are not added from the Index.

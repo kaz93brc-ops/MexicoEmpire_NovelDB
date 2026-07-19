@@ -1147,3 +1147,8 @@ Chronology p.260 closes Juárez's presidency through the re-election crisis, La 
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3270]], [[FACT_HAMNETT_JUAREZ_3277]]
 - Existing Timeline: [[TIME_HAMNETT_JUAREZ_1075]]
 - Cautions: Do not silently correct or adopt the Chronology date; verify it against the scanned page, p.234, and external chronology.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the French Intervention entry includes a Juárez subentry and supplies a reciprocal research route.
+- Caution: no new Relationship card or causal claim is created from this Index cross-reference.

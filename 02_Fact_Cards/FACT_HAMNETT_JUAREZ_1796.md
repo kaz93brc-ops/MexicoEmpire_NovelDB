@@ -74,3 +74,8 @@ Hamnett argues that Juárez feared a Lower California cession would bring upon h
 - Locator: p.282 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
 - Map support: the 1853 Gadsden Purchase is separately hatched along the northern Sonora / Chihuahua margin, giving spatial context to the Mesilla Treaty stigma.
 - Caution: The map supports location, not Hamnett's causal interpretation of Juárez's caution.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the Index explicitly presents `Gadsden Purchase` with `Mesilla Treaty` as an alternate label.
+- Caution: the locator supports terminology only and does not independently verify the existing interpretation, treaty scope, date, or evaluation.

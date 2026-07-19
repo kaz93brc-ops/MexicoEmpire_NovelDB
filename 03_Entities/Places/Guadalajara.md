@@ -35,3 +35,8 @@ New Spainのaudiencia所在地の一つで、植民地期行政・司法構造�
 
 第二帝政期の役割とは別に、ここでは植民地期制度構造として扱う。
 
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the Guadalajara (Jalisco) entry crosses the p.291 column break, and the second-column opening `256, 258, 268` belongs to that same entry.
+- Caution: the locators are not independent headings and do not establish a single historical sequence.
+

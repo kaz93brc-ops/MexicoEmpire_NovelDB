@@ -76,3 +76,8 @@ related_timeline_entries: ["TIME_HAMNETT_JUAREZ_0779"]
 - [[CAP_HAMNETT_JUAREZ_0145]] places Querétaro north-west of Mexico City as broad spatial context for the capture and surrender.
 - Caution: Map 3 is not a siege or control-area map and does not verify movements within Querétaro.
 
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the Escobedo entry uses `Hill of the Bells (Cerro de las Campanas)` as a locator route.
+- Caution: the locator supports the alternate label and research route only; it does not independently verify surrender sequence or Escobedo's exact action.
+

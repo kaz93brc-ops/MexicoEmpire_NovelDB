@@ -50,7 +50,7 @@ Entry note for Franco-Prussian War. Verify details in linked Fact Cards and Time
 - Themes:
 - Fact Cards: [[FACT_MEXEMP_2552|Napoleon IIIは1870年7月28日にParisを発ち自軍指揮に向かった]], [[FACT_MEXEMP_2553|ShawcrossはSedanのNapoleon IIIをQuerétaroのMaximilianと対比する]], [[FACT_MEXEMP_2557|Felix Salm-SalmはPrussian armyに参加しFrenchと戦った]], [[FACT_MEXEMP_2558|Agnes Salm-SalmはFelixに同行しfield nurseとして活動した]], [[FACT_MEXEMP_2559|Felix Salm-Salmは1870年8月18日に致命傷を負いMaximilian由来の記念品を携えて死んだ]], [[FACT_MEXEMP_2560|Achille BazaineはArmy of the Rhine司令官としてMetzで包囲された]]
 - Timeline Entries: [[TIME_MEXEMP_0418|1870年7月28日、Napoleon IIIはParisを発ち自軍指揮に向かった]], [[TIME_MEXEMP_0422|1870年8月18日、Felix Salm-SalmはFranco-Prussian Warで致命傷を負った]]
-- Source Notes: [[CAP_MEXEMP_0104]], [[CAP_MEXEMP_0105]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0148]], [[CAP_MEXEMP_0104]], [[CAP_MEXEMP_0105]]
 - Scenes:
 - Questions:
 
@@ -72,3 +72,8 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - Which linked claims are strong enough for scene design?
 - Which source passages still need page-level verification?
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Franco-Prussian War` provides selected main-text locators.
+- Caution: no chronology, causation, or connection to Mexican events is inferred from the Index.
