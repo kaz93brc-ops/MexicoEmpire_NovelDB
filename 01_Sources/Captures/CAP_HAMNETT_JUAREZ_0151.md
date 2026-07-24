@@ -3,7 +3,7 @@ id: "CAP_HAMNETT_JUAREZ_0151"
 type: "capture"
 status: "processed"
 created: "2026-07-19"
-updated: "2026-07-19"
+updated: "2026-07-25"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
 author: "Brian R. Hamnett"
@@ -27,7 +27,7 @@ content_type: "index_reference / locator_reference"
 index_heading_range: "O前半–R前半"
 previous_page_continuation_resolved: "yes - Nuevo León, State of does not continue on p.296 and is treated as complete on p.295; this resolves the continuation check recorded in the locally observed CAP_HAMNETT_JUAREZ_0150"
 within_spread_continuation: "Puebla continues from p.297 column 1 to column 2; Liberal recovery, in Restored Republic, serrano caciques, siege of (1863), and sierra remain Puebla subentries"
-next_page_continuation: "possible - re-election, issue of has visible locators and likely completes on p.297, but p.298 may add a locator or subentry"
+next_page_continuation: "resolved - re-election, issue of completes on p.297; p.298 begins Reform Movement, Mexican (Reforma)"
 copyright_note: "No full text, long quotation, full translation, full OCR, screenshot transcription, exhaustive index-entry transcription, or exhaustive locator transcription saved."
 related_fact_cards: []
 related_timeline_entries: []
@@ -68,7 +68,7 @@ relationship_cards_created: []
 - Oaxaca: [[Oaxaca_City|Oaxaca city]] and [[Oaxaca|Oaxaca State]] remain separate. State-level institutional subentries are locator routes only.
 - Puebla column break: [[Puebla]] continues from column 1 to column 2. `Liberal recovery`, `in Restored Republic`, `serrano caciques`, `siege of (1863)`, and `sierra` remain its subentries.
 - The `serrano caciques` cross-reference appears to separate `Bonilla, Lucas` from `Méndez, Juan Nepomuceno`; punctuation and the two-person boundary remain verification-needed.
-- Next spread: `re-election, issue of` shows locators and probably completes on p.297, but p.298 must be checked for an added locator or subentry.
+- Next spread: CAP0152 confirms that `re-election, issue of` completes on p.297; p.298 begins `Reform Movement, Mexican (Reforma)` and does not continue the prior heading.
 
 ## Selected Existing Locator Connections
 
@@ -134,7 +134,7 @@ relationship_cards_created: []
 - Identify the main-text meaning of Puebla's Liberal recovery, the locator target of `in Restored Republic`, and the actor and timing in Díaz's capture of the city.
 - Keep Manuel Quezada and Rafael Quezada separate; keep all Ramírez people separate.
 - Recheck existing Event mappings for the Acordada, La Noria, and Tuxtepec rebellions; do not merge Querétaro siege with capture, trial, or execution.
-- Check p.298 for continuation of `re-election, issue of`.
+- Resolved by [[CAP_HAMNETT_JUAREZ_0152]]: p.298 does not continue `re-election, issue of`.
 - Validation checks: unresolved wiki links, empty wiki links, basename duplicates, locator missing, `source_id_review`, and missing Fact statement / Claim alignment.
 - Readiness still requires screenshot 140 / pp.274–275. The local pp.146–147 gap remains, and locally observed CAP0150 changes are outside this branch.
 

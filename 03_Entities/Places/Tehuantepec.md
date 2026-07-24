@@ -58,3 +58,10 @@ Hamnett p.94 mentions Tehuantepec as one of the ports linked to a road project f
 
 - Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
 - Context: Coatzacoalcos River on the north side supplies the Gulf connection but remains a Theme-level locator candidate.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Tehuantepec (Oaxaca)` reuses this Place route.
+- Main-text route: consult the selected page-number locators printed under the town heading, then verify the cited body pages.
+- Caution: Keep the town distinct from [[Isthmus_Of_Tehuantepec]] and do not infer a modern administrative equivalence.

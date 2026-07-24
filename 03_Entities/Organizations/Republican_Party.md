@@ -39,3 +39,10 @@ Use as a future U.S. political horizon for Juárez diplomacy, not as a guarantee
 - Organizations: [[Democratic_Party]]
 - Themes: [[United_States_Recognition_Issue]], [[US_Mexico_Relations]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1784]]
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Republican Party (USA)` reuses this United States party stem.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: Do not treat this as a Mexican republican organization or derive a policy position from the Index.

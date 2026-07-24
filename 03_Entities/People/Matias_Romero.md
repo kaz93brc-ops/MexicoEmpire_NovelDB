@@ -187,3 +187,10 @@ Hamnett p.198 places Romero in the Restored Republic fiscal problem through a re
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_2950]]
 - Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0624]]
 - Hamnett presents Romero's Washington work during the French Intervention as helping repair Mexico–U.S. relations; exact actions and title remain to be verified.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Romero, Matías` crosses the p.298 column break and the opening numbers in column 2 remain his locators.
+- Main-text route: consult the selected page-number locators printed under this heading, then verify the cited body pages.
+- Caution: Do not merge Matías Romero with Félix Romero, Manuel Romero Rubio, or Ignacio Romero Vargas.

@@ -39,3 +39,10 @@ Use as a legal hinge between emergency resistance and later punishment of imperi
 - Places: [[San_Luis_Potosi]]
 - Organizations: [[Juarez_Government]]
 - Themes: [[Juarez_Policy_Of_Uncompromising_Resistance]], [[Treason_And_Political_Legitimacy]]
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; the matching `San Luis Potosí decree of 16 August 1863` route reuses this Event.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: Keep this Event separate from the 22 July 1863 decree and the 1870 rebellion; the Index adds no decree content or consequence.

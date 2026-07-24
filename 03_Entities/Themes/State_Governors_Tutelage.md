@@ -98,3 +98,10 @@ Hamnett p.133 renews the state-governor problem by treating the 1863 retreat inl
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1564]], [[FACT_HAMNETT_JUAREZ_1565]], [[FACT_HAMNETT_JUAREZ_1578]], [[FACT_HAMNETT_JUAREZ_1580]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0536]]
 - Capture: [[CAP_HAMNETT_JUAREZ_0069]]
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `state governors` is routed here as a research candidate rather than a settled equivalence.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: The Index does not establish tutelage, powers, personnel, or a uniform state-government structure.

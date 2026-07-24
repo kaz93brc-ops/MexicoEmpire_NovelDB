@@ -166,3 +166,10 @@ Hamnett p.61では、Juárez Lawによる最高裁再編の文脈で、Santa Ann
 - Related Organizations: [[Supreme_Court]]
 - Related Themes: [[Judicial_Independence_Vs_Revolutionary_Legality]]
 - Cautions: Santa Annaによる最高裁人事の根拠はp.61注15周辺で確認する。
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; the Santa Anna entry crosses p.298 column 2 into p.299 column 1 and ends before `Santacilia, Pedro`.
+- Main-text route: consult the selected page-number locators printed under the Santa Anna heading, then verify the cited body pages.
+- Caution: Keep Santa Anna distinct from [[Santanistas]]; the Index adds no biography, office, alignment, conduct, or causal claim.

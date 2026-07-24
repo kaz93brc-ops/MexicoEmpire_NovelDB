@@ -69,3 +69,10 @@ The Chronology compresses the Reform War into a sequence from Tacubaya and rival
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_3180]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0369]], [[TIME_HAMNETT_JUAREZ_0373]], [[TIME_HAMNETT_JUAREZ_0478]], [[TIME_HAMNETT_JUAREZ_0445]], [[TIME_HAMNETT_JUAREZ_0493]], [[TIME_HAMNETT_JUAREZ_0504]], [[TIME_HAMNETT_JUAREZ_0494]]
 - Cautions: Treat this as a secondary chronology and retain distinct Liberal, Conservative, regional, Church, and diplomatic actors.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Civil War of the Reform` reuses this Event route.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: Keep the war distinct from the Reform Movement, Reform Laws, and Restored Republic; no event content or causation is added.

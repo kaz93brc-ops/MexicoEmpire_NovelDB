@@ -46,3 +46,10 @@ Use as a factional label for Santa Anna-aligned actors only when the source cont
 - Capture: [[CAP_HAMNETT_JUAREZ_0135]]
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_3324]]
 - Note: The Glossary treats santanistas as Santa Anna supporters or personal clients, especially in Veracruz; do not infer a single centralized party.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `santanistas` reuses this existing group route.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: Keep the group distinct from [[Antonio_Lopez_de_Santa_Anna]] and do not infer a formal party or relationship card from word form alone.

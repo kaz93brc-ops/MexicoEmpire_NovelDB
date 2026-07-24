@@ -2,7 +2,7 @@
 id: HAMNETT-INGESTION-READINESS
 type: report
 status: active
-created: 2026-07-19
+created: 2026-07-25
 tags:
   - hamnett
   - ingestion
@@ -15,7 +15,7 @@ tags:
 
 - hamnett_fact_cards: 3011
 - hamnett_timeline_entries: 928
-- next_required_page: screenshot 140 / pp.274-275 remains required; local uncommitted screenshot 150 / pp.294-295 work is outside this branch; after the missing / held pages, inspect screenshot 152 / pp.298-299 for possible re-election continuation and R onward; preserve local pp.146-147 gap
+- next_required_page: screenshot 140 / pp.274-275 remains required; local uncommitted screenshot 150 / pp.294-295 work is outside this branch; after the missing / held pages, inspect screenshot 153 / p.300 for possible Tixtla continuation and T onward; preserve local pp.146-147 gap
 
 ## Fact Cards By Section
 
@@ -223,7 +223,7 @@ tags:
 
 ## Next Checks From Progress Master
 
-- screenshot 140 / pp.274-275 remains the Readiness entry. Screenshots 143-149 / pp.280-293 and user-directed screenshot 151 / pp.296-297 are processed out of sequence; local screenshot 150 work remains uncommitted outside this branch. After the missing / held pages, inspect screenshot 152 / pp.298-299 for possible re-election continuation and R onward.
+- screenshot 140 / pp.274-275 remains the Readiness entry. Screenshots 143-149 / pp.280-293 and user-directed screenshots 151-152 / pp.296-299 are processed out of sequence; local screenshot 150 work remains uncommitted outside this branch. After the missing / held pages, inspect screenshot 153 / p.300 for possible Tixtla continuation and T onward.
 - "Ten days later" の基準日、Wyke-Zamacona Treatyの正式名称・条項・議会否認日を確認する。
 - printed pages 258-259で、1866-67年、米国圧力、フランス撤退、Maximilian孤立、Querétaro、捕縛、軍法会議、処刑、共和政復帰へのChronology接続を確認する。
 - Favreの1867年12月2日発言原文・会議録、Weeksの正式書誌・刊行地、Covo／Salomon研究、APBJPS 1928年刊行情報、Díaz政権のJuárez神話利用開始時期を確認する。

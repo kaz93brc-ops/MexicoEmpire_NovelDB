@@ -39,3 +39,10 @@ Use as part of the Liberal congressional opposition to Juárez in 1861, while ke
 - Themes: [[Liberal_Factionalism]], [[Executive_Power_Vs_Congress]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1484]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0511]]
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Romero Rubio, Manuel` reuses this existing Person route.
+- Main-text route: consult the selected page-number locators printed under this independent heading, then verify the cited body pages.
+- Caution: Do not merge Romero Rubio with Matías Romero, Félix Romero, or Ignacio Romero Vargas.
