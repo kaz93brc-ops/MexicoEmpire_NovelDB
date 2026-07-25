@@ -37,3 +37,8 @@ Use to complicate Maximilian's modernization image by separating emancipatory la
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0652]]
 - Themes: [[Colonization_Policy]], [[Confederate_Exile]], [[Romero_Anti_Slavery_Critique_Of_Maximilian_Colonization_Policy]]
 
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Colonization Law` is a subentry beneath Maximilian.
+- Caution: the Index adds no date, formal title, text, subjects, implementation, or effect.
+

@@ -311,3 +311,8 @@ Hamnett places Juárez's resistance to Maximilian within national-sovereignty de
 - New Fact Cards: [[FACT_HAMNETT_JUAREZ_3426]], [[FACT_HAMNETT_JUAREZ_3427]], [[FACT_HAMNETT_JUAREZ_3429]].
 - Existing locator targets: [[FACT_HAMNETT_JUAREZ_2057]], [[FACT_HAMNETT_JUAREZ_2071]], [[FACT_HAMNETT_JUAREZ_2330]], [[TIME_HAMNETT_JUAREZ_0705]], [[TIME_HAMNETT_JUAREZ_0707]], [[TIME_HAMNETT_JUAREZ_0805]].
 - Cautions: cross-check Treaty of Miramar, Church policy, Reform Laws scope, and the illegitimate-children rumor with Shawcross and primary evidence.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; the Maximilian hierarchy crosses the p.294 column break and separately routes capture / trial / execution, Colonization Law, the 1865 and 1866 decrees, the impoverished-classes Junta, and the Second Empire.
+- Caution: these are navigation routes only; they establish no content, motive, effect, or responsibility.

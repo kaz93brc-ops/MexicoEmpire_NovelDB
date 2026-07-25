@@ -79,3 +79,8 @@ Hamnett argues that Juárez feared a Lower California cession would bring upon h
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the Index explicitly presents `Gadsden Purchase` with `Mesilla Treaty` as an alternate label.
 - Caution: the locator supports terminology only and does not independently verify the existing interpretation, treaty scope, date, or evaluation.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; the Mesilla strip hierarchy routes from the territory label to `Treaty (also Gadsden Purchase)`.
+- Caution: keep Mesilla strip as a Place / Territory candidate distinct from the treaty / purchase Event; the Index adds no treaty-content or territorial-effect claim.

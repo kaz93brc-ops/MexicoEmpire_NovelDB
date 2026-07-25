@@ -20,7 +20,7 @@ tags:
 - retired_hamnett_fact_ids: FACT_HAMNETT_JUAREZ_3503 (must not be reused)
 - next_planned_hamnett_fact_id: FACT_HAMNETT_JUAREZ_3504
 - hamnett_timeline_entries: 928
-- next_required_page: oldest repository gap is screenshot 4 / pp.2-3; screenshot 76 / pp.146-147 and CAP0150 / pp.294-295 also remain missing; after missing / held pages, inspect screenshot 153 / p.300 for possible Tixtla continuation and T onward
+- next_required_page: oldest repository gap is screenshot 4 / pp.2-3; screenshot 76 / pp.146-147 also remains missing; CAP0150 / pp.294-295 is now repository-tracked; after missing / held pages, inspect screenshot 153 / p.300 for possible Tixtla continuation and T onward
 
 ## Fact Cards By Section
 
@@ -227,7 +227,7 @@ tags:
 
 ## Next Checks From Progress Master
 
-- CAP0140 / pp.274-275 is now rebuilt on current main. Repository enumeration shows the oldest remaining Capture gap is screenshot 4 / pp.2-3; screenshot 76 / pp.146-147 and CAP0150 / pp.294-295 also remain missing. No local uncommitted checkout is durable progress evidence. After the missing / held pages, inspect screenshot 153 / p.300 for possible Tixtla continuation and T onward.
+- CAP0140 / pp.274-275 and CAP0150 / pp.294-295 are now rebuilt on current main. CAP0146–CAP0152 is continuous through the visible Tixtla entry. Repository enumeration shows the oldest remaining Capture gap is screenshot 4 / pp.2-3, with screenshot 76 / pp.146-147 also missing. After missing / held pages, inspect screenshot 153 / p.300 for possible Tixtla continuation and T onward.
 - "Ten days later" の基準日、Wyke-Zamacona Treatyの正式名称・条項・議会否認日を確認する。
 - printed pages 258-259で、1866-67年、米国圧力、フランス撤退、Maximilian孤立、Querétaro、捕縛、軍法会議、処刑、共和政復帰へのChronology接続を確認する。
 - Favreの1867年12月2日発言原文・会議録、Weeksの正式書誌・刊行地、Covo／Salomon研究、APBJPS 1928年刊行情報、Díaz政権のJuárez神話利用開始時期を確認する。

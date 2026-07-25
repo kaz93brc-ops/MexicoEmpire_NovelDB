@@ -43,3 +43,8 @@ Use as the legal instrument that connects anti-guerrilla violence, Maximilian's 
 - Organizations: [[Imperial_Government]], [[Imperial_Forces]], [[Military_Courts]], [[Mexican_Conservatives]]
 - Events: [[Decree_Of_20_October_1862]], [[Trial_of_Maximilian]]
 - Themes: [[Treason_And_Political_Legitimacy]], [[Bandits_Vs_Belligerents]], [[Wartime_Violence]]
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Imperial Decree of 3 October 1865` is a date / title route beneath Maximilian.
+- Caution: the Index adds no legal text, scope, enforcement, responsibility, or effect.

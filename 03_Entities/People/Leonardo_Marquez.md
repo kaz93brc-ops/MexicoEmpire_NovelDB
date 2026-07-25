@@ -117,3 +117,8 @@ Hamnett p.174 states that Maximilian sent Márquez to Constantinople at the end 
 - New Fact Cards: [[FACT_HAMNETT_JUAREZ_3419]], [[FACT_HAMNETT_JUAREZ_3422]].
 - Existing locator targets: [[FACT_MEXEMP_0360]], [[FACT_HAMNETT_JUAREZ_2246]], [[FACT_HAMNETT_JUAREZ_2247]], [[TIME_HAMNETT_JUAREZ_0777]], [[TIME_HAMNETT_JUAREZ_0778]].
 - Cautions: keep `Tiger of Tacubaya` as a reputation marker and verify Ocampo / Valle responsibility, 1867 route, return permission, and death chronology.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Márquez, Gen. Leonardo` is an independent Person route.
+- Caution: the Index adds no office, allegiance, action, or evaluation.

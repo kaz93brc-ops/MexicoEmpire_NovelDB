@@ -97,3 +97,8 @@ Hamnett p.173 records the Treaty of Miramar's French troop and Foreign Legion co
 - Existing Fact / Timeline: [[FACT_HAMNETT_JUAREZ_2057]], [[TIME_HAMNETT_JUAREZ_0705]].
 - Note: the Maximilian entry repeats the treaty position in the imperial biography without adding a new Timeline entry.
 - Cross-check: compare the treaty date, location, military-financial burden, and political meaning with Shawcross.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Treaty of (1864)` beneath `Miramar` routes to this existing Event.
+- Caution: the Index adds no treaty text, terms, implementation, or evaluation.
