@@ -65,3 +65,10 @@ Use as a legislative turning point tied to Veracruz politics, Church property, c
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Catholic Church and bienes nacionales entries provide routes back to Reform Laws, Church property, and jurisdiction passages.
 - Caution: Index locators do not establish the content, sequence, implementation, or reception of individual laws.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Reform Laws` reuses this existing Theme route.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: Keep the laws distinct from the Reform Movement, the Civil War of the Reform, and the Restored Republic.

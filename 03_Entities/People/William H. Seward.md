@@ -147,3 +147,10 @@ Hamnett p.188 says Romero reported Seward's concern about massacres at Querétar
 - Related Event: [[Sewards_Plea_For_Maximilians_Life_1867]]
 - Related Themes: [[European_Diplomacy]], [[US_Mexico_Relations]]
 - Cautions: Confirm the underlying U.S. diplomatic documents and Romero correspondence.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Seward, William H.` reuses this existing Person route.
+- Main-text route: consult the selected page-number locators printed under this heading, then verify the cited body pages.
+- Caution: The Index adds no diplomatic action, office, motive, or outcome.

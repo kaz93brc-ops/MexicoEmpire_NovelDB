@@ -34,3 +34,9 @@ Institute周辺の若い自由主義者ネットワークを厚くする候補�
 - Themes: [[Oaxaca_Provincial_Liberalism|Oaxaca provincial Liberalism]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0253]]
 
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; the independent heading `San Germán, Lope` reuses this existing Person route.
+- Main-text route: locator `23`; verify the cited body page before adding any new biographical claim.
+

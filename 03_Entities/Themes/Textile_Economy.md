@@ -30,3 +30,10 @@ Hamnett p.18-19では、Oaxacaのcotton textilesがMexico Cityを越えて主要
 - Places: [[Oaxaca]], [[Mexico_City|Mexico City]], [[Silver_Mining_Towns|silver-mining towns]]
 - Themes: [[Oaxaca_Colonial_Economy]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0190]], [[FACT_HAMNETT_JUAREZ_0208]]
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `textile production` reuses this economic Theme route.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: The Index adds no location, workforce, production method, output, chronology, or causal claim.

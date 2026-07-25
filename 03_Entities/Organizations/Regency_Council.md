@@ -66,3 +66,10 @@ Hamnett's Dramatis Personae entry connects Juan Nepomuceno Almonte to the establ
 - Related Person: [[Juan_Nepomuceno_Almonte|Juan Nepomuceno Almonte]]
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_2043]]
 - Cautions: Keep the 1863–64 council distinct from Maximilian's February 1867 emergency council.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; the Index labels Regency Council (1863–64) and Regency Council (1867) separately.
+- Main-text route: consult each label's selected page-number locators and verify the corresponding body passages independently.
+- Caution: This locator does not merge the two periods, political subjects, or any existing Event structure.

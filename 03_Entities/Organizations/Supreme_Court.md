@@ -47,3 +47,10 @@ Hamnett p.140 states that the Supreme Court convened at San Luis Potosí on 26 J
 - Related Places: [[San_Luis_Potosi]]
 - Related Themes: [[Constitutional_Legitimacy]], [[Gonzalez_Ortega_Presidential_Claim]]
 - Cautions: Confirm note 34 and the institutional record.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Supreme Court (Federal)` reuses this Mexican federal judicial route.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: Do not merge the court with the Supreme Executive Power or Supremo Poder Conservador.
