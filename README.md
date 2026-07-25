@@ -9,6 +9,7 @@
 このフォルダ自体をObsidianのvaultとして開いてください。
 
 - Vaultフォルダ: `C:\Users\kaz93\Documents\メキシコ帝国DB作成\MexicoEmpire_NovelDB`
+- Codex workspace root: 上記Vaultフォルダを直接開く。親フォルダをworkspace rootにしない。
 - Obsidian本体: `C:\Users\kaz93\AppData\Local\Programs\Obsidian\Obsidian.exe`
 - Obsidianでは `Open folder as vault` から上記のVaultフォルダを選びます。
 - 既存の `C:\Users\kaz93\Documents\Obsidian Vault` へ移動・コピーする必要はありません。
@@ -32,7 +33,9 @@
 
 Hamnett本の取り込み状況は、2026-06-20時点で `FACT_HAMNETT_JUAREZ_*.md` が134件、`CAP_HAMNETT_JUAREZ_*.md` が8件です。全投入は、Obsidian上で現在のカードを確認できるようにしてから進めます。
 
-Hamnett本の取込作業ルールと短縮依頼フォーマットは、リポジトリ直下の `AGENTS.md` と `93_Docs/ChatGPT_DB_Update_Prompt_README.md` を参照してください。
+Hamnett本の取込作業ルールと短縮依頼フォーマットは、このvault rootの `AGENTS.md` と `93_Docs/ChatGPT_DB_Update_Prompt_README.md` を参照してください。親フォルダに同名ファイルがあっても、このリポジトリ内の `AGENTS.md` を正本とします。
+
+DB更新時の必須GitHub反映ルールは `AGENTS.md`、詳細な判定条件と手順は `93_Docs/GitHub_Workflow.md` を参照してください。
 
 ## 基本方針
 

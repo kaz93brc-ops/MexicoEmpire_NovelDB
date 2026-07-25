@@ -16,6 +16,9 @@
 - Entity / Event:
 
 ## 検証
+- [ ] `git rev-parse --show-toplevel`でvault rootを確認した
+- [ ] `main`以外の作業専用branchである
+- [ ] `origin`、GitHub認証、`main...origin/main`を確認した
 - [ ] 変更範囲を確認した
 - [ ] 指示外ファイルを変更していない
 - [ ] ID重複を確認した
@@ -48,6 +51,7 @@
 - [ ] 保護対象の運用文書を変更していない
 
 ## Codex最終確認
+- [ ] branch名、commit SHA、PR URLを実測した
 - [ ] 通常PRまたはDraft PRの判定理由を確認した
 - [ ] Draftの場合はauto-mergeを設定していない
 - [ ] 通常取込の場合は`--auto --squash --delete-branch`を使用する

@@ -1,175 +1,175 @@
 # GitHub Workflow
 
-## 基本方針
+`MexicoEmpire_NovelDB`のDB更新をGitHubへ安全に反映するための詳細ルールです。`AGENTS.md`は強制ルールだけを持ち、判定と手順はこの文書を正とします。
 
-- GitHubリポジトリ名: `MexicoEmpire_NovelDB`
-- Visibility: Public
-- default branch: `main`
-- 通常作業では`main`を直接変更しない。
-- 1作業単位で1ブランチを作成する。
-- 1～5画像程度を1PRとする。特殊ページは1画像1PRでもよい。
-- 各画像を別commitに分けてもよい。
-- 通常の史料取込はDraftではないPull Requestを作成し、`safety`成功後のsquash auto-mergeを設定する。
-- 特殊作業や安全条件を満たさない作業はDraft Pull Requestで停止し、人間の確認を待つ。
-- Repository Auto-mergeとmerge後のhead branch自動削除を有効にする。
-- Codexはbranch protectionを回避せず、即時mergeや自己承認を行わない。
+## 完了の定義
 
-## 標準作業開始手順
+- ローカルDBの編集・検証だけでは作業完了としない。
+- 専用branch、対象ファイルだけのstage、commit、push、Pull Request作成までをGitHub反映の必須工程とする。
+- branch名、commit SHA、PR URLの3点を確認できた場合だけ「GitHub反映完了」と報告する。
+- 3点のいずれかがない場合は「ローカルDB更新完了・GitHub反映未完了」と明記し、不足工程と理由を報告する。
+- Draft Pull RequestはGitHub上への反映が完了した状態だが、`main`への反映は未完了として区別する。
+
+## 作業開始時の確認
+
+最初にrepository rootを確定する。親フォルダで開始した場合も、以後のGit・検証・編集コマンドは取得したrootをworking directoryとして実行する。
 
 ```powershell
-git status
-git switch main
-git pull --ff-only
-git status
-git switch -c <作業ブランチ>
+git rev-parse --show-toplevel
 ```
 
-作業開始前に現在ブランチと`origin`も確認する。
+- このコマンドが失敗した場合、編集を開始せず、子階層の `.git` を探してrepository rootへ移動する。
+- repository rootの `AGENTS.md` を正本として読み、親フォルダの同名ファイルを運用ルールの正本にしない。
 
-## ブランチ命名例
-
-- `hamnett/capture-0147`
-- `hamnett/captures-0147-0150`
-- `hamnett/map-02-oaxaca-1857`
-- `hamnett/index-j`
-- `chore/update-audit`
-- `fix/entity-link-resolution`
-
-Hamnett取込では、必要に応じて説明を加えた`hamnett/capture-NNNN-description`形式を基本とする。
-
-## 通常取込の標準フロー
-
-通常のHamnett本文、注、Chronology等で、判読不確実性や大量変更がない場合は次を標準とする。
-
-1. `main`を最新化する。
-2. 専用branchを作成する。
-3. 指定作業だけを実施する。
-4. テスト、監査、差分を確認する。
-5. 意図したファイルだけstageする。
-6. commitする。
-7. 作業branchをpushする。
-8. Draftではない通常Pull Requestを作成する。
-9. squash方式のauto-mergeを設定する。
-10. 必須check `safety`成功後にGitHubがmergeする。
-11. 作業branchを自動削除する。
-12. local `main`をff-onlyで最新化する。
-13. working tree cleanと`origin/main`との一致を確認する。
-
-## 通常取込の作業終了コマンド
+作業前に次を確認する。
 
 ```powershell
-git status
-git diff
-git add <意図したファイルだけ>
-git diff --cached
-git commit -m "<commit message>"
-git push -u origin <作業ブランチ>
-gh pr create `
-  --base main `
-  --head <作業ブランチ> `
-  --title "<PR title>" `
-  --body-file "<PR body file>"
-gh pr merge <PR番号またはURL> `
-  --auto `
-  --squash `
-  --delete-branch
+git status --short --branch
+git branch --show-current
+git remote -v
+gh auth status
+git fetch origin
+git rev-list --left-right --count main...origin/main
 ```
 
-PR本文用の一時ファイルはリポジトリ外に作成するか、stage前にリポジトリ内から除外されていることを確認する。commitへ含めない。
+- GitHubリポジトリ、`origin`、default branch `main`、GitHub CLIの認証先が意図どおりであることを確認する。
+- `main`がcleanなら`git switch main`と`git pull --ff-only`で最新化してから専用branchを作る。
+- 未コミット変更がある場合は巻き戻さない。依頼対象と所有者を確認し、対象外変更を保持したまま明示的なpathだけをstageできる場合に限って続行する。
+- `main`と`origin/main`が分岐している場合、または安全に最新化できない場合は競合扱いとし、通常PR・auto-mergeへ進めない。
+- 1作業単位で1branchとする。例: `hamnett/capture-0147-description`、`chore/update-audit`、`fix/entity-link-resolution`。
+- `main`上で編集を始めていた場合も、commit前に専用branchへ移す。
 
-## Auto-mergeを設定してよい条件
+## 誤branch・dirty worktreeからの分離
 
-次をすべて満たす場合だけauto-mergeを設定する。
+- 既存PRのbranch上で別作業の未コミット変更を発見した場合、そのbranchへ混在commitしない。
+- 対象pathだけを一時的な隔離branchへcommitし、`main`起点の別worktreeへそのcommitだけをcherry-pickして新しい専用branchを作る。
+- 隔離元branchの既存commitを新PRへ含めないことを `git log main..HEAD` と `git diff main...HEAD --name-status` で確認する。
+- 対象外の未追跡ファイルはstageせず、そのまま残して最終報告する。
+- ユーザー変更を守るため、`git reset --hard`、`git clean`、無断stash、履歴改変で分離しない。
 
-- 通常の史料取込である。
-- 指定範囲外の変更がない。
-- ID重複がない。
-- YAMLエラーがない。
-- wiki linkの重大エラーがない。
-- 長文引用や全文転記がない。
-- `safety`対象テストが実行可能である。
-- ローカル検証が成功している。
-- 秘密情報候補がない。
+## 共通の安全条件
+
+commit前に次をすべて満たす。
+
+- 指定範囲外の内容を変更していない。
+- `git add .`や`git add -A`を使わず、依頼対象のpathだけをstageしている。
+- `git diff --cached --name-status`と`git diff --cached`でstage内容を確認した。
+- ID重複、YAML、wiki link、locator、必須metadata、長文引用、秘密情報候補を確認した。
+- 作業種別に必要なローカル検証・監査が成功している。
 - `main`との競合がない。
+- PR本文に変更内容、対象資料・ページまたは文書、ID、検証結果、要確認事項、対象外変更を含めていないことを記載する。
+
+## 通常取込とauto-merge
+
+次をすべて満たす通常の史料取込だけ、Draftではない通常Pull Requestを作成する。
+
+- 地図・Index・運用文書の変更ではない。
+- 判読、出典、ID、metadata、内容の不確実性が残っていない。
+- ローカル検証がすべて成功し、必須check `safety`を実行可能である。
 - 変更ファイル数が50件以下である。
-- 既存ファイルの削除・改名がない。
-- `AGENTS.md`、`.github/`、`.gitignore`、テンプレート、スクリプト等の保護対象を変更していない。
+- 既存ファイルの削除・移動・改名がない。
+- 保護対象を変更していない。
+- 秘密情報候補、想定外の差分、`main`との競合がない。
+
+通常Pull Request作成後は、次の条件でsquash auto-mergeを設定する。
+
+```powershell
+gh pr merge <PR番号またはURL> --auto --squash --delete-branch
+```
+
+- mergeは必須check `safety`成功後にGitHubへ実行させる。
+- branch protectionを回避せず、即時mergeや自己承認を行わない。
+- auto-merge設定後は`gh pr view`で`autoMergeRequest`と`statusCheckRollup`を確認する。
 
 ## Draft Pull Requestで停止する条件
 
-次のいずれかに該当する場合は`gh pr create --draft ...`でDraft Pull Requestを作り、auto-mergeを設定せず人間の確認を待つ。
+次のいずれかに該当する場合はDraft Pull Requestを作成し、auto-mergeを設定せず人間の確認を待つ。
 
 - 地図またはIndexを扱う。
-- 判読不確実箇所がある。
-- 出典特定に「要確認」がある。
-- 既存IDの不整合またはID重複の疑いがある。
-- 既存カードの移動、改名、削除を伴う。
-- テンプレートまたはスクリプトを変更する。
-- `.github/`、`AGENTS.md`、`.gitignore`を変更する。
-- 変更ファイル数が50件を超える、または通常範囲を明らかに超える大量差分である。
-- テストまたは監査が失敗した。
-- `main`との競合がある。
-- Codexが安全な判断に確信を持てない。
-- ユーザーがレビューを明示的に要求した。
+- 判読、出典、ID、metadata、内容に不確実性または要確認がある。
+- テスト、監査、リンク検証、秘密情報検査のいずれかが失敗または実行不能である。
+- `main`との競合または分岐がある。
+- 変更ファイル数が50件を超える。
+- 既存ファイルの削除・移動・改名を伴う。
+- 保護対象を変更する。
+- 想定外の大量差分、無関係な差分、または安全判断に確信を持てない点がある。
+- ユーザーがDraftまたは人間レビューを指定した。
 
-## Auto-merge後の確認
+保護対象は、`.github/`、`.gitignore`、`AGENTS.md`、`README.md`、`90_Templates/`、`92_Scripts/`、GitHub運用文書、プロンプト運用文書とする。
 
-auto-merge設定後は次で状態を確認する。
+Draft PRの状態確認例:
 
 ```powershell
-gh pr view <PR番号> `
-  --json number,url,state,isDraft,mergeStateStatus,autoMergeRequest,statusCheckRollup
+gh pr view <PR番号またはURL> --json number,url,state,isDraft,mergeStateStatus,autoMergeRequest,statusCheckRollup
 ```
 
-合理的な範囲で`statusCheckRollup`を確認する。`safety`が成功してPull Requestがmergeされたら次を実行する。
+Draft PRでは`isDraft: true`、`autoMergeRequest: null`を確認する。
+
+## stage・commit・push・PR作成
 
 ```powershell
-git switch main
-git pull --ff-only
-git status
-git log --oneline -3
+git status --short --branch
+git diff -- <対象ファイル>
+git add -- <対象ファイル>
+git diff --cached --name-status
+git diff --cached
+git commit -m "<commit message>"
+git push -u origin <作業branch>
+gh pr create --base main --head <作業branch> --title "<PR title>" --body-file "<PR body file>"
 ```
 
-最終的にPull Requestが`MERGED`、remoteの作業branchが削除済み、local `main`と`origin/main`が一致、working treeがcleanであることを確認する。
-
-## Auto-merge失敗時
-
-`safety`失敗、競合、strict check未充足、branch protection拒否、API／CLIエラー、必須check名変更、Draft状態、秘密情報候補、想定外の大量差分がある場合は、force pushや保護回避を行わない。Pull RequestをopenまたはDraftのまま残し、PR URL、停止理由、失敗check、人間確認事項、mainへ未mergeであることを報告する。
+- Draft条件に該当する場合は`gh pr create`へ`--draft`を付ける。
+- PR本文用一時ファイルはリポジトリ外に作るか、stage対象外であることを確認する。
+- commit後に`git rev-parse HEAD`、push後にbranch名、PR作成後にPR URLを記録する。
 
 ## 禁止事項
 
-- `git add .`を無確認で実行しない。
-- `git push --force`を実行しない。
-- `git reset --hard`を実行しない。
-- `git clean -fd`を実行しない。
-- 通常作業で`main`へ直接commitしない。
-- branch protectionを回避してPull Requestをmergeしない。
-- Draftまたは安全条件未充足のPull Requestへauto-mergeを設定しない。
-- 大量改名、既存ID変更、無関係な自動整形を行わない。
+- 通常作業で`main`へ直接commitまたはpushしない。
+- 対象外のユーザー変更をstage、修正、削除、巻き戻ししない。
+- `git add .`、無確認の`git add -A`、`git push --force`、履歴改変を行わない。
+- `git reset --hard`、`git clean -fd`、既存IDの再利用を行わない。
+- branch protection、必須check、レビュー要件を回避しない。
+- Draft PRまたは安全条件未充足のPRへauto-mergeを設定しない。
+- 大量改名、既存ID変更、無関係な自動整形を作業範囲へ混入させない。
+- PR URL、commit SHA、branch名を推測または未確認のまま報告しない。
 
-## Pull Request本文の必須項目
+## merge後の確認
 
-- 対象資料・ページ
-- 変更ファイル
-- 新規・更新ID
-- 主な登録内容
-- 実施した検証
-- 要確認事項
-- 指示外変更がないこと
-- 今回変更しなかった範囲
+通常PRのauto-merge後は次を確認する。
 
-## Codex標準フロー
+```powershell
+gh pr view <PR番号またはURL> --json number,url,state,isDraft,mergeStateStatus,autoMergeRequest,statusCheckRollup,mergedAt
+git switch main
+git pull --ff-only
+git status --short --branch
+git rev-list --left-right --count main...origin/main
+```
 
-1. `git status`を確認する。
-2. `git switch main`を実行する。
-3. `git pull --ff-only`で最新化する。
-4. 作業専用ブランチを作る。
-5. 指定作業だけを実施する。
-6. テスト・監査・差分を確認する。
-7. 意図したファイルだけをstageする。
-8. commitする。
-9. 作業ブランチをpushする。
-10. 安全条件を判定し、通常Pull RequestまたはDraft Pull Requestを作成する。
-11. 通常取込だけauto-mergeを設定する。Draftには設定しない。
-12. 通常取込は`safety`成功とsquash mergeを確認し、特殊作業は人間レビュー待ちで終了する。
-13. merge後はlocal `main`を最新化し、remote branch削除とworking tree cleanを確認する。
+- PRが`MERGED`で、`safety`が成功している。
+- remoteの作業branchが削除されている。
+- local `main`と`origin/main`が一致している。
+- working treeがcleanである。作業開始前からの対象外変更がある場合は、cleanではない理由と残存pathを報告する。
+- auto-merge失敗、競合、check失敗、branch protection拒否が起きた場合はforceや回避をせず、PRをopenまたはDraftのまま残す。
+
+## 最終報告
+
+最終報告には次を含める。
+
+- 変更箇所と主要な変更内容。
+- branch名。
+- commit SHA。
+- PR URL、PR番号、通常PRまたはDraftの別。
+- auto-merge設定の有無。設定した場合はsquash方式と`safety`の状態。
+- 実行した検証と結果。
+- merge済みか、Draft／openで`main`未反映か。
+- 対象外の未コミット変更、失敗、競合、要確認事項など残存事項。
+
+branch名、commit SHA、PR URLのいずれかが欠ける場合、結論は必ず「ローカルDB更新完了・GitHub反映未完了」とする。
+
+最終回答直前に次を実行し、記憶や推測ではなく実測値を報告する。
+
+```powershell
+git branch --show-current
+git rev-parse HEAD
+gh pr view --json number,url,state,isDraft,headRefName,baseRefName,autoMergeRequest,statusCheckRollup,mergedAt
+```

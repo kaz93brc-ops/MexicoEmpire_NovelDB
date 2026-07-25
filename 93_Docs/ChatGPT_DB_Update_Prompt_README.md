@@ -3,7 +3,7 @@ id: DOC_CHATGPT_DB_UPDATE_PROMPT_README
 type: documentation
 status: active
 created: 2026-06-23
-updated: 2026-06-30
+updated: 2026-07-13
 tags:
   - docs
   - chatgpt
@@ -33,6 +33,7 @@ ChatGPTに作らせるプロンプトの目的は、Codexや別エージェン�
 ## Vault前提
 
 - vault root: `MexicoEmpire_NovelDB/`
+- Codex workspace root: `MexicoEmpire_NovelDB/`を直接開き、`git rev-parse --show-toplevel`の結果と一致させる。
 - Obsidian標準Markdown、YAML frontmatter、wiki linkで運用する。
 - Dataviewなどのコミュニティプラグイン前提の記法にしない。
 - 既存Markdownは理由なく上書き・削除しない。
@@ -104,6 +105,7 @@ ChatGPTが作るDB更新プロンプトは、渡す相手に応じて通常モ�
 - Fact候補は `ID: statement / evidence_category / confidence / printed_page / source_note任意 / caution任意` の1行形式にします。
 - Entity候補は `existing_connect`、`new_stub_consider`、`candidate_only` に分けます。
 - 最終報告は標準チェックリストを適用させ、ページ固有で必ず報告してほしい点だけ `extra_final_report` に書きます。
+- `github_publish`が依頼文に省略されていても、DB変更ではrepository rootの`AGENTS.md`と`GitHub_Workflow.md`に従うため、GitHub反映工程を省略しません。
 
 ## 証拠分類
 
@@ -300,6 +302,20 @@ python .\MexicoEmpire_NovelDB\92_Scripts\vault_maintenance.py --phase all --appl
 - 他文献照合観点と創作利用メモを残したか
 - 検証結果: unresolved wiki links, empty wiki links, basename重複, statement欠落, locator missing, source_id_review
 - 長文引用、全文保存、全文翻訳、スクリーンショット全文転記が発生していないこと
+- branch名、commit SHA、PR URL、PR種別、auto-merge設定、merge状態
+
+## ページ用プロンプト末尾のGitHub反映指示
+
+各ページ・見開きのDB更新プロンプト末尾には、次の短縮版を付けてください。詳細条件は`AGENTS.md`と`93_Docs/GitHub_Workflow.md`から読ませ、プロンプト側へ重複掲載しません。
+
+```text
+github_publish:
+- ローカルDB更新だけで完了とせず、専用branchで対象ファイルだけをstageし、commit、push、Pull Request作成まで行う。
+- 通常取込はGitHub_Workflow.mdの安全条件をすべて満たす場合だけ通常PRとし、safety成功後のsquash auto-mergeを設定する。
+- 地図、Index、不確実性、検証失敗、競合、保護対象変更、50件超、削除・移動・改名、またはレビュー指定がある場合はDraft PRで停止し、auto-mergeを設定しない。
+- 最終報告に変更箇所、branch名、commit SHA、PR URL、PR種別、auto-merge設定、検証結果、merge状態を記載する。
+- branch名、commit SHA、PR URLのいずれかがない場合は「GitHub反映完了」とせず、「ローカルDB更新完了・GitHub反映未完了」と報告する。
+```
 
 ## ChatGPTへ渡す短縮指示
 
@@ -326,6 +342,7 @@ MexicoEmpire_NovelDB の Hamnett, Juárez 取込を続けてください。
 恒久ルールは AGENTS.md と 93_Docs/ChatGPT_DB_Update_Prompt_README.md に従い、本文全文・長文引用・全文翻訳・全文OCRは保存しないでください。
 
 target:
+- repo_root: MexicoEmpire_NovelDB
 - screenshot_no:
 - screenshot_file:
 - chapter:
@@ -374,4 +391,10 @@ open_questions:
 
 extra_final_report:
 - ページ固有で必ず報告してほしい点だけ記載。
+
+github_publish:
+- 専用branch、対象ファイルだけのstage、commit、push、PR作成まで行う。
+- 安全条件をすべて満たす通常取込だけ通常PR＋safety成功後のsquash auto-mergeとする。
+- Draft条件に該当する場合はDraft PRで停止し、auto-mergeを設定しない。
+- branch名、commit SHA、PR URL、PR種別、検証結果、merge状態を最終報告する。3点のいずれかがなければ「ローカルDB更新完了・GitHub反映未完了」とする。
 ```
