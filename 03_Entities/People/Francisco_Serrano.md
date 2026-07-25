@@ -51,6 +51,6 @@ Hamnett p.168 presents Serrano's Cuban position as part of the Spanish connectio
 ## Hamnett 1994 Index pp.298–299 Locator
 
 - Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
-- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Serrano, Gen. Francisco` reuses this existing Person route.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Serrano, Francisco` reuses this existing Person route.
 - Main-text route: consult the selected page-number locators printed under this heading, then verify the cited body pages.
 - Caution: Do not merge Francisco Serrano with `serranos`, a potentially collective or regional classification.

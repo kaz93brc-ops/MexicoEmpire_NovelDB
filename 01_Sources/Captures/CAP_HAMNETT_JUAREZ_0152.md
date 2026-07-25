@@ -19,12 +19,14 @@ archive_page: "/page/298/mode/2up"
 page: "Page 298 (313/323)"
 screen_display: "Page 298 (313/323)"
 screenshot_no: "152"
-screenshot_file: "スクリーンショット 2026-07-19 10.17.38.jpeg"
+screenshot_file: "スクリーンショット 2026-07-19 10.17.38.png"
+catalog_screenshot_file: "スクリーンショット 2026-07-19 10.17.38.jpeg"
+attached_file: "1-スクリーンショット-2026-07-19-10.17.38.png"
 printed_page_status: "confirmed"
 reading_accuracy: "high for the user-confirmed heading range, page boundaries, Romero column continuation, Santa Anna spread continuation, and selected labels; verification needed for minor-name spelling, exact body-page locators, classification, and Tixtla continuation"
 content_type: "index_reference / locator_reference"
 locator_type: "index_locator / reference_locator"
-index_heading_range: "R中盤–T後半"
+index_heading_range: "R中盤–T（Tixtlaまで）"
 previous_page_continuation_resolved: "yes - re-election, issue of completes on p.297 and does not continue to p.298"
 within_spread_continuation: "Romero, Matías continues from p.298 column 1 into the page-number line at column 2; Santa Anna, Gen. Antonio López de continues from p.298 column 2 into p.299 column 1 until Santacilia, Pedro begins a new heading"
 next_page_continuation: "possible - Tixtla (Guerrero) has a visible locator and probably completes on p.299, but screenshot 153 / p.300 must confirm that no additional locator follows"
@@ -42,8 +44,9 @@ relationship_cards_created: []
 - Section / content type / locator type: INDEX / index_reference / locator_reference / index_locator
 - Printed pages / archive: pp.298–299 / `/page/298/mode/2up`
 - Screen display: Page 298 (313/323)
-- Screenshot no. / file: 152 / スクリーンショット 2026-07-19 10.17.38.jpeg
-- Heading range / accuracy: R中盤–T後半 / hierarchy and specified continuation high; minor-name spelling, exact body-page locators, classification, and next-page continuation remain verification-needed
+- Screenshot no. / actual file: 152 / スクリーンショット 2026-07-19 10.17.38.png
+- Catalog / attached file: `スクリーンショット 2026-07-19 10.17.38.jpeg` / `1-スクリーンショット-2026-07-19-10.17.38.png`; the supplied attachment is PNG while the catalog filename is JPEG.
+- Heading range / accuracy: R中盤–T（Tixtlaまで） / hierarchy and specified continuation high; minor-name spelling, exact body-page locators, classification, and next-page continuation remain verification-needed
 
 ## ID Handling
 
@@ -68,10 +71,10 @@ relationship_cards_created: []
 
 ## Selected Existing Locator Connections
 
-- People: [[Antonio_Lopez_de_Santa_Anna|Antonio López de Santa Anna]], [[Matias_Romero|Matías Romero]], [[Manuel_Romero_Rubio]], [[Felix_Romero]], [[Ignacio_Romero_Vargas]], [[Pedro_Santacilia]], [[Francisco_Serrano]], [[Mariano_Salas]], [[William H. Seward|William H. Seward]], [[Vice_Admiral_Tegetthoff|Wilhelm Tegetthoff]], [[Sostenes_Rocha|Sóstenes Rocha]], [[Manuel_Ruiz]], and [[Manuel_del_Solar_Campero]] receive or reuse compact pp.298–299 Index routes. Similar surnames remain separate.
+- People: [[Antonio_Lopez_de_Santa_Anna|Antonio López de Santa Anna]], [[Matias_Romero|Matías Romero]], [[Manuel_Romero_Rubio]], [[Felix_Romero]], [[Ignacio_Romero_Vargas]], [[Pedro_Santacilia]], [[Francisco_Serrano]], [[Lope_San_German|Lope San Germán]], [[Mariano_Salas]], [[William H. Seward|William H. Seward]], [[Vice_Admiral_Tegetthoff|Wilhelm Tegetthoff]], [[Sostenes_Rocha|Sóstenes Rocha]], [[Manuel_Ruiz]], and [[Manuel_del_Solar_Campero]] receive or reuse compact pp.298–299 Index routes. Similar surnames remain separate.
 - Processes and institutions: [[La_Reforma]], [[Reform_War]], [[Reform_Laws]], [[Restored_Republic]], [[Revolution_of_Ayutla]], [[Plan_Of_Tacubaya]], [[Regency_Council]], [[Republican_Party]], [[Supreme_Court]], and [[Siete_Leyes_1836]] are search routes only. Regency Council (1863–64) and Regency Council (1867) remain separately labelled locator candidates rather than one Event.
 - Places and regional routes: [[San_Luis_Potosi]], [[Tehuantepec]], [[Isthmus_Of_Tehuantepec]], [[Tixtla]], [[Tavehua]], and [[Tepeji]] are linked without normalizing uncertain spellings or merging the Isthmus with the town.
-- Groups and themes: [[Santanistas]], [[Sanchez_Navarro_Family]], [[Regionalism]], [[State_Governors_Tutelage]], [[Sugar_Cultivation]], [[Textile_Economy]], and [[Tierras_Baldias]] are linked as selected retrieval routes. Santa Anna / santanistas and Francisco Serrano / serranos remain separate.
+- Groups and themes: [[Santanistas]], [[Sanchez_Navarro_Family]], [[Regionalism]], [[Sugar_Cultivation]], [[Textile_Economy]], and [[Tierras_Baldias]] are linked as selected retrieval routes. Santa Anna / santanistas and Francisco Serrano / serranos remain separate. The general heading `state governors` remains unconnected pending main-text confirmation.
 - Media and dated-event routes: [[Southern_Intelligencer]] reuses an existing stem without deriving its media type from this Index; [[San_Luis_Potosi_Decree_Of_16_August_1863]] receives only the matching dated route. The 22 July decree and 1870 rebellion have no safe existing Event match in this branch.
 
 ## Existing Basename / Alias Review
@@ -87,8 +90,8 @@ relationship_cards_created: []
 
 - No new Entity stub was created. Index-only evidence does not justify mass stubs or the repair of pre-existing classifications.
 - Candidate-only people: Régules, Gen. Nicolás de; Aureliano Rivera; Juan Sánchez; Diego Rivera; David Siqueiros; Zachary Taylor; and other minor identities without a safe exact stem. Existing but spelling- or role-sensitive people remain verification-needed rather than gaining biographical claims.
-- Candidate-only institutions / processes: Republic of the Sierra Madre; Mexican Federal Senate; United States Senate; State Department (USA); Supreme Executive Power; Supremo Poder Conservador; sub-prefects; silver mines; labour movement; Regency Council (1867); San Luis Potosí decree of 22 July 1863; and San Luis Potosí rebellion in 1870.
-- Candidate-only places / labels: San Miguel el Grande, Silao, Tenango del Valle, Teococuilco, San Germán, and the exact identification of Tavehua. `Republic of the Sierra Madre` remains a quoted Index name without assigning it state, movement, plan, or regional-project status.
+- Candidate-only institutions / processes: Republic of the Sierra Madre; Mexican Federal Senate; United States Senate; State Department (USA); Supreme Executive Power; Supremo Poder Conservador; state governors; sub-prefects; silver mines; labour movement; Regency Council (1867); San Luis Potosí decree of 22 July 1863; and San Luis Potosí rebellion in 1870.
+- Candidate-only places / labels: San Miguel el Grande, Silao, Tenango del Valle, Teococuilco, and the exact identification of Tavehua. `Republic of the Sierra Madre` remains a quoted Index name without assigning it state, movement, plan, or regional-project status.
 - `Southern Intelligencer` keeps its existing stem, but this Capture does not infer a publication or media category from the Index.
 - Relationship cards: none created. Santa Anna–santanistas, Serrano–serranos, and other morphology-based pairs remain reference candidates, not asserted relationships.
 
@@ -134,14 +137,20 @@ relationship_cards_created: []
 - Reconfirm that Santa Anna crosses p.298–299 and that the p.299 opening numbers remain his locators until `Santacilia, Pedro`.
 - Determine whether Republic of the Sierra Madre maps to an existing Event or Theme without assuming its category.
 - Verify the exact spelling and alias handling of Régules, and preserve the existing `Sóstenes Rocha` alias without changing the source label.
-- Verify Tavehua and Teococuilco spellings, identify San Germán, and confirm the media type of Southern Intelligencer from non-Index evidence.
+- Verify Tavehua and Teococuilco spellings and confirm the media type of Southern Intelligencer from non-Index evidence. `San Germán, Lope` is resolved to the existing [[Lope_San_German|Lope San Germán]] person route and agrees with [[FACT_HAMNETT_JUAREZ_0253]].
 - Determine existing Event mappings, if any, for the 22 July 1863 San Luis Potosí decree, the 16 August 1863 decree, and the 1870 rebellion; do not merge them.
 - Review santanistas against Santa Anna-related Themes while keeping the group separate from the person.
 - Keep serranos separate from Francisco Serrano; keep Sánchez Navarro family separate from Juan Sánchez and Carlos Sánchez Navarro.
 - Keep Supreme Executive Power separate from Supremo Poder Conservador; do not route either through the unrelated `Supremos_Poderes` note.
 - Check screenshot 153 / p.300 to determine whether Tixtla continues.
 - Validation checks: unresolved wiki links, empty wiki links, basename duplicates, locator missing, `source_id_review`, Capture ID duplication, and YAML validity.
-- Readiness still requires screenshot 140 / pp.274–275 despite this user-directed pp.298–299 processing. The separate local screenshot 150 changes and the pp.146–147 gap remain outside this branch.
+- Readiness still requires screenshot 140 / pp.274–275 despite this user-directed pp.298–299 processing. CAP0150 / pp.294–295 is not currently recorded in repository history and requires a separate branch or PR; this PR does not include it, and a local uncommitted checkout is not used as durable progress evidence. The pp.146–147 gap remains outside this branch.
+
+## Deferred Follow-up Audit (Outside PR #35 Scope)
+
+- Category review: `Restored_Republic` remains organization-typed; `Isthmus_Of_Tehuantepec` remains Theme-typed in this PR.
+- Candidate/source review: Régules; Aureliano Rivera; Juan Sánchez; State Department; Supreme Executive Power; Supremo Poder Conservador; Southern Intelligencer; and Tavehua.
+- Vault debt: three pre-existing Fact YAML parse errors and 17 normalized-name / alias collision groups remain for a separate audit.
 
 ## Short Original Phrases
 
