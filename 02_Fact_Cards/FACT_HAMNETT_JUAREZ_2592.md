@@ -66,3 +66,8 @@ Maximilian's decree of 26 June 1866 did not fully reverse Liberal privatization 
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0110]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0921]]
 
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Imperial Decree of 26 June 1866` is a subentry within the cross-column Maximilian hierarchy.
+- Caution: the Index supports only the date / title route and does not independently verify this Fact's legal-content statement.
+

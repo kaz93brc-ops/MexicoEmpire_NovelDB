@@ -47,7 +47,7 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
 
-ユーザー指定により152枚目 `CAP_HAMNETT_JUAREZ_0152` / INDEX / printed pages 298–299まで先行処理し、欠落していた140枚目 `CAP_HAMNETT_JUAREZ_0140` / DRAMATIS PERSONAE / pp.274–275を2026-07-25に最新main上で再構成した。CAP0140では人物欄の全文を転記せず、Sebastián Lerdo de Tejada、Ignacio Mariscal、Leonardo Márquez、Maximilianの明示的な人物整理から9 Factを作成し、新規Timeline / Entity stub / Relationshipは作成していない。Hamnett Factは3,019件（現存最大3484、過去割当最大3503、3503はretired、次予定3504）、Timelineは928件（最大1272）。retired / held / unused IDは再利用しない。repository上でさらに古い未収録spreadとしてscreenshot 4 / pp.2–3とscreenshot 76 / pp.146–147が残り、CAP0150 / pp.294–295も別branchまたは別PRが必要である。Tixtlaのp.300継続可能性も未確認のまま維持する。
+ユーザー指定により152枚目 `CAP_HAMNETT_JUAREZ_0152` / INDEX / printed pages 298–299まで先行処理し、欠落していた140枚目 `CAP_HAMNETT_JUAREZ_0140` / DRAMATIS PERSONAE / pp.274–275を2026-07-25に最新main上で再構成した。同日、主worktreeからCAP0150由来hunkだけを分離して `CAP_HAMNETT_JUAREZ_0150` / INDEX / pp.294–295を収録し、CAP0149→0150→0151の連続性を解消した。CAP0140では人物欄の全文を転記せず、Sebastián Lerdo de Tejada、Ignacio Mariscal、Leonardo Márquez、Maximilianの明示的な人物整理から9 Factを作成した。CAP0150はIndex locatorだけを扱い、新規Fact / Timeline / Entity stub / Relationshipは作成していない。Hamnett Factは3,019件（現存最大3484、過去割当最大3503、3503はretired、次予定3504）、Timelineは928件（最大1272）。retired / held / unused IDは再利用しない。repository上でさらに古い未収録spreadとしてscreenshot 4 / pp.2–3とscreenshot 76 / pp.146–147が残る。Tixtlaのp.300継続可能性も未確認のまま維持する。
 
 27枚目から38枚目では、Chapter 2 notes末尾からChapter 4冒頭までを整理し、欠番Fact/Timelineの復元、Chapter 3の自由主義・Ayutla・Lerdo Law・注23-27、Chapter 4冒頭の1857年憲法公布、法の優位、Intervention期の合法性、中央集権・行政権優位・地方自治を処理した。
 
@@ -62,6 +62,8 @@ Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文�
 - 関連テーマ: Juárez and political power, Mexican Liberalism, Mexican nationalism, Provincial politics, Republican resistance, European Intervention, Historiography of Juárez, cult of Juárez, political pragmatism, anti-colonial reading of 1867, comparative nineteenth-century Mexico, Church-state relations, landownership, political economy, geo-politics of Mexico, demography, indigenous civilizations, ethnic diversity
 
 ## Latest Hamnett Processing Note
+
+2026-07-25に [[CAP_HAMNETT_JUAREZ_0150|CAP_HAMNETT_JUAREZ_0150]] / INDEX / pp.294–295を、主worktreeの未commit変更からCAP0150由来hunkだけを分離して最新main上に再構成した。M前半–N後半を扱い、Lucas, Juan Franciscoがp.293で完結すること、Maximilianのp.294列またぎ、`Junta for the Protection of the Impoverished Classes`の語句接続、MexicoとMexico Cityの独立見出し、Nuevo Leónがp.295で完結してp.296へ続かないことを記録した。既存Fact1796 / 2592と選別した既存Entity / Event / Theme / Placeへlocator-only注記を追加したが、歴史的主張本文は変更していない。新規Fact / Timeline / Entity stub / Relationshipは0。Fact3503はretired・再利用禁止、次予定Fact IDは3504のまま。主worktreeの他のtracked変更、未追跡maintenance / link-resolution report、生成物は含めていない。
 
 2026-07-25に旧PR #30のCAP0140部分だけを最新main上で再構成し、[[CAP_HAMNETT_JUAREZ_0140|CAP_HAMNETT_JUAREZ_0140]] / DRAMATIS PERSONAE / pp.274–275を補完した。旧PRに混在したCAP0120補足commit、旧Progress / Readiness状態、誤作成済みだったFact3503は含めていない。p.273のMiguel Lerdo項目完結とp.274のSebastián Lerdo新項目、p.275末尾のIgnacio Mejíaから[[CAP_HAMNETT_JUAREZ_0141|CAP0141]] p.276への継続を接続した。新規Factは同じCAP0140用途へ以前割り当てられ、現mainで未使用だった3412、3413、3414、3416、3419、3422、3426、3427、3429の9件。歴史Fact、著者解釈、異説、伝聞を区分し、すべてverification-neededとした。新規Timeline / Entity stub / Relationshipは0。Fact3503はretired・再利用禁止、次予定Fact IDは3504のまま。人物欄・略歴全文、本文全文、長文引用、全文翻訳、全文OCR、スクリーンショット全文転記は保存していない。
 

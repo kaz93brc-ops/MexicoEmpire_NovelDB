@@ -114,3 +114,8 @@ Hamnett connects Tomás Mejía's Conservative career to Otomí origin, Sierra Go
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3437]], [[FACT_HAMNETT_JUAREZ_3438]], [[FACT_HAMNETT_JUAREZ_3440]], [[FACT_HAMNETT_JUAREZ_2330]]
 - Related Place / Event: [[Sierra_Gorda|Sierra Gorda]], [[Execution_Of_Maximilian_Miramon_And_Mejia]]
 - Cautions: Plan date reads 2 December 1855 in the screenshot, not 27 December; religious motive remains interpretation-sensitive.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Mejía, Gen. Tomás` is an independent heading and remains separate from Ignacio Mejía.
+- Caution: the Index adds no rank verification, affiliation, motive, or event-role claim.

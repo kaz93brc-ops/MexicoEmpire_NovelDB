@@ -3,7 +3,7 @@ id: "CAP_HAMNETT_JUAREZ_0149"
 type: "capture"
 status: "processed"
 created: "2026-07-19"
-updated: "2026-07-19"
+updated: "2026-07-25"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
 author: "Brian R. Hamnett"
@@ -26,7 +26,7 @@ content_type: "index_reference / locator_reference"
 index_heading_range: "H後半–L後半"
 previous_page_continuation_resolved: "probable - Hernández, Fidencio does not continue visibly on p.292 and likely completed on p.291; verify against CAP_HAMNETT_JUAREZ_0148 and its image"
 within_spread_continuation: "Juárez, Benito continues from p.292 column 2 to p.293 column 1, where and Félix Díaz remains its subentry; Lerdo de Tejada, Sebastián continues across the p.293 column break, where in Restored Republic and trial of Maximilian remain its subentries"
-next_page_continuation: "possible - Lucas, Juan Francisco has visible locators but may have an additional locator or subentry on p.294"
+next_page_continuation: "resolved by CAP_HAMNETT_JUAREZ_0150 - Lucas, Juan Francisco is complete on p.293; p.294 begins Madero, Francisco I."
 copyright_note: "No full text, long quotation, full translation, full OCR, screenshot transcription, exhaustive index-entry transcription, or exhaustive locator transcription saved."
 related_fact_cards: []
 related_timeline_entries: []
@@ -58,7 +58,7 @@ relationship_cards_created: []
 - [[CAP_HAMNETT_JUAREZ_0148]] ended with Hernández, Fidencio. No continuation is visible on p.292, which begins with the independent Hernández, José Santiago entry; the two people remain separate, and p.291 completion is probable rather than confirmed.
 - The long Juárez, Benito hierarchy crosses from p.292 column 2 to p.293 column 1. The opening `and Félix Díaz` belongs to that hierarchy; `juchitecos` begins the next independent entry.
 - Lerdo de Tejada, Sebastián crosses the p.293 column break. `in Restored Republic` and `trial of Maximilian` at the second-column opening remain its subentries.
-- Lucas, Juan Francisco is the final visible entry. Although locators are visible, p.294 must be checked for any additional locator or subentry.
+- Lucas, Juan Francisco is the final visible entry. [[CAP_HAMNETT_JUAREZ_0150]] confirms that p.294 begins Madero, Francisco I.; Lucas is complete on p.293.
 
 ## Selected Existing Locator Connections
 
@@ -124,9 +124,9 @@ relationship_cards_created: []
 - Resolve La Bandera Roja's Morelia/Jalisco conflict and identify the Mexico City publication La Cruz without using the existing Place card.
 - Verify Ixtaltepec, Ixtepeji, and Ixtlán as distinct existing Places; keep the La Victoria Place/Publication conflict open.
 - Classify London Bonds (1824); preserve `supposed` in `supposed coup d’état`.
-- Reconfirm the Juárez p.292→p.293 continuation and the Sebastián Lerdo column continuation; check p.294 for continuation of Lucas, Juan Francisco.
+- Reconfirm the Juárez p.292→p.293 continuation and the Sebastián Lerdo column continuation. Lucas, Juan Francisco is resolved by [[CAP_HAMNETT_JUAREZ_0150]] and does not continue to p.294.
 - Recheck Juárez Law / Ley Juárez and Lerdo Law / Ley Lerdo aliases for duplicate Entity creation; audit existing Person / Place / Event / Organization / Theme / Fact / Timeline overlaps.
-- Readiness still requires screenshot 140 / pp.274–275. The user-directed screenshot 149 / pp.292–293 was processed first, and the local pp.146–147 gap remains.
+- CAP0140 / pp.274–275 is now repository-tracked. Repository enumeration still shows older gaps at screenshot 4 / pp.2–3 and screenshot 76 / pp.146–147.
 
 ## Short Original Phrases
 

@@ -167,3 +167,8 @@ The entry combines Hamnett's military-skill/political-miscalculation portrait wi
 - New Fact Cards: [[FACT_HAMNETT_JUAREZ_3441]], [[FACT_HAMNETT_JUAREZ_3442]], [[FACT_HAMNETT_JUAREZ_3443]]
 - Reused Fact Cards: [[FACT_HAMNETT_JUAREZ_2011]], [[FACT_HAMNETT_JUAREZ_2069]], [[FACT_HAMNETT_JUAREZ_2218]], [[FACT_HAMNETT_JUAREZ_2223]], [[FACT_HAMNETT_JUAREZ_2330]]
 - Cautions: do not simplify Miramón into a direct French-plan architect or an uncomplicated ally of Bazaine and Maximilian.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `capture, trial and execution` is a subentry beneath `Miramón, Gen. Miguel`.
+- Caution: the Index adds no event sequence, legal finding, responsibility, or evaluation.

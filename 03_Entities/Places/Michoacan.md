@@ -59,3 +59,8 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - Which linked claims are strong enough for scene design?
 - Which source passages still need page-level verification?
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Michoacán, State of` supplies a regional locator route.
+- Caution: the Index adds no unified policy, network, or causal claim.

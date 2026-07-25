@@ -62,3 +62,8 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_2917]], [[FACT_HAMNETT_JUAREZ_2918]], [[FACT_HAMNETT_JUAREZ_2919]]
 - Timeline: [[TIME_HAMNETT_JUAREZ_1081]]
 - Hamnett links Juárez's resistance to Maximilian with national sovereignty, the Hidalgo–Morelos–Guerrero independence tradition, and the search for national identity in 1846–67.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Mexican nationalism` is an independent Theme locator.
+- Caution: the Index adds no definition, proponents, continuity, use, or evaluation.

@@ -50,3 +50,8 @@ Chapter 9 note 17 links the Junta Protectora de las Clases Menesterosas to BJDOC
 - Related Organization: [[Gran_Circulo_De_Obreros_De_Mexico|Gran Círculo de Obreros de México]]
 - Related Themes: [[Agrarian_Question|agrarian question]], [[Popular_Politics_And_Elite_Liberalism|popular politics and elite Liberalism]]
 - Cautions: Treat this as a note/source-map connection; do not merge the Junta with later worker organizations.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; the phrase crosses the p.294 column break under Maximilian, and `Classes` completes the Junta name rather than beginning an independent heading.
+- Caution: the official name, classification, functions, membership, and operation require main-text confirmation.

@@ -70,3 +70,8 @@ Chapter 7 notes 5, 6, and 8 point back to BJDOCS, APBJPS, Tamayo, and U.S. Senat
 - Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0618]]
 - Note: The Chronology places the treaty inside the Reform War sequence after U.S. recognition and Reform Laws.
 - Cautions: Signature, U.S. Senate rejection, Mexican non-ratification, and Juárez's later response must remain separate questions.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `McLane–Ocampo Treaty` is an independent diplomatic route.
+- Caution: the Index adds no terms, ratification, responsibility, or evaluation.

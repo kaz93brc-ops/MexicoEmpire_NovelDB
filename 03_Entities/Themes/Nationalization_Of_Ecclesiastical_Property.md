@@ -68,3 +68,8 @@ Hamnett p.167 records Ocampo's warning that nationalization and disamortization 
 - Related People: [[Melchor_Ocampo]], [[Benito_Juarez]]
 - Related Themes: [[Disentailment_Disamortization]], [[Church_Property]], [[War_Finance]], [[Public_Debt]]
 - Cautions: Do not reduce nationalization to anti-religious ideology; this page emphasizes fiscal expectation and fiscal limits.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `nationalization of ecclesiastical properties` is an independent policy / Theme locator.
+- Caution: the Index adds no scope, implementation, response, fiscal-effect, or evaluation claim.

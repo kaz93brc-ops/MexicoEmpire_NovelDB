@@ -108,3 +108,8 @@ Hamnett p.234 says Margarita's health declined after exile, gives her death on 1
 - Related Places: [[Guelatao]], [[Durango]]
 - Related Themes: [[Juarez_Family|Juárez family]], [[Juarez_Private_Life|Juárez private life]], [[Church_State_Relations_Mexico|Church-state relations in Mexico]]
 - Cautions: Confirm note 20 before treating age, date, illness details, and condolence documents as independently verified.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Maza de Juárez, Margarita` routes to this existing Person stem.
+- Caution: the Index adds no biography, family-role interpretation, or political-activity claim.

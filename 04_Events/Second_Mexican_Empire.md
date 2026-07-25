@@ -115,3 +115,8 @@ Hamnett pp.174-175 resolves the Orozco y Berra continuation, then shows the Empi
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Second Mexican` appears as a subentry in the Empire cluster.
 - Caution: no meaning is assigned to the adjacent `Second French` label from the Index alone.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Second Empire` is a subentry beneath Maximilian.
+- Caution: the Index adds no institutional scope, chronology, or semantic relation to adjacent entries.

@@ -57,3 +57,8 @@ Mexico City中心性を強調しすぎると地方政治の自律性を見落と
 
 - Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
 - Caution: Map 3 does not establish 1867 control periods or campaign routes.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Mexico City` begins independently on p.295 and routes French entry, a 1867 junta, Maximilian and Carlota's arrival, siege, and strike.
+- Caution: the Index establishes neither actors, scale, causes, chronology, nor results, and this heading is not a continuation of `Mexico`.

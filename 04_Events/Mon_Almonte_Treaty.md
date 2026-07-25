@@ -36,3 +36,8 @@ Use as an entry point for the overlap of the Reform War, conservative diplomacy,
 - Organizations: [[Conservative_Party|Conservative Party]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_3334]]
 - Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Mon-Almonte Treaty` is an independent diplomatic route.
+- Caution: the Index adds no parties, terms, date, implementation, or evaluation.

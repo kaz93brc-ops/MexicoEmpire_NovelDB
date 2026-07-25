@@ -33,3 +33,8 @@ OaxacaをZapotec中心だけでなくMixtec文化圏を含む複合地域とし�
 - Themes: [[Mixtec_Culture]], [[Ancient_Oaxaca]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0202]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0086]], [[TIME_HAMNETT_JUAREZ_0087]]
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Alta` and `Baja` are distinct subentries routed to [[Mixteca_Alta|Mixteca Alta]] and [[Mixteca_Baja|Mixteca Baja]].
+- Caution: the Index adds no boundary, administrative, demographic, or political-unity claim.

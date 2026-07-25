@@ -36,3 +36,8 @@ coordinates: ""
 ## Source Notes
 
 -
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Mexico` is an independent p.294 heading with archbishopric, monarchy, and population subentry routes, separate from `Mexico City`.
+- Caution: the Index adds no institutional, political, or demographic claim.

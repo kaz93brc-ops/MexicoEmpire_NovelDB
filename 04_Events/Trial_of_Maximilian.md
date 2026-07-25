@@ -107,3 +107,8 @@ Hamnett pp.192-193 continues the defence's constitutional challenge, records the
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0149]]; `trial of Maximilian` continues under the cross-column Sebastián Lerdo de Tejada entry.
 - Caution: this route does not establish Lerdo's specific role, words, advice, judgment, or responsibility at the trial.
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; the Maximilian hierarchy routes the combined `capture, trial and execution` label to this existing Event research path.
+- Caution: the Index adds no legal detail, chronology, testimony, judgment, or responsibility claim.

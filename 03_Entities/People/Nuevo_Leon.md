@@ -72,3 +72,8 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - Which linked claims are strong enough for scene design?
 - Which source passages still need page-level verification?
+
+## Hamnett 1994 Index pp.294–295 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0150]]; `Nuevo León, State of` is the final visible p.295 heading with locator routes.
+- Caution: this pre-existing card is typed as a Person although the Index label is a Place / state; this PR records the category debt without reclassification. [[CAP_HAMNETT_JUAREZ_0151]] confirms the entry does not continue on p.296.
