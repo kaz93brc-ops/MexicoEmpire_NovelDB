@@ -253,3 +253,10 @@ Hamnett pp.234-235 treats Lerdo as Juárez's constitutional successor after the 
 
 - Capture: [[CAP_HAMNETT_JUAREZ_0149]]; the Sebastián Lerdo entry crosses the p.293 column break, and the second-column opening routes remain `in Restored Republic` and `trial of Maximilian` subentries.
 - Caution: do not split the continuation into independent headings or infer Lerdo's specific conduct at Maximilian's trial.
+
+## Hamnett 1994 p.274 Dramatis Personae Notes
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3412]], [[FACT_HAMNETT_JUAREZ_3413]].
+- Existing locator targets: [[FACT_HAMNETT_JUAREZ_1572]], [[FACT_HAMNETT_JUAREZ_1910]], [[TIME_HAMNETT_JUAREZ_1075]].
+- Cautions: verify ministerial terms, presidency dates, exile timing, and New York death; keep Sebastián distinct from [[Miguel_Lerdo_De_Tejada|Miguel Lerdo de Tejada]].

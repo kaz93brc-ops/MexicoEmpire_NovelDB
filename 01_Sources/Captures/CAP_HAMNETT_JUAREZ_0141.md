@@ -22,7 +22,7 @@ screenshot_file: "スクリーンショット 2026-06-13 17.31.38.jpeg"
 printed_page_status: "verified_from_screenshot"
 reading_accuracy: "high"
 content_type: "dramatis_personae / person_reference"
-previous_page_continuation_resolved: "partial - the Ignacio Mejía entry from p.275 completes at the top of p.276, but planned CAP_HAMNETT_JUAREZ_0140 is not yet present in the repository"
+previous_page_continuation_resolved: "yes - CAP_HAMNETT_JUAREZ_0140 records the unfinished Ignacio Mejía opening on p.275, and this capture records its continuation at the top of p.276"
 next_page_continuation: "yes - the Payno entry appears complete on p.277, but screenshot 142 must confirm whether it continues"
 copyright_note: "No full text, long quotation, full translation, full OCR, screenshot transcription, full Dramatis Personae entry, person-list transcription, or biographical transcription saved."
 related_fact_cards: ["FACT_HAMNETT_JUAREZ_3435", "FACT_HAMNETT_JUAREZ_3437", "FACT_HAMNETT_JUAREZ_3438", "FACT_HAMNETT_JUAREZ_3440", "FACT_HAMNETT_JUAREZ_3441", "FACT_HAMNETT_JUAREZ_3442", "FACT_HAMNETT_JUAREZ_3443", "FACT_HAMNETT_JUAREZ_3447", "FACT_HAMNETT_JUAREZ_3448", "FACT_HAMNETT_JUAREZ_3449", "FACT_HAMNETT_JUAREZ_3450", "FACT_HAMNETT_JUAREZ_3451"]
@@ -57,7 +57,7 @@ relationship_cards_created: []
 
 ## Continuity
 
-- p.275末尾から続くIgnacio Mejía項目はp.276冒頭で完結し、War Ministry終期は1876年8月30日と読める。予定Capture `CAP_HAMNETT_JUAREZ_0140` はrepoに未存在のため、開始日を含む全接続は[[FACT_HAMNETT_JUAREZ_3435|3435]]で要確認にした。
+- [[CAP_HAMNETT_JUAREZ_0140|CAP0140]]のp.275末尾から続くIgnacio Mejía項目はp.276冒頭で完結し、War Ministry終期は1876年8月30日と読める。開始部と終端を[[FACT_HAMNETT_JUAREZ_3435|3435]]で接続したが、同一書内の任期差は要確認のまま維持する。
 - Ignacio Mejíaと[[Tomas_Mejia|Tomás Mejía]]は別人として扱い、前者をJuárez・Lerdo期の軍政実務、後者をSierra Gorda基盤の保守派軍人として分離した。
 - p.276末尾の[[Miguel_Miramon|Miguel Miramón]]項目はp.277冒頭へ続き、三人の処刑への言及で完結する。
 - p.277末尾の[[Manuel_Payno|Manuel Payno]]項目は画像内で文としてほぼ完結するが、次画像冒頭で継続有無を確認する。
@@ -125,7 +125,7 @@ Ignacio Mejía項目の末尾はWar Ministry任期差、Díaz権力掌握後の�
 
 ## Open Questions
 
-- Readinessはscreenshot 140 / pp.274-275を示すが、ユーザー指定により141を先行処理した。予定`CAP_HAMNETT_JUAREZ_0140`は未存在で、p.275側のIgnacio Mejía開始部分を後続作業で接続する。
+- 141取込時はReadinessのscreenshot 140 / pp.274-275を飛ばしていたが、[[CAP_HAMNETT_JUAREZ_0140|CAP0140]]が後から補完され、p.275側のIgnacio Mejía開始部分を接続済み。官職・任期の原典確認は引き続き必要。
 - Ignacio Mejía War Ministry任期の`30 November 1865 – 30 August 1876`と既存p.205の`1867–1874`を官報・一次資料で照合する。
 - Ignacio Mejíaの亡命期間、1884年帰国可否、Oaxacaでのproperty-owner / businessman活動を確認する。画像は「not permitted」を明示していないため、その強い表現は採用しなかった。
 - Tomás MejíaのPlan of Sierra Gorda日付は依頼文の27 December 1855ではなく画像上は2 December 1855と読める。Plan本文、Eleuterio Quiroz綴り、宗教的動機、Catholic Mexico観を確認する。

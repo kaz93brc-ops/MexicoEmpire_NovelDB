@@ -18,7 +18,7 @@ tags:
 - evidence_category: 0
 - confidence: 0
 - source_id_review: 0
-- printed_page_confirmed: 3010
+- printed_page_confirmed: 3019
 - kindle_page_locator_available: 2034
 - page_locator_available: 6
 - kindle_locator_available: 0
@@ -148,7 +148,7 @@ tags:
 - [[FACT_HAMNETT_JUAREZ_0134|Mexican LiberalsはChurchの社会的役割縮小に国家権力を用いようとした]]
 - [[FACT_HAMNETT_JUAREZ_0135|Church subordinationとsecularizationはReforma期に頂点へ達した]]
 - [[FACT_HAMNETT_JUAREZ_0136|Latin American Liberalismはcolonial pastとancien régimeからの脱却を目指した]]
-- ...and 2891 more
+- ...and 2900 more
 
 ## kindle_page_locator_available
 

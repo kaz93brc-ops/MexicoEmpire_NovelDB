@@ -173,3 +173,10 @@ Hamnett pp.220-221 presents the Restored Republic not as a settled victory order
 - Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Restored Republic` remains distinct from Reforma, the Reform War, and the Reform Laws.
 - Main-text route: consult the selected page-number locators printed under this heading, then verify the cited body pages.
 - Caution: The Index adds no chronology, institutional definition, actors, or causal relationship.
+
+## Hamnett 1994 p.274 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3412]], [[FACT_HAMNETT_JUAREZ_3413]].
+- Note: Sebastián Lerdo's succession, presidency, and later exile provide a person-reference route into the Restored Republic.
+- Caution: verify exact presidency and exile dates; this locator does not alter the existing category of this card.

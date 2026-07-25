@@ -82,3 +82,9 @@ related_timeline_entries: ["TIME_HAMNETT_JUAREZ_0805"]
 - [[CAP_HAMNETT_JUAREZ_0145]] places Querétaro north-west of Mexico City and supplies national geographic context for the execution.
 - Caution: the map does not verify the execution-site detail, siege lines, or political causation.
 
+## Hamnett 1994 p.275 Dramatis Personae Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Additional locator: Maximilian entry, p.275, `/page/274/mode/2up`, Page 274 (289/323), スクリーンショット 2026-06-13 17.31.36.jpeg.
+- Caution: the entry names Maximilian with Miramón and Tomás Mejía; it must not be confused with the unfinished Ignacio Mejía entry on the same page.
+
