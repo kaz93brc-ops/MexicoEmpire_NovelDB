@@ -14,7 +14,11 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 3011
+- hamnett_fact_cards: 3010
+- highest_existing_hamnett_fact_id: FACT_HAMNETT_JUAREZ_3484
+- highest_allocated_hamnett_fact_id: FACT_HAMNETT_JUAREZ_3503
+- retired_hamnett_fact_ids: FACT_HAMNETT_JUAREZ_3503 (must not be reused)
+- next_planned_hamnett_fact_id: FACT_HAMNETT_JUAREZ_3504
 - hamnett_timeline_entries: 928
 - next_required_page: screenshot 140 / pp.274-275 remains required; CAP0150 / pp.294-295 is not currently in repository history and needs a separate branch or PR; after the missing / held pages, inspect screenshot 153 / p.300 for possible Tixtla continuation and T onward; preserve local pp.146-147 gap
 
@@ -130,7 +134,6 @@ tags:
 - THE COLLAPSE OF THE EMPIRE; THE EXECUTION OF MAXIMILIAN: 1
 - "THE CIVIL WAR IN GUERRERO" opening: 1
 - "THE CIVIL WAR IN GUERRERO" conclusion: 1
-- INDEX: 1
 
 ## Timeline By Section
 

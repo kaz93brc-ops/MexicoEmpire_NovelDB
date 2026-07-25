@@ -3,7 +3,7 @@ id: "CAP_HAMNETT_JUAREZ_0146"
 type: "capture"
 status: "processed"
 created: "2026-07-18"
-updated: "2026-07-18"
+updated: "2026-07-25"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
 author: "Brian R. Hamnett"
@@ -27,7 +27,7 @@ index_heading_range: "A–C opening range"
 previous_page_continuation_resolved: "yes - Map 3 and MAPS end at p.285; INDEX begins on p.286"
 next_page_continuation: "possible - the Catholic Church entry reaches the p.287 foot and must be checked on pp.288–289"
 copyright_note: "No full text, long quotation, full translation, full OCR, screenshot transcription, exhaustive index-entry transcription, or exhaustive locator transcription saved."
-related_fact_cards: ["FACT_HAMNETT_JUAREZ_3503"]
+related_fact_cards: []
 related_timeline_entries: []
 relationship_cards_created: []
 ---
@@ -47,9 +47,9 @@ relationship_cards_created: []
 ## ID Handling
 
 - Capture: planned `CAP_HAMNETT_JUAREZ_0146` -> used [[CAP_HAMNETT_JUAREZ_0146]].
-- Fact: planned `FACT_HAMNETT_JUAREZ_3503` -> used [[FACT_HAMNETT_JUAREZ_3503]].
+- Fact: no Fact Card retained. `FACT_HAMNETT_JUAREZ_3503` was allocated to an Index-only source-structure card, then removed and retired on 2026-07-25; it must never be reused.
 - Timeline: no planned ID and no new entry; Index references are locator candidates only.
-- ID changes: none.
+- ID changes: `FACT_HAMNETT_JUAREZ_3503` retired; next planned Fact ID remains `FACT_HAMNETT_JUAREZ_3504`.
 
 ## Summary
 
@@ -67,10 +67,10 @@ relationship_cards_created: []
 - Place disambiguation: [[Capulalpan]] is the Oaxaca place, while Calpulalpan in Tlaxcala is represented through [[Battle_Of_Calpulalpan_1860_12_22|Battle of Calpulalpan]]; they are not merged. Atenquique and Acámbaro remain unlinked place candidates from this spread.
 - The `n.21` form beside a locator is treated as a note-reference component within the Index, not as a footnote body or a second historical claim.
 
-## Fact Card Created
+## Fact Cards Created
 
-- [[FACT_HAMNETT_JUAREZ_3503]]: Hamnett's Index begins on printed p.286 and pp.286–287 cover A through early C / historical_fact / probable / verification_needed: yes.
-- Reason: one minimal structure-and-locator claim records the section transition; no person, event, evaluation, or causation claim was created from Index content.
+- None. The Index start on p.286 and the A–C opening range are bibliographic source structure retained in this Capture Note, not an independent historical claim.
+- `FACT_HAMNETT_JUAREZ_3503` was previously allocated to that Index-only structure, but the card was removed and the ID retired on 2026-07-25. Retired ID 3503 must not be reused; the next planned Fact ID remains 3504.
 
 ## Timeline Entries Created
 

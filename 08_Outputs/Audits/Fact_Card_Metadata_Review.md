@@ -3,6 +3,7 @@ id: FACT-CARD-METADATA-REVIEW
 type: report
 status: active
 created: 2026-07-18
+updated: 2026-07-25
 tags:
   - audit
   - fact-cards
@@ -17,7 +18,7 @@ tags:
 - evidence_category: 0
 - confidence: 0
 - source_id_review: 0
-- printed_page_confirmed: 3011
+- printed_page_confirmed: 3010
 - kindle_page_locator_available: 2034
 - page_locator_available: 6
 - kindle_locator_available: 0

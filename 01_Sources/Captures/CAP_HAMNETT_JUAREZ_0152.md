@@ -53,7 +53,7 @@ relationship_cards_created: []
 - Capture: planned `CAP_HAMNETT_JUAREZ_0152` -> used [[CAP_HAMNETT_JUAREZ_0152]].
 - Fact: planned start `FACT_HAMNETT_JUAREZ_3504` -> held unused; Index headings and locator structure do not establish an independent historical claim.
 - Timeline: no new ID; parenthetical years and dated Index headings require main-text verification before chronology is added.
-- Existing maxima checked before writing: Capture `0151`, Fact `3503`, Timeline `1272`.
+- ID state after audit correction: Capture `0151`; highest existing Fact `3484`; highest allocated Fact `3503`, now retired and non-reusable; next planned Fact `3504`; Timeline `1272`.
 - ID changes: none.
 
 ## Summary

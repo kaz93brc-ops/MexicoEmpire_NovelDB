@@ -51,7 +51,7 @@ relationship_cards_created: []
 - Capture: planned `CAP_HAMNETT_JUAREZ_0151` -> used [[CAP_HAMNETT_JUAREZ_0151]].
 - Fact: planned start `FACT_HAMNETT_JUAREZ_3504` -> held unused; Index structure, cross-references, and selected routes fit this Capture and existing-card locators.
 - Timeline: no new ID; parenthetical years and Index locators add no chronological evidence.
-- Existing maxima checked before writing: repository Capture `0149`, Fact `3503`, Timeline `1272`; CAP0150 / pp.294–295 was not repository-tracked and is not counted as durable progress.
+- ID state after audit correction: repository Capture `0149`; highest existing Fact `3484`; highest allocated Fact `3503`, now retired and non-reusable; next planned Fact `3504`; Timeline `1272`. CAP0150 / pp.294–295 was not repository-tracked and is not counted as durable progress.
 - ID changes: none.
 
 ## Summary
