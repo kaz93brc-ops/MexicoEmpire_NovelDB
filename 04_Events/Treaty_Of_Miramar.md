@@ -90,3 +90,10 @@ Hamnett p.173 records the Treaty of Miramar's French troop and Foreign Legion co
 - Related Organizations: [[French_Army]], [[Foreign_Legion]], [[French_Government]], [[Imperial_Government]]
 - Related Themes: [[Imperial_Finance]], [[French_Withdrawal]], [[French_Imperial_Policy]]
 - Cautions: Confirm troop numbers, Foreign Legion term, costs, debt figures, and Hamnett's escape-clause interpretation against note 10 and the treaty text.
+
+## Hamnett 1994 p.275 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Existing Fact / Timeline: [[FACT_HAMNETT_JUAREZ_2057]], [[TIME_HAMNETT_JUAREZ_0705]].
+- Note: the Maximilian entry repeats the treaty position in the imperial biography without adding a new Timeline entry.
+- Cross-check: compare the treaty date, location, military-financial burden, and political meaning with Shawcross.

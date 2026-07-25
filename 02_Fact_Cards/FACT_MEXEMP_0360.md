@@ -89,3 +89,9 @@ Márquezは1859年4月、Tacubayaで自由派軍を破って保守政府を救�
 - Related Questions:
 - Related Timeline Entries: [[TIME_MEXEMP_0071]]
 
+## Hamnett 1994 pp.274–275 Dramatis Personae Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Additional locator: Leonardo Márquez entry, pp.274–275, `/page/274/mode/2up`, Page 274 (289/323), スクリーンショット 2026-06-13 17.31.36.jpeg.
+- Caution: `Tiger of Tacubaya` remains a reported reputation marker; responsibility for executions and later killings is separately classified in [[FACT_HAMNETT_JUAREZ_3419]].
+

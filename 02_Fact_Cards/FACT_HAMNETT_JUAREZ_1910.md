@@ -68,3 +68,8 @@ During the wandering-cabinet period from January 1864 to December 1866, Sebasti�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0081]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0646]]
 
+## Hamnett 1994 p.274 Dramatis Personae Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Additional locator: Sebastián Lerdo de Tejada entry, p.274, `/page/274/mode/2up`, Page 274 (289/323), スクリーンショット 2026-06-13 17.31.36.jpeg.
+- Note: the entry connects Lerdo's mobile-government foreign-policy role to later succession; it adds no independent chronology.

@@ -3,7 +3,7 @@ id: "Index_Sources"
 type: "index_note"
 status: "active"
 created: "2026-07-19"
-updated: "2026-07-19"
+updated: "2026-07-25"
 tags:
   - "index"
   - "sources"
@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Source/Capture notes: 265
+- Source/Capture notes: 266
 
 ## Sources
 
@@ -154,6 +154,7 @@ tags:
 - [[CAP_HAMNETT_JUAREZ_0137]]
 - [[CAP_HAMNETT_JUAREZ_0138]]
 - [[CAP_HAMNETT_JUAREZ_0139]]
+- [[CAP_HAMNETT_JUAREZ_0140]]
 - [[CAP_HAMNETT_JUAREZ_0141]]
 - [[CAP_HAMNETT_JUAREZ_0142]]
 - [[CAP_HAMNETT_JUAREZ_0143]]

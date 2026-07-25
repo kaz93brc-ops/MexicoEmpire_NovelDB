@@ -59,6 +59,12 @@ Juárezが午後11時30分に狭心症で死去し、Lerdoへの継承通知が�
 - Archive page: /page/234/mode/2up; Page 234 (249/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.49.jpeg
 
+## Hamnett 1994 p.274 Dramatis Personae Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Additional locator: Sebastián Lerdo de Tejada entry, p.274, `/page/274/mode/2up`, Page 274 (289/323), スクリーンショット 2026-06-13 17.31.36.jpeg.
+- Note: the person reference connects Juárez's death to Lerdo's interim succession; exact presidency dates remain verification-needed.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

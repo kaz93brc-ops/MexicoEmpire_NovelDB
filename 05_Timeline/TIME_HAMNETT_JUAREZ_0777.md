@@ -55,6 +55,12 @@ Maximilian sent Márquez and Vidaurri toward Mexico City for reinforcements afte
 - Archive page: /page/186/mode/2up; Page 186 (201/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.01.jpeg
 
+## Hamnett 1994 p.275 Dramatis Personae Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Additional locator: Leonardo Márquez entry, p.275, `/page/274/mode/2up`, Page 274 (289/323), スクリーンショット 2026-06-13 17.31.36.jpeg.
+- Caution: the Dramatis Personae gives a compressed sequence; keep date precision from the narrative timeline.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

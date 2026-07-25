@@ -64,3 +64,10 @@ Hamnett p.128 lists Ignacio Mariscal among Oaxacan deputies who supported Juáre
 - Related Organizations: [[Mexican_Congress]]
 - Related Themes: [[Liberal_Factionalism]]
 - Cautions: Keep Mariscal's congressional support separate from his earlier Juárez Law and Hidalgo/Reform memory roles until source mapping is checked.
+
+## Hamnett 1994 p.274 Dramatis Personae Notes
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3414]], [[FACT_HAMNETT_JUAREZ_3416]].
+- Historical role: Hamnett links Mariscal's Oaxaca Liberal background, Juárez and Veracruz service, Washington legation work during the Intervention, and later foreign-affairs administration.
+- Cautions: verify Constituent Congress, Supreme Court, Washington, and ministry titles and terms; no Mexican Legation stub was created.

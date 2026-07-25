@@ -68,3 +68,8 @@ Maximilian政権は、Reform Laws撤回問題をめぐってCatholic hierarchy�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0090]]
 - Related Timeline Entries:
 
+## Hamnett 1994 p.275 Dramatis Personae Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Additional locator: Maximilian entry, p.275, `/page/274/mode/2up`, Page 274 (289/323), スクリーンショット 2026-06-13 17.31.36.jpeg.
+- Note: the entry frames Catholic establishment support, Reform Laws continuity, and attempted imperial control of the Church as a tension.

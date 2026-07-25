@@ -55,6 +55,12 @@ The Treaty of Miramar set French military commitments and placed intervention co
 - Archive page: /page/172/mode/2up; Page 172 (187/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.29.46.jpeg
 
+## Hamnett 1994 p.275 Dramatis Personae Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0140]].
+- Additional locator: p.275, `/page/274/mode/2up`, Page 274 (289/323), スクリーンショット 2026-06-13 17.31.36.jpeg.
+- Cross-check: compare Treaty of Miramar date and political meaning with Shawcross.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
