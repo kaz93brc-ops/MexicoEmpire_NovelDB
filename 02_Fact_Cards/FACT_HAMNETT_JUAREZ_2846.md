@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2846"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "北部反乱の終結点として扱うが、降伏・入城・�
 creative_use: "La Noria反乱の北部軍事終結を示す場面に使える。"
 cautions: "Verify the sequence of entry, defeat, surrender, and rebellion termination through note 16."
 related_capture: "CAP_HAMNETT_JUAREZ_0118"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Sostenes_Rocha", "Jeronimo_Trevino"]
 events: ["La_Noria_Rebellion"]
 places: ["Monterrey"]

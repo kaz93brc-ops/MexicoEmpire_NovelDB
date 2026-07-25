@@ -3,7 +3,7 @@ id: "PERSON_VALENTIN_GOMEZ_FARIAS"
 type: "person"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-07-02"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -92,3 +92,26 @@ Hamnett p.119 introduces Benito Gómez Farías in Degollado's network; this crea
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_1367]]
 - Related People: [[Benito_Gomez_Farias]], [[Santos_Degollado]], [[Melchor_Ocampo]]
 - Cautions: Confirm Benito Gómez Farías's identity and relationship to Valentín Gómez Farías before treating the connection as genealogical fact.
+
+## Hamnett 1994 p.271 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0138]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3385]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0069]], [[TIME_HAMNETT_JUAREZ_0070]]
+- Related Events: [[Gomez_Farias_Liberal_Experiment|Gómez Farías Liberal experiment]], [[Gomez_Farias_Reforms|Gómez Farías reforms]]
+- Related Theme: [[Liberal_Anticlericalism|Liberal anticlericalism]]
+- Cautions: This p.271 locator preserves the former incomplete state; [[CAP_HAMNETT_JUAREZ_0139]] resolves the continuation on p.272.
+
+## Hamnett 1994 p.272 Dramatis Personae Continuation
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0139]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3390]], [[FACT_HAMNETT_JUAREZ_3391]]
+- Related People: [[Jose_Maria_Luis_Mora|José María Luis Mora]]
+- Related Events: [[Treaty_Of_Guadalupe_Hidalgo]], [[Constituent_Congress_Of_1856_1857]]
+- Note: p.271からの項目はp.272上部で完結し、初期自由主義・亡命後の政治活動・Reforma前史へ接続する。
+- Cautions: 政治分類、帰国年、条約反対、制憲議会参加を別史料で確認する。
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the Valentín Gómez Farías entry provides selected main-text routes.
+- Caution: keep this person distinct from [[Benito_Gomez_Farias|Benito Gómez Farías]] and verify each route in narrative evidence.

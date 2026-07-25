@@ -3,7 +3,7 @@ id: PLC-CERRO_DE_LAS_CAMPANAS
 type: place
 status: draft
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-07-19
 tags:
   - place
 source_id: ""
@@ -14,6 +14,7 @@ screenshot_file: ""
 canonical_name: "Cerro de las Campanas"
 aliases:
   - "Cerro de las Campanas"
+  - "Hill of the Bells"
 modern_country: "Mexico"
 coordinates: ""
 ---
@@ -45,3 +46,8 @@ Hamnett p.187 places the 15 May 1867 capture and formal surrender of Maximilian,
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2253|FACT_HAMNETT_JUAREZ_2253]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0779|TIME_HAMNETT_JUAREZ_0779]]
 - Cautions: Confirm precise location and sequence of capture versus formal surrender.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the Index prints `Hill of the Bells` with `Cerro de las Campanas` and links the place through the Escobedo entry.
+- Caution: the alternate label is recorded without inferring event sequence or Escobedo's exact action at the site.

@@ -3,7 +3,7 @@ id: PER-BAZAINE
 type: person
 status: draft
 created: 2026-06-14
-updated: 2026-07-05
+updated: 2026-07-15
 tags:
   - person
   - bazaine
@@ -165,3 +165,20 @@ Hamnett p.186 presents Bazaine as doubting the military situation, distancing hi
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2220|FACT_HAMNETT_JUAREZ_2220]], [[FACT_HAMNETT_JUAREZ_2221|FACT_HAMNETT_JUAREZ_2221]], [[FACT_HAMNETT_JUAREZ_2222|FACT_HAMNETT_JUAREZ_2222]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0758|TIME_HAMNETT_JUAREZ_0758]], [[TIME_HAMNETT_JUAREZ_0766|TIME_HAMNETT_JUAREZ_0766]]
 - Cautions: Treat Bazaine's distancing as Hamnett's causal interpretation until correspondence is checked.
+
+## Hamnett 1994 pp.268-269 Dramatis Personae Notes
+
+Hamnett summarizes Bazaine's command of the French Expeditionary Force in Mexico in 1863–1867 and presents his distrust of Miramón, Mexican Conservatives, and the Catholic hierarchy as an internal tension within the imperial coalition.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- New Fact Card: [[FACT_HAMNETT_JUAREZ_3358]]
+- Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_2017]], [[FACT_HAMNETT_JUAREZ_2105]], [[FACT_HAMNETT_JUAREZ_2166]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0689]]
+- Related People: [[Maximilian]], [[Miguel_Miramon|Miguel Miramón]]
+- Related Organizations: [[French_Expeditionary_Force|French Expeditionary Force]], [[Mexican_Conservatives|Mexican conservatives]], [[Catholic_Hierarchy|Catholic hierarchy]]
+- Open Questions: Confirm command dates and the documentary basis, timing, and targets of the distrust assessment.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Bazaine entry supplies a broad locator cluster for the French Intervention, Second Empire, and withdrawal/endgame pages.
+- Caution: the Index cluster does not itself establish Bazaine's actions, motives, or relations with Maximilian and the Church.

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0772"
 type: "fact_card"
 status: "draft"
 created: "2026-06-24"
-updated: "2026-06-24"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter3;lerdo-law"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "corporate propertyの法的範囲は要確認。"
 creative_use: "所有形態の転換として改革を描ける。"
 cautions: "教会財産だけに限定しない。"
 related_capture: "CAP_HAMNETT_JUAREZ_0035"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0134"]
+additional_locators: ["Glossary, pp.262–263, /page/262/mode/2up, Page 262 (277/323), スクリーンショット 2026-06-13 17.31.18.jpeg"]
 people:
   - "Miguel_Lerdo_De_Tejada"
 events:

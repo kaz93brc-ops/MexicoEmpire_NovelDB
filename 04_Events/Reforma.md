@@ -53,3 +53,8 @@ Hamnettの今回箇所では、Reformaは1855-76として扱われ、Church subo
 ## Cautions
 
 Reforma (1855-76) はHamnettの広い時期区分として記録する。一般的なLa Reforma、Reform War、Restored Republicの区分とはVault内で表記統一が必要。
+
+## Hamnett 1994 Index pp.288–289 Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; `Civil War of the Reform, see Reform Movement` is retained as navigation to this broader Reform Movement record.
+- Caution: keep [[Reform_War|Reform War]] as a distinct civil-war Event; the Index cross-reference does not erase differences in periodization or terminology.

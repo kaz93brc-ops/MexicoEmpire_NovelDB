@@ -54,7 +54,7 @@ Entry note for Fall of Puebla. Verify chronology and actors in linked Fact Cards
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_2247|Diaz takes Puebla and forts]], [[FACT_HAMNETT_JUAREZ_2248|Diaz aims to invest Mexico City]], [[FACT_MEXEMP_0518|Ortegaは1863年5月17日にPueblaで降伏した]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_2247|Diaz takes Puebla and forts]], [[FACT_HAMNETT_JUAREZ_2248|Diaz aims to invest Mexico City]], [[FACT_HAMNETT_JUAREZ_3246|Diaz enters Mexico City after the Puebla campaign]], [[FACT_MEXEMP_0518|Ortegaは1863年5月17日にPueblaで降伏した]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0778|Diaz takes Puebla and forts]], [[TIME_MEXEMP_0088|1863年5月17日、Jesús González OrtegaがPueblaで降伏した]]
 - Source Notes:
 - Scenes:

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0116"
 type: "fact_card"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-06-20"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;spanish-cortes"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "成文憲法を政治秩序の中心に置く前史。"
 creative_use: "憲法そのものが政治的武器になる場面の前史として使える。"
 cautions: "Cortesの制度史は別資料で確認する。"
 related_capture: "CAP_HAMNETT_JUAREZ_0008"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0134"]
+additional_locators: ["Glossary, pp.262–263, /page/262/mode/2up, Page 262 (277/323), スクリーンショット 2026-06-13 17.31.18.jpeg"]
 people: []
 events: 
   - "Spanish Cortes 1810 1814"

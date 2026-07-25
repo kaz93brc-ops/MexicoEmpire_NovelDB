@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1481"
 type: "fact_card"
 status: "draft"
 created: "2026-07-02"
-updated: "2026-07-02"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chapter6;cabinet"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -78,3 +78,18 @@ Juárez's 1861 cabinet included Zarco at Internal and External Affairs, Ignacio 
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0066]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0509]]
 
+## Hamnett 1994 p.278 Dramatis Personae Locator
+
+The Prieto and Ramírez entries repeat their 1861 cabinet service while supplying additional career context.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
+- Locator: p.278 / `/page/278/mode/2up` / `スクリーンショット 2026-06-13 17.31.40.jpeg`.
+- Cautions: Exact portfolio names and the short Ramírez terms remain verification-needed; no duplicate ministry Fact was created.
+
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+The Zarco entry supplies exact 1861 portfolio periods: Foreign Relations from 20 January to 11 May and the Interior from 6 April to 10 May.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0143]]
+- Locator: p.280 / `/page/280/mode/2up` / `スクリーンショット 2026-06-13 17.31.41.jpeg`.
+- Cautions: Confirm formal portfolio names, overlap, appointment records, and whether the end dates are inclusive; no duplicate ministry Fact was created.

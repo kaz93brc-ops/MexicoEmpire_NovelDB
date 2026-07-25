@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1937"
 type: "fact_card"
 status: "draft"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter7"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "Napoleon IIIの撤兵命令を、北米・欧州双方の立場�
 creative_use: "Use as the strategic turn that leaves Maximilian exposed."
 cautions: "Verify the order text, timetable, and European context."
 related_capture: "CAP_HAMNETT_JUAREZ_0082"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.258, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Napoleon_III", "Maximilian"]
 events: ["Napoleon_IIIs_Phased_Withdrawal_Order_1866", "French_Withdrawal", "French_Intervention_in_Mexico"]
 places: ["Mexico"]

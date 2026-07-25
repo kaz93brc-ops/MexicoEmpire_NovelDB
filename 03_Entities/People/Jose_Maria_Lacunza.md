@@ -3,7 +3,7 @@ id: PER-JOSE_MARIA_LACUNZA
 type: person
 status: draft
 created: 2026-07-05
-updated: 2026-07-05
+updated: 2026-07-16
 tags:
   - person
 source_id: "SRC_HAMNETT_1994_JUAREZ"
@@ -43,3 +43,11 @@ Use as a figure for Maximilian's attempt to preserve legal form during imperial 
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_2239|FACT_HAMNETT_JUAREZ_2239]], [[FACT_HAMNETT_JUAREZ_2240|FACT_HAMNETT_JUAREZ_2240]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0773|TIME_HAMNETT_JUAREZ_0773]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0096|CAP_HAMNETT_JUAREZ_0096]]
+
+## Hamnett 1994 p.273 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0139]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3402]], [[FACT_HAMNETT_JUAREZ_3403]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0773]]
+- Note: 文人・法律家・外務財務閣僚・Council of Ministersという帝政内の制度的人物像と、1867年以後のCuba亡命を接続する。
+- Cautions: 官職・在任期間・亡命事情は要確認し、心理や忠誠心を人物欄だけで断定しない。

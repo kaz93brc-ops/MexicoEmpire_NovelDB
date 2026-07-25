@@ -52,3 +52,10 @@ Hamnettの文脈では、regionalismは単純なseparatismではなく、地方�
 ## Cautions
 
 Regionalismをseparatismと同一視しない。地方の反中央性は、国政参加要求、州財政、地域エリート競争、中央政府再建の困難として読む。
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `regionalism` reuses this existing Theme route.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: The Index does not equate regionalism with separatism or establish a causal role.

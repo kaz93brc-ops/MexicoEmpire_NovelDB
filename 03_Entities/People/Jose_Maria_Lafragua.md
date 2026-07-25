@@ -3,7 +3,7 @@ id: "PERSON_JOSE_MARIA_LAFRAGUA"
 type: "person"
 status: "stub"
 created: "2026-06-24"
-updated: "2026-07-01"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -92,3 +92,11 @@ Hamnett p.234 connects Lafragua to the formal notice of Lerdo's presidential acc
 - Related Organizations: [[Ministry_Of_Foreign_Relations|Ministry of Foreign Relations]], [[Restored_Republic|Restored Republic]]
 - Related Themes: [[Presidential_Succession|presidential succession]], [[Constitutional_Legitimacy|constitutional legitimacy]]
 - Cautions: Maintain the identity check from the previous spread and verify Lafragua's office at this point.
+
+## Hamnett 1994 p.273 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0139]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3404]]
+- Related People: [[Ignacio_Comonfort]]
+- Note: 内務行政、Estatuto Orgánico Provisional、外交、国立図書館、法典編纂を穏健自由派の制度設計へ接続する。
+- Cautions: 政治分類、制度名、各官職・在任期、国立図書館との関係を確認する。

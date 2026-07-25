@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0158"
 type: "fact_card"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;bustamante"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -78,3 +78,11 @@ Hamnettは、Vice-President Anastasio Bustamanteが穏健派と保守派エリ�
 - Themes: [[Elite_Politics|Elite Politics]], [[Factionalism]], [[Centralism]]
 - Related Fact Cards: 
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0010]]
+
+## Hamnett 1994 p.269 Dramatis Personae Locator
+
+The Bustamante entry frames a royalist commander turned conservative politician whose career linked late-colonial military networks, Plan of Iguala politics, centralist government, and repeated exile. Existing Bustamante cards are reused instead of creating planned Fact3362–3363.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0136]]
+- Cautions: The p.269 entry appears complete, but screenshot 138 must confirm that it does not continue.

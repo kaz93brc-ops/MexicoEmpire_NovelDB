@@ -3,7 +3,7 @@ id: "EVENT_CONVOCATORIA_OF_1867_08_14"
 type: "event"
 status: "stub"
 created: "2026-07-06"
-updated: "2026-07-06"
+updated: "2026-07-15"
 tags:
   - "event"
   - "hamnett"
@@ -56,3 +56,15 @@ Hamnett p.206 says the 1867 convocatoria reaffirmed the 1864 electoral-law provi
 - Related Events: [[Electoral_Law_1864_08_04|Electoral law of 4 August 1864]]
 - Related People: [[Benito_Juarez|Benito Juárez]], [[Porfirio_Diaz|Porfirio Díaz]]
 - Cautions: Confirm both the clergy provision and plebiscitary procedure in the convocatoria text.
+
+## Hamnett 1994 p.259 Chronology Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0132]]
+- Existing Timeline Entry: [[TIME_HAMNETT_JUAREZ_0850]]
+- Related Interpretation: [[FACT_HAMNETT_JUAREZ_3248]]
+- Cautions: Confirm the formal title, five proposals, and legal basis in the original document.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; `convocatoria (1867)` provides an additional route to the existing Event.
+- Caution: the Index does not establish the document's date, provisions, procedure, or controversy.

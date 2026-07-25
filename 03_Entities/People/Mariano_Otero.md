@@ -45,3 +45,8 @@ Hamnett p.74 mentions Otero as arguing in the 1840s for a modified federalism. T
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0854]]
 - Related Themes: [[Mexican_Federalism]], [[Moderate_Liberalism]], [[Federalism_Centralism_Conflict]]
 - Cautions: Confirm that this passage refers to Mariano Otero and identify the relevant writings.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Otero, Mariano` reuses this existing Person route.
+- Caution: The Index adds no writing, office, action, chronology, or evaluation.

@@ -63,3 +63,8 @@ Hamnett p.126 lists Gutiérrez Zamora among the Liberal figures whose death remo
 - Related People: [[Benito_Juarez]], [[Jesus_Gonzalez_Ortega]], [[Miguel_Lerdo_De_Tejada]], [[Melchor_Ocampo]], [[Santos_Degollado]]
 - Related Themes: [[Liberal_Factionalism]], [[State_Governors_Tutelage]]
 - Cautions: Confirm Gutiérrez Zamora's death date and the extent to which he was still a political rival at that moment.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Gutiérrez Zamora, Manuel` provides selected main-text routes.
+- Caution: office, rivalry, dates, and political alignment require narrative or primary-source verification.

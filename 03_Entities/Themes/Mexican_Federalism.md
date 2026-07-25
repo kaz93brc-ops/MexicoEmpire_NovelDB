@@ -90,3 +90,8 @@ Hamnett p.118 develops the p.116 federalism theme by reading 1858 as a recurrenc
 - Related Organizations: [[State_Governments]], [[Juarez_Government]]
 - Related Themes: [[Federal_State_Tension]], [[State_Governors_Tutelage]], [[Caciquismo_And_Regional_Power]]
 - Cautions: Keep Hamnett's structural comparison separate from verified state proclamation texts.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the federalism entry supplies separate routes to First Federal Republic and an unresolved `Second Federal Republic` label.
+- Caution: the Index does not define either republic's institutions or establish a continuous federalist programme.

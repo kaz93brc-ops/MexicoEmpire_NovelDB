@@ -60,6 +60,10 @@ ComonfortがAcapulcoでPlan of Ayutlaの修正版を出す。
 - Archive page: /page/56/mode/2up; Page 56 (71/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.27.41.jpeg
 
+## Hamnett Dramatis Personae pp.270-271 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] connects Comonfort and Doblado to Ayutla in [[FACT_HAMNETT_JUAREZ_3372]] and [[FACT_HAMNETT_JUAREZ_3379]].
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -78,7 +82,7 @@ ComonfortがAcapulcoでPlan of Ayutlaの修正版を出す。
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0650]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0650]], [[FACT_HAMNETT_JUAREZ_3372]], [[FACT_HAMNETT_JUAREZ_3379]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.27.41.jpeg

@@ -3,7 +3,7 @@ id: "PERSON_IGNACIO_ALTAMIRANO"
 type: "person"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-07-09"
+updated: "2026-07-15"
 tags:
   - "person"
   - "hamnett"
@@ -82,3 +82,26 @@ Hamnett pp.212-213 presents Altamirano as sympathetic to the Jiménez faction an
 - Related Places: [[Guerrero]], [[Tixtla]]
 - Related Themes: [[Liberal_Factionalism|Liberal factionalism]], [[Caciquismo_And_Regional_Power|caciquismo and regional power]], [[Press_And_Political_Legitimacy|press and political legitimacy]]
 - Cautions: Confirm Altamirano's original text before quoting the critique.
+
+## Hamnett 1994 p.267 Dramatis Personae Notes
+
+Hamnett begins a person entry presenting Altamirano as a radical Liberal novelist, poet, and journalist, with a Nahuatl-speaking family background, mentorship by Ignacio Ramírez, and later criticism of Juárez. The lower entry may continue on p.268, so only the completed role description is Fact-carded.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- New Fact Card: [[FACT_HAMNETT_JUAREZ_3335]]
+- Existing criticism Fact Card: [[FACT_HAMNETT_JUAREZ_2492]]
+- People: [[Ignacio_Ramirez|Ignacio Ramírez]], [[Benito_Juarez|Benito Juárez]]
+- Places: [[Tixtla]], [[Guerrero]]
+- Organizations: [[Radical_Liberals|radical Liberals]]
+- Open Questions: Confirm the continuation, dates, family-language formulation, Ramírez mentorship, and the specific content of later Juárez criticism.
+
+## Hamnett 1994 p.268 Dramatis Personae Continuation
+
+p.268 completes the entry by connecting Altamirano's Guerrero representation and legal training with learned-society work and the later nineteenth-century literary revival.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Existing Fact Card: [[FACT_HAMNETT_JUAREZ_3335]]
+- Related People: [[Benito_Juarez|Benito Juárez]], [[Ignacio_Ramirez|Ignacio Ramírez]]
+- Related Places: [[Guerrero]]
+- Related Themes: [[Radical_Liberalism|radical liberalism]], [[Liberal_Factionalism|Liberal factionalism]], [[Press_And_Political_Legitimacy|press and political legitimacy]]
+- Open Questions: Confirm the formal learned-society names, offices, and 1871–1874 chronology.

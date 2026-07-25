@@ -27,7 +27,7 @@ Entry note for Hidalgo insurgency. Keep historical evidence, interpretation, and
 - Places:
 - Events:
 - Themes: [[Juarista_Priests|Juarista Priests]]
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_1310|Hamnett compares Juárista priests with insurgent clergy]], [[FACT_HAMNETT_JUAREZ_1311|Hamnett sees shared anti-hierarchical radicalism in Juárista priests]], [[FACT_MEXEMP_1041|保守派はHidalgo派による虐殺を独立記念批判の根拠にした]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_1310|Hamnett compares Juárista priests with insurgent clergy]], [[FACT_HAMNETT_JUAREZ_1311|Hamnett sees shared anti-hierarchical radicalism in Juárista priests]], [[FACT_HAMNETT_JUAREZ_3392|Guerrero sustained southern insurgency after 1815]], [[FACT_MEXEMP_1041|保守派はHidalgo派による虐殺を独立記念批判の根拠にした]]
 - Timeline Entries:
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0059]]
 - Scenes:

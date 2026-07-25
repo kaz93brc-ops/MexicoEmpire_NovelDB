@@ -29,10 +29,29 @@ Entry note for French occupation. Keep historical evidence, interpretation, and 
 - Themes:
 - Fact Cards: [[FACT_MEXEMP_0837|Isla de Sacrificiosにはフランス兵の墓標があったとされる]], [[FACT_MEXEMP_0842|最初にMaximilian夫妻を迎えたのはVeracruzのフランス海軍指揮官だった]], [[FACT_MEXEMP_0844|フランス海軍指揮官はNovaraの停泊位置を危険だと非難した]], [[FACT_MEXEMP_0846|BazaineはMaximilian夫妻を直接Mexico Cityへ護衛できなかった]], [[FACT_MEXEMP_0852|ShawcrossはVeracruzを自由主義・共和派色の強い都市として説明する]], [[FACT_MEXEMP_0855|VeracruzからMexico Cityへの旅は軍用鉄道で始まった]], [[FACT_MEXEMP_0882|メキシコ槍騎兵は帝国衛兵として行列を先導した]]
 - Timeline Entries: [[TIME_MEXEMP_0144|1864年5月28日夜、AlmonteがVeracruzへ到着し夫妻を迎えた]], [[TIME_MEXEMP_0146|1864年5月29日、Maximilian夫妻がMexico City方面への移動を始めた]]
-- Source Notes:
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0137]]
 - Scenes:
 - Questions:
 
 ## Source Notes
 
 -
+
+## Historical Role
+
+Evidence hub for **French occupation**. Treat this section as an index into linked evidence, not as a final historical summary.
+
+- Key Fact Cards: [[FACT_MEXEMP_0837|Isla de Sacrificiosにはフランス兵の墓標があったとされる]], [[FACT_MEXEMP_0842|最初にMaximilian夫妻を迎えたのはVeracruzのフランス海軍指揮官だった]], [[FACT_MEXEMP_0844|フランス海軍指揮官はNovaraの停泊位置を危険だと非難した]], [[FACT_MEXEMP_0846|BazaineはMaximilian夫妻を直接Mexico Cityへ護衛できなかった]], [[FACT_MEXEMP_0852|ShawcrossはVeracruzを自由主義・共和派色の強い都市として説明する]], [[FACT_MEXEMP_0855|VeracruzからMexico Cityへの旅は軍用鉄道で始まった]], [[FACT_MEXEMP_0882|メキシコ槍騎兵は帝国衛兵として行列を先導した]]
+- Timeline Entries: [[TIME_MEXEMP_0144|1864年5月28日夜、AlmonteがVeracruzへ到着し夫妻を迎えた]], [[TIME_MEXEMP_0146|1864年5月29日、Maximilian夫妻がMexico City方面への移動を始めた]]
+
+## Creative Use
+
+Use this note as a scene/research entry point after checking the linked Fact Cards.
+
+- Convert only verified claims into narrative beats.
+- Keep author interpretation and creative inference separate from historical fact.
+
+## Open Questions
+
+- Which linked claims are strong enough for scene design?
+- Which source passages still need page-level verification?

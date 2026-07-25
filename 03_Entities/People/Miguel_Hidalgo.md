@@ -3,7 +3,7 @@ id: "PERSON_MIGUEL_HIDALGO"
 type: "person"
 status: "stub"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -50,3 +50,10 @@ p.45では、HamnettがJuárezの国家構想をHidalgo、Morelos、Guerrero以�
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0520]]
 - Related Themes: [[Republican_Sovereignty_And_Colonial_Inheritance]], [[Mexican_Liberalism_and_Nationalism]]
 - Cautions: この系譜化はHamnettの解釈として扱い、Hidalgo本人の思想差を消さない。
+
+## Hamnett 1994 p.272 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0139]]
+- Existing Cross-Source Fact: [[FACT_MEXEMP_1038]]
+- Note: Doloresの教区司祭と1810年独立運動起点は既存Shawcross Factへlocatorを追加し、予定`FACT_HAMNETT_JUAREZ_3397`は重複回避のため作成しなかった。
+- Cautions: 小説DB上では独立正統性と政治的記憶への補助接続を中心とする。

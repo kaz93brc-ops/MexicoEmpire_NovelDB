@@ -3,7 +3,7 @@ id: "PLACE_POCHUTLA"
 type: "place"
 status: "stub"
 created: "2026-06-22"
-updated: "2026-07-12"
+updated: "2026-07-18"
 tags:
   - "place"
   - "hamnett"
@@ -47,3 +47,9 @@ Hamnett p.229 places Pochutla near the woods where Félix Díaz hid after missin
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2816]], [[FACT_HAMNETT_JUAREZ_2817]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_1047]], [[TIME_HAMNETT_JUAREZ_1048]]
 - Related People: [[Felix_Diaz|Félix Díaz]], [[Albino_Jimenez|Albino Jiménez]], [[Benigno_Cartas|Benigno Cartas]]
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places Pochutla east of Jamiltepec and west of [[Tehuantepec]], making it a south-coast intermediate point between Coastal Mixteca and the Isthmus.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.

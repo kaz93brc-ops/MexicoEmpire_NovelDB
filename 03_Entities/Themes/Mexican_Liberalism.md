@@ -44,3 +44,8 @@ Hamnett p.50-51では、Mexican Liberalismは反コーポレート的である�
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0248]]
 - Related Themes: [[Corporate_Privilege]], [[Anti_Corporate_Liberalism]], [[Liberalism_And_Popular_Base]], [[Contradictory_Popular_Bases]], [[Municipal_Autonomy]]
 - Cautions: Liberalismを都市エリートの外来思想、または単純な近代化善玉として処理しない。
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; the Mexican Liberals hierarchy routes to admiration of USA, moderates, radicals, Restored Republic, and Catholic Church, while Juárez and Liberalism appears separately.
+- Caution: moderates and radicals remain sublabels, not new people or organizations; the Index does not define membership, programme, or a single Liberal position.

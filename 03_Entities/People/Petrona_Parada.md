@@ -44,3 +44,8 @@ Use this as a family-background entry for Margarita Maza and the social hierarch
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0017]]
 - Scenes:
 - Questions:
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Parada, Petrona` is retained as a locator-only route to this existing Person note.
+- Caution: Identity, biography, role, and context remain verification-needed.

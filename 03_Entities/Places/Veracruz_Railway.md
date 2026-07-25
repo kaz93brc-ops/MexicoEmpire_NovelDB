@@ -38,3 +38,8 @@ Use as infrastructure pressure on French and imperial movement only after confir
 - Places: [[Veracruz]]
 - Organizations: [[French_Army]], [[Mexican_Republicans]]
 - Themes: [[Juarista_Guerrilla_Warfare]], [[Wartime_Violence]]
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `railway (Mexico City–Veracruz)` reuses this existing infrastructure / Place route.
+- Caution: The Index adds no construction history, operation, route detail, chronology, or political effect.

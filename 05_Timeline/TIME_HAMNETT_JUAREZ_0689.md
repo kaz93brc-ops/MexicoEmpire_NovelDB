@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0689"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -54,6 +54,12 @@ Bazaine became French military commander in Mexico.
 - Printed page: p.169
 - Archive page: /page/168/mode/2up; Page 168 (183/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.29.42.jpeg
+
+## Hamnett 1994 pp.268-269 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0137]] summarizes Bazaine's 1863–1867 command of the French Expeditionary Force in Mexico.
+- Locator: pp.268–269 / `/page/268/mode/2up` / `スクリーンショット 2026-06-13 17.31.27.jpeg`.
+- No new Timeline entry was created because the appointment and departure are already covered by existing entries.
 
 ## Evidence Notes
 

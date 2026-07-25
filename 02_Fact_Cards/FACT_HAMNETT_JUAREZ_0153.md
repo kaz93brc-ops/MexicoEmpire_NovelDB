@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0153"
 type: "fact_card"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;masonic-lodges"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -76,3 +76,11 @@ Hamnettは、急進化した地方自由主義が新興のyorkino riteのmasonic
 - Themes: [[Factionalism]], [[Mexican_Liberalism|Mexican Liberalism]], [[Political_Networks|Political Networks]]
 - Related Fact Cards: 
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0010]]
+
+## Hamnett 1994 p.266 Glossary Locator
+
+The Glossary identifies `yorkinos` as a York Rite masonic-political grouping associated with radical and popular Liberal politics in the later 1820s, in contrast with `escoceses`.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- Organizations: [[Yorkino_Rite|Yorkino Rite]], [[Escoces_Rite|Escocés Rite]], [[Masonic_Lodges|Masonic lodges]]
+- Cautions: Verify organization, membership, and regional variation beyond the compact Glossary definition.

@@ -3,7 +3,7 @@ id: "PLACE_LOWER_CALIFORNIA"
 type: "place"
 status: "stub"
 created: "2026-07-01"
-updated: "2026-07-04"
+updated: "2026-07-18"
 tags:
   - "place"
   - "hamnett"
@@ -60,3 +60,10 @@ Hamnett p.161 reports Frías y Soto's later defense that Baja California was not
 - Related Event: [[Alleged_Territorial_Concession_Scheme_1864_10]]
 - Related People: [[Hilarion_Frias_Y_Soto]], [[Benito_Juarez]], [[Matias_Romero]], [[Manuel_Doblado]]
 - Cautions: Verify the military-control premise and whether "Baja California" maps onto this note's Lower California scope.
+
+## Hamnett 1994 Map 1 p.282 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] shows Lower California as the peninsula west of [[Sonora]], south of Upper California, and outside the 1848 lost-territory hatching.
+
+- Locator: p.282 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: This is relative geography from a secondary-source map, not an independent boundary authority.

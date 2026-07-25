@@ -39,3 +39,8 @@ Use as the U.S. diplomatic figure attached to a loan plan that could aid Juarez 
 - Organizations: [[United_States_Government]], [[Juarez_Government]]
 - Events: [[Corwin_Loan_Proposal]]
 - Themes: [[Public_Debt]], [[Infrastructure_Concession_And_Sovereignty]], [[US_Mexico_Relations]]
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Index supplies an additional locator for Thomas Corwin.
+- Caution: use the existing loan-proposal evidence for context; the Index adds no diplomatic or biographical detail.

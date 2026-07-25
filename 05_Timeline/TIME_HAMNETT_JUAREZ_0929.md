@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0929"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-09"
-updated: "2026-07-09"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -25,6 +25,8 @@ verification_needed: "yes"
 event_summary: "The Juárez government obtained additional extraordinary powers through revival of the 1862 punitive law."
 creative_use: "Use as an emergency-legal response to political rebellion alongside agrarian unrest."
 related_capture: "CAP_HAMNETT_JUAREZ_0110"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Benito_Juarez", "Trinidad_Garcia_de_la_Cadena"]
 events: ["Law_Of_25_January_1862"]
 places: ["Zacatecas", "Mexico"]

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0135"
 type: "fact_card"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-06-20"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;reforma;secularization"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -84,3 +84,4 @@ Hamnettは、Churchの国家への従属化、残存財産への介入、lay edu
 
 - [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] independently labels the Reform Period as 1855–1876.
 - Planned `FACT_HAMNETT_JUAREZ_3155` was not created because this card already records Hamnett's broad periodization as `author_interpretation / probable`.
+- [[CAP_HAMNETT_JUAREZ_0135|Glossary pp.264–265]] independently repeats `Reforma` as Hamnett's 1855–1876 periodization; planned `FACT_HAMNETT_JUAREZ_3322` was held as a duplicate.

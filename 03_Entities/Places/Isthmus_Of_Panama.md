@@ -34,3 +34,8 @@ Ayutla Revolutionを理念だけでなく、地域権力・軍・亡命政治・
 - Capture: [[CAP_HAMNETT_JUAREZ_0032]]
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0674]]
 - Related Items: [[Acapulco]]
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Panama, Isthmus of` reuses this existing Place route.
+- Caution: The Index adds no journey, route conditions, actors, chronology, or modern geographic equivalence.

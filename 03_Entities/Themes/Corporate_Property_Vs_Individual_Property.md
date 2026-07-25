@@ -34,3 +34,8 @@ Use to show how legal categories of ownership moved Liberal Reform into Church a
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0772]], [[FACT_HAMNETT_JUAREZ_0776]]
 - Themes: [[Anti_Corporate_Liberalism]], [[Landownership]], [[Indigenous_Communal_Land]]
 
+## Hamnett 1994 Index pp.288–289 Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; `corporate properties` points readers toward disamortization and the Lerdo Law.
+- Caution: verify the main-text meaning of corporate property and do not infer covered institutions or land categories from the Index.
+

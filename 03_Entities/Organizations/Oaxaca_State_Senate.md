@@ -39,3 +39,8 @@ Hamnett p.36で、1848年9月時点のOaxaca州上院は6名で構成され、�
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0410]], [[FACT_HAMNETT_JUAREZ_0411]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0182]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0021]]
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Senate` remains an Oaxaca State subentry and a route to main-text verification.
+- Caution: Do not infer dates, composition, constitutional authority, or continuity from the Index.

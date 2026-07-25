@@ -3,7 +3,7 @@ id: PLC-MATAMOROS
 type: place
 status: draft
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-07-18
 tags:
   - place
 source_id: ""
@@ -61,3 +61,10 @@ Hamnett p.156 returns to Matamoros as part of the cotton-trade axis with Brownsv
 - Related Organizations: [[Confederate_States]], [[United_States_Union]]
 - Related Themes: [[American_Civil_War_Border_Context]], [[US_Mexico_Border]], [[War_Finance]]
 - Cautions: Keep trade benefits, arms traffic, and political alignment separate until note 17 is checked.
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] places Matamoros in the north-east Gulf / Texas border orientation of the 1867 republic map.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: diplomatic, military, and supply significance is not established by the map alone.

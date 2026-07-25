@@ -37,7 +37,7 @@ Hamnett p.38-39では、Juárezが不安定なOaxaca州知事任期を全うで�
 - Themes:
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0060|Juárez州知事期のZapotec villages反乱]], [[FACT_HAMNETT_JUAREZ_0199|Juárezは1847-1852年の初回Oaxaca州知事期にIsthmus問題に直面した]], [[FACT_HAMNETT_JUAREZ_0392|Reassembled Oaxaca legislature designated Juarez governor on 29 October 1847]], [[FACT_HAMNETT_JUAREZ_0399|Hamnett evaluates Juarez's gubernatorial accession as irregular despite noble principles]], [[FACT_HAMNETT_JUAREZ_0400|Juarez justified interim governorship as free vote rather than military intervention]], [[FACT_HAMNETT_JUAREZ_0402|Juarez formally became constitutional governor on 12 August 1848]], [[FACT_HAMNETT_JUAREZ_0403|Juarez received a four-year term through the 1848 election]], [[FACT_HAMNETT_JUAREZ_0447|Hamnett links Juárez's completed term to military support for civil authority]], [[FACT_HAMNETT_JUAREZ_0449|Castellanos acted as interim governor during Juárez absences]], [[FACT_HAMNETT_JUAREZ_0450|Hamnett values Fernández del Campo and Mejía support for Oaxaca liberals]], [[FACT_HAMNETT_JUAREZ_0452|Ignacio Mejía succeeded Juárez in Oaxaca state government]], [[FACT_HAMNETT_JUAREZ_0453|Juárez travelled with troops to address the Isthmus problem]], [[FACT_HAMNETT_JUAREZ_0454|Comonfort gave Juárez a small force in late 1855]], [[FACT_HAMNETT_JUAREZ_0467|Hamnett calls the Isthmus crisis Juárez's most difficult administrative test]], [[FACT_HAMNETT_JUAREZ_0579|Hamnett says passive-Juárez interpretations neglect his early Liberal record]], [[FACT_HAMNETT_JUAREZ_2721|Juarez used National Guard as Oaxaca governor]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0020|Juárez最初のOaxaca州知事期とZapotec villages反乱]], [[TIME_HAMNETT_JUAREZ_0175|Legislature designated Juarez governor on 1847-10-29]], [[TIME_HAMNETT_JUAREZ_0177|Juarez formally became constitutional governor on 1848-08-12]], [[TIME_HAMNETT_JUAREZ_0178|Juarez interim governorship period from 1847-10 to 1848-08]], [[TIME_HAMNETT_JUAREZ_0195|Juárez completed unstable Oaxaca governorship]], [[TIME_HAMNETT_JUAREZ_0201|Juárez inherited the Isthmus problem]], [[TIME_HAMNETT_JUAREZ_0204|Ignacio Mejía began governing Oaxaca after Juárez]], [[TIME_HAMNETT_JUAREZ_0208|Comonfort gave Juárez a small force]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0020]], [[CAP_HAMNETT_JUAREZ_0022]], [[CAP_HAMNETT_JUAREZ_0023]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0020]], [[CAP_HAMNETT_JUAREZ_0022]], [[CAP_HAMNETT_JUAREZ_0023]], [[CAP_HAMNETT_JUAREZ_0149]]
 - Scenes:
 - Questions:
 
@@ -63,3 +63,8 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - Which linked claims are strong enough for scene design?
 - Which source passages still need page-level verification?
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; the Juárez hierarchy distinguishes state-governor routes for 1847–52 and 1856–57 and a separate state-governors route.
+- Caution: use narrative Fact and Timeline evidence for dates and actions; the Index adds no new chronology or policy content.

@@ -47,3 +47,8 @@ Chapter 2注7は、BEO CMMG所蔵のRamón Ramírez de Aguilar関連資料への
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0230]], [[TIME_HAMNETT_JUAREZ_0231]]
 - Source Trail: [[SRC_ARCH_BEO_CMMG]]
 - Cautions: 所蔵資料が同時代文書か、後年編纂・写し資料かを確認する。
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Ramírez de Aguilar, Ramón` is retained as a locator-only route to this existing Person.
+- Caution: Identity and source role remain verification-needed; do not merge him with Ignacio or José Fernando Ramírez.

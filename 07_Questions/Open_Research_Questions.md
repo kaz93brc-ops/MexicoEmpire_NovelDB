@@ -2,7 +2,7 @@
 id: OPEN-RESEARCH-QUESTIONS
 type: question_note
 status: active
-created: 2026-07-14
+created: 2026-07-16
 tags:
   - research-questions
   - writing-view

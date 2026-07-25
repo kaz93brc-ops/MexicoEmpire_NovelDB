@@ -62,6 +62,12 @@ related_fact_cards:
 - Archive page: /page/102/mode/2up; Page 102 (117/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.28.32.jpeg
 
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] supplies 17 December 1857 and calls brigade commander Zuloaga the military arm behind Comonfort's coup; see [[FACT_HAMNETT_JUAREZ_3482]].
+- Locator: p.280 / `/page/280/mode/2up` / `スクリーンショット 2026-06-13 17.31.41.jpeg`.
+- Cautions: The exact date and military-role evaluation require independent verification.
+
 ## Evidence Notes
 
 - Evidence category: author_interpretation
@@ -81,7 +87,7 @@ related_fact_cards:
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1184]], [[FACT_HAMNETT_JUAREZ_1185]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1184]], [[FACT_HAMNETT_JUAREZ_1185]], [[FACT_HAMNETT_JUAREZ_3482]]
 - Evidence category: author_interpretation
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.28.32.jpeg

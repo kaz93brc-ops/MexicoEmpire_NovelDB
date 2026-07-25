@@ -72,3 +72,8 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - Which linked claims are strong enough for scene design?
 - Which source passages still need page-level verification?
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the French Revolution entry includes a route to the Constitution of 1791.
+- Caution: constitutional content and historical relationship require the cited main text; this note's existing Entity classification is not changed here.

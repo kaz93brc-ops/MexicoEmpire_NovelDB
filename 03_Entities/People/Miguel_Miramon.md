@@ -158,3 +158,12 @@ Hamnett presents Fuentes Mares's Miramón study as a historical recreation that 
 - Related People: [[Fuentes_Mares|José Fuentes Mares]], [[Napoleon_III]], [[Maximilian]]
 - Related Place: [[Queretaro]]
 - Cautions: This is Hamnett's account of a later historian's reassessment; check Fuentes Mares and compare with Shawcross before using it as character evidence.
+
+## Hamnett 1994 pp.276-277 Dramatis Personae Notes
+
+The entry combines Hamnett's military-skill/political-miscalculation portrait with Miramón's Conservative presidency, Veracruz failures, distance from French planning, Bazaine tension, Berlin posting, final return, Zacatecas threat, and execution.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0141]]
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3441]], [[FACT_HAMNETT_JUAREZ_3442]], [[FACT_HAMNETT_JUAREZ_3443]]
+- Reused Fact Cards: [[FACT_HAMNETT_JUAREZ_2011]], [[FACT_HAMNETT_JUAREZ_2069]], [[FACT_HAMNETT_JUAREZ_2218]], [[FACT_HAMNETT_JUAREZ_2223]], [[FACT_HAMNETT_JUAREZ_2330]]
+- Cautions: do not simplify Miramón into a direct French-plan architect or an uncomplicated ally of Bazaine and Maximilian.

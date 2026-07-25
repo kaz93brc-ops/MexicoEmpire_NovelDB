@@ -3,7 +3,7 @@ id: "PERSON_IGNACIO_COMONFORT"
 type: "person"
 status: "stub"
 created: "2026-06-22"
-updated: "2026-07-06"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -208,3 +208,17 @@ Hamnett p.199 interprets Juárez's 1867 constitutional-reform position as placin
 - Related Event: [[Constitution_Of_1857|Constitution of 1857]]
 - Related Themes: [[Constitutional_Restructuring|constitutional restructuring]], [[Moderate_Liberalism|moderate Liberalism]], [[Constitutional_Politics|constitutional politics]]
 - Cautions: This is a Hamnett comparison, not proof that Juárez and Comonfort shared identical aims.
+
+## Hamnett 1994 p.270 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0138]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3372]], [[FACT_HAMNETT_JUAREZ_3373]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0281]], [[TIME_HAMNETT_JUAREZ_0369]], [[TIME_HAMNETT_JUAREZ_0533]]
+- Related People: [[Benito_Juarez|Benito Juárez]], [[Antonio_Lopez_de_Santa_Anna|Antonio López de Santa Anna]]
+- Related Events: [[Plan_of_Ayutla|Plan of Ayutla]], [[Plan_Of_Tacubaya|Plan of Tacubaya]], [[Reform_War|Reform War]]
+- Cautions: Treat moderate Liberalism, institutional fracture, and later military reintegration separately; confirm office dates, exile, and 1863 death.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Index separates routes for the 1857 coup and `Estatuto Orgánico Provisional (1856)`.
+- Caution: verify both cited passages; the Index does not establish their content, sequence, or Comonfort's motive.

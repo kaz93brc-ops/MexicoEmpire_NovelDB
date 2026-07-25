@@ -3,7 +3,7 @@ id: "EVENT_JUCHITAN_REBELLION_MARCH_1850"
 type: "event"
 status: "stub"
 created: "2026-06-22"
-updated: "2026-06-22"
+updated: "2026-07-18"
 tags:
   - "event"
   - "hamnett"
@@ -35,3 +35,10 @@ Isthmus危機を、地方政治・州統治・中央政治・軍事力の接点�
 - Events: [[Tehuantepec_Isthmus_Crisis]]
 - Themes: [[Militarized_Legality]], [[Federal_Weakness_And_Local_Rebellion]]
 - Source Notes: [[CAP_HAMNETT_JUAREZ_0024]]
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places [[Juchitan|Juchitán]] east of nearby [[Tehuantepec]], toward the Chiapas side of the Isthmus and far from [[Oaxaca_City|Oaxaca City]].
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: Geographic distance contextualizes the crisis but does not explain or criminalize community action.

@@ -3,7 +3,7 @@ id: ORG-JUAREZ_GOVERNMENT
 type: organization
 status: draft
 created: 2026-06-20
-updated: "2026-07-12"
+updated: "2026-07-18"
 tags:
   - organization
 source_id: ""
@@ -284,3 +284,10 @@ Hamnett pp.218-219 presents the Juárez government as placing Nayarit/Tepic unde
 - Related Organizations: [[Federal_Government|federal government]]
 - Related Themes: [[Juarez_Political_Pragmatism|Juárez political pragmatism]], [[Federal_State_Tension|federal-state tension]], [[Caciquismo_And_Regional_Power|regional power]]
 - Cautions: Record this as pragmatic reconstruction politics, not simple approval of Lozada.
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] uses Paso del Norte, Chihuahua, San Luis Potosí, and Mexico City as broad anchors for understanding a republican government maintained through movement.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: movements, dates, institutions, and communications are not established by the map alone.

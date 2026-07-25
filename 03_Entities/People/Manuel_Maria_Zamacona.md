@@ -3,7 +3,7 @@ id: "PERSON_MANUEL_MARIA_ZAMACONA"
 type: "person"
 status: "stub"
 created: "2026-07-03"
-updated: "2026-07-12"
+updated: "2026-07-18"
 tags:
   - "person"
   - "hamnett"
@@ -63,3 +63,14 @@ Hamnett p.229 presents Zamacona as opposing extraordinary powers for Juárez whi
 - Related People: [[Benito_Juarez|Benito Juárez]], [[Porfirio_Diaz|Porfirio Díaz]]
 - Related Organization: [[Federal_Congress_Mexico|Federal Congress]]
 - Cautions: Confirm that this is Manuel María Zamacona and check the speech or congressional record.
+
+## Hamnett 1994 pp.279-280 Dramatis Personae Note
+
+The entry begins on p.279 and completes on p.280. It connects Zamacona's radical Liberal journalism and [[El_Siglo_XIX|El Siglo XIX]] role to Juárez-government Foreign Relations, the Wyke-Zamacona Treaty rejection, later opposition to Juárez, and an 1892 hope of succeeding Díaz.
+
+- Captures: [[CAP_HAMNETT_JUAREZ_0142]], [[CAP_HAMNETT_JUAREZ_0143]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3470]], [[FACT_HAMNETT_JUAREZ_3471]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0633]]
+- Related People: [[Benito_Juarez|Benito Juárez]], [[Porfirio_Diaz|Porfirio Díaz]], [[Charles_Wyke|Charles Wyke]]
+- Related Event: [[Wyke_Zamacona_Treaty|Wyke-Zamacona Treaty]]
+- Cautions: Confirm office title and dates, congressional rejection date, resignation procedure, later anti-Juárez activity, and the 1892 succession context.

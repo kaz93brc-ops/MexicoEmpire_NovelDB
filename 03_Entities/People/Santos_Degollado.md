@@ -3,7 +3,7 @@ id: "PERSON_SANTOS_DEGOLLADO"
 type: "person"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-07-02"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -81,3 +81,17 @@ Hamnett p.126 records Degollado's death in an ambush on 1861-06-15 and treats hi
 - Related Organizations: [[Mexican_Conservative_Forces]], [[Guerrilla_Forces]]
 - Related Themes: [[Conservative_Violence]], [[Liberal_Factionalism]]
 - Cautions: Confirm the ambush place, perpetrators, and original source.
+
+## Hamnett 1994 p.270 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0138]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3374]], [[FACT_HAMNETT_JUAREZ_3375]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0083]], [[TIME_HAMNETT_JUAREZ_0502]]
+- Related People: [[Melchor_Ocampo|Melchor Ocampo]], [[Benito_Juarez|Benito Juárez]]
+- Related Events: [[Revolution_of_Ayutla|Ayutla Revolution]], [[Reform_War|Reform War]]
+- Cautions: Confirm Jalisco command, truce proposal, Juárez's removal decision, and death date; do not infer motive from the person-reference entry.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Index supplies an additional selected locator cluster for Santos Degollado.
+- Caution: verify political and military episodes in the cited main text rather than deriving a career narrative from the Index.

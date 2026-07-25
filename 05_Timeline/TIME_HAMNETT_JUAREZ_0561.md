@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0561"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-03"
-updated: "2026-07-03"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter6"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -63,6 +63,11 @@ Juárez's San Luis Potosí decree provided for occupation and alienation of cert
 - Confidence: probable
 - Verification needed: yes
 - Caution: Verify decree title, text, and grant limits.
+
+## Glossary Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0135|Glossary pp.264–265]] repeats the 22 July 1863 San Luis Potosí decree under `tierras baldías`; no new Timeline entry was created.
+- The official decree title, wording, land category, and application remain `verification_needed: yes`.
 
 ## Links
 

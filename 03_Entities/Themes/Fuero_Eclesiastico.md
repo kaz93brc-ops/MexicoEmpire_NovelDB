@@ -38,3 +38,8 @@ Use it as a jurisdictional conflict over courts and sovereignty, not as a generi
 - Events: [[Juarez_Law_On_Administration_Of_Justice_1855_11_23]]
 - People: [[Clemente_de_Jesus_Munguia]], [[Benito_Juarez]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1108]], [[FACT_HAMNETT_JUAREZ_1111]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `fuero eclesiástico` appears as a selected subentry under fueros.
+- Caution: jurisdictional content, reform, and institutional consequences require narrative and legal-text verification.

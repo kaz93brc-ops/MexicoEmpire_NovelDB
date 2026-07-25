@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2630"
 type: "fact_card"
 status: "draft"
 created: "2026-07-09"
-updated: "2026-07-09"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "思想的影響は運動全体の単純ラベルにしない。"
 creative_use: "工場労働者集会で急進思想が現れる場面に使える。"
 cautions: "形成日とアナキスト影響の出典確認が必要。"
 related_capture: "CAP_HAMNETT_JUAREZ_0111"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: []
 events: []
 places: 

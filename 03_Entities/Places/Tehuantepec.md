@@ -3,7 +3,7 @@ id: "PLACE_TEHUANTEPEC"
 type: "place"
 status: "stub"
 created: "2026-06-22"
-updated: "2026-06-30"
+updated: "2026-07-18"
 tags:
   - "place"
   - "hamnett"
@@ -51,3 +51,17 @@ Hamnett p.94 mentions Tehuantepec as one of the ports linked to a road project f
 - Related Places: [[Huatulco]], [[Oaxaca]]
 - Related Organizations: [[Oaxaca_State_Government]], [[Diocese_Of_Oaxaca]], [[Secular_Clergy]]
 - Cautions: Confirm the road project and note 12 before treating the route details as independently verified.
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places Tehuantepec in south-eastern Oaxaca on the Pacific side of the [[Isthmus_Of_Tehuantepec|Isthmus]], east of [[Pochutla]] and west / south-west of [[Juchitan|Juchitán]].
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Context: Coatzacoalcos River on the north side supplies the Gulf connection but remains a Theme-level locator candidate.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Tehuantepec (Oaxaca)` reuses this Place route.
+- Main-text route: consult the selected page-number locators printed under the town heading, then verify the cited body pages.
+- Caution: Keep the town distinct from [[Isthmus_Of_Tehuantepec]] and do not infer a modern administrative equivalence.

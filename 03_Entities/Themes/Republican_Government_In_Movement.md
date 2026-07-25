@@ -3,7 +3,7 @@ id: "THEME_REPUBLICAN_GOVERNMENT_IN_MOVEMENT"
 type: "theme"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-18"
 tags:
   - "theme"
   - "hamnett"
@@ -35,3 +35,9 @@ Use for scenes where legality survives through movement, escort, and improvised 
 - Organizations: [[Juarez_Government]]
 - Capture: [[CAP_HAMNETT_JUAREZ_0029]]
 
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] connects northern and north-central anchors to Mexico City as broad geographic context for a state preserved while moving.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: route, timing, communications, administrative reach, and political meaning require the existing Fact / Timeline evidence.

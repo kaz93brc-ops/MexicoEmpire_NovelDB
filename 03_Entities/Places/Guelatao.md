@@ -3,7 +3,7 @@ id: "PLACE_GUELATAO"
 type: "place"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-18"
 tags:
   - "place"
   - "oaxaca"
@@ -34,3 +34,14 @@ Juárezの出生地。Hamnett p.20-21ではIxtlán近郊の小村で、中央盆
 - Places: [[Ixtlan|Ixtlán]], [[Northern_Sierra_Oaxaca|northern sierra of Oaxaca]]
 - Themes: [[Juarez_Formation|Juárez formation]], [[Zapotec_Identity|Zapotec identity]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0215]], [[FACT_HAMNETT_JUAREZ_0216]], [[FACT_HAMNETT_JUAREZ_0220]]
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places Guelatao north-east of [[Oaxaca_City|Oaxaca City]] in the [[Northern_Sierra_Oaxaca|Northern Highlands]], near [[Ixtlan|Ixtlán]] but not as an immediate capital suburb.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Guelatao (Oaxaca)` provides selected main-text locators.
+- Caution: the Index does not add biographical meaning, local description, or event sequence.

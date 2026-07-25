@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_1071"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "Margaritaが44歳で死去した。"
 creative_use: "Juárezの再選運動直前の家族的喪失として使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0120"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Margarita_Eustacia_Maza", "Benito_Juarez"]
 events: []
 places: []

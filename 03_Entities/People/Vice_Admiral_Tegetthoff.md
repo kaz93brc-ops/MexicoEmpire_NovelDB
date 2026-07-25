@@ -42,3 +42,10 @@ Use Tegetthoff as the Austrian post-execution retrieval figure only after confir
 - Places: [[Mexico_City|Mexico City]]
 - Events: [[Execution_Of_Maximilian_Miramon_And_Mejia|Execution of Maximilian, Miramón and Mejía]], [[Austrian_Diplomatic_Mission|Austrian diplomatic mission]]
 - Themes: [[Transfer_Of_Maximilians_Remains|transfer of Maximilian's remains]], [[Memory_Of_Maximilian|memory of Maximilian]]
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Tegetthoff, Vice-Admiral Wilhelm` reuses this existing stem.
+- Main-text route: consult the selected page-number locators printed under this heading, then verify the cited body pages.
+- Caution: The Index label does not independently establish full name, rank history, nationality, or mission.

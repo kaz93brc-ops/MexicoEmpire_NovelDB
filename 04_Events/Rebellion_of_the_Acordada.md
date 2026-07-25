@@ -3,7 +3,7 @@ id: "EVENT_REBELLION_OF_THE_ACORDADA"
 type: "event"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-18"
 tags:
   - "event"
   - "hamnett"
@@ -46,3 +46,14 @@ themes:
 ## Cautions
 
 発生経緯、参加者、暴力の規模、Zavalaの具体的役割は要確認。
+
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] repeats Zavala's leading yorkino role and participation in the December 1828 Acordada, which Hamnett connects to Guerrero's rise.
+- Existing Fact / Timeline reused: [[FACT_HAMNETT_JUAREZ_0155]], [[FACT_HAMNETT_JUAREZ_0156]], [[TIME_HAMNETT_JUAREZ_0066]].
+- Cautions: Confirm the date, participants, Zavala's exact role, and causal wording before treating the entry as settled chronology.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; Rebellion of the Acordada reuses this existing Event route.
+- Caution: The Index adds no date, participants, sequence, cause, or outcome.

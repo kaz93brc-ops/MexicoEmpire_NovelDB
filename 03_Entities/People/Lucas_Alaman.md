@@ -3,7 +3,7 @@ id: "PERSON_LUCAS_ALAMAN"
 type: "person"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-07-13"
+updated: "2026-07-15"
 tags:
   - "person"
   - "mexican-conservatism"
@@ -79,3 +79,14 @@ Hamnett presents Frías y Soto as associating Bulnes's Juárez critique with an 
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_3064]]
 - Related People: [[Hilarion_Frias_Y_Soto]], [[Francisco_Bulnes]], [[Benito_Juarez]]
 - Cautions: This is Frías y Soto's polemical genealogy as summarized by Hamnett; do not attribute Bulnes's position directly to Alamán without checking both texts.
+
+## Hamnett 1994 p.267 Dramatis Personae Notes
+
+Hamnett's compact person entry brings together Alamán's conservative party-building, valuation of colonial order, industrial policy through Banco de Avío, and connection to Santa Anna's final administration. This should be read as a conservative state-building programme, not as a one-word reactionary label.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3330]], [[FACT_HAMNETT_JUAREZ_3331]]
+- Existing Fact Cards reused: [[FACT_HAMNETT_JUAREZ_0142]], [[FACT_HAMNETT_JUAREZ_0563]], [[FACT_HAMNETT_JUAREZ_0565]]
+- Organizations: [[Conservative_Party|Conservative Party]], [[Banco_De_Avio|Banco de Avío]]
+- Places: [[Orizaba]], [[Veracruz]]
+- Open Questions: Confirm 1848 party formation, Historia de Méjico, Banco chronology and works, Cocolapam location, and Alamán's precise role in the 1853 administration.

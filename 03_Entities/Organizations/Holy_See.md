@@ -73,3 +73,8 @@ Hamnett p.112 says the Apostolic Delegate was expelled on 1861-01-12 as an early
 - Related Organization: [[Apostolic_Delegate]]
 - Related Event: [[Expulsion_Of_Apostolic_Delegate_1861_01_12]]
 - Cautions: Confirm the delegate's name and diplomatic status.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; Holy See appears as a main-entry locator near the Church-related research cluster.
+- Caution: no diplomatic action, date, doctrine, or relationship is inferred from the heading alone.

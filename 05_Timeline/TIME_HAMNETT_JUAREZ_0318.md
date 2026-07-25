@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0318"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-24"
-updated: "2026-06-24"
+updated: "2026-07-16"
 tags: "timeline;hamnett;juarez;chapter3;lerdo-law"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -68,6 +68,8 @@ Miguel LerdoがLerdo Lawを発布し、法人財産の個人所有化を進め�
 - [[CAP_HAMNETT_JUAREZ_0129|Chronology pp.252–253]] repeats 1856-06-25 as the Ley Lerdo date.
 - Locator: p.253 / `/page/252/mode/2up` / `スクリーンショット 2026-06-13 17.31.07.jpeg`.
 - Planned `TIME_HAMNETT_JUAREZ_1218` was not created because this entry already records the law and date; the p.253 bottom continuation remains to be checked.
+- [[CAP_HAMNETT_JUAREZ_0139|Dramatis Personae p.273]] repeats the Miguel Lerdo / Ley Lerdo connection; no new Timeline was created.
+- The user-supplied candidate date 1856-06-26 differs from this entry's 1856-06-25 and remains an open verification question.
 
 ## Evidence Notes
 

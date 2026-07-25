@@ -65,6 +65,10 @@ Carlos María de Bustamante was a close associate of Morelos in southern Mexico.
 - Kindle location:
 - Screenshot file: スクリーンショット 2026-06-13 17.23.13.jpeg
 
+## Hamnett Dramatis Personae pp.270-271 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] reiterates Bustamante's Morelos association and links it to [[FACT_HAMNETT_JUAREZ_3370]]-[[FACT_HAMNETT_JUAREZ_3371]].
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -88,7 +92,7 @@ Juárez形成期とMaximilian帝政期の前史を接続する年表材料。
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0305]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0305]], [[FACT_HAMNETT_JUAREZ_3370]], [[FACT_HAMNETT_JUAREZ_3371]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.23.13.jpeg

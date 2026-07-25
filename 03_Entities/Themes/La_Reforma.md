@@ -28,3 +28,10 @@ Hamnett p.34では、1847年のJuárez発言が1850年代半ばのReforma期の�
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0084]]
 - Events: [[Reforma]], [[Revolution_of_Ayutla]]
 - Themes: [[Liberal_Reform]], [[State_Formation]], [[Church_State_Relations_Mexico]]
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Reform Movement, Mexican (Reforma)` reuses this Theme route.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: Keep the movement distinct from [[Reform_War]], [[Reform_Laws]], and [[Restored_Republic]].

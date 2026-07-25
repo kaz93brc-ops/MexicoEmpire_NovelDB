@@ -3,7 +3,7 @@ id: "PLACE_VERACRUZ"
 type: "place"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-07-04"
+updated: "2026-07-18"
 tags:
   - "place"
   - "veracruz"
@@ -65,3 +65,10 @@ Hamnett p.121 makes Veracruz the wartime seat of the Liberal government after Ju
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1381]], [[FACT_HAMNETT_JUAREZ_1789]], [[FACT_HAMNETT_JUAREZ_1249]], [[FACT_HAMNETT_JUAREZ_1812]], [[FACT_HAMNETT_JUAREZ_3180]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0478]], [[TIME_HAMNETT_JUAREZ_0616]], [[TIME_HAMNETT_JUAREZ_0445]], [[TIME_HAMNETT_JUAREZ_0618]], [[TIME_HAMNETT_JUAREZ_0494]]
 - Note: The Chronology presents Veracruz as the linked site of government reconstruction, U.S. recognition, Reform Laws, and treaty diplomacy before the capital return.
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] places Veracruz on the [[Gulf_Of_Mexico|Gulf]] side of the broad Veracruz–Puebla–Mexico City axis.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: no military route, port function, or supply mechanism is inferred from the map alone.

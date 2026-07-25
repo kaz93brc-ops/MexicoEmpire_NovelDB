@@ -3,7 +3,7 @@ id: "PERSON_FRANCISCO_BULNES"
 type: "person"
 status: "stub"
 created: "2026-06-21"
-updated: "2026-06-28"
+updated: "2026-07-15"
 tags:
   - "person"
   - "hamnett"
@@ -93,3 +93,13 @@ Hamnett presents Bulnes as the major critical voice in the Porfirian-era Juárez
 - Related People: [[Benito_Juarez]], [[Porfirio_Diaz]], [[Melchor_Ocampo]], [[Hilarion_Frias_Y_Soto]]
 - Related Themes: [[Historiography_Of_Juarez]], [[US_Mexico_Relations]], [[Cult_of_Juarez]]
 - Cautions: Hamnett経由の要約であり、1905年著作の書誌・原文・政治的位置を確認する。
+
+## Hamnett 1994 p.269 Dramatis Personae Notes
+
+Hamnett identifies Bulnes as a political journalist and historical commentator whose 1904–1905 writings attacked Juárez's reputation.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_3033]], [[FACT_HAMNETT_JUAREZ_3034]], [[FACT_HAMNETT_JUAREZ_3035]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_1133]]
+- Related Themes: [[Historiography_Of_Juarez|historiography of Juárez]], [[Cult_of_Juarez|cult of Juárez]]
+- Open Questions: Confirm exact titles, the 1904/1905 sequence, and the connection to the Bibliographical Essay.

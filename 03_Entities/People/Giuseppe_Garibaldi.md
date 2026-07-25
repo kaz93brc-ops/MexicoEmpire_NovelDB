@@ -38,3 +38,8 @@ Use as a marker of transatlantic republican symbolism that does not map neatly o
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0811]]
 - Related People: [[Pope_Pius_IX]], [[Giuseppe_Mazzini]], [[Benito_Juarez]], [[Maximilian]], [[Victor_Hugo]]
 - Related Themes: [[National_Churches]], [[Deification_Of_The_State]], [[Mexican_Liberalism]], [[Liberal_Internationalism]], [[Monarchy_Vs_Republic]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Garibaldi, Giuseppe` provides a selected main-text locator.
+- Caution: the Index does not define his relationship to Mexico, Juárez, or other republican movements.

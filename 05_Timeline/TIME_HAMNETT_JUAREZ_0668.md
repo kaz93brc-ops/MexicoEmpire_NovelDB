@@ -55,6 +55,10 @@ According to Frías y Soto, Romero and Doblado prepared a territorial-concession
 - Archive page: /page/160/mode/2up; Page 160 (175/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.29.35.jpeg
 
+## Hamnett Dramatis Personae p.271 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] connects Doblado's 1864 accompaniment of Juárez to early-Intervention diplomacy and republican-government movement in [[FACT_HAMNETT_JUAREZ_3380]].
+
 ## Evidence Notes
 
 - Evidence category: primary_testimony
@@ -75,7 +79,7 @@ According to Frías y Soto, Romero and Doblado prepared a territorial-concession
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1965]], [[FACT_HAMNETT_JUAREZ_1966]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1965]], [[FACT_HAMNETT_JUAREZ_1966]], [[FACT_HAMNETT_JUAREZ_3380]]
 - Evidence category: primary_testimony
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.29.35.jpeg

@@ -3,7 +3,7 @@ id: "PLACE_PUEBLA"
 type: "place"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-07-04"
+updated: "2026-07-18"
 tags:
   - "place"
   - "puebla"
@@ -56,3 +56,15 @@ Hamnett p.87 identifies Puebla, alongside Mexico City, as a major center of the 
 ## Open Questions
 
 - 各地域の範囲、人口・経済指標、Puebla National Guardの実態。
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] places Puebla inland east of [[Mexico_City|Mexico City]] and west of Gulf-side [[Veracruz]].
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: the map supports a broad geographic axis, not a verified route or supply line.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; Puebla crosses the p.297 column break and supplies selected routes to the 1862 battle, business community, Díaz's capture, Liberal recovery, Restored Republic, serrano caciques, the 1863 siege, and sierra.
+- Caution: The second-column opening remains subordinate to Puebla; the Index does not establish actors, chronology, social response, or causal relations.

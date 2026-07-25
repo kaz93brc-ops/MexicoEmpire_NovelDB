@@ -3,7 +3,7 @@ id: PLC-OAXACA
 type: place
 status: draft
 created: 2026-06-14
-updated: 2026-06-30
+updated: 2026-07-18
 tags:
   - place
   - oaxaca
@@ -108,3 +108,32 @@ Hamnett pp.94-95 places Oaxaca's governor, diocese, city hospitals, Zimatlan, an
 - Related Organizations: [[Oaxaca_State_Government]], [[Diocese_Of_Oaxaca]], [[Catholic_Church]], [[Department_Governors]]
 - Related Themes: [[Rule_of_Law]], [[Church_State_Relations_Mexico]], [[Parish_Dues]], [[Church_Wealth]], [[Oaxaca_Indigenous_Communities]]
 - Cautions: Do not generalize all Oaxaca village reactions from Mantecon's warning alone.
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] treats Oaxaca in 1857 as a composite of central valley, [[Northern_Sierra_Oaxaca|Northern Highlands]], [[Mixteca_Baja]], [[Mixteca_Alta]], Coastal Mixteca, and [[Isthmus_Of_Tehuantepec|Isthmus]] zones.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: Regional boundaries are map labels and remain verification-needed.
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] places Oaxaca within the southern republic, apart from the capital-centred and north-central axes emphasized for 1867.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: regional power, administrative reach, and the Chiapas / Guatemala relationship require other evidence and Map 2 cross-checking.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; several person and place entries provide selected routes into Oaxaca material.
+- Caution: the Index does not establish offices, regional boundaries, or relations among Félix Díaz, Cuilapan, and other Oaxaca entries.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; selected routes connect Oaxaca with Liberalism, labour movement, minor localities, and Juárez's provincial / state-governor research trail.
+- Caution: the Index does not establish routes of travel, local sentiment, boundaries, labour organization, or political causation.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Oaxaca, State of` supplies selected routes to department, assembly, diocese, Félix Díaz, La Noria, senate, constitution, court, and legislature material.
+- Caution: Keep the State separate from [[Oaxaca_City|Oaxaca city]]; the Index does not establish institutional powers, legal development, chronology, or causal relations.

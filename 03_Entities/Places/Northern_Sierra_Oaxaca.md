@@ -3,7 +3,7 @@ id: "PLACE_NORTHERN_SIERRA_OAXACA"
 type: "place"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-18"
 tags:
   - "place"
   - "oaxaca"
@@ -51,3 +51,10 @@ Hamnettは、Oaxaca北部山地を、鉱業投資、染料・織物取引、商�
 - Themes: [[Oaxaca_Local_Markets|Oaxaca local markets]], [[Oaxaca_Provincial_Elite_Formation|Oaxaca provincial elite formation]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0213]], [[FACT_HAMNETT_JUAREZ_0217]], [[FACT_HAMNETT_JUAREZ_0221]], [[FACT_HAMNETT_JUAREZ_0228]], [[FACT_HAMNETT_JUAREZ_0231]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0097]], [[TIME_HAMNETT_JUAREZ_0104]]
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+The `Northern Highlands` label in [[CAP_HAMNETT_JUAREZ_0144]] is connected here as the north / north-east mountain zone around [[Guelatao]], [[Ixtlan|Ixtlán]], and [[Ixtepeji]].
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: The map label and this existing Northern Sierra scope should not be assumed perfectly coterminous.

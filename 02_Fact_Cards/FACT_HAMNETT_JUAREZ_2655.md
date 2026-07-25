@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2655"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "通達原文と法的根拠は未確認。"
 creative_use: "村落代表が土地防衛の権利を行使する転換点として使える。"
 cautions: "直接行動を無差別暴力として処理しない。"
 related_capture: "CAP_HAMNETT_JUAREZ_0112"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people:
   - "Manuel_Lozada"
 places:

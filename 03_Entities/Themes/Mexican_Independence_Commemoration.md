@@ -27,7 +27,7 @@ Entry note for Mexican Independence commemoration. Keep historical evidence, int
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_0303|Juárez's identification with Hidalgo emerged in the 1840 discourse]], [[FACT_HAMNETT_JUAREZ_0304|Juárez distinguished Conquistador Spain from Liberal Spain]], [[FACT_MEXEMP_1055|The TimesはDolores行事の熱狂を否定的に描いた]], [[FACT_MEXEMP_1056|ShawcrossはDolores行事に外国軍祝賀の矛盾を見ている]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_0303|Juárez's identification with Hidalgo emerged in the 1840 discourse]], [[FACT_HAMNETT_JUAREZ_0304|Juárez distinguished Conquistador Spain from Liberal Spain]], [[FACT_HAMNETT_JUAREZ_3393|Guerrero cooperated with Iturbide in implementing the Plan of Iguala]], [[FACT_HAMNETT_JUAREZ_3401|Iturbide moved from royalist service to independence and the First Empire]], [[FACT_MEXEMP_1055|The TimesはDolores行事の熱狂を否定的に描いた]], [[FACT_MEXEMP_1056|ShawcrossはDolores行事に外国軍祝賀の矛盾を見ている]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0141|Carlos María de Bustamante was a close associate of Morelos in southern Mexico.]], [[TIME_MEXEMP_0167|1864年9月16日ごろ、MaximilianがDoloresで演説したとされる]]
 - Source Notes:
 - Scenes:

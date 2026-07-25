@@ -51,3 +51,8 @@ Hamnett pp.208-209 refers to Méndez as the former Puebla governor who entered t
 - Related People: [[Rafael_J_Garcia|Rafael J. García]], [[Juan_Francisco_Lucas|Juan Francisco Lucas]]
 - Related Events: [[Puebla_Sierra_Unrest_1868_1869|Puebla sierra unrest, 1868-1869]]
 - Cautions: This note preserves the existing tentative connection to Juan N. Méndez, but the p.208 form "Méndez" still needs full-name confirmation.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; the Puebla `serrano caciques` see-also line appears to reference Juan Nepomuceno Méndez.
+- Caution: Punctuation and the two-person boundary with `Bonilla, Lucas` remain verification-needed; the Index adds no group membership, action, or relationship claim.

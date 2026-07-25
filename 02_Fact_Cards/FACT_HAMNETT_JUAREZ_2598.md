@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2598"
 type: "fact_card"
 status: "draft"
 created: "2026-07-09"
-updated: "2026-07-09"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "1867年12月18日の憲法保障停止は法令・議会記録�
 creative_use: "農民反乱対応が復興共和国の憲法政治を圧迫する閣議場面に使える。"
 cautions: "Confirm the legal procedure, scope, and affected regions."
 related_capture: "CAP_HAMNETT_JUAREZ_0110"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Benito_Juarez"]
 events: []
 places: ["Mexico"]

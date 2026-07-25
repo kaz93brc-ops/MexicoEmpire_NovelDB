@@ -3,7 +3,7 @@ id: "THEME_CONSTITUTIONALISM_OF_1857"
 type: "theme"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-06-25"
+updated: "2026-07-18"
 tags:
   - "theme"
   - "hamnett"
@@ -79,3 +79,9 @@ Hamnett pp.202-203 marks Juárez's move from wartime defender of the 1857 Consti
 - Related Events: [[Convocatoria_Of_1867_08_14|Convocatoria of 14 August 1867]], [[Constitution_Of_1857|Constitution of 1857]]
 - Related Themes: [[Constitutional_Restructuring|constitutional restructuring]], [[Executive_Power_Vs_Congress|executive power vs Congress]], [[Caciquismo_And_Central_Power|caciquismo and central power]]
 - Cautions: Guzmán's identity and source remain unverified; do not merge him with an existing Guzmán note without note confirmation.
+
+## Hamnett 1994 pp.278-279 Dramatis Personae Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0142]] connects Prieto and Ramírez to anti-reelection Liberal positions and Vallarta to Supreme Court constitutional defense under the Díaz transition.
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3456]], [[FACT_HAMNETT_JUAREZ_3460]], [[FACT_HAMNETT_JUAREZ_3468]]
+- Cautions: Anti-Juárez politics, anti-reelection, and constitutional defense are related but not interchangeable.

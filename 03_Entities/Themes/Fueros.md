@@ -3,7 +3,7 @@ id: "THEME_FUEROS"
 type: "theme"
 status: "stub"
 created: "2026-06-30"
-updated: "2026-06-30"
+updated: "2026-07-15"
 tags:
   - "theme"
   - "hamnett"
@@ -37,3 +37,17 @@ Use this as an institutional target of Liberal Reform, not as a vague dislike of
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0376]]
 - Related Themes: [[Clergy_And_Military_Privileges]], [[Liberal_Reform_And_Army_Privileges]]
 
+## Hamnett 1994 pp.262–263 Glossary Note
+
+Hamnett's Glossary uses fueros for corporate privilege and privileged jurisdiction or exemption, especially for clergy and military personnel.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0134]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3297]]
+- Related Event: [[Juarez_Law_On_Administration_Of_Justice_1855_11_23|Juárez Law]]
+- Related Themes: [[Corporate_Privilege|corporate privilege]], [[Juarez_Law_And_Jurisdictional_Reform|jurisdictional reform]], [[Church_State_Relations_Mexico|Church-state relations]]
+- Cautions: Confirm the exact scope of ecclesiastical and military jurisdiction in the primary legislation.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; fueros, fuero eclesiástico, and fuero militar appear as distinct locator routes.
+- Caution: the Index does not define legal scope or permit ecclesiastical and military jurisdictions to be treated as identical.

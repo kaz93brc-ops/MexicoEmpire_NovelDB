@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1617"
 type: "fact_card"
 status: "draft"
 created: "2026-07-03"
-updated: "2026-07-03"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter6"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -15,6 +15,7 @@ archive_page: "/page/134/mode/2up; Page 134 (149/323)"
 page: "printed page 135"
 kindle_location: ""
 screenshot_file: "スクリーンショット 2026-06-13 17.29.05.jpeg"
+additional_locators: ["Chronology, p.257, /page/256/mode/2up, Page 256 (271/323), スクリーンショット 2026-06-13 17.31.12.jpeg", "Chronology, p.258, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 printed_page_status: "confirmed"
 title: "Juarez government confined to Chihuahua state"
 statement: "The Juárez government was effectively confined to Chihuahua state from 12 October 1864 until 10 December 1866."
@@ -27,6 +28,7 @@ japanese_note: "Juárez政府は1864年10月12日から1866年12月10日までCh
 creative_use: "共和国政府が国境州に追い込まれる長期局面の骨格に使える。"
 cautions: "Confirm exact dates and route through Chihuahua."
 related_capture: "CAP_HAMNETT_JUAREZ_0070"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
 people: ["Benito_Juarez"]
 events: ["French_Intervention_in_Mexico"]
 places: ["Chihuahua"]
@@ -66,5 +68,5 @@ The Juárez government was effectively confined to Chihuahua state from 12 Octob
 - Organizations: [[Juarez_Government|Juárez government]]
 - Themes: [[Republican_Retreat_To_Chihuahua|Republican retreat to Chihuahua]], [[Republican_Government_In_Movement|Republican Government in Movement]], [[Republican_Resistance|Republican Resistance]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0070]]
-- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0551]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0551]], [[TIME_HAMNETT_JUAREZ_1272]]
 

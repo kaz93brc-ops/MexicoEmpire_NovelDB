@@ -27,7 +27,7 @@ Entry note for French financial intervention. Keep historical evidence, interpre
 - Places:
 - Events:
 - Themes: [[Jecker_Bonds|Jecker Bonds]], [[Public_Debt|Public Debt]]
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_2010|Morny and Saligny helped make Jecker claims a French diplomatic issue]], [[FACT_MEXEMP_1271|Napoleon IIIはJacques Langlaisを財政改革に送った]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_2010|Morny and Saligny helped make Jecker claims a French diplomatic issue]], [[FACT_HAMNETT_JUAREZ_3383|Dubois de Saligny served as French minister and promoted the Intervention]], [[FACT_HAMNETT_JUAREZ_3384|Saligny belongs to the diplomatic prehistory of the French Intervention]], [[FACT_MEXEMP_1271|Napoleon IIIはJacques Langlaisを財政改革に送った]]
 - Timeline Entries: [[TIME_MEXEMP_0186|1865年夏、Napoleon IIIはLanglaisを財政改革に派遣した]]
 - Source Notes:
 - Scenes:

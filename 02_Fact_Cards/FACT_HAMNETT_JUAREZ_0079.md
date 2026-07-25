@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0079"
 type: "fact_card"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;caciques;clientelism"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -22,6 +22,8 @@ source_note: "思想・運動と地方人的支配の媒介関係を示す箇所
 japanese_note: "自由主義や連邦主義を抽象理念だけで扱わないための重要カード。"
 creative_use: "理念を語る人物が同時に地方庇護網を使う二重性を描ける。"
 cautions: "clientelismやcaciquesを政治思想の外部に置かない。"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["GLOSSARY, p.261, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: []
 events: []
 places:

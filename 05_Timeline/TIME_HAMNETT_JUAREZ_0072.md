@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0072"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter1;siete-leyes"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -68,6 +68,10 @@ Siete Leyesが第一中央集権実験の憲法的基礎を成文化しようと
 - Evidence category: historical_fact
 - Confidence: probable
 - Verification needed: yes
+
+## Glossary Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0135|Glossary pp.264–265]] supplies a second locator for the 1836 `Siete Leyes`; no new Timeline entry was created.
 
 ## Creative Use
 

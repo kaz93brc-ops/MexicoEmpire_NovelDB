@@ -3,7 +3,7 @@ id: "PERSON_NICOLAS_BRAVO"
 type: "person"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-06-21"
+updated: "2026-07-15"
 tags:
   - "person"
   - "centralism"
@@ -47,3 +47,12 @@ Hamnettの今回箇所では、1827年Rebellion of Tulancingoにおいて、Mexi
 ## Cautions
 
 「陰謀」という評価の文脈確認が必要。centralism構想の具体内容は次ページ以降または別史料で確認する。
+
+## Hamnett 1994 p.269 Dramatis Personae Notes
+
+Hamnett connects Bravo's insurgent command and support for the Plan of Iguala to early republican executive roles and later opposition to Vicente Guerrero.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_0149]], [[FACT_HAMNETT_JUAREZ_0151]]
+- Related People: [[Jose_Maria_Morelos|José María Morelos]], [[Vicente_Guerrero|Vicente Guerrero]]
+- Open Questions: Confirm Plan of Iguala participation, Supreme Executive Power service, and the chronology of the Guerrero rupture.

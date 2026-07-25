@@ -2,7 +2,8 @@
 id: HAMNETT-INGESTION-READINESS
 type: report
 status: active
-created: 2026-07-15
+created: 2026-07-19
+updated: 2026-07-25
 tags:
   - hamnett
   - ingestion
@@ -13,9 +14,13 @@ tags:
 
 ## Summary
 
-- hamnett_fact_cards: 2896
-- hamnett_timeline_entries: 927
-- next_required_page: printed pages 256-257 / continue Chronology through the debt crisis, European intervention, and French Intervention; confirm the Federal Congress session range; local pp.146-147 gap remains unless handled elsewhere
+- hamnett_fact_cards: 3010
+- highest_existing_hamnett_fact_id: FACT_HAMNETT_JUAREZ_3484
+- highest_allocated_hamnett_fact_id: FACT_HAMNETT_JUAREZ_3503
+- retired_hamnett_fact_ids: FACT_HAMNETT_JUAREZ_3503 (must not be reused)
+- next_planned_hamnett_fact_id: FACT_HAMNETT_JUAREZ_3504
+- hamnett_timeline_entries: 928
+- next_required_page: screenshot 140 / pp.274-275 remains required; CAP0150 / pp.294-295 is not currently in repository history and needs a separate branch or PR; after the missing / held pages, inspect screenshot 153 / p.300 for possible Tixtla continuation and T onward; preserve local pp.146-147 gap
 
 ## Fact Cards By Section
 
@@ -25,6 +30,7 @@ tags:
 - MEXICO AND THE AMERICAN CIVIL WAR (1861-65): 84
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / THE VERACRUZ REFORM LAWS: 79
 - JUÁREZ'S POLICY OF UNCOMPROMISING RESISTANCE: 76
+- DRAMATIS PERSONAE: 72
 - THE COLLAPSE OF THE EMPIRE: 71
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE CRISIS IN THE ISTHMUS: 66
 - Chapter 6 / JUÁREZ AND CONGRESS continuation: 66
@@ -71,6 +77,7 @@ tags:
 - FÉLIX DÍAZ IN CONTROL OF OAXACA (1867-71): 24
 - PREFACE: 23
 - Chapter 3 / JUÁREZ AND LIBERALISM: 23
+- Glossary: 23
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / THE INSTITUTE OF SCIENCE AND ARTS: 22
 - "LIBERAL DIVISIONS IN PUEBLA" continuation: 22
 - Chapter 1 / Mexican Constitutionalism: 21
@@ -88,6 +95,7 @@ tags:
 - THE DÍAZ BROTHERS AND THE REBELLION OF LA NORIA: 15
 - Chapter 2 THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / NOTES AND REFERENCES: 14
 - "THE CONVOCATORIA OF AUGUST 1867 AND THE CONTROVERSY OVER CONSTITUTIONAL REFORM": 14
+- Chronology: 13
 - Chapter 6 / THE STATE GOVERNORS AND THE CIVIL WAR continuation: 12
 - Chapter 1 / The Aims of Mexican Liberalism: 10
 - THE REBELLION OF LA NORIA AND THE DESTRUCTION OF PORFIRIO DÍAZ (1871-72): 10
@@ -96,6 +104,7 @@ tags:
 - MARSHAL BAZAINE AND THE FRENCH RESPONSE continuation: 8
 - Chapter 5 / JUÁREZ AND THE CATHOLIC CHURCH / NOTES AND REFERENCES: 7
 - Chapter 6 / JUÁREZ AND THE STATE GOVERNORS: 6
+- Dramatis Personae: 6
 - Chapter 1: 5
 - Chapter 6 / JUÁREZ AND CONGRESS: 5
 - Chapter 6 / THE DECREES OF 8 NOVEMBER 1865: JUÁREZ’S COUP D’ÉTAT? conclusion: 5
@@ -106,7 +115,7 @@ tags:
 - TERRITORIAL CESSION AND TRANSIT RIGHTS: 4
 - Chapter opening: 4
 - "THE GROWTH OF OPPOSITION" begins: 4
-- Chronology: 4
+- GLOSSARY: 4
 - Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism: 3
 - "LIBERAL DIVISIONS IN PUEBLA" opening: 3
 - Chapter 9 THE LAST PERIOD OF JUAREZ PARTY CONSTITUTION AND POWER / NOTES AND REFERENCES: 3
@@ -206,6 +215,7 @@ tags:
 - MEXICO AND THE AMERICAN CIVIL WAR (1861-65) continuation: 2
 - Chapter opening: 2
 - MARSHAL BAZAINE AND THE FRENCH RESPONSE continuation: 2
+- Chronology: 2
 - Chapter 1: 1
 - Chapter 1 / Mexican Constitutionalism; The Aims of Mexican Liberalism: 1
 - Chapter 2, THE PROVINCIAL ORIGINS: JUÁREZ AND OAXACA / beginning of THE LIBERAL EXPERIMENT OF 1833-34: 1
@@ -214,11 +224,12 @@ tags:
 - "THE CIVIL WAR IN GUERRERO" conclusion: 1
 - La Noria repression continuation: 1
 - THE DEATH OF JUÁREZ - JULY 1872 begins: 1
-- Chronology: 1
 
 ## Next Checks From Progress Master
 
-- printed pages 252-253で、p.251末尾は文として完結していることを前提に、Bibliographical Essayが継続するか終了するかと次の資料区分を確認する。
+- screenshot 140 / pp.274-275 remains the Readiness entry. Screenshots 143-149 / pp.280-293 and user-directed screenshots 151-152 / pp.296-299 are processed out of sequence. CAP0150 / pp.294-295 is not currently in repository history, needs a separate branch or PR, and no local uncommitted checkout is durable progress evidence. After the missing / held pages, inspect screenshot 153 / p.300 for possible Tixtla continuation and T onward.
+- "Ten days later" の基準日、Wyke-Zamacona Treatyの正式名称・条項・議会否認日を確認する。
+- printed pages 258-259で、1866-67年、米国圧力、フランス撤退、Maximilian孤立、Querétaro、捕縛、軍法会議、処刑、共和政復帰へのChronology接続を確認する。
 - Favreの1867年12月2日発言原文・会議録、Weeksの正式書誌・刊行地、Covo／Salomon研究、APBJPS 1928年刊行情報、Díaz政権のJuárez神話利用開始時期を確認する。
 - SalinasのNAFTA関連テレビ演説日・媒体、1867年と1992年9月のHoly See関係の制度的正確性、Tamayo文書集の1964-71／1964-72年次齟齬を確認する。
 - Genaro García反論書1904年とBulnes本1905年の刊行順、Juan Sánchezの1902年刊行・1972年復刻、Gustavo Bazの著作名、Hilarión Frías y Sotoの1905年候補と既存1907年情報の不一致を確認する。
@@ -256,5 +267,3 @@ tags:
 - p.162本文の "Iglesias" はJosé María Iglesiasと断定しない。注32がFernando Iglesias Calderón著作を指すため、人物同定を保留する。
 - 注18のJuárez-Lincoln往復書簡未発見について、HAHR論文著者名の完全表記と論文情報、特にGordon L.のフルネームを確認する。
 - 注26-30はpp.164-165で注本文を確認済みだが、帝政派公式新聞、New York Herald 1866-12-16、Juárez 1868年3月書簡、Zarco 1866年9月書簡、Seward方針、武器購入許可との本文対応は引き続き確認する。
-- Fernando Iglesias Calderón 1905年著述、Hilarión Frías y Soto 1907年著述、Romero/Doblado 1864年10月領土割譲疑惑、Baja California/Sonora支配状況を確認する。
-- "Ten days later" の基準日、Wyke-Zamacona Treatyの正式名称・条項・議会否認日を確認する。

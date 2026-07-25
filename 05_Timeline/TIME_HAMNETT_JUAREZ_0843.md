@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0843"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-06"
-updated: "2026-07-06"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -53,6 +53,16 @@ The La Noria rebellion challenged Juárez's authority in 1871-72.
 - Archive page: /page/200/mode/2up; Page 200 (215/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.16.jpeg
 
+## Hamnett Dramatis Personae pp.270-271 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] connects Díaz's Liberal military career to his 1867-1872 opposition to Juárez and Hamnett's radical-wing classification in [[FACT_HAMNETT_JUAREZ_3377]]-[[FACT_HAMNETT_JUAREZ_3378]].
+
+## Hamnett 1994 p.269 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0137]] places Justo Benítez among Díaz associates who supported La Noria before later Tuxtepec involvement and an 1880 rupture.
+- Locator: p.269 / `/page/268/mode/2up` / `スクリーンショット 2026-06-13 17.31.27.jpeg`.
+- Tuxtepec and the 1880 succession dispute remain verification-needed and were not turned into new Hamnett Timeline entries.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -73,7 +83,7 @@ The La Noria rebellion challenged Juárez's authority in 1871-72.
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2409]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2409]], [[FACT_HAMNETT_JUAREZ_3377]], [[FACT_HAMNETT_JUAREZ_3378]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.30.16.jpeg

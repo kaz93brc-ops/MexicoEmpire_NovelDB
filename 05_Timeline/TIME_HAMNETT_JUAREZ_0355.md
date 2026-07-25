@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0355"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: "2026-07-18"
 tags: "timeline;hamnett;juarez;chapter4;tehuantepec"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -54,6 +54,12 @@ related_fact_cards:
 - Printed page: pp.78-79
 - Archive page: /page/78/mode/2up; Page 78 (93/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.28.07.jpeg
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0144]] places the Isthmus and Tehuantepec far east / south-east of Oaxaca City, with Juchitán farther east toward Chiapas.
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: route difficulty and administrative distance remain inference; no new Timeline entry was created.
 
 ## Evidence Notes
 

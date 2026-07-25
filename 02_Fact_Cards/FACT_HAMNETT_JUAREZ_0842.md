@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0842"
 type: "fact_card"
 status: "draft"
 created: "2026-06-25"
-updated: "2026-06-25"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter4;jefe-politico;tierras-baldias"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "スペイン語制度用語としてjefe políticoとtierras bal
 creative_use: "自由主義的連邦制の下で地方統制が行政・選挙・徴兵・土地管理に及ぶ場面に使える。"
 cautions: "地方社会を一律に犯罪化・後進化せず、制度権限と地域差を注3で確認する。"
 related_capture: "CAP_HAMNETT_JUAREZ_0039"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0134"]
+additional_locators: ["Glossary, pp.262–263, /page/262/mode/2up, Page 262 (277/323), スクリーンショット 2026-06-13 17.31.18.jpeg"]
 people: []
 events:
   - "Constitution_Of_1857"

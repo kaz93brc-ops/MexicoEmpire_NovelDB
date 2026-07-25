@@ -113,3 +113,10 @@ Hamnett p.234 closes Chapter 10 by noting that Juárez's daughter Manuela marrie
 - Related Event: [[Pedro_Santacilia_Manuela_Juarez_Marriage_1863|Pedro Santacilia Manuela Juárez marriage, 1863]]
 - Related Themes: [[Juarez_Family|Juárez family]], [[French_Intervention_And_Exile_Family_Networks|French Intervention and exile family networks]]
 - Cautions: This is a family-afterword link; use earlier notes for marriage date and exile-network detail.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Santacilia, Pedro` begins a new p.299 heading after the Santa Anna continuation.
+- Main-text route: consult the selected page-number locators printed under this heading, then verify the cited body pages.
+- Caution: The Index adds no family, exile, editorial, or political-role claim.

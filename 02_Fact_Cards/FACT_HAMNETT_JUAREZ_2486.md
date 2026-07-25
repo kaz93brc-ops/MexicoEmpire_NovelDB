@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2486"
 type: "fact_card"
 status: "draft"
 created: "2026-07-06"
-updated: "2026-07-06"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "非常大権返上の公的記録は要確認。"
 creative_use: "戦時統治から議会政治へ戻る象徴的場面にできる。"
 cautions: "Confirm congressional records and the exact procedural context."
 related_capture: "CAP_HAMNETT_JUAREZ_0106"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg"]
 people: ["Benito_Juarez"]
 events: []
 places: ["Mexico"]

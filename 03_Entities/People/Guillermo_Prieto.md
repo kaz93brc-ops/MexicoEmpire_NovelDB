@@ -3,7 +3,7 @@ id: "PERSON_GUILLERMO_PRIETO"
 type: "person"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-18"
 tags:
   - "person"
   - "hamnett"
@@ -83,3 +83,18 @@ Hamnett pp.148-149 uses Prieto's communication to Mata as evidence for a favorab
 - Related People: [[Jose_Maria_Mata]], [[Benito_Juarez]]
 - Related Themes: [[US_Mexico_Relations]], [[United_States_Recognition_Issue]], [[Mexican_Liberalism]]
 - Cautions: Check Chapter 7 note 6 before treating the wording as direct evidence of Juárez's private conviction.
+
+## Hamnett 1994 p.278 Dramatis Personae Notes
+
+Hamnett p.278 connects Prieto's literary and journalistic identity to Ayutla support, the 1856-1857 Constituent Congress, repeated Finance service, and later independence from Juárez and the 1876 constitutionalists.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
+- New Fact Cards: [[FACT_HAMNETT_JUAREZ_3455]], [[FACT_HAMNETT_JUAREZ_3456]]
+- Reused Fact Cards: [[FACT_HAMNETT_JUAREZ_0700]], [[FACT_HAMNETT_JUAREZ_1481]]
+- Related Events: [[Plan_of_Ayutla]], [[Constituent_Congress_Of_1856_1857]]
+- Cautions: Confirm each Finance term and the 1867 / 1876 political positions separately.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Prieto, Guillermo` supplies a broad selected route to this existing Person.
+- Caution: The Index adds no office, action, chronology, position, or causal role.

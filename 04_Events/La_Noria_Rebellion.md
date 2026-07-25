@@ -3,7 +3,7 @@ id: "EVENT_LA_NORIA_REBELLION"
 type: "event"
 status: "stub"
 created: "2026-07-06"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags:
   - "event"
   - "hamnett"
@@ -165,3 +165,26 @@ Hamnett p.234 treats Juárez's death as removing the pretext for the Díaz rebel
 - Existing Timeline: [[TIME_HAMNETT_JUAREZ_0843]]
 - Hamnett frames the revolt through a double claim: Díaz invoked constitutional defence while undertaking an armed extra-constitutional challenge, then underestimated Juárez's political mastery.
 - Cautions: Keep constitutional rhetoric, armed action, and Hamnett's evaluative language distinct.
+
+## Hamnett 1994 p.260 Chronology Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Related Interpretation: [[FACT_HAMNETT_JUAREZ_3270]]
+- Existing Fact Card: [[FACT_HAMNETT_JUAREZ_2744]]
+- Existing Timeline: [[TIME_HAMNETT_JUAREZ_1016]]
+- Note: Chronology p.260 confirms the event's place between Juárez's re-election crisis and the loyalist suppression sequence; the formal document title, issuer, and publication details still require verification.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Porfirio Díaz subentry provides an additional route to Rebellion of La Noria passages.
+- Caution: use existing Fact and Timeline evidence for the revolt; the Index adds no date, motive, or causal sequence.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; Rebellion of La Noria appears within the cross-page Juárez hierarchy.
+- Caution: the Index adds no chronology, motive, responsibility, or causal connection; keep the separate `supposed coup d’état` qualification intact.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; Oaxaca State and the independent Rebellion of La Noria entry both route to this existing Event / Plan alias structure.
+- Caution: The Index adds no event content, actors, chronology, motive, or outcome.

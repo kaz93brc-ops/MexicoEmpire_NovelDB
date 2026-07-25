@@ -3,7 +3,7 @@ id: EVT-FRENCH-INTERVENTION-IN-MEXICO
 type: event
 status: draft
 created: 2026-05-31
-updated: 2026-07-03
+updated: 2026-07-18
 tags:
   - event
   - french-intervention
@@ -121,3 +121,40 @@ Hamnett pp.170-171 frames the French Intervention as tied to Napoleon III's glob
 - [[TIME_HAMNETT_JUAREZ_0003]]
 - [[TIME_HAMNETT_JUAREZ_0004]]
 - [[TIME_HAMNETT_JUAREZ_0005]]
+
+## Hamnett 1994 pp.258-259 Chronology Conclusion Notes
+
+Chronology pp.258-259 closes the intervention through French withdrawal, Maximilian's Orizaba crisis, Querétaro, execution, and the republican return, then opens the Restored Republic as a still-contested reconstruction.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0132]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3240]], [[FACT_HAMNETT_JUAREZ_3241]], [[FACT_HAMNETT_JUAREZ_3246]], [[FACT_HAMNETT_JUAREZ_3247]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0654]], [[TIME_HAMNETT_JUAREZ_0755]], [[TIME_HAMNETT_JUAREZ_0779]], [[TIME_HAMNETT_JUAREZ_0805]], [[TIME_HAMNETT_JUAREZ_0840]]
+- Cautions: Keep French withdrawal, republican military advance, mobile-government continuity, and postwar instability visible together.
+
+## Hamnett 1994 pp.278-279 Dramatis Personae Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0142]] uses Prim to show that European intervention was not a single French-led political project and uses Vallarta to connect wartime exile with republican return.
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3457]], [[FACT_HAMNETT_JUAREZ_3466]]
+- Cautions: Keep Spanish withdrawal, French escalation, and Mexican internal politics analytically separate.
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] provides republic-wide geographic context for the Intervention's 1867 endpoint and later republican restoration.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: Map 3 is not a campaign, occupation, withdrawal, or control-area map.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; Bazaine and Catholic Church entries provide selected routes into the Intervention narrative.
+- Caution: use the cited main-text pages to distinguish French policy, military command, Mexican allies, Church actors, and republican resistance.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Conservative Party subentry provides another route into French Intervention passages.
+- Caution: the Index does not define Conservative alignment, internal differences, or causation.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the French Intervention entry includes a Juárez subentry and provides a reciprocal locator to [[Benito_Juarez|Benito Juárez]].
+- Caution: this is not a new Relationship claim and does not establish policy, sequence, or causation.

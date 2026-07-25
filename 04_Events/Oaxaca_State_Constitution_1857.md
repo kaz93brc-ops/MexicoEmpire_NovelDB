@@ -3,7 +3,7 @@ id: "EVENT_OAXACA_STATE_CONSTITUTION_1857"
 type: "event"
 status: "stub"
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: "2026-07-18"
 tags:
   - "event"
   - "hamnett"
@@ -40,3 +40,10 @@ Use this as a state-level scene for Juárez's constitutional legitimacy language
 - Places: [[Oaxaca]]
 - Organizations: [[Oaxaca_State_Government]], [[Oaxaca_State_Legislature]]
 - Themes: [[Constitutionalism_Of_1857]], [[Republican_Legitimacy]], [[Rule_of_Law]]
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] adds a geographic locator for the 1857 Oaxaca context, showing the capital, Northern Highlands, Mixteca zones, coast, and Isthmus within the state frame.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: The map does not itself establish constitutional causation or exact administrative boundaries.

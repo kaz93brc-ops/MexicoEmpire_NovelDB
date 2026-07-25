@@ -39,3 +39,8 @@ Bourbon monarchyの復位国王。Hamnettの整理では、1812年憲法を受�
 ## Cautions
 
 Ferdinand VIIの復位後政策はSpanish America全体の独立過程と絡むため、具体措置・法令・時系列は別資料で確認する。
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Ferdinand VII` provides a selected main-text locator.
+- Caution: no reign chronology, policy, or causal connection is inferred from the Index.

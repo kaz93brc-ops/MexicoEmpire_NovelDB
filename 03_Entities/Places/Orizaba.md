@@ -36,3 +36,8 @@ coordinates: ""
 ## Source Notes
 
 -
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Orizaba (Veracruz)` reuses this existing Place route.
+- Caution: The Index adds no modern-boundary identity, occupation, movement, chronology, or causal role.

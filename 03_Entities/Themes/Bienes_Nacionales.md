@@ -35,3 +35,8 @@ Use this theme to make Church-state conflict concrete through ownership claims, 
 - Events: [[Imperial_Decrees_On_Bienes_Nacionales_1864_1865]]
 - Themes: [[Nationalization_Of_Ecclesiastical_Property]], [[Reform_Laws]]
 
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the bienes nacionales entry provides a selected property-policy and Reform Laws locator.
+- Caution: confirm whether each cited passage concerns Church property, nationalized property, imperial decrees, or another usage.
+

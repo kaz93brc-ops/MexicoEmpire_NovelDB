@@ -3,7 +3,7 @@ id: "THEME_MILITARY_POLITICS"
 type: "theme"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-18"
 tags:
   - "theme"
   - "hamnett"
@@ -33,3 +33,9 @@ theme_kind: "political"
 ## Cautions
 
 軍事介入を単純な制度外暴力としてだけ扱わない。
+
+## Hamnett 1994 p.279 Santa Anna Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0142]] uses Santa Anna's long, shifting career and post-1855 return attempts as a navigation point across federalism, centralism, war, exile, and the Second Empire.
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3464]]
+- Cautions: Do not reduce Santa Anna to a stable Conservative identity or a timeless dictator.

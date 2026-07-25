@@ -52,3 +52,8 @@ Hamnett p.77 says Oaxaca's 1857 constitutional election process elected politica
 - Related People: [[Benito_Juarez]], [[Jose_Maria_Diaz_Ordaz]], [[Miguel_Castro]], [[Ignacio_Mejia]], [[Fernando_Fernandez_del_Campo]], [[Jose_Esperon]], [[Manuel_Dublan]], [[Felix_Romero]]
 - Related Organizations: [[Oaxaca_Party]], [[Liberal_Party_Mexico]]
 - Cautions: Confirm election law, seat count, population ratio, and speech source.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `State Legislature (Congress)` remains a subentry of `Oaxaca, State of`.
+- Caution: The Index supplies locators only and does not determine chamber structure, membership, powers, or legislative action.

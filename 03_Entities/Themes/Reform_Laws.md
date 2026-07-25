@@ -3,7 +3,7 @@ id: "THEME_REFORM_LAWS"
 type: "theme"
 status: "stub"
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-07-15"
 tags:
   - "theme"
   - "hamnett"
@@ -54,3 +54,21 @@ Use as a legislative turning point tied to Veracruz politics, Church property, c
 - Events: [[Reform_War]], [[Manifesto_To_The_Nation]], [[Veracruz_Reform_Laws_1859_07_12]], [[Ecclesiastical_Property_Nationalization_Law_1859_07_12]], [[Civil_Marriage_Law_1859_07_23]], [[Civil_Registry_Law_1859_07_28]], [[Religious_Liberty_Law_1860_12_04]], [[Pastoral_Letter_1859_08_30]]
 - Organizations: [[Veracruz_Liberal_Regime]], [[State_Governments]], [[Catholic_Church]], [[Juarez_Government]], [[Conservative_Party]]
 - Themes: [[Church_State_Relations_Mexico]], [[Church_Property]], [[Disentailment_Disamortization]], [[Liberal_Factionalism]], [[Liberal_Reform]], [[Church_State_Separation]], [[Nationalization_Of_Ecclesiastical_Property]], [[Civil_Marriage]], [[Civil_Registry]], [[Religious_Toleration]]
+
+## Hamnett 1994 p.261 Glossary Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3280]]
+- Note: The bienes nacionales entry supplies a compact terminology cross-reference to the 1859 Church-property nationalization framework; the Glossary definition is not a substitute for the individual laws.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Catholic Church and bienes nacionales entries provide routes back to Reform Laws, Church property, and jurisdiction passages.
+- Caution: Index locators do not establish the content, sequence, implementation, or reception of individual laws.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Reform Laws` reuses this existing Theme route.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: Keep the laws distinct from the Reform Movement, the Civil War of the Reform, and the Restored Republic.

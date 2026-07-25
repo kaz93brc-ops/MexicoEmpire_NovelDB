@@ -26,14 +26,14 @@ Entry note for Sierra Gorda. Verify details in linked Fact Cards and Timeline En
 
 ## Linked Items
 
-- People:
+- People: [[Tomas_Mejia|Tomás Mejía]]
 - Organizations:
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_2636|Hamnett compares Nayarit with Oaxaca Isthmus and Sierra Gorda obstacles]], [[FACT_MEXEMP_0003|メヒアはオトミ系の保守派軍人として描かれている]], [[FACT_MEXEMP_0701|Tomás Mejíaは帝国への忠誠を最近表明した地方軍指揮官として描かれる]], [[FACT_MEXEMP_0702|MejíaはSierra Gorda出身のOtomíとして描かれる]], [[FACT_MEXEMP_0704|Mejíaは内戦期に保守派として戦い地元から忠実な部隊を集めた]], [[FACT_MEXEMP_0705|1861年以後、Mejíaは山岳地帯で抵抗を続けた]], [[FACT_MEXEMP_0706|Mejíaは派遣された政府軍を撃退したとされる]], [[FACT_MEXEMP_0710|QuerétaroではMejía軍が解放者として歓迎されたとされる]], [[FACT_MEXEMP_2263|Salm-Salm隊は夜間に川を渡りSierra Gorda方面へ進む計画だった]], [[FACT_MEXEMP_2318|帝政主力はSierra Gordaへ脱出する予定だった]], [[FACT_MEXEMP_2319|Maximilianは最終的な海岸脱出も想定していた]], [[FACT_MEXEMP_2400|The escape route was planned through Sierra Gorda and Veracruz]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_2636|Hamnett compares Nayarit with Oaxaca Isthmus and Sierra Gorda obstacles]], [[FACT_HAMNETT_JUAREZ_3437|Hamnett roots Tomás Mejía in Otomí Sierra Gorda militia networks]], [[FACT_HAMNETT_JUAREZ_3438|Tomás Mejía jointly proclaimed the Plan of Sierra Gorda]], [[FACT_HAMNETT_JUAREZ_3440|Hamnett gives Tomás Mejía's anti-Liberal struggle a crusading quality]], [[FACT_MEXEMP_0003|メヒアはオトミ系の保守派軍人として描かれている]], [[FACT_MEXEMP_0701|Tomás Mejíaは帝国への忠誠を最近表明した地方軍指揮官として描かれる]], [[FACT_MEXEMP_0702|MejíaはSierra Gorda出身のOtomíとして描かれる]], [[FACT_MEXEMP_0704|Mejíaは内戦期に保守派として戦い地元から忠実な部隊を集めた]], [[FACT_MEXEMP_0705|1861年以後、Mejíaは山岳地帯で抵抗を続けた]], [[FACT_MEXEMP_0706|Mejíaは派遣された政府軍を撃退したとされる]], [[FACT_MEXEMP_0710|QuerétaroではMejía軍が解放者として歓迎されたとされる]], [[FACT_MEXEMP_2263|Salm-Salm隊は夜間に川を渡りSierra Gorda方面へ進む計画だった]], [[FACT_MEXEMP_2318|帝政主力はSierra Gordaへ脱出する予定だった]], [[FACT_MEXEMP_2319|Maximilianは最終的な海岸脱出も想定していた]], [[FACT_MEXEMP_2400|The escape route was planned through Sierra Gorda and Veracruz]]
 - Timeline Entries: [[TIME_MEXEMP_0110|1861年、Mejíaが山岳地帯で抵抗を続けたとされる]], [[TIME_MEXEMP_0360|1867年4月15日推定、Salm-Salmの夜間突破は失敗した]], [[TIME_MEXEMP_0368|1867年5月13日、帝政側の東方脱出攻撃が設定された]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0111]], [[CAP_MEXEMP_0092]], [[CAP_MEXEMP_0094]], [[CAP_MEXEMP_0097]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0111]], [[CAP_HAMNETT_JUAREZ_0141]], [[CAP_MEXEMP_0092]], [[CAP_MEXEMP_0094]], [[CAP_MEXEMP_0097]]
 - Scenes:
 - Questions:
 
@@ -59,3 +59,10 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - Which linked claims are strong enough for scene design?
 - Which source passages still need page-level verification?
+
+## Hamnett 1994 p.276 Dramatis Personae Notes
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0141]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3437]], [[FACT_HAMNETT_JUAREZ_3438]], [[FACT_HAMNETT_JUAREZ_3440]]
+- Note: the entry makes Sierra Gorda central to Tomás Mejía's militia career, regional Conservative resistance, and religious-political framing.
+- Cautions: confirm the Plan of Sierra Gorda text, date, geography, and named associates before creating a separate Event stub.

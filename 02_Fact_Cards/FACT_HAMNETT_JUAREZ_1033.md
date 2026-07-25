@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1033"
 type: "fact_card"
 status: "draft"
 created: "2026-06-30"
-updated: "2026-06-30"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter5;sierra"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "Sierraの語法をHamnett経由の後世解釈として扱う。
 creative_use: "自由主義内部の急進派像を、同時代政治ではなく後世史学のラベルとして使える。"
 cautions: "Sierraの原典・注8確認が必要。"
 related_capture: "CAP_HAMNETT_JUAREZ_0048"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0134"]
+additional_locators: ["Glossary, pp.262–263, /page/262/mode/2up, Page 262 (277/323), スクリーンショット 2026-06-13 17.31.18.jpeg"]
 people: ["Justo_Sierra", "Melchor_Ocampo"]
 events: ["Reforma"]
 places: ["Mexico"]
@@ -65,4 +67,3 @@ Hamnettは、Justo SierraがOcampo派の自由主義者を「Jacobins」と呼�
 - Themes: [[Radical_Liberalism]], [[Historiography_Of_Juarez]], [[Liberal_Factionalism]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0048]]
 - Related Timeline Entries:
-

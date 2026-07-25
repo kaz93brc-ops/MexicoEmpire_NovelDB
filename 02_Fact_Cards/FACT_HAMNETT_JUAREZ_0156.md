@@ -79,3 +79,7 @@ Hamnettは、Rebellion of the Acordadaが1829年にGuerreroを大統領に押し
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0010]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0066]]
 
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] repeats the Acordada-to-Guerrero connection and adds Zavala's later 1833-34 Finance service, which is separated in [[FACT_HAMNETT_JUAREZ_3478]].
+- Locator: p.280 / `/page/280/mode/2up` / `スクリーンショット 2026-06-13 17.31.41.jpeg`.

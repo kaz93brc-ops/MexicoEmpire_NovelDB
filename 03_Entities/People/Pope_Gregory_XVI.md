@@ -38,3 +38,8 @@ Use to connect Oaxaca's local ecclesiastical vacancy to papal policy and the pos
 - Timeline Entry: [[TIME_HAMNETT_JUAREZ_0391]]
 - Related Organizations: [[Papacy]], [[Catholic_Church]], [[Diocese_Of_Oaxaca]]
 
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Gregory XVI, Pope` provides a selected main-text locator.
+- Caution: no doctrinal position, policy, or Mexico-specific action is inferred from the Index.
+

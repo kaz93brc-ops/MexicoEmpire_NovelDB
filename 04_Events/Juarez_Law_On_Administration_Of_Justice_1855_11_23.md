@@ -9,6 +9,12 @@ tags:
   - "hamnett"
   - "juarez-law"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
+canonical_name: "Juárez Law"
+aliases:
+  - "Juárez Law"
+  - "Juarez Law"
+  - "Ley Juárez"
+  - "Ley Juarez"
 date: "1855-11-23"
 date_precision: "day"
 verification_needed: "yes"
@@ -57,3 +63,8 @@ Hamnett pp.96-97 treats the law as an administrative justice law issued under Al
 - Chronology locator: [[CAP_HAMNETT_JUAREZ_0129]] / p.253 / `/page/252/mode/2up`.
 - The 1855-11-23 law is placed within Juárez's justice and ecclesiastical-affairs ministry; existing [[FACT_HAMNETT_JUAREZ_0704|Fact0704]] and [[TIME_HAMNETT_JUAREZ_0299|Timeline0299]] were reused.
 - Planned Fact3156 and Timeline1216 were held as duplicates.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; the Juárez hierarchy explicitly pairs `Juárez Law` with `Ley Juárez`.
+- Caution: aliases are consolidated here to prevent duplicate law cards; the Index adds no date, legal content, or implementation evidence.

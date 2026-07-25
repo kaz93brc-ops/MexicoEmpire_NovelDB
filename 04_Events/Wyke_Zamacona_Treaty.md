@@ -3,7 +3,7 @@ id: "EVENT_WYKE_ZAMACONA_TREATY"
 type: "event"
 status: "stub"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-18"
 tags:
   - "event"
   - "hamnett"
@@ -38,3 +38,10 @@ Use as a scene of diplomatic compromise collapsing under domestic congressional 
 - People: [[Manuel_Maria_Zamacona]], [[Charles_Wyke]]
 - Organizations: [[Juarez_Government]], [[Mexican_Congress]], [[British_Government]]
 - Themes: [[Public_Debt]], [[European_Intervention]], [[US_Mexico_Relations]]
+
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] connects Zamacona's 13 July-26 November 1861 Foreign Relations term and resignation to congressional rejection of the treaty.
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3470]]
+- Existing Timeline: [[TIME_HAMNETT_JUAREZ_0633]]
+- Cautions: Confirm formal title, articles, congressional rejection date, and resignation procedure.

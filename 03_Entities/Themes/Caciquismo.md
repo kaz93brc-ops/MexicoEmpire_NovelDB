@@ -3,7 +3,7 @@ id: "THEME_CACIQUISMO"
 type: "theme"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-15"
 tags:
   - "theme"
   - "caciquismo"
@@ -45,3 +45,26 @@ Hamnettは、Juan ÁlvarezをGuerreroの精神的後継者であり、1820年代
 ## Cautions
 
 Caciquismoを近代政治の外部としてではなく、連邦制や地域政治と結びついた実践として整理する。
+
+## Hamnett 1994 p.261 Glossary Note
+
+Glossary p.261 ties cacicazgo / cacique to landownership, patronage, armed followings, and local mediation.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3279]]
+- Related Themes: [[Landownership]], [[Patron_Client_Networks|patron-client networks]], [[Armed_Politics|armed politics]], [[Regional_Elites|regional elites]]
+- Cautions: Treat the definition as Hamnett's organizing concept, not a mechanical label for every regional leader.
+
+## Hamnett 1994 pp.262–263 Glossary Note
+
+Hamnett continues the p.261 cacique / cacicazgo cluster by defining caciquismo as a private power network centered on a cacique.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0134]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3290]]
+- Related Themes: [[Clientelism]], [[Patron_Client_Networks|patron-client networks]], [[Regional_Elites|regional elites]]
+- Cautions: Treat this as an author-supplied analytical category, not a universal label for local politics.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; `cacicazgo`, `caciques`, and `caciquismo` form a selected cross-reference cluster for regional power and popular politics.
+- Caution: keep the three terms analytically distinct until their cited main-text uses are checked.

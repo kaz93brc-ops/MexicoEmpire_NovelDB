@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0136"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter2;centralist-republic"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -61,6 +61,12 @@ The centralist system brought Bustamante to the presidency in the year following
 - Page: printed page 26-27
 - Kindle location:
 - Screenshot file: スクリーンショット 2026-06-13 17.23.13.jpeg
+
+## Hamnett 1994 p.269 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0137]] connects Bustamante's 1837 return to a wider royalist-to-conservative military-political career.
+- Locator: p.269 / `/page/268/mode/2up` / `スクリーンショット 2026-06-13 17.31.27.jpeg`.
+- No new Timeline entry was created because this entry already records his return under the centralist system.
 
 ## Evidence Notes
 

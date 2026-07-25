@@ -46,3 +46,14 @@ Hamnett p.68 places Miguel Lerdo de Tejada among the leading puros and connects 
 - Related People: [[Miguel_Lerdo_De_Tejada]], [[Jose_Maria_Lafragua]], [[Montes]], [[Ignacio_Comonfort]]
 - Related Themes: [[Reform_Legislation]], [[Disentailment_Disamortization]], [[Puros_Vs_Moderates]], [[Liberal_Factionalism]]
 - Cautions: purosを現代的な単純な急進派ラベルに置き換えず、19世紀メキシコ政治語として扱う。
+
+## Hamnett 1994 p.265 Glossary Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0135]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3320]]
+- Note: The Glossary summarizes puros as radical, anticlerical Liberals pressing rapid Reform; membership and period-specific usage remain to be checked.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `puros` reuses this existing faction route.
+- Caution: The Index adds no membership, programme, period-specific usage, or relationship to nearby entries.

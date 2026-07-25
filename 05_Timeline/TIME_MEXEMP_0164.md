@@ -3,7 +3,7 @@ id: "TIME_MEXEMP_0164"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-03"
-updated: "2026-06-03"
+updated: "2026-07-16"
 tags:
   - "timeline"
   - "chapter2"
@@ -63,6 +63,11 @@ Agustín de Iturbideが独立宣言後にMexico Cityへ入城し、保守派が�
 - Page: Kindle PC 147/400ページ
 - Kindle location: No.2053/7062
 - Screenshot file: スクリーンショット 2026-05-31 13.08.31.png
+
+## Hamnett Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0139|Hamnett, Dramatis Personae pp.272–273]] links Guerrero and Iturbide through the Plan of Iguala and places Iturbide in the First Empire prehistory.
+- A separate Plan of Iguala / First Empire Timeline remains candidate-only pending exact local naming and date verification.
 
 ## Evidence Notes
 

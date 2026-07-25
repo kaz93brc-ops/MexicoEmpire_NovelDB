@@ -45,3 +45,8 @@ Hamnett p.86 connects Juárez's freemasonry and Maximilian's masonic affiliation
 ## Cautions
 
 所属人物、都市別組織、政治的実態は別史料で確認する。
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; freemasonry and masonic lodges appear as separate locator routes.
+- Caution: membership, lodge identity, political activity, and organizational continuity are not inferred from the Index.

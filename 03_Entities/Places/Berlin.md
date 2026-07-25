@@ -33,7 +33,7 @@ Entry note for Berlin. Verify details in linked Fact Cards and Timeline Entries.
 - Themes:
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_2069|Maximilian sent Miramon and Marquez abroad]], [[FACT_MEXEMP_1921|MiramónはBerlin任務に正式復帰していなかった]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0710|Maximilian sends Miramon to Berlin]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0090]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0090]], [[CAP_HAMNETT_JUAREZ_0141]]
 - Scenes:
 - Questions:
 

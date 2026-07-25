@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0779"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-05"
-updated: "2026-07-05"
+updated: "2026-07-18"
 tags: "timeline;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "Maximilian, Miramón and Mejía were captured at Cerro de las Campanas and formally surrendered."
 creative_use: "Use as a dated collapse-of-the-Empire beat after source checking."
 related_capture: "CAP_HAMNETT_JUAREZ_0096"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132", "CAP_HAMNETT_JUAREZ_0145"]
+additional_locators: ["Chronology, pp.258–259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg", "Map 3, pp.284–285, /page/284/mode/2up, Page 284 (299/323), スクリーンショット 2026-06-13 17.31.46.jpeg"]
 people: ["Maximilian", "Miguel_Miramon", "Tomas_Mejia"]
 events: ["Fall_of_Queretaro", "Siege_of_Queretaro"]
 places: ["Cerro_de_las_Campanas", "Queretaro"]
@@ -54,6 +56,10 @@ Maximilian, Miramón and Mejía were captured at Cerro de las Campanas and forma
 - Printed page: p.187
 - Archive page: /page/186/mode/2up; Page 186 (201/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.01.jpeg
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0145]] places Querétaro north-west of Mexico City; it is not evidence for siege lines, control zones, or the surrender procedure.
 
 ## Evidence Notes
 

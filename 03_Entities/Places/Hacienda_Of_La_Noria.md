@@ -47,3 +47,8 @@ Hamnett p.227 says Hacienda of La Noria became an arsenal during La Noria prepar
 - Capture: [[CAP_HAMNETT_JUAREZ_0116]]
 - Related Fact Card: [[FACT_HAMNETT_JUAREZ_2769]]
 - Cautions: Confirm timing, stored weapons, and command responsibility before using as detailed military logistics.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Hacienda de La Noria (Oaxaca)` provides selected main-text locators.
+- Caution: location detail, ownership, activity, and political role are not added from the Index.

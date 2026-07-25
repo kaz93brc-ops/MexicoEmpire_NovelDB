@@ -3,7 +3,7 @@ id: "PERSON_JOSE_MARIA_IGLESIAS"
 type: "person"
 status: "stub"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -40,3 +40,11 @@ Use as a sovereignty-focused republican voice only after separating this figure 
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0669]]
 - Events: [[Sewards_Plea_For_Maximilians_Life_1867]]
 
+## Hamnett 1994 pp.272-273 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0139]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3398]], [[FACT_HAMNETT_JUAREZ_3399]], [[FACT_HAMNETT_JUAREZ_3400]]
+- Related People: [[Benito_Juarez]], [[Sebastian_Lerdo_De_Tejada]]
+- Related Organizations / Themes: [[Juarez_Government]], [[Restored_Republic]], [[Constitutional_Legitimacy]], [[Legality_And_Legitimacy]], [[Parish_Dues]]
+- Note: Juárez移動政府・法務財務司法官職・1876–77年Salamanca政府主張を、制度的人物と合法性論争の両面から接続する。
+- Cautions: p.162の未同定Iglesiasとは分離し、任期・最高裁関係・legal government評価を確認する。

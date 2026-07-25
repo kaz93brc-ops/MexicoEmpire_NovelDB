@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2820"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "p.229末尾の未完語はChacalapaで解消され、捕縛か�
 creative_use: "Juchitán側の記憶と報復を、単純な暴徒像にせず描く場面に使える。"
 cautions: "Exact date, execution sequence, and agency require note 13 and adjacent-source verification."
 related_capture: "CAP_HAMNETT_JUAREZ_0118"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Felix_Diaz"]
 events: ["La_Noria_Rebellion"]
 places: ["Chacalapa", "Juchitan"]

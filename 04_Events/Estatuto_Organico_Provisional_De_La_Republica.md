@@ -37,3 +37,8 @@ Use as the legal flashpoint through which Oaxaca Liberals challenge Comonfort's 
 - People: [[Ignacio_Comonfort]], [[Jose_Maria_Lafragua]], [[Benito_Juarez]]
 - Themes: [[Constitutionalism]], [[Federalism_Centralism_Conflict]]
 
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Estatuto Orgánico Provisional (1856)` provides a selected main-text locator.
+- Caution: authorship, legal content, implementation, and political significance require narrative or document verification.
+

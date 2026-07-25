@@ -2,8 +2,8 @@
 id: "Index_Timeline"
 type: "index_note"
 status: "active"
-created: "2026-07-15"
-updated: "2026-07-15"
+created: "2026-07-18"
+updated: "2026-07-18"
 tags:
   - "index"
   - "timeline"
@@ -13,7 +13,7 @@ tags:
 
 ## Summary
 
-- Timeline Entries: 1252
+- Timeline Entries: 1253
 - Entries with no backlinks: 1
 
 ## Entries
@@ -1257,6 +1257,7 @@ tags:
 - 1928: [[TIME_HAMNETT_JUAREZ_1196|APBJPS publication year is given as 1928]]
 - 1968–1983: [[TIME_HAMNETT_JUAREZ_1197|English-language Reform scholarship appears from 1968 to 1983]]
 - 1818: [[TIME_HAMNETT_JUAREZ_1211|Juarez arrives in Oaxaca City in 1818]]
+- 1866-06-17/1866-12-10: [[TIME_HAMNETT_JUAREZ_1272|Juarez resides in Chihuahua City during 1866]]
 - : [[Timeline_Index|Timeline Index]]
 - after 1520: [[TIME_HAMNETT_JUAREZ_0089|after 1520、Spanish ConquestがOaxacaへ及んだ]]
 - after 1765: [[TIME_HAMNETT_JUAREZ_0041|1765年以降、Bourbon reformsが経済・政治連関と代表理念に影響した]]

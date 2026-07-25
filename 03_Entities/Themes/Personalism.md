@@ -67,3 +67,8 @@ Personalismを単なる非制度性として扱わず、正式制度の不足や
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3009]], [[FACT_HAMNETT_JUAREZ_3010]], [[FACT_HAMNETT_JUAREZ_3014]], [[FACT_HAMNETT_JUAREZ_3020]]
 - Hamnett links post-1867 personalism to armed private networks, regional-national rivalry, and the renewed use of extra-constitutional action.
 - Cautions: This is a structural interpretation, not a claim that every post-1867 dispute was personal.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `personalism` reuses this existing Theme route.
+- Caution: The Index adds no definition, actor attribution, periodization, or causal claim.

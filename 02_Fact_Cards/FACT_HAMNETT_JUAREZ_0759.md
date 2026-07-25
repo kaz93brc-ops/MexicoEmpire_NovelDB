@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0759"
 type: "fact_card"
 status: "draft"
 created: "2026-06-24"
-updated: "2026-06-24"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter3;congress"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ japanese_note: "Portillaのフルネームと著作は未確認。"
 creative_use: "同じ議員集団への政治的ラベリングが分裂する場面に使える。"
 cautions: "ZarcoとPortillaの原典・時代性を確認するまで史実評価として固定しない。"
 related_capture: "CAP_HAMNETT_JUAREZ_0035"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0134"]
+additional_locators: ["Glossary, pp.262–263, /page/262/mode/2up, Page 262 (277/323), スクリーンショット 2026-06-13 17.31.18.jpeg"]
 people:
   - "Francisco_Zarco"
 events:

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2741"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "連邦議会の選挙人団としての手続を確認する。"
 creative_use: "合法手続きが反対派の政治的不服を終わらせない場面に使える。"
 cautions: "Confirm congressional minutes and constitutional basis before treating the procedure as fully verified."
 related_capture: "CAP_HAMNETT_JUAREZ_0115"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Benito_Juarez", "Porfirio_Diaz", "Sebastian_Lerdo_De_Tejada"]
 events: []
 places: ["Mexico"]

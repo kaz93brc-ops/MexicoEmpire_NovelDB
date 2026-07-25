@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0687"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-18"
 tags: "timeline;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -55,6 +55,13 @@ General Juan Prim was appointed commander of the Spanish Expeditionary Force, wh
 - Archive page: /page/168/mode/2up; Page 168 (183/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.29.42.jpeg
 
+## Hamnett 1994 p.278 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0142]] adds Prim's 1862-01-09 Veracruz landing and withdrawal after the Orizaba meeting with Doblado.
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3457]]
+- Locator: p.278 / `/page/278/mode/2up` / `スクリーンショット 2026-06-13 17.31.40.jpeg`.
+- A new landing Timeline was not created pending confirmation of the date and the existing Allied Intervention sequence.
+
 ## Evidence Notes
 
 - Evidence category: author_interpretation
@@ -75,7 +82,7 @@ General Juan Prim was appointed commander of the Spanish Expeditionary Force, wh
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2012]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_2012]], [[FACT_HAMNETT_JUAREZ_3457]]
 - Evidence category: author_interpretation
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.29.42.jpeg

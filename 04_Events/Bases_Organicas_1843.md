@@ -3,7 +3,7 @@ id: "EVENT_BASES_ORGANICAS_1843"
 type: "event"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-15"
 tags:
   - "event"
   - "hamnett"
@@ -44,3 +44,15 @@ themes:
 ## Cautions
 
 制度内容と実施状況は要確認。
+
+## Hamnett 1994 p.261 Glossary Note
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3281]]
+- Note: Glossary identifies the Bases Orgánicas as a centralist constitutional framework authorized under Santa Anna in 1843.
+- Cautions: Verify authorization, promulgation, and implementation separately.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; the Index provides multiple routes to the Bases Orgánicas across constitutional and centralist discussion.
+- Caution: page clustering is not evidence of implementation or institutional continuity.

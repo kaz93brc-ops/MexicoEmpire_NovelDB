@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0377"
 type: "fact_card"
 status: "draft"
 created: "2026-06-22"
-updated: "2026-06-22"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter2;restoration-federalism"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -79,3 +79,8 @@ themes:
 - Themes: [[Clerical_Reaction]], [[Polko_Rebellion]], [[Church_Property_Conflict]], [[Catholic_Politics]]
 - Related Fact Cards: 
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0019]]
+
+## Glossary Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0135|Glossary pp.264–265]] identifies `polkos` as the pro-clerical Mexico City rebels opposed to Liberal policy in 1847.
+- Planned `FACT_HAMNETT_JUAREZ_3316` was held because this card already records the rebellion context; participant composition and exact chronology remain `verification_needed: yes`.

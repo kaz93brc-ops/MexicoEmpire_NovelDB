@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0103"
 type: "fact_card"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-06-14"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chapter1;war-1846-1847"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -79,3 +79,9 @@ Hamnettは、War of 1846-47におけるMexican armyの敗北が、領土喪失�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0007]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0046]]
 
+## Hamnett 1994 Map 1 p.282 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0144]]
+- Locator: p.282 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Map support: the 1848 lost territory is distinguished from the 1853 Gadsden Purchase strip.
+- Caution: This map locator does not independently verify the war's causal consequences.

@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0306"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-24"
-updated: "2026-06-24"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter3;ayutla"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -59,6 +59,12 @@ related_fact_cards:
 - Printed page: p.62
 - Archive page: /page/62/mode/2up; Page 62 (77/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.27.47.jpeg
+
+## Hamnett 1994 p.268 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0137]] identifies Juan Álvarez's 1855 presidency as brief and connects it to his broader Liberal role.
+- Locator: p.268 / `/page/268/mode/2up` / `スクリーンショット 2026-06-13 17.31.27.jpeg`.
+- No new presidency Timeline entry was created because this resignation entry already fixes the endpoint.
 
 ## Evidence Notes
 

@@ -3,7 +3,7 @@ id: "PERSON_MANUEL_DUBLAN"
 type: "person"
 status: "stub"
 created: "2026-06-23"
-updated: "2026-07-01"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -72,3 +72,17 @@ Hamnett p.128 lists Manuel Dublán among Oaxacan deputies who supported Juárez 
 - Related Organizations: [[Mexican_Congress]]
 - Related Themes: [[Liberal_Factionalism]]
 - Cautions: Confirm Dublán's exact congressional status and the source behind note 16.
+
+## Hamnett 1994 p.271 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0138]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3381]], [[FACT_HAMNETT_JUAREZ_3382]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0511]]
+- Related People: [[Benito_Juarez|Benito Juárez]], [[Porfirio_Diaz|Porfirio Díaz]], [[Maximilian]]
+- Related Events / Organizations: [[Second_Mexican_Empire|Second Mexican Empire]], [[Restored_Republic|Restored Republic]]
+- Cautions: Keep Oaxaca Liberal association, 1865 imperial alignment, rehabilitation, Díaz support, and finance-minister service as a fluid career; do not reduce it to betrayal or infer motive.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; `Dublán, Manuel` is the last visible heading on p.289 and has visible locators.
+- Caution: check the next spread before deciding whether the entry is complete; do not expand identity or career from the Index.

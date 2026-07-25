@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2860"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "La Noria後の勝利を制度改革へ転化しようとする�
 creative_use: "反乱鎮圧直後の議会演説場面に使える。"
 cautions: "Confirm note 17 and the original congressional-message context."
 related_capture: "CAP_HAMNETT_JUAREZ_0119"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Benito_Juarez", "Porfirio_Diaz"]
 events: ["La_Noria_Rebellion", "Constitution_Of_1857"]
 places: []

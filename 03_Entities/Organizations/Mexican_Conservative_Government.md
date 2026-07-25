@@ -32,7 +32,7 @@ Entry note for Mexican Conservative government. Verify details in linked Fact Ca
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_HAMNETT_JUAREZ_2009|Miramón government contracted Jecker bonds on 29 October 1859]], [[FACT_MEXEMP_0365|MárquezはBritish Legationから66万ドルを徴発したとされる]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_2009|Miramón government contracted Jecker bonds on 29 October 1859]], [[FACT_HAMNETT_JUAREZ_3442|Miramón held the Conservative presidency in 1860]], [[FACT_MEXEMP_0365|MárquezはBritish Legationから66万ドルを徴発したとされる]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0685|Miramón government contracts the Jecker bonds]]
 - Source Notes:
 - Scenes:

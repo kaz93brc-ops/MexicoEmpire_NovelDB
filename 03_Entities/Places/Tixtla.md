@@ -41,3 +41,10 @@ Use as a Guerrero political center where local armed control and state authority
 - Themes: [[National_Guard_And_Civil_Militia|National Guard and civil militia]], [[Liberal_Factionalism|Liberal factionalism]], [[Federal_State_Tension|federal-state tension]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_2576]], [[FACT_HAMNETT_JUAREZ_2577]], [[FACT_HAMNETT_JUAREZ_2583]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0912]], [[TIME_HAMNETT_JUAREZ_0913]]
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Tixtla (Guerrero)` appears at the p.299 end.
+- Main-text route: consult the visible page-number locator and verify the cited body page; screenshot 153 / p.300 must confirm whether another locator follows.
+- Caution: Treat the entry as provisionally complete only; the Index adds no event, role, administrative status, or modern-place equivalence.

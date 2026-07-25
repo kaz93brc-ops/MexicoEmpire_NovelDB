@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2807"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "合法秩序防衛と強権措置の両面を分けて整理す�
 creative_use: "合法性を掲げつつ非常権限を求める矛盾と緊張を描ける。"
 cautions: "Confirm scope and legal basis of the powers before using as a precise constitutional claim."
 related_capture: "CAP_HAMNETT_JUAREZ_0117"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Benito_Juarez"]
 events: ["La_Noria_Rebellion"]
 places: []

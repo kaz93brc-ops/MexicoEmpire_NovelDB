@@ -59,6 +59,14 @@ additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 - Archive page: /page/82/mode/2up; Page 82 (97/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.28.11.jpeg
 
+## Hamnett Dramatis Personae p.277 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0141]] adds Manuel Payno's reported contribution to Comonfort's 17 December 1857 coup in [[FACT_HAMNETT_JUAREZ_3450]].
+
+## Hamnett Dramatis Personae p.270 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] links the Tacubaya crisis to Comonfort's exile and later partial reintegration in [[FACT_HAMNETT_JUAREZ_3372]]-[[FACT_HAMNETT_JUAREZ_3373]].
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -79,7 +87,7 @@ additional_related_captures: ["CAP_HAMNETT_JUAREZ_0123"]
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0961]], [[FACT_HAMNETT_JUAREZ_0965]], [[FACT_HAMNETT_JUAREZ_2978]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0961]], [[FACT_HAMNETT_JUAREZ_0965]], [[FACT_HAMNETT_JUAREZ_2978]], [[FACT_HAMNETT_JUAREZ_3372]], [[FACT_HAMNETT_JUAREZ_3373]], [[FACT_HAMNETT_JUAREZ_3450]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.28.11.jpeg

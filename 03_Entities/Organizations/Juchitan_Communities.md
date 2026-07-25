@@ -58,3 +58,14 @@ Hamnett pp.228-229 says Juchitán declared loyalty to Juárez while waiting for 
 - Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_1048]]
 - Related People: [[Felix_Diaz|Félix Díaz]], [[Albino_Jimenez|Albino Jiménez]], [[Benigno_Cartas|Benigno Cartas]]
 - Cautions: Keep the prior Juchitán repression context and avoid criminalizing the community as a whole.
+
+## Hamnett 1994 pp.264–265 Glossary Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0135]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3310]]
+- Note: The Glossary uses `juchitecos` for Juchitán residents repeatedly appearing in opposition to Oaxaca state and federal authority; preserve the community/state/federal power relationship and avoid criminalization.
+
+## Hamnett 1994 Index pp.292–293 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0149]]; `juchitecos` begins as an independent entry after the cross-page Juárez hierarchy.
+- Caution: retain the existing verification-needed community label; the Index alone does not define ethnicity, membership, political alignment, or organization.

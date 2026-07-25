@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_1075"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,10 @@ verification_needed: "yes"
 event_summary: "Juárezが午後11時30分に狭心症で死去し、Lerdoへの継承通知が動き出した。"
 creative_use: "Juárez死去と憲法上の継承が同じ夜に動く場面として使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0120"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg; Chronology prints death on 9 July and accession on 18 July"]
+variant_source_note: "Do not replace the existing p.234-based 18 July death date: Chronology p.260 instead prints 9 July and requires verification."
+related_variant_fact: "FACT_HAMNETT_JUAREZ_3277"
 people: ["Benito_Juarez", "Sebastian_Lerdo_De_Tejada"]
 events: ["Death_Of_Juarez_July_1872", "Lerdo_Succession_1872"]
 places: []

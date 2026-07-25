@@ -33,7 +33,7 @@ Entry note for Havana. Verify details in linked Fact Cards and Timeline Entries.
 - Themes:
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_1821|Juárez secured U.S. naval intervention at Veracruz in April 1860]], [[FACT_HAMNETT_JUAREZ_2011|Miramón learned of French designs but was not party to them]], [[FACT_MEXEMP_1913|HerzfeldはHavanaからFischerに即時退去を促す書簡を送った]], [[FACT_MEXEMP_2394|Salm-Salm bribed a liberal officer for the escape plan]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0622|Juárez secures U.S. naval intervention at Veracruz]], [[TIME_HAMNETT_JUAREZ_0686|Miramón moves to Paris and learns of French designs]]
-- Source Notes: [[CAP_HAMNETT_JUAREZ_0079]], [[CAP_HAMNETT_JUAREZ_0087]], [[CAP_MEXEMP_0097]], [[CAP_MEXEMP_0105]]
+- Source Notes: [[CAP_HAMNETT_JUAREZ_0079]], [[CAP_HAMNETT_JUAREZ_0087]], [[CAP_HAMNETT_JUAREZ_0148]], [[CAP_MEXEMP_0097]], [[CAP_MEXEMP_0105]]
 - Scenes:
 - Questions:
 
@@ -59,3 +59,8 @@ Use this note as a scene/research entry point after checking the linked Fact Car
 
 - Which linked claims are strong enough for scene design?
 - Which source passages still need page-level verification?
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; Havana provides selected main-text locators.
+- Caution: the Index does not establish travel, exile, diplomatic, or political context.

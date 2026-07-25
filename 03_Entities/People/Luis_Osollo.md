@@ -49,3 +49,8 @@ Hamnett p.119 lists Osollo with Miramón, Márquez, and Mejía as Conservative p
 - Related Events: [[Reform_War]]
 - Related Organizations: [[Conservative_Party]], [[Liberal_Army]]
 - Cautions: Osollo's full name, rank, and Reform War role still need verification.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; the visible `Osollo, Gen. Luis` form is retained as an Index route to this existing Person.
+- Caution: Exact spelling, rank, and identity remain verification-needed; the Index adds no biography or action.

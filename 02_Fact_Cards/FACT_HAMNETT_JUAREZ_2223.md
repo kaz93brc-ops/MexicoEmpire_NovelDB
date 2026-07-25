@@ -69,3 +69,8 @@ related_timeline_entries: ["TIME_HAMNETT_JUAREZ_0762"]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0096|CAP_HAMNETT_JUAREZ_0096]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0762|TIME_HAMNETT_JUAREZ_0762]], [[TIME_HAMNETT_JUAREZ_0762]]
 
+## Hamnett Dramatis Personae p.277 Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0141]].
+- Additional locator: DRAMATIS PERSONAE, p.277, /page/276/mode/2up, Page 276 (291/323), スクリーンショット 2026-06-13 17.31.38.jpeg.
+- Caution: the person entry gives January 1867; retain this card's late-January precision pending original-source confirmation.

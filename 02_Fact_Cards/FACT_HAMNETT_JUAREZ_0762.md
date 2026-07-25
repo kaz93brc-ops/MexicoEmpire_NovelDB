@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0762"
 type: "fact_card"
 status: "draft"
 created: "2026-06-24"
-updated: "2026-06-24"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter3;congress"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -71,3 +71,10 @@ related_timeline_entries:
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0035]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0314]]
 
+## Hamnett 1994 p.266 Glossary Locator
+
+The Glossary compares the 1857 unicameral settlement with the bicameral arrangement under the 1824 Constitution and the unicameral Spanish Constitution of 1812.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_0118]]
+- Cautions: Confirm the exact article locations and distinguish the constituent congress's form from the constitutionally established legislature.

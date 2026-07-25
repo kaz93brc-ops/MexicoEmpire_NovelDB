@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_1060"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "Juárezが憲法改革とSenate構想を議会で再提起する。"
 creative_use: "La Noria後の政治的勝利を制度改革へ転化しようとする開始点として使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0119"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Benito_Juarez"]
 events: ["Constitution_Of_1857", "La_Noria_Rebellion"]
 places: []

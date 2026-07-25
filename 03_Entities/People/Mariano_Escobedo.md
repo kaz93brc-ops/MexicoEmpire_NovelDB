@@ -165,3 +165,8 @@ Hamnett pp.230-231 includes Escobedo among the effective commanders on whom Juá
 - Related Events: [[La_Noria_Rebellion|La Noria rebellion]]
 - Related Themes: [[Mexican_Military_Factions|Mexican military factions]], [[Military_Rebellion_And_Civilian_Legitimacy|military rebellion and civilian legitimacy]]
 - Cautions: Verify Escobedo's exact La Noria role and command theatre through note 16.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; the Escobedo entry supplies separate routes to Hill of the Bells / Cerro de las Campanas, the siege of Querétaro, and the Restored Republic.
+- Caution: treat these as navigation only; verify Escobedo's actions, sequence, and political role in the cited narrative.

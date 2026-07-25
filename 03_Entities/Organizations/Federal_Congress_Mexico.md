@@ -60,3 +60,8 @@ Hamnett pp.232-233 presents Congress as avoiding Juárez's revived Senate reform
 - Related Events: [[Constitution_Of_1857|Constitution of 1857]]
 - Related Themes: [[Executive_Power_Vs_Congress|executive power vs Congress]], [[Constitutional_Restructuring|constitutional restructuring]], [[Extraordinary_Powers|extraordinary powers]], [[Constitutional_Guarantees|constitutional guarantees]]
 - Cautions: President of Congress is not identified in this spread; note 18 and note 19 require checking.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the `Congress, Mexican Federal` cluster supplies a broad route back to congressional passages.
+- Caution: do not infer membership, procedure, or institutional continuity from the clustered locators.

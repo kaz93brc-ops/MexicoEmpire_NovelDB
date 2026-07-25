@@ -50,3 +50,8 @@ Hamnett summarizes Rabasa as arguing that the 1857 Constitution did not fit Mexi
 - Related People: [[Benito_Juarez]], [[Sebastian_Lerdo_De_Tejada]], [[Porfirio_Diaz]]
 - Related Event: [[Constitution_Of_1857]]
 - Cautions: Confirm Rabasa and Cosío Villegas in their own texts; do not convert their disagreement into the vault's settled constitutional verdict.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Rabasa, Emilio` reuses this existing Person route.
+- Caution: The Index adds no argument, quotation, chronology, or evaluative conclusion.

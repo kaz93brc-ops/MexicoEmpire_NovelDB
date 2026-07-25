@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0565"
 type: "fact_card"
 status: "draft"
 created: "2026-06-23"
-updated: "2026-06-23"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter3"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -77,3 +77,10 @@ Hamnettは、1853年以後、有力自由主義者がNew Orleansへ亡命し、A
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0028]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0253]]
 
+## Hamnett 1994 p.267 Dramatis Personae Locator
+
+The Alamán person entry reinforces the connection between his conservative institutional project and Santa Anna's final regime while also noting industrial promotion.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0136]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3331]]
+- Cautions: Do not reduce Alamán either to restoration or to industrial modernization alone.

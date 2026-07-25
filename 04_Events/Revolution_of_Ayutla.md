@@ -66,3 +66,10 @@ Hamnett p.56-57では、Ayutla Revolutionは1854年3月に始まり、南部起�
 - Chronology locator: [[CAP_HAMNETT_JUAREZ_0129]] / p.253 / `/page/252/mode/2up`.
 - The Chronology connects 1854-03-01 to Santa Anna's 1855-08-08 fall; existing [[TIME_HAMNETT_JUAREZ_0280|0280]] and [[TIME_HAMNETT_JUAREZ_0294|0294]] were reused.
 - Planned Timeline1214–1215 and Fact3154 were held to keep the two endpoint claims in existing cards.
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; `Revolution of Ayutla` reuses this existing Event route.
+- Main-text route: consult the selected page-number locators printed under the heading, then verify the cited body pages.
+- Caution: The Index adds no date precision, actors, program, sequence, outcome, or causal claim.

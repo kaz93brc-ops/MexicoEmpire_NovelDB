@@ -94,3 +94,8 @@ Hamnett p.173 begins a sentence naming José Fernando Ramírez and "Manuel..." i
 - Related Themes: [[Liberal_Cooptation_Under_Maximilian]], [[Legitimacy]]
 - Open Question: Confirm the continuation, Manuel's full name, and whether Ramírez should receive a new Hamnett Fact Card on p.174.
 - Cautions: Do not create the p.173 Ramírez/Manuel claim until the continuation is read.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Ramírez, José Fernando` reuses this existing Person route.
+- Caution: Keep him separate from Ignacio Ramírez, generic José Ramírez, and Ramón Ramírez de Aguilar; the Index adds no biography or action.

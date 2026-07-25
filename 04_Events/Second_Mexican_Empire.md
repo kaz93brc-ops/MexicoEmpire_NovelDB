@@ -3,7 +3,7 @@ id: EVT-SECOND-MEXICAN-EMPIRE
 type: event
 status: draft
 created: 2026-05-31
-updated: 2026-07-04
+updated: 2026-07-18
 tags:
   - event
   - second-mexican-empire
@@ -98,3 +98,20 @@ Hamnett pp.174-175 resolves the Orozco y Berra continuation, then shows the Empi
 ## Timeline Entries
 
 - 
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] supplies the national geographic frame for the Empire's 1867 end, especially Querétaro relative to Mexico City and the wider republic.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: the map does not show imperial territory, republican territory, or changes through 1867.
+
+## Hamnett 1994 Index pp.286–287 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0146]]; Bazaine, Catholic Church, and Assembly of Notables supply selected routes into the Empire's establishment and political constraints.
+- Caution: the Index does not prove that these actors' interests were identical or stable.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Second Mexican` appears as a subentry in the Empire cluster.
+- Caution: no meaning is assigned to the adjacent `Second French` label from the Index alone.

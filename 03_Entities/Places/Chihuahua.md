@@ -3,7 +3,7 @@ id: "PLACE_CHIHUAHUA"
 type: "place"
 status: "draft"
 created: "2026-06-14"
-updated: "2026-07-13"
+updated: "2026-07-18"
 tags:
   - "place"
   - "chihuahua"
@@ -72,3 +72,22 @@ Hamnett identifies Almada and Tamayo as later guides to Terrazas family power, J
 - Related Family: [[Terrazas_Family]]
 - Related People: [[Benito_Juarez]]
 - Cautions: Confirm the Terrazas individual, federal-revenue episodes, and Almada's causal link to 1910-1911 in the cited regional histories.
+
+## Hamnett 1994 Map 1 p.282 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places Chihuahua south of [[New_Mexico]], east of [[Sonora]], and along the remaining Mexican north after the 1848 loss; the 1853 Gadsden strip clips its northern margin.
+
+- Locator: p.282 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: Use for orientation only; detailed boundaries require cartographic cross-check.
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+[[CAP_HAMNETT_JUAREZ_0145]] places Chihuahua within the northern republic-wide frame used to orient Juárez's mobile government before its southward return.
+
+- Locator: pp.284–285 / `/page/284/mode/2up` / `スクリーンショット 2026-06-13 17.31.46.jpeg`.
+- Caution: Map 3 does not establish residence dates or the government's route.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; the Index supplies a selected locator cluster for Chihuahua.
+- Caution: use cited narrative passages for place, government, and campaign context; the Index adds no chronology or boundary evidence.

@@ -3,7 +3,7 @@ id: "PERSON_ANTONIO_LOPEZ_DE_SANTA_ANNA"
 type: "person"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-22"
+updated: "2026-07-18"
 tags:
   - "person"
   - "hamnett"
@@ -94,6 +94,16 @@ Hamnett p.41では、1842年にSanta AnnaがJosé GarayへIsthmus横断の鉄道
 
 - 各政権を一括して「独裁」と処理しない。1842-1844年体制、1843年Bases Orgánicas、1853-1855年最終政権の制度的差異を確認する。
 
+## Hamnett 1994 p.279 Dramatis Personae Notes
+
+The person reference compresses Santa Anna's shifts across royalist service, independence, federalism, centralism, Texas, the U.S.-Mexico War, Ayutla, exile, and repeated return attempts. It should be used as a navigation summary, not as a single ideological label.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
+- New Fact Card: [[FACT_HAMNETT_JUAREZ_3464]]
+- Reused Fact / Timeline: [[FACT_HAMNETT_JUAREZ_0688]], [[TIME_HAMNETT_JUAREZ_0294]]
+- Related Events: [[Plan_of_Ayutla]], [[Revolution_of_Ayutla]], [[French_Intervention_in_Mexico]], [[Second_Mexican_Empire]]
+- Cautions: Planned Facts3462-3463 were held to avoid compressing many regimes and duplicating the 1855 fall marker.
+
 ## Hamnett 1994 p.42-43 Notes
 
 Plan of JaliscoはSanta Anna復帰運動へつながり、OrtizとMeléndezのIsthmus反乱にも勢いを与えた政治背景として接続する。
@@ -156,3 +166,10 @@ Hamnett p.61では、Juárez Lawによる最高裁再編の文脈で、Santa Ann
 - Related Organizations: [[Supreme_Court]]
 - Related Themes: [[Judicial_Independence_Vs_Revolutionary_Legality]]
 - Cautions: Santa Annaによる最高裁人事の根拠はp.61注15周辺で確認する。
+
+## Hamnett 1994 Index pp.298–299 Locator
+
+- Source / type: `SRC_HAMNETT_1994_JUAREZ` / INDEX / `index_locator`.
+- Capture: [[CAP_HAMNETT_JUAREZ_0152]]; the Santa Anna entry crosses p.298 column 2 into p.299 column 1 and ends before `Santacilia, Pedro`.
+- Main-text route: consult the selected page-number locators printed under the Santa Anna heading, then verify the cited body pages.
+- Caution: Keep Santa Anna distinct from [[Santanistas]]; the Index adds no biography, office, alignment, conduct, or causal claim.

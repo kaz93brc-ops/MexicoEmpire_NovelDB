@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0805"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-05"
-updated: "2026-07-05"
+updated: "2026-07-18"
 tags: "timeline;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "Maximilian, Miramón, and Mejía were executed by firing squad at Cerro de las Campanas."
 creative_use: "Use as the precise execution beat, with time and place to be cross-checked."
 related_capture: "CAP_HAMNETT_JUAREZ_0099"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0132", "CAP_HAMNETT_JUAREZ_0145"]
+additional_locators: ["Chronology, p.259, /page/258/mode/2up, Page 258 (273/323), スクリーンショット 2026-06-13 17.31.13.jpeg", "Map 3, pp.284–285, /page/284/mode/2up, Page 284 (299/323), スクリーンショット 2026-06-13 17.31.46.jpeg"]
 people: ["Maximilian", "Miguel_Miramon", "Tomas_Mejia"]
 events: ["Execution_Of_Maximilian_Miramon_And_Mejia"]
 places: ["Cerro_de_las_Campanas", "Queretaro"]
@@ -54,6 +56,14 @@ Maximilian, Miramón, and Mejía were executed by firing squad at Cerro de las C
 - Printed page: p.193
 - Archive page: /page/192/mode/2up; Page 192 (207/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.08.jpeg
+
+## Hamnett Dramatis Personae pp.276-277 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0141]] links the 19 June 1867 execution to the longer Conservative military histories of [[Tomas_Mejia|Tomás Mejía]] and [[Miguel_Miramon|Miguel Miramón]].
+
+## Hamnett 1994 Map 3 pp.284–285 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0145]] supplies only broad Querétaro–Mexico City geographic context for the dated execution.
 
 ## Evidence Notes
 

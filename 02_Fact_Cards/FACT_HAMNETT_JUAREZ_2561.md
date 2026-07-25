@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2561"
 type: "fact_card"
 status: "draft"
 created: "2026-07-09"
-updated: "2026-07-09"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter9"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -65,3 +65,11 @@ Hamnett argues that Diego Álvarez lacked Juan Álvarez's political ability and 
 - Themes: [[Caciquismo_And_Regional_Power|caciquismo and regional power]], [[Regionalism]], [[Provincial_Politics|provincial politics]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0109]]
 - Related Timeline Entries:
+
+## Hamnett 1994 p.268 Dramatis Personae Locator
+
+The Diego Álvarez entry confirms that he was Juan Álvarez's son and places his Guerrero political-military role in relation to Juárez; the direct kinship and regional-role claim is separated as [[FACT_HAMNETT_JUAREZ_3351]].
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3351]]
+- Cautions: Keep this card's Diego/Juan capacity comparison as Hamnett interpretation.

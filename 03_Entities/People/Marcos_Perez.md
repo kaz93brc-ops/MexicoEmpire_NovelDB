@@ -58,3 +58,8 @@ Hamnett p.54では、Marcos PérezはOaxaca急進派側人物として、Juárez
 - Related People: [[Benito_Juarez]], [[Porfirio_Diaz]]
 - Related Organizations: [[Radical_Liberals]], [[Oaxaca_Liberal_Factions]]
 - Cautions: Díazとの師弟関係とPérezの同一性は要確認。
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Pérez, Marcos` reuses this existing Person route.
+- Caution: Identity and relations remain verification-needed; the Index adds no biography, action, or causation.

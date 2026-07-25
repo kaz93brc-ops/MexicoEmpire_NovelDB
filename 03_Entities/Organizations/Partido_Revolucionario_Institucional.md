@@ -38,3 +38,8 @@ Use as an institutional setting in which Juárez symbolism is claimed, adapted, 
 - Capture: [[CAP_HAMNETT_JUAREZ_0127]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_3101]], [[FACT_HAMNETT_JUAREZ_3093]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_1184]]
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; Partido Revolucionario Institucional (PRI) reuses this existing Organization route.
+- Caution: Keep PRI separate from the absent / unresolved PNR target and from Juárez-period institutions; the Index adds no genealogy or causal claim.

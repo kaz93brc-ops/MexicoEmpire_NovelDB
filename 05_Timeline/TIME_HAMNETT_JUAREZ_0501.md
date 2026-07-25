@@ -60,6 +60,10 @@ Ocampoが暗殺された。
 - Archive page: /page/126/mode/2up; Page 126 (141/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.28.57.jpeg
 
+## Hamnett Dramatis Personae p.277 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0141]] repeats the 3 June 1861 death date and the attribution to Conservative guerrillas; responsibility remains verification-needed.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact

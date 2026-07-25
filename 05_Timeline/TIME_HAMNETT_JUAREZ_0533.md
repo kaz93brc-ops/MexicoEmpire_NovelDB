@@ -62,6 +62,10 @@ Vidaurri appointed Comonfort commander of the Nuevo León militia.
 - Archive page: /page/132/mode/2up; Page 132 (147/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.29.03.jpeg
 
+## Hamnett Dramatis Personae p.270 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0138]] treats Comonfort's military return as partial reintegration into Juárez's war effort in [[FACT_HAMNETT_JUAREZ_3373]].
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -82,7 +86,7 @@ Vidaurri appointed Comonfort commander of the Nuevo León militia.
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1548]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1548]], [[FACT_HAMNETT_JUAREZ_3373]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.29.03.jpeg

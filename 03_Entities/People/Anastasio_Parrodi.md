@@ -60,3 +60,8 @@ Hamnett p.119 connects the Conservative victory at Salamanca and the fall of Gua
 - Related Places: [[Salamanca]], [[Guadalajara]]
 - Related Organizations: [[Liberal_Army]], [[Conservative_Party]]
 - Cautions: Confirm the military sequence from Salamanca to Guadalajara and Parrodi's withdrawal.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Parrodi, Gen. Anastasio` reuses this existing Person route.
+- Caution: Confirm display form and identity; the Index adds no military action, chronology, or alignment.

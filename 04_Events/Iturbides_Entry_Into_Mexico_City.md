@@ -54,7 +54,7 @@ Entry note for Iturbide’s entry into Mexico City. Verify chronology and actors
 - Places:
 - Events:
 - Themes:
-- Fact Cards: [[FACT_MEXEMP_1042|保守派は1821年9月27日のIturbide入城を重視した]]
+- Fact Cards: [[FACT_HAMNETT_JUAREZ_3401|Iturbide moved from royalist service to independence and the First Empire]], [[FACT_MEXEMP_1042|保守派は1821年9月27日のIturbide入城を重視した]]
 - Timeline Entries: [[TIME_MEXEMP_0164|1821年9月27日、IturbideがMexico Cityへ入城した]]
 - Source Notes:
 - Scenes:

@@ -3,7 +3,7 @@ id: "PLACE_OAXACA_CITY"
 type: "place"
 status: "stub"
 created: "2026-06-22"
-updated: "2026-06-30"
+updated: "2026-07-18"
 tags:
   - "place"
   - "hamnett"
@@ -48,3 +48,15 @@ Hamnett pp.94-95 uses Oaxaca City as the setting for a hospital-repair and Hospi
 - Related Organizations: [[Oaxaca_State_Government]], [[Diocese_Of_Oaxaca]], [[Oaxaca_City_Council]], [[Hospice_Of_The_Poor]]
 - Related Themes: [[Oaxaca_Hospitals]], [[Church_State_Relations_Mexico]], [[Supremacy_of_Civil_Power]]
 - Cautions: Hospital names, cholera context, and note 14 remain to be verified.
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] uses Oaxaca City as the central administrative anchor: the Northern Highlands lie north-east, the Mixteca zones west / north-west, and the Isthmus far to the east / south-east.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Creative caution: Administrative reach and travel difficulty are inference, not measured journey times.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `Oaxaca, city of` is an independent heading with routes to occupation, institutions, press, and seminary material.
+- Caution: Keep the city separate from [[Oaxaca|Oaxaca State]]; the Index does not establish institutional content, actors, chronology, or causation.

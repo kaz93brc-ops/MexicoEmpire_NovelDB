@@ -42,3 +42,8 @@ Juárezの法曹資格取得と司法職就任を制度的に見せる舞台と�
 - Places: [[Oaxaca]]
 - Themes: [[Juarez_Legal_Career_Formation|Juárez legal career formation]]
 
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `State Court of Justice` is retained as a subentry of `Oaxaca, State of`.
+- Caution: The Index does not establish the court's jurisdiction, personnel, legal development, or relation to similarly named tribunals.
+

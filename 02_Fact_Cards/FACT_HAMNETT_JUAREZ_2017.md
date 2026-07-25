@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2017"
 type: "fact_card"
 status: "draft"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -68,3 +68,10 @@ related_timeline_entries: ["TIME_HAMNETT_JUAREZ_0689"]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0087]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0689]]
 
+## Hamnett 1994 pp.268-269 Dramatis Personae Locator
+
+The Bazaine entry summarizes command of the French Expeditionary Force in Mexico during 1863–1867. This locator reuses the existing appointment and departure cards instead of creating planned Fact3357.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_2166]]
+- Cautions: Existing Hamnett entries use different appointment markers; confirm exact command titles and dates.

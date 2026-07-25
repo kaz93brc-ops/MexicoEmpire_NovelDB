@@ -3,7 +3,7 @@ id: "PLACE_IXTEPEJI"
 type: "place"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-18"
 tags:
   - "place"
   - "oaxaca"
@@ -44,3 +44,10 @@ Oaxaca北部山地の地域経済を次ページで接続確認するための�
 - Places: [[Ixtlan|Ixtlán]], [[Villa_Alta|Villa Alta]], [[Northern_Sierra_Oaxaca|northern sierra of Oaxaca]]
 - Themes: [[Mining_Economy|mining economy]], [[Dye_Trade|dye trade]], [[Textile_Economy|textile economy]], [[Oaxaca_Local_Markets|Oaxaca local markets]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0213]], [[FACT_HAMNETT_JUAREZ_0221]]
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places Ixtepeji on the more southerly approach between [[Oaxaca_City|Oaxaca City]] and the Northern Highlands cluster.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: The screenshot supports the spelling `Ixtepeji`, but the small map label remains verification-needed.

@@ -64,6 +64,10 @@ Salignyは再任命後も現地に留まり、1863年12月にメキシコの富�
 - Kindle location: No.1497/7062
 - Screenshot file: スクリーンショット 2026-05-31 13.07.36.png
 
+## Hamnett 1994 p.271 Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0138]] gives Saligny's late-1863 recall as a verification target in [[FACT_HAMNETT_JUAREZ_3383]].
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -88,7 +92,7 @@ Salignyは再任命後も現地に留まり、1863年12月にメキシコの富�
 ## Evidence / Source Links
 
 - Source: [[SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO|The Last Emperor of Mexico: A Disaster in the New World]]
-- Related Fact Cards: [[FACT_MEXEMP_0663]], [[FACT_MEXEMP_0664]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3383]], [[FACT_MEXEMP_0663]], [[FACT_MEXEMP_0664]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-05-31 13.07.36.png

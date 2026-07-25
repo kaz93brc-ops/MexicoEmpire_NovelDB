@@ -56,6 +56,12 @@ related_fact_cards:
 - Archive page: /page/82/mode/2up; Page 82 (97/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.28.11.jpeg
 
+## Hamnett 1994 p.280 Dramatis Personae Locator
+
+- [[CAP_HAMNETT_JUAREZ_0143]] gives Zuloaga's Conservative interim presidency as 1858-01-22 to 1859-01-24 and says Miramón replaced him; see [[FACT_HAMNETT_JUAREZ_3483]].
+- Locator: p.280 / `/page/280/mode/2up` / `スクリーンショット 2026-06-13 17.31.41.jpeg`.
+- Cautions: This timeline remains an approximate 1858 seizure-of-power entry; exact presidency dates are not silently substituted for its broader scope.
+
 ## Evidence Notes
 
 - Evidence category: historical_fact
@@ -76,7 +82,7 @@ related_fact_cards:
 ## Evidence / Source Links
 
 - Source: [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0946]], [[FACT_HAMNETT_JUAREZ_0947]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_0946]], [[FACT_HAMNETT_JUAREZ_0947]], [[FACT_HAMNETT_JUAREZ_3483]]
 - Evidence category: historical_fact
 - Confidence: probable
 - Screenshot file: スクリーンショット 2026-06-13 17.28.11.jpeg

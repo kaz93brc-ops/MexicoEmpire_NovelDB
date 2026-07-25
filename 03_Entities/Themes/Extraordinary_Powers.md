@@ -3,7 +3,7 @@ id: "THEME_EXTRAORDINARY_POWERS"
 type: "theme"
 status: "stub"
 created: "2026-07-02"
-updated: "2026-07-04"
+updated: "2026-07-15"
 tags:
   - "theme"
   - "hamnett"
@@ -108,3 +108,26 @@ Hamnett pp.232-233 records Juárez asking on 1872-04-01 to extend extraordinary 
 - Related Organizations: [[Federal_Congress_Mexico|Federal Congress]], [[Juarez_Government|Juárez government]]
 - Related Themes: [[Constitutional_Guarantees|constitutional guarantees]], [[Executive_Power_Vs_Congress|executive power vs Congress]], [[State_Violence|state violence]]
 - Cautions: Keep Juárez's order-restoration rationale separate from the coercive scope of guarantee suspension and state-of-siege authority.
+
+## Hamnett 1994 p.259 Chronology Cross-Reference
+
+Chronology p.259 places the return and renewal of extraordinary powers inside the opening Restored Republic sequence rather than treating 1867 as an uncomplicated return to peacetime legality.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0132]]
+- Related Interpretation: [[FACT_HAMNETT_JUAREZ_3248]]
+- Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_2486]], [[FACT_HAMNETT_JUAREZ_2609]]
+- Existing Timeline Entries: [[TIME_HAMNETT_JUAREZ_0888]], [[TIME_HAMNETT_JUAREZ_0929]]
+- Cautions: Verify each legal act separately and avoid treating emergency power as either automatic dictatorship or unproblematic legality.
+
+## Hamnett 1994 p.260 Chronology Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Related Interpretation: [[FACT_HAMNETT_JUAREZ_3270]]
+- Existing Fact Cards: [[FACT_HAMNETT_JUAREZ_2807]], [[FACT_HAMNETT_JUAREZ_2871]], [[FACT_HAMNETT_JUAREZ_2876]]
+- Existing Timeline Entries: [[TIME_HAMNETT_JUAREZ_1044]], [[TIME_HAMNETT_JUAREZ_1061]], [[TIME_HAMNETT_JUAREZ_1062]]
+- Cautions: Chronology placement does not settle the legal basis, duration, or substantive scope of each grant.
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `extraordinary powers, granted to Juárez` provides a research route to the existing theme.
+- Caution: legal basis, scope, dates, motives, and Juárez's personal attitude are not established by the Index.

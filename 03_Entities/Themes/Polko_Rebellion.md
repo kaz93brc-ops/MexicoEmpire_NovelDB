@@ -23,3 +23,8 @@ theme_kind: "urban rebellion"
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0377]], [[FACT_HAMNETT_JUAREZ_0378]], [[FACT_HAMNETT_JUAREZ_0379]]
 - Timeline Entries: [[TIME_HAMNETT_JUAREZ_0172]]
 - Capture: [[CAP_HAMNETT_JUAREZ_0019]]
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `polko rebellion` reuses this existing Theme route.
+- Caution: Its relationship to `polkos`, exact classification, actors, chronology, and event scope remain verification-needed.

@@ -3,7 +3,7 @@ id: "PLACE_TLAXIACO"
 type: "place"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-18"
 tags:
   - "place"
   - "oaxaca"
@@ -32,3 +32,9 @@ Oaxaca周縁地域の経済転換と商人活動を示す舞台。
 - Places: [[Mixteca_Alta|Mixteca Alta]]
 - Themes: [[Sugar_Cultivation]], [[Regional_Economy]]
 - Fact Cards: [[FACT_HAMNETT_JUAREZ_0210]]
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+[[CAP_HAMNETT_JUAREZ_0144]] places Tlaxiaco in the [[Mixteca_Alta]] corridor, east of Juxtlahuaca and west of Teposcolula / Nochixtlán on the approach toward Oaxaca City.
+
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.

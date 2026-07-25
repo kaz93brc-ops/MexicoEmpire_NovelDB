@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2841"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "Rochaの軍事行動はTreviño反乱鎮圧の連続的展開と
 creative_use: "忠実派軍司令官の反乱鎮圧テンポを示す場面に使える。"
 cautions: "Aguascalientes is not stubbed here; verify place and operation details through note 16."
 related_capture: "CAP_HAMNETT_JUAREZ_0118"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Sostenes_Rocha"]
 events: ["La_Noria_Rebellion"]
 places: []

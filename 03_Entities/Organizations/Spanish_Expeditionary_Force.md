@@ -3,7 +3,7 @@ id: "ORG-SPANISH_EXPEDITIONARY_FORCE"
 type: "organization"
 status: "stub"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-18"
 tags:
   - "organization"
   - "hamnett"
@@ -39,3 +39,10 @@ Use to separate Spanish debt and prestige motives from the later French imperial
 - People: [[Juan_Prim_Y_Prats]]
 - Organizations: [[Spanish_Government]], [[Spanish_Forces]]
 - Themes: [[Allied_Intervention_In_Mexico]], [[European_Intervention]]
+
+## Hamnett 1994 p.278 Dramatis Personae Notes
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0142]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3457]]
+- Locator: p.278 / `/page/278/mode/2up` / `スクリーンショット 2026-06-13 17.31.40.jpeg`.
+- Note: Prim's landing and withdrawal after the Orizaba meeting reinforce the separation of Spanish and French intervention aims.

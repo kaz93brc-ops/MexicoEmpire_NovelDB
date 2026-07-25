@@ -68,3 +68,9 @@ Miramónは欧州亡命から戻り、帝政軍を指揮してConservative cause
 - Themes: [[Miramon_Return_To_Mexico|Miramón return to Mexico]], [[Imperial_Collapse|imperial collapse]], [[Conservative_Politics|Conservative politics]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0096|CAP_HAMNETT_JUAREZ_0096]]
 - Related Timeline Entries: 
+
+## Hamnett Dramatis Personae p.277 Locator
+
+- Additional Capture: [[CAP_HAMNETT_JUAREZ_0141]].
+- Additional locator: DRAMATIS PERSONAE, p.277, /page/276/mode/2up, Page 276 (291/323), スクリーンショット 2026-06-13 17.31.38.jpeg.
+- Caution: the claim that Miramón returned believing he could save the Empire mixes chronology with a judgment about motive.

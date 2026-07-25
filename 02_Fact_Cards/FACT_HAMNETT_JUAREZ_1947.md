@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_1947"
 type: "fact_card"
 status: "draft"
 created: "2026-07-04"
-updated: "2026-07-04"
+updated: "2026-07-18"
 tags: "fact-card;hamnett;juarez;chapter7"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -65,3 +65,10 @@ Imperialists and conservatives used the 1847 defeat, the 1853 Mesilla Treaty, an
 - Organizations: [[Mexican_Empire|Mexican Empire]], [[Conservative_Party|Conservative Party]]
 - Themes: [[Fear_Of_U_S_Expansion]], [[US_Mexico_Relations]], [[Imperial_Propaganda_Against_US_Expansionism]]
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0083]]
+
+## Hamnett 1994 Map 1 p.282 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0144]]
+- Locator: p.282 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Map support: the 1848 lost territory and 1853 Gadsden Purchase are visually separated as distinct layers of northern territorial contraction.
+- Caution: This locator does not validate later imperial or Conservative propaganda claims.

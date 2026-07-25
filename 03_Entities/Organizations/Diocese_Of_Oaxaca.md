@@ -73,3 +73,8 @@ Hamnett pp.94-95 places the Diocese of Oaxaca in public works, parish dues, hosp
 - Related Organizations: [[Oaxaca_State_Government]], [[Secular_Clergy]], [[Department_Governors]], [[Hospice_Of_The_Poor]]
 - Related Themes: [[Parish_Dues]], [[Oaxaca_Hospitals]], [[Church_Wealth]], [[Statistical_Investigation]], [[Church_Corporate_Position]]
 - Cautions: Confirm notes 12-14 before treating these administrative exchanges as fully sourced primary evidence.
+
+## Hamnett 1994 Index pp.296–297 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0151]]; `diocese` remains an Oaxaca State subentry and a route to Church–state and regional-institution material.
+- Caution: The Index does not establish diocesan policy, jurisdiction, actors, or causal relations.

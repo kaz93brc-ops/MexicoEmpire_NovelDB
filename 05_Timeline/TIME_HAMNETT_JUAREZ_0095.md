@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0095"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-18"
 tags: "timeline;hamnett;juarez;chapter2;1848-territory"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -60,6 +60,12 @@ Mexicoが国土の約半分をUnited Statesへ失った後も、共和国は依�
 - Printed page: 18-19
 - Archive page: /page/18/mode/2up; Page 18 (33/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.23.04.jpeg
+
+## Hamnett 1994 Map 1 p.282 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0144]] distinguishes the 1848 lost northern territory from the 1853 Gadsden Purchase strip.
+- Locator: p.282 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: no new 1848 or 1853 Timeline entry was created from the map alone.
 
 ## Evidence Notes
 

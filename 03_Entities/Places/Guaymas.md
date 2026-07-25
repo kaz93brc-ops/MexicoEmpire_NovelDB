@@ -36,3 +36,8 @@ Use as a Pacific port example of decentralized Liberal-side fiscal resources.
 - Related Fact Cards: [[FACT_HAMNETT_JUAREZ_1371]]
 - Events: [[Reform_War]]
 - Themes: [[War_Finance]], [[Federal_State_Tension]], [[State_Governors_Tutelage]]
+
+## Hamnett 1994 Index pp.290–291 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0148]]; `Guaymas (Sonora)` provides selected main-text locators.
+- Caution: place function, event role, and chronology require the cited narrative.

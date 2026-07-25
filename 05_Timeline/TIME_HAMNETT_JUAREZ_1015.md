@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_1015"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "連邦議会がJuárezを憲法上選出された大統領と宣言した。"
 creative_use: "合法手続きが反対派の不服と反乱へつながる転換点に使える。"
 related_capture: "CAP_HAMNETT_JUAREZ_0115"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Benito_Juarez", "Porfirio_Diaz", "Sebastian_Lerdo_De_Tejada"]
 events: []
 places: ["Mexico"]

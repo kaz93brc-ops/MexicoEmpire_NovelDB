@@ -3,7 +3,7 @@ id: "PERSON_FELIX_DIAZ"
 type: "person"
 status: "stub"
 created: "2026-07-06"
-updated: "2026-07-12"
+updated: "2026-07-16"
 tags:
   - "person"
   - "hamnett"
@@ -112,3 +112,24 @@ Hamnett pp.230-231 resolves the previous-page continuation by placing Félix Dí
 - Related Organizations: [[Juchitan_Communities|Juchitán communities]]
 - Related Themes: [[State_Violence|state violence]], [[Oaxaca_Politics|Oaxaca politics]], [[Catholic_Symbolism|Catholic symbolism]]
 - Cautions: Killing date, exact agency, body violence, and St Vincent compensation request require notes 13 and 15; keep juchitecos from being flattened into a criminalized group image.
+
+## Hamnett 1994 p.260 Chronology Cross-Reference
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0133]]
+- Existing Fact Card: [[FACT_HAMNETT_JUAREZ_2820]]
+- Existing Timeline Entries: [[TIME_HAMNETT_JUAREZ_1048]], [[TIME_HAMNETT_JUAREZ_1050]]
+- Cautions: The Chronology locator does not resolve the killing sequence or justify treating juchitecos as a single criminal organization.
+
+## Hamnett 1994 p.270 Dramatis Personae Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0138]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_3376]]
+- Related Timeline Entry: [[TIME_HAMNETT_JUAREZ_0992]]
+- Related People: [[Porfirio_Diaz|Porfirio Díaz]], [[Benito_Juarez|Benito Juárez]]
+- Related Themes: [[Oaxaca_Politics|Oaxaca politics]], [[Liberal_Factionalism|Liberal factionalism]]
+- Cautions: Confirm the sibling relationship and exact 1867-1871 gubernatorial term from independent records.
+
+## Hamnett 1994 Index pp.288–289 Locator
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0147]]; `Governor of Oaxaca` is retained as an Index locator phrase.
+- Caution: verify the office and dates from the cited main text or independent records; the Index alone is not a biographical claim.

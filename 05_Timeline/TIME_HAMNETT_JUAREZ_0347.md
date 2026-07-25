@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0347"
 type: "timeline_entry"
 status: "draft"
 created: "2026-06-28"
-updated: "2026-06-28"
+updated: "2026-07-18"
 tags: "timeline;hamnett;juarez;chapter4;constitution"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -55,6 +55,12 @@ related_fact_cards:
 - Printed page: pp.78-79
 - Archive page: /page/78/mode/2up; Page 78 (93/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.28.07.jpeg
+
+## Hamnett 1994 Map 2 p.283 Locator
+
+- [[CAP_HAMNETT_JUAREZ_0144]] supplies the 1857 state geography: central valley, Northern Highlands, Mixteca zones, south-west coast, and eastern Isthmus.
+- Locator: p.283 / `/page/282/mode/2up` / `スクリーンショット 2026-06-13 17.31.44.jpeg`.
+- Caution: the map does not itself prove constitutional reach or administrative uniformity.
 
 ## Evidence Notes
 

@@ -105,3 +105,12 @@ Hamnett pp.192-193 places Mejía among the three condemned prisoners, reports Ma
 - Related People: [[Maximilian]], [[Miguel_Miramon|Miguel Miramón]], [[Benito_Juarez|Benito Juárez]]
 - Related Events: [[Execution_Of_Maximilian_Miramon_And_Mejia|Execution of Maximilian, Miramón and Mejía]]
 - Cautions: Keep Mejía's final preparation and execution separate from generic Conservative characterization.
+
+## Hamnett 1994 p.276 Dramatis Personae Notes
+
+Hamnett connects Tomás Mejía's Conservative career to Otomí origin, Sierra Gorda militia structures, the Plan of Sierra Gorda, religious defense, Reform War combat, imperial recognition, and the 1867 execution.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0141]]
+- Related Fact Cards: [[FACT_HAMNETT_JUAREZ_3437]], [[FACT_HAMNETT_JUAREZ_3438]], [[FACT_HAMNETT_JUAREZ_3440]], [[FACT_HAMNETT_JUAREZ_2330]]
+- Related Place / Event: [[Sierra_Gorda|Sierra Gorda]], [[Execution_Of_Maximilian_Miramon_And_Mejia]]
+- Cautions: Plan date reads 2 December 1855 in the screenshot, not 27 December; religious motive remains interpretation-sensitive.

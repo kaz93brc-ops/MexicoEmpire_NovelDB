@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2740"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "得票数は全文表・数値列として保存せず、必要�
 creative_use: "合法的勝利が不完全で、議会決定へ移る政治的緊張に使える。"
 cautions: "Confirm vote totals, electoral college procedure, and the term-end context."
 related_capture: "CAP_HAMNETT_JUAREZ_0115"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Benito_Juarez", "Porfirio_Diaz", "Sebastian_Lerdo_De_Tejada"]
 events: []
 places: ["Mexico", "Oaxaca"]

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0181"
 type: "fact_card"
 status: "draft"
 created: "2026-06-21"
-updated: "2026-06-21"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;ayutla-liberal-reform"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -81,3 +81,10 @@ Hamnettは、Juan Álvarezとの密接な結合が、Santa Anna退去後にRevol
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0011]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0083]], [[TIME_HAMNETT_JUAREZ_0084]]
 
+## Hamnett 1994 p.268 Dramatis Personae Locator
+
+The Juan Álvarez entry reiterates his Guerrero caudillo role, identifies him with initiating the Ayutla Revolution in March 1854, and connects his brief 1855 presidency to later Liberal coordination during the French Intervention.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0083]], [[TIME_HAMNETT_JUAREZ_0306]]
+- Cautions: Confirm the precise liaison function and dates with Juárez's government before treating it as a formal office.

@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_0149"
 type: "fact_card"
 status: "draft"
 created: "2026-06-20"
-updated: "2026-06-20"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter1;nicolas-bravo;centralism"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -78,3 +78,10 @@ Vice-President Nicolás Bravoは、Mexicoにcentralismの一形態を課そう�
 - Related Capture: [[CAP_HAMNETT_JUAREZ_0009]]
 - Related Timeline Entries: [[TIME_HAMNETT_JUAREZ_0062]]
 
+## Hamnett 1994 p.269 Dramatis Personae Locator
+
+The Bravo entry connects his insurgent command and Plan of Iguala support to early republican executive service and later opposition to Vicente Guerrero. Existing early-republic cards are reused instead of creating planned Fact3360.
+
+- Capture: [[CAP_HAMNETT_JUAREZ_0137]]
+- Related Fact Card: [[FACT_HAMNETT_JUAREZ_0151]]
+- Cautions: Confirm Plan of Iguala participation and executive offices separately.

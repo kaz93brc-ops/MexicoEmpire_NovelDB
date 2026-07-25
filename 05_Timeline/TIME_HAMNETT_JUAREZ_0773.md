@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_0773"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-05"
-updated: "2026-07-05"
+updated: "2026-07-16"
 tags: "timeline;hamnett;juarez;chapter8"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -54,6 +54,10 @@ Maximilian appointed a Regency Council from Querétaro.
 - Printed page: p.187
 - Archive page: /page/186/mode/2up; Page 186 (201/323)
 - Screenshot file: スクリーンショット 2026-06-13 17.30.01.jpeg
+
+## Dramatis Personae Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0139|p.273]] places Lacunza in the broader imperial intellectual and ministerial elite; no new Council-of-Ministers Timeline was created pending office-date verification.
 
 ## Evidence Notes
 

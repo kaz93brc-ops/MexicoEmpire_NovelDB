@@ -3,7 +3,7 @@ id: "FACT_HAMNETT_JUAREZ_2744"
 type: "fact_card"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "fact-card;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -27,6 +27,8 @@ japanese_note: "Plan本文、公布機関、署名者、印刷媒体は要確認
 creative_use: "州政府が反乱文書を公表する制度的反抗の場面に使える。"
 cautions: "Use [[La_Noria_Rebellion|Plan of La Noria]] because Plan of La Noria is an alias under the rebellion event, not a separate local stem."
 related_capture: "CAP_HAMNETT_JUAREZ_0115"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Felix_Diaz", "Porfirio_Diaz", "Benito_Juarez"]
 events: ["La_Noria_Rebellion"]
 places: ["Oaxaca"]

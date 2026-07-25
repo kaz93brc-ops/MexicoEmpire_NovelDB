@@ -3,7 +3,7 @@ id: "TIME_HAMNETT_JUAREZ_1056"
 type: "timeline_entry"
 status: "draft"
 created: "2026-07-12"
-updated: "2026-07-12"
+updated: "2026-07-15"
 tags: "timeline;hamnett;juarez;chapter10"
 source_id: "SRC_HAMNETT_1994_JUAREZ"
 source_title: "Juárez"
@@ -26,6 +26,8 @@ verification_needed: "yes"
 event_summary: "RochaがAguascalientes攻略の3日後にZacatecas反乱軍を破る。"
 creative_use: "日付確定前は、Rochaの連続勝利として軍事テンポを示す用途に留める。"
 related_capture: "CAP_HAMNETT_JUAREZ_0118"
+additional_related_captures: ["CAP_HAMNETT_JUAREZ_0133"]
+additional_locators: ["Chronology, p.260, /page/260/mode/2up, Page 260 (275/323), スクリーンショット 2026-06-13 17.31.16.jpeg"]
 people: ["Sostenes_Rocha"]
 events: ["La_Noria_Rebellion"]
 places: ["Zacatecas"]

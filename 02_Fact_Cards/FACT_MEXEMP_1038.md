@@ -3,7 +3,7 @@ id: "FACT_MEXEMP_1038"
 type: "fact_card"
 status: "draft"
 created: "2026-06-03"
-updated: "2026-06-03"
+updated: "2026-07-16"
 tags:
   - "fact-card"
   - "chapter2"
@@ -74,3 +74,7 @@ themes:
 - Themes: 独立記念日, 自由派史観, 国民記憶
 - Related Timeline Entries: [[TIME_MEXEMP_0163]]
 
+## Hamnett Cross-Reference
+
+- [[CAP_HAMNETT_JUAREZ_0139|Hamnett, Dramatis Personae p.272]] also places Miguel Hidalgo y Costilla at the 1810 insurgent opening.
+- Planned `FACT_HAMNETT_JUAREZ_3397` was not created because this card already preserves the independence-origin claim; Hamnett's locator is retained here for comparison.
