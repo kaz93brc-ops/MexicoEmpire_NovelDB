@@ -18,17 +18,23 @@ tags:
 1. Source Noteを作る。
    - 場所: `01_Sources/Source_Notes/`
    - テンプレート: [[90_Templates/Source Note|Source Note]]
-2. 読書中のメモをCapture Noteに入れる。
+2. 書籍は章別要約を作る。
+   - 場所: `01_Sources/Chapter_Summaries/`
+   - テンプレート: [[90_Templates/Book Chapter Summary|Book Chapter Summary]]
+   - Source NoteにはBook Overviewと章別ノートへの目次を置く。
+3. 読書中のメモをCapture Noteに入れる。
    - 場所: `00_Inbox/Captures/` または `01_Sources/Captures/`
    - テンプレート: [[90_Templates/Capture Note|Capture Note]]
-3. 1主張ずつFact Cardに切り出す。
+4. 1主張ずつFact Cardに切り出す。
    - 場所: `02_Fact_Cards/`
    - テンプレート: [[90_Templates/Fact Card|Fact Card]]
-4. 日付を持つ主張はTimeline Entryにも整理する。
+5. 日付を持つ主張はTimeline Entryにも整理する。
    - 場所: `05_Timeline/`
    - テンプレート: [[90_Templates/Timeline Entry|Timeline Entry]]
-5. 人物・事件・場所・組織・テーマへリンクする。
+6. 人物・事件・場所・組織・テーマへリンクする。
    - 場所: `03_Entities/` と `04_Events/`
+
+`coverage_status: complete`は対象章のページ範囲がCapture Noteで揃っていることだけを示し、一次史料照合済みを意味しません。
 
 ## CSV投入
 

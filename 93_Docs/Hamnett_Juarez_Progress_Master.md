@@ -35,6 +35,7 @@ Brian R. Hamnett, *Juárez* の読み取り進捗を管理する。Hamnett本文
 | source_title | Juárez |
 | author | Brian R. Hamnett |
 | first_capture | `CAP_HAMNETT_JUAREZ_0001` |
+| chapter_summary_layer | [[CHSUM_HAMNETT_JUAREZ_01]]-[[CHSUM_HAMNETT_JUAREZ_10]] と [[CHSUM_HAMNETT_JUAREZ_CONCLUSION]] の11件。Chapter 1はpp.2-3、Chapter 7はpp.146-147欠落のため`partial`、他はページcoverage上`complete`。 |
 | fact_ids_added | 3,010 Hamnett Fact cards present; highest existing `FACT_HAMNETT_JUAREZ_3484`; highest allocated `FACT_HAMNETT_JUAREZ_3503` is retired; retired / held / unused IDs are not reusable; next planned `FACT_HAMNETT_JUAREZ_3504` |
 | timeline_ids_added | 928 Hamnett Timeline entries present; maximum `TIME_HAMNETT_JUAREZ_1272`; gaps are held / unused and are not reusable; no new Timeline ID in CAP0152 |
 | latest_batch_fact_ids | none; held planned `FACT_HAMNETT_JUAREZ_3504` because Index hierarchy, cross-page continuity, and selected reference routes are sufficient in the Capture Note and existing-card locators |
