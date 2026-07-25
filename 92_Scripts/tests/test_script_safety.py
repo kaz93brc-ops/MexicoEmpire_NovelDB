@@ -166,6 +166,60 @@ class VaultMaintenanceTests(unittest.TestCase):
         self.assertEqual(parsed["people"], ["Benito_Juarez"])
         self.assertEqual(parsed["themes"], ["Liberalism", "Constitutionalism"])
 
+    def test_chapter_summary_metadata_review_detects_invalid_and_duplicate_records(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            chapter_dir = root / "01_Sources" / "Chapter_Summaries"
+            chapter_dir.mkdir(parents=True)
+            common = "\n".join(
+                [
+                    "---",
+                    "type: book_chapter_summary",
+                    "status: active",
+                    "source_id: SRC_TEST",
+                    'chapter_number: "1"',
+                    'chapter_order: "1"',
+                    'chapter_title: "Test"',
+                    'chapter_title_ja: "テスト"',
+                    'printed_pages: "1-2"',
+                    "capture_start: CAP_TEST_0001",
+                    "capture_end: CAP_TEST_0002",
+                    'coverage_notes: "Checked."',
+                    "---",
+                    "",
+                    "# Test",
+                ]
+            )
+            (chapter_dir / "CHSUM_TEST_01.md").write_text(
+                common.replace("status: active", "id: CHSUM_TEST_01\nstatus: active").replace(
+                    'coverage_notes: "Checked."',
+                    'coverage_status: complete\ncoverage_notes: "Checked."',
+                ),
+                encoding="utf-8",
+            )
+            (chapter_dir / "CHSUM_TEST_DUPLICATE.md").write_text(
+                common.replace(
+                    "status: active",
+                    "id: CHSUM_TEST_DUPLICATE\nstatus: active",
+                ).replace(
+                    'coverage_notes: "Checked."',
+                    'coverage_status: unknown\ncoverage_notes: "Checked."',
+                ),
+                encoding="utf-8",
+            )
+
+            old_root = vault_maintenance.ROOT
+            try:
+                vault_maintenance.ROOT = root
+                issues = vault_maintenance.chapter_summary_metadata_issues()
+            finally:
+                vault_maintenance.ROOT = old_root
+
+            self.assertEqual(issues["notes_checked"], ["2"])
+            self.assertEqual(len(issues["invalid_coverage_status"]), 1)
+            self.assertEqual(len(issues["duplicate_source_chapter_order"]), 1)
+            self.assertNotIn("missing_required", issues)
+
 
 class ReclassifyGeneratedNotesTests(unittest.TestCase):
     def test_no_report_does_not_create_report_dir(self) -> None:

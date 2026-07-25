@@ -14,6 +14,21 @@ TODAY = datetime.now().date().isoformat()
 WIKI_RE = re.compile(r"(?<![!\\])\[\[([^\]\n]+?)\]\]")
 FENCED_CODE_RE = re.compile(r"^```.*?^```", re.M | re.S)
 REPLACEMENT_CHAR = "\ufffd"
+CHAPTER_SUMMARY_REQUIRED_FIELDS = (
+    "id",
+    "type",
+    "source_id",
+    "chapter_number",
+    "chapter_order",
+    "chapter_title",
+    "chapter_title_ja",
+    "printed_pages",
+    "capture_start",
+    "capture_end",
+    "coverage_status",
+    "coverage_notes",
+)
+CHAPTER_SUMMARY_COVERAGE_STATUSES = {"complete", "partial", "not_started"}
 
 AUDIT_DIR = ROOT / "08_Outputs" / "Audits"
 INDEX_DIR = ROOT / "08_Outputs" / "Indexes"
@@ -1229,6 +1244,11 @@ def write_indexes(notes_by_stem: dict[str, Note], dry_run: bool) -> int:
         for note in (read_note(p) for p in (ROOT / "01_Sources").rglob("*.md") if p.name != "README.md")
         if not is_example_note(note)
     ]
+    source_records = [note for note in source_notes if note.type == "source_note"]
+    chapter_summaries = [note for note in source_notes if note.type == "book_chapter_summary"]
+    capture_records = [note for note in source_notes if note.type in {"capture", "capture_note"}]
+    categorized_paths = {note.path for note in source_records + chapter_summaries + capture_records}
+    other_source_records = [note for note in source_notes if note.path not in categorized_paths]
     source_lines = [
         "---",
         'id: "Index_Sources"',
@@ -1245,12 +1265,46 @@ def write_indexes(notes_by_stem: dict[str, Note], dry_run: bool) -> int:
         "",
         "## Summary",
         "",
-        f"- Source/Capture notes: {len(source_notes)}",
+        f"- Source notes: {len(source_records)}",
+        f"- Book chapter summaries: {len(chapter_summaries)}",
+        f"- Capture notes: {len(capture_records)}",
+        f"- Other source records: {len(other_source_records)}",
         "",
-        "## Sources",
+        "## Source Notes",
         "",
     ]
-    for note in sorted(source_notes, key=lambda item: item.stem.casefold()):
+    for note in sorted(source_records, key=lambda item: (item.title.casefold(), item.stem.casefold())):
+        source_lines.append(f"- {wiki_link(note)}")
+
+    source_lines.extend(["", "## Book Chapter Summaries", ""])
+    summaries_by_source: dict[str, list[Note]] = defaultdict(list)
+    for note in chapter_summaries:
+        source_id = str(note.frontmatter.get("source_id", "")).strip('"') or "(missing source_id)"
+        summaries_by_source[source_id].append(note)
+    for source_id in sorted(summaries_by_source, key=str.casefold):
+        source_lines.append(f"### {source_link(source_id, notes_by_stem)}")
+        source_lines.append("")
+        ordered = sorted(
+            summaries_by_source[source_id],
+            key=lambda item: (
+                int(str(item.frontmatter.get("chapter_order", "999999")).strip('"'))
+                if str(item.frontmatter.get("chapter_order", "")).strip('"').isdigit()
+                else 999999,
+                item.stem.casefold(),
+            ),
+        )
+        for note in ordered:
+            pages = str(note.frontmatter.get("printed_pages", "")).strip('"')
+            coverage = str(note.frontmatter.get("coverage_status", "")).strip('"')
+            source_lines.append(f"- {wiki_link(note)} - pp. {pages} - `{coverage}`")
+        source_lines.append("")
+
+    source_lines.extend(["## Capture Notes", ""])
+    for note in sorted(capture_records, key=lambda item: item.stem.casefold()):
+        source_lines.append(f"- {wiki_link(note)}")
+
+    source_lines.extend(["", "## Other Source Records", ""])
+    for note in sorted(other_source_records, key=lambda item: item.stem.casefold()):
         source_lines.append(f"- {wiki_link(note)}")
     if not dry_run:
         (INDEX_DIR / "Index_Sources.md").write_text("\n".join(source_lines) + "\n", encoding="utf-8", newline="\n")
@@ -1363,12 +1417,99 @@ def files_with_replacement_char() -> list[Path]:
     return paths
 
 
+def chapter_summary_metadata_issues() -> dict[str, list[str]]:
+    issues: dict[str, list[str]] = defaultdict(list)
+    chapter_dir = ROOT / "01_Sources" / "Chapter_Summaries"
+    if not chapter_dir.exists():
+        return issues
+
+    notes: list[Note] = []
+    for path in chapter_dir.glob("*.md"):
+        if path.name == "README.md":
+            continue
+        note = read_note(path)
+        notes.append(note)
+    order_map: dict[tuple[str, str], list[Note]] = defaultdict(list)
+    for note in notes:
+        if note.type != "book_chapter_summary":
+            issues["invalid_note_type"].append(f"{note.rel}: {note.type or '(missing)'}")
+        for field in CHAPTER_SUMMARY_REQUIRED_FIELDS:
+            value = note.frontmatter.get(field, "")
+            if not str(value).strip().strip('"'):
+                issues["missing_required"].append(f"{note.rel}: {field}")
+
+        coverage = str(note.frontmatter.get("coverage_status", "")).strip('"')
+        if coverage and coverage not in CHAPTER_SUMMARY_COVERAGE_STATUSES:
+            issues["invalid_coverage_status"].append(f"{note.rel}: {coverage}")
+
+        source_id = str(note.frontmatter.get("source_id", "")).strip('"')
+        chapter_order = str(note.frontmatter.get("chapter_order", "")).strip('"')
+        if source_id and chapter_order:
+            order_map[(source_id, chapter_order)].append(note)
+
+    for (source_id, chapter_order), grouped_notes in order_map.items():
+        if len(grouped_notes) > 1:
+            paths = ", ".join(note.rel for note in grouped_notes)
+            issues["duplicate_source_chapter_order"].append(
+                f"{source_id} / {chapter_order}: {paths}"
+            )
+    issues["notes_checked"] = [str(len(notes))]
+    return issues
+
+
+def write_chapter_summary_metadata_review(dry_run: bool) -> Path:
+    issues = chapter_summary_metadata_issues()
+    path = AUDIT_DIR / "Chapter_Summary_Metadata_Review.md"
+    notes_checked = int(issues.get("notes_checked", ["0"])[0])
+    lines = [
+        "---",
+        'id: "CHAPTER-SUMMARY-METADATA-REVIEW"',
+        'type: "audit_report"',
+        'status: "active"',
+        f'created: "{TODAY}"',
+        "tags:",
+        '  - "audit"',
+        '  - "chapter-summary"',
+        "---",
+        "",
+        "# Chapter Summary Metadata Review",
+        "",
+        "## Summary",
+        "",
+        f"- Notes checked: {notes_checked}",
+        f"- Missing required fields: {len(issues.get('missing_required', []))}",
+        f"- Invalid note type: {len(issues.get('invalid_note_type', []))}",
+        f"- Invalid coverage status: {len(issues.get('invalid_coverage_status', []))}",
+        f"- Duplicate source/chapter order: {len(issues.get('duplicate_source_chapter_order', []))}",
+        "",
+    ]
+    for key, heading in (
+        ("missing_required", "Missing Required Fields"),
+        ("invalid_note_type", "Invalid Note Type"),
+        ("invalid_coverage_status", "Invalid Coverage Status"),
+        ("duplicate_source_chapter_order", "Duplicate Source / Chapter Order"),
+    ):
+        lines.extend([f"## {heading}", ""])
+        values = issues.get(key, [])
+        lines.extend(f"- `{value}`" for value in values)
+        if not values:
+            lines.append("- None")
+        lines.append("")
+    while lines and not lines[-1]:
+        lines.pop()
+    if not dry_run:
+        AUDIT_DIR.mkdir(parents=True, exist_ok=True)
+        path.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
+    return path
+
+
 def validation_snapshot(notes_by_stem: dict[str, Note]) -> dict[str, int]:
     backlinks = collect_backlinks(notes_by_stem)
     entity_notes = [read_note(p) for p in (ROOT / "03_Entities").rglob("*.md")]
     timeline_notes = [read_note(p) for p in (ROOT / "05_Timeline").glob("*.md") if p.name != "README.md"]
     stubs = [note for note in entity_notes if is_generated_stub(note)]
     missing = missing_fact_metadata()
+    chapter_issues = chapter_summary_metadata_issues()
     return {
         "markdown_files": len(markdown_files(include_outputs=True)),
         "entity_notes": len(entity_notes),
@@ -1389,6 +1530,13 @@ def validation_snapshot(notes_by_stem: dict[str, Note]) -> dict[str, int]:
             )
         ),
         "fact_locator_missing": len(missing.get("locator_missing", [])),
+        "chapter_summaries": int(chapter_issues.get("notes_checked", ["0"])[0]),
+        "chapter_summary_missing_required": len(chapter_issues.get("missing_required", [])),
+        "chapter_summary_invalid_note_type": len(chapter_issues.get("invalid_note_type", [])),
+        "chapter_summary_invalid_coverage_status": len(chapter_issues.get("invalid_coverage_status", [])),
+        "chapter_summary_duplicate_source_chapter_order": len(
+            chapter_issues.get("duplicate_source_chapter_order", [])
+        ),
         "markdown_files_with_replacement_char": len(files_with_replacement_char()),
     }
 
@@ -1476,9 +1624,11 @@ def run(dry_run: bool, phase: str = "all") -> dict[str, int | str]:
         actions["indexes_written"] = write_indexes(notes, dry_run=dry_run)
         review_path = write_fact_metadata_review(dry_run=dry_run)
         printed_page_candidates_path = write_printed_page_candidates(notes, dry_run=dry_run, limit=200)
+        chapter_summary_review_path = write_chapter_summary_metadata_review(dry_run=dry_run)
     else:
         review_path = AUDIT_DIR / "Fact_Card_Metadata_Review.md"
         printed_page_candidates_path = AUDIT_DIR / "Printed_Page_Verification_Candidates.md"
+        chapter_summary_review_path = AUDIT_DIR / "Chapter_Summary_Metadata_Review.md"
 
     if phase in {"all", "stub-expansion"}:
         actions["writing_views_written"] = write_writing_views(notes, dry_run=dry_run)
@@ -1502,6 +1652,7 @@ def run(dry_run: bool, phase: str = "all") -> dict[str, int | str]:
     result: dict[str, int | str] = {**actions, **snapshot}
     result["fact_card_review"] = str(review_path)
     result["printed_page_candidates"] = str(printed_page_candidates_path)
+    result["chapter_summary_review"] = str(chapter_summary_review_path)
     result["stub_priority_review"] = str(stub_review_path)
     result["example_records"] = str(example_records_path)
     result["hamnett_readiness"] = str(hamnett_readiness_path)

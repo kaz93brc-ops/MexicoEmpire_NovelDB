@@ -2,8 +2,8 @@
 id: "Index_Sources"
 type: "index_note"
 status: "active"
-created: "2026-07-19"
-updated: "2026-07-19"
+created: "2026-07-25"
+updated: "2026-07-25"
 tags:
   - "index"
   - "sources"
@@ -13,9 +13,41 @@ tags:
 
 ## Summary
 
-- Source/Capture notes: 265
+- Source notes: 10
+- Book chapter summaries: 11
+- Capture notes: 252
+- Other source records: 6
 
-## Sources
+## Source Notes
+
+- [[SRC_ARCH_AGEO_DIVERSOS_HISTORICOS|Archivo del Estado de Oaxaca, Diversos Históricos]]
+- [[SRC_ARCH_AGEO_FJ|Archivo del Estado de Oaxaca, Fondo Juárez]]
+- [[SRC_ARCH_AGN_MEXICO|Archivo General de la Nación]]
+- [[SRC_ARCH_ARCHIVO_JUAREZ_MS_J_SUPPL|Archivo Juárez, MS J Suppl.]]
+- [[SRC_REF_BJDOCS_TAMAYO|Benito Juárez. Documentos, discursos y correspondencia]]
+- [[SRC_ARCH_BEO_CMMG|Biblioteca del Estado de Oaxaca, Colección Manuel Martínez Gracida]]
+- [[SRC_REF_VAZQUEZ_MANTECON_1986_SANTA_ANNA_DICTATORSHIP|Carmen Vázquez Mantecón 1986 Santa Anna dictatorship study]]
+- [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
+- [[SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO|The Last Emperor of Mexico: A Disaster in the New World]]
+- [[SRC_UNSET_001|The Last Emperor of Mexico: A Disaster in the New World]]
+
+## Book Chapter Summaries
+
+### [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
+
+- [[CHSUM_HAMNETT_JUAREZ_01|Chapter 1 — Nineteenth-Century Mexico: The World of Juárez]] - pp. 1-17 - `partial`
+- [[CHSUM_HAMNETT_JUAREZ_02|Chapter 2 — The Provincial Origins: Juárez and Oaxaca]] - pp. 18-48 - `complete`
+- [[CHSUM_HAMNETT_JUAREZ_03|Chapter 3 — Juárez and Liberalism]] - pp. 49-70 - `complete`
+- [[CHSUM_HAMNETT_JUAREZ_04|Chapter 4 — Juárez, the Constitution of 1857, and the Collapse of the Liberal Regime]] - pp. 71-85 - `complete`
+- [[CHSUM_HAMNETT_JUAREZ_05|Chapter 5 — Juárez and the Catholic Church]] - pp. 86-115 - `complete`
+- [[CHSUM_HAMNETT_JUAREZ_06|Chapter 6 — Juárez and the State Governors]] - pp. 116-144 - `complete`
+- [[CHSUM_HAMNETT_JUAREZ_07|Chapter 7 — Juárez and the United States]] - pp. 145-165 - `partial`
+- [[CHSUM_HAMNETT_JUAREZ_08|Chapter 8 — Juárez and the European Powers]] - pp. 166-197 - `complete`
+- [[CHSUM_HAMNETT_JUAREZ_09|Chapter 9 — The Last Period of Juárez: Party, Constitution and Power]] - pp. 198-219 - `complete`
+- [[CHSUM_HAMNETT_JUAREZ_10|Chapter 10 — Juárez, the Díaz Brothers and the Rebellion of La Noria]] - pp. 220-235 - `complete`
+- [[CHSUM_HAMNETT_JUAREZ_CONCLUSION|Conclusion]] - pp. 236-243 - `complete`
+
+## Capture Notes
 
 - [[CAP_HAMNETT_JUAREZ_0001]]
 - [[CAP_HAMNETT_JUAREZ_0002]]
@@ -162,6 +194,9 @@ tags:
 - [[CAP_HAMNETT_JUAREZ_0146]]
 - [[CAP_HAMNETT_JUAREZ_0147]]
 - [[CAP_HAMNETT_JUAREZ_0148]]
+- [[CAP_HAMNETT_JUAREZ_0149]]
+- [[CAP_HAMNETT_JUAREZ_0151]]
+- [[CAP_HAMNETT_JUAREZ_0152]]
 - [[CAP_MEXEMP_0001_Prologue_Queretaro_Prisoners|CAP_MEXEMP_0001 - Prologue: Querétaro prisoners]]
 - [[CAP_MEXEMP_0002_Chapter2_Archduke_and_Princess_01|CAP_MEXEMP_0002 - Chapter 2: The Archduke and the Princess, screenshot 01]]
 - [[CAP_MEXEMP_0003_Chapter2_Archduke_and_Princess_02|CAP_MEXEMP_0003 - Chapter 2: The Archduke and the Princess, screenshot 02]]
@@ -266,19 +301,12 @@ tags:
 - [[CAP_MEXEMP_0105]]
 - [[CAP_MEXEMP_0106]]
 - [[CAP_MEXEMP_0107]]
+
+## Other Source Records
+
 - [[notes_translation_0107|NOTES翻訳記録：107枚目]]
 - [[notes_translation_0108|NOTES翻訳記録：108枚目]]
 - [[notes_translation_0110|NOTES翻訳記録：110枚目]]
 - [[notes_translation_0111|NOTES翻訳記録：111枚目]]
 - [[notes_translation_0112|NOTES翻訳記録：112枚目]]
 - [[notes_translation_0113|NOTES翻訳記録：113枚目]]
-- [[SRC_ARCH_AGEO_DIVERSOS_HISTORICOS|Archivo del Estado de Oaxaca, Diversos Históricos]]
-- [[SRC_ARCH_AGEO_FJ|Archivo del Estado de Oaxaca, Fondo Juárez]]
-- [[SRC_ARCH_AGN_MEXICO|Archivo General de la Nación]]
-- [[SRC_ARCH_ARCHIVO_JUAREZ_MS_J_SUPPL|Archivo Juárez, MS J Suppl.]]
-- [[SRC_ARCH_BEO_CMMG|Biblioteca del Estado de Oaxaca, Colección Manuel Martínez Gracida]]
-- [[SRC_HAMNETT_1994_JUAREZ|Juárez]]
-- [[SRC_REF_BJDOCS_TAMAYO|Benito Juárez. Documentos, discursos y correspondencia]]
-- [[SRC_REF_VAZQUEZ_MANTECON_1986_SANTA_ANNA_DICTATORSHIP|Carmen Vázquez Mantecón 1986 Santa Anna dictatorship study]]
-- [[SRC_SHAWCROSS_2022_LAST_EMPEROR_MEXICO|The Last Emperor of Mexico: A Disaster in the New World]]
-- [[SRC_UNSET_001|The Last Emperor of Mexico: A Disaster in the New World]]

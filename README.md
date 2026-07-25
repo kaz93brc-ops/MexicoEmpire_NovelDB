@@ -50,6 +50,7 @@ MexicoEmpire_NovelDB/
   00_Inbox/                  一時メモ、未整理capture
   01_Sources/                Source Noteと整理済みCapture Noteの出典管理
     Captures/                整理済みCapture Note
+    Chapter_Summaries/       書籍の章別論旨・内容構成・検証状況
   02_Fact_Cards/             1カード1主張のFact Card
   03_Entities/
     People/                  人物ノート
@@ -74,6 +75,7 @@ MexicoEmpire_NovelDB/
 | type | 用途 |
 | --- | --- |
 | `source_note` | 書籍、論文、史料集、アーカイブ資料などの出典単位 |
+| `book_chapter_summary` | 書籍1章の論旨、内容の流れ、ページcoverage、検証状況 |
 | `capture_note` | 読書・閲覧時に作った短い要約と抽出候補 |
 | `fact_card` | 1つの主張、根拠、信頼度、創作利用メモ |
 | `person` | 人物の概要、関係、登場シーン候補 |
@@ -105,13 +107,14 @@ Fact CardとTimeline Entryでは、次のように分類してください。
 ## 推奨ワークフロー
 
 1. `01_Sources/Source_Notes/` にSource Noteを作る。
-2. 読書中の未整理メモは `00_Inbox/Captures/` に一時保存する。
-3. 出典位置を確認した整理済みCapture Noteは `01_Sources/Captures/` に保存する。
-4. Capture Noteから、1主張ずつ `02_Fact_Cards/` にFact Cardを作る。
-5. Fact Cardから `People`、`Events`、`Places`、`Organizations`、`Themes` へリンクする。
-6. 日付を持つFact Cardは `05_Timeline/` にTimeline Entryとして整理する。
-7. 創作用の仮説や場面案は `06_Scenes/` に分離し、史実と混ぜない。
-8. 未確認事項は `07_Questions/` に残し、解決時にFact Cardへリンクする。
+2. 書籍はSource NoteにBook OverviewとChapter Guideを置き、各章を`01_Sources/Chapter_Summaries/`の章別ノートへまとめる。
+3. 読書中の未整理メモは `00_Inbox/Captures/` に一時保存する。
+4. 出典位置を確認した整理済みCapture Noteは `01_Sources/Captures/` に保存する。
+5. Capture Noteから、1主張ずつ `02_Fact_Cards/` にFact Cardを作る。
+6. Fact Cardから `People`、`Events`、`Places`、`Organizations`、`Themes` へリンクする。
+7. 日付を持つFact Cardは `05_Timeline/` にTimeline Entryとして整理する。
+8. 創作用の仮説や場面案は `06_Scenes/` に分離し、史実と混ぜない。
+9. 未確認事項は `07_Questions/` に残し、解決時にFact Cardへリンクする。
 
 ## CSV変換
 

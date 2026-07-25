@@ -43,6 +43,28 @@ rights_note: "Do not store full text. Use only short citation excerpts when nece
 - Language: English
 - Digital location: archive.org/details/juarez0000hamn
 
+## Book Overview
+
+HamnettはJuárezを単独の国民英雄としてではなく、19世紀メキシコの国家形成、地方政治、自由主義、教会、米国・欧州列強との関係の中で分析する。Oaxacaで形成された法曹政治家が、改革戦争とFrench Interventionを通じて共和国の正統性を担い、晩年には自由派内部の反対と再選問題に直面し、死後に「憲法と法」の国民的象徴へ変えられた過程を描く。
+
+## Chapter Guide
+
+`coverage_status`は章本文のCapture範囲を示し、一次史料照合済みを意味しない。各章の論旨、内容の流れ、著者解釈、検証状況はリンク先の章別ノートに集約する。
+
+| Order | Chapter | Printed pages | One-line argument | Coverage |
+| --- | --- | --- | --- | --- |
+| 1 | [[CHSUM_HAMNETT_JUAREZ_01|Nineteenth-Century Mexico: The World of Juárez]] | 1-17 | Juárezを地政学・立憲主義・地方分裂・人的政治の中へ置く。 | `partial` — pp.2-3未確認 |
+| 2 | [[CHSUM_HAMNETT_JUAREZ_02|The Provincial Origins: Juárez and Oaxaca]] | 18-48 | Oaxacaの社会、教育、州統治、Isthmus危機から政治形成を描く。 | `complete` |
+| 3 | [[CHSUM_HAMNETT_JUAREZ_03|Juárez and Liberalism]] | 49-70 | 市民国家、Ayutla、改革法、自由派分裂と土地問題を分析する。 | `complete` |
+| 4 | [[CHSUM_HAMNETT_JUAREZ_04|Juárez, the Constitution of 1857, and the Collapse of the Liberal Regime]] | 71-85 | 1857年憲法の制度的矛盾とJuárezの正統な継承を扱う。 | `complete` |
+| 5 | [[CHSUM_HAMNETT_JUAREZ_05|Juárez and the Catholic Church]] | 86-115 | 教会特権、改革法、内戦、世俗化を単純な反宗教論から切り離す。 | `complete` |
+| 6 | [[CHSUM_HAMNETT_JUAREZ_06|Juárez and the State Governors]] | 116-144 | 州知事を共和国の支援基盤かつ中央権力の競争者として描く。 | `complete` |
+| 7 | [[CHSUM_HAMNETT_JUAREZ_07|Juárez and the United States]] | 145-165 | 共和国の生存と非対称な対米関係を同時に検討する。 | `partial` — pp.146-147未確認 |
+| 8 | [[CHSUM_HAMNETT_JUAREZ_08|Juárez and the European Powers]] | 166-197 | French Intervention、帝国崩壊、Maximilian処刑を主権問題として扱う。 | `complete` |
+| 9 | [[CHSUM_HAMNETT_JUAREZ_09|The Last Period of Juárez: Party, Constitution and Power]] | 198-219 | 共和国復活後の財政、憲法改革、地方反乱、土地問題を追う。 | `complete` |
+| 10 | [[CHSUM_HAMNETT_JUAREZ_10|Juárez, the Díaz Brothers and the Rebellion of La Noria]] | 220-235 | 再選、Díaz兄弟、La Noria反乱、Juárezの死を分析する。 | `complete` |
+| 11 | [[CHSUM_HAMNETT_JUAREZ_CONCLUSION|Conclusion]] | 236-243 | 現実的な戦術家Juárezと死後の国民的聖人化を総括する。 | `complete` |
+
 ## Scope
 
 Brian R. Hamnett著 *Juárez* の小説執筆用史料整理カード。本文の全文、長文引用、全文翻訳は保存せず、出典位置つきの要約、短い原文メモ、Fact Card、Timeline Entryに限定する。
